@@ -1,0 +1,435 @@
+\documentclass[11pt]{book} 
+%\usepackage[utf8]{inputenc} % Required for inputting international characters
+\usepackage{tempora}
+\usepackage[english, ukrainian]{babel}
+\usepackage[T2A]{fontenc} % Output font encoding for international characters
+\usepackage{cuisine}
+
+\usepackage{polyglossia}
+\setdefaultlanguage{english}
+\setotherlanguages{ukrainian}
+ 
+\newfontfamily{\cyrillicfont}{Noto Serif}
+\newfontfamily{\cyrillicfonttt}{Noto Mono}
+\newfontfamily{\cyrillicfontsf}{Noto Sans Mono}
+
+% Customisations
+\usepackage{parskip}
+
+\usepackage{tocloft}% to configure the ToC <<<<<
+\setlength{\cftchapnumwidth}{4ex}% set the width to the section number in the ToC <<<<<
+
+\usepackage[multiple]{footmisc}
+
+% Flags: https://www.flaticon.com/packs/flags-collection?word=flags
+\input{flags.tex}
+
+\usepackage{multicol}
+\usepackage{longtable}
+
+%\newcommand{\publishingdate}{\today}
+\newcommand{\publishingdate}{August 2024}
+\newcommand{\publishingversion}{PDF Version}
+%\newcommand{\publishingversion}{Printed Version}
+\newcommand{\isbn}{123-45-67890-12-8} % Correct checksum required -8
+
+\usepackage[ISBN=\isbn,SC0]{ean13isbn}
+%\usepackage[ISBN=978-80-85955-35-4,SC0]{ean13isbn}
+%\EANisbn[SC3]
+
+\title{
+The Leaf Spring Army\\
+Cookbook
+}
+\author{International Edition}
+\date{\publishingdate}
+
+\makeindex
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+\pagecolor{teal}
+
+\newgeometry{top=5mm,bottom=5mm,left=5mm,right=5mm}
+
+%\maketitle
+\begin{flushright}
+\isbn
+\end{flushright}
+
+\begin{center}
+\begin{minipage}[b]{12cm}
+\begin{center}
+\vspace{10mm}
+\includegraphics[width=0.4 \paperwidth,height=0.4 \paperheight]{Pictures/other/lsa-eagle-black.png} \\
+{\Large The Leaf Spring Army}\\
+\vspace{5mm} 
+{\Huge Cookbook}\\
+\vspace{20mm}
+{\Large International Edition}\\
+\vspace{5mm} 
+{\Large \publishingdate}
+\end{center}
+\end{minipage}
+
+\vfill
+
+Unclassified
+
+\end{center}
+
+\restoregeometry
+\nopagecolor
+
+\newpage
+
+%\pagecolor{lightblue}
+
+\textbf{Dedication}
+
+This Cookbook is dedicated to all the people of Ukraine, as they fight to repel the 
+illegal Russian invaders from their country.
+
+\textbf{\textit{Slava Ukraini!} \UKR}
+
+\vfill
+\begin{center}
+\textbf{\textit{--- --- DRAFT --- --- \\
+This is a pre-release draft revision. \\
+Comments, edits and suggestions Welcome! \\
+(This text will go away in the final version.) \\
+--- --- DRAFT --- ---}}    
+\end{center}
+
+\vfill
+\textbf{Disclaimer}
+
+This book has been produced for entertainment purposes. Readers are advised that while the 
+recipes published here may result in tasty and edible food, the application of
+discretion and common sense is advised.
+
+\vspace{5mm}
+{\tiny
+\textbf{About this Book}
+
+\begin{tabular}{l l}
+Title:     & The Leaf Spring Army Cookbook, International Edition \\
+Author(s): & @The Enforcer, @EnforcerMatt and The Leaf Spring Army \\
+Editor:    & @Paul Schulz \\
+Publisher: & The Enforcer Media Group \\
+Version:   & \publishingversion, \publishingdate \\
+ISBN:      & \isbn \\
+\end{tabular}
+
+First Edition
+
+This book was typeset using Overleaf and the \LaTeX\ type setting system, 
+using the ``cuisine.sty'' layout file with the Montserrat font family.
+
+Copyright \textcopyright Enforcer Media Group 2024 
+
+This book is copyright. Images are used under license.
+}
+
+\clearpage
+
+\tableofcontents
+%\pagecolor{ocre}
+%\chapter{Tartes}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part{Introduction}
+
+\textbf{From the Editor}
+
+It has been said\footnote{attributed to Napoleon Bonaparte} that an army marches on it's stomach. 
+The Leaf Spring Army Cookbook has been has been prepared to keep the 
+LSA marching on. (The Leaf Spring Army will never die!)
+
+In these pages you will find recipes from members of the LSA community. 
+They may be a favourite Ukrainian recipe,
+or a recipe that means something special from their own family and community.
+I would like to take this opportunity to thank everyone who has made a contribution.
+
+We pause to remember those people fighting for Ukraine. We look forward to the day that
+they will be able to enjoy their own food and culture again without the threat of war
+over their heads.
+
+\vspace{5mm}
+\begin{multicols}{2}
+\begin{minipage}{\columnwidth}
+\textbf{Key to recipes (with examples)}
+
+\vspace{2mm}
+\begin{tabular}{l l}
+Prep time & \preptime{20 min} \vspace{2mm} \\
+Cook time & \cooktime{35 min} \vspace{2mm} \\
+Bake time & \baketime{210\textdegree C, 45 min} \vspace{2mm} \\
+Cool time &  \cooltime{3 h} \vspace{2mm} \\
+Serves & \people{5} \vspace{2mm} \\
+Makes portions & \biscuits{26} \vspace{2mm} \\
+Cake slices & \cake{12} \vspace{2mm} \\
+Machines needed & \robot{Kneeding} \vspace{2mm} \\
+Special equipment & \bobcat{Bobcat} \vspace{2mm} \\
+\end{tabular}
+\end{minipage}
+
+\begin{minipage}{\columnwidth}
+\textbf{Measuring Units}
+
+\vspace{2mm}
+\begin{tabular}{l l}
+tsp & Teaspoon \\
+tbsp & Tablespoon \\
+\end{tabular}
+\end{minipage}
+
+\begin{minipage}{\columnwidth}
+\textbf{Temperature Conversion}
+
+\vspace{2mm}
+\begin{tabular}{c c}
+\textdegree C & \textdegree F (approx.) \\ \hline \\
+120 & 250 \\  
+150 & 300 \\
+160 & 320 \\
+180 & 350 \\
+190 & 375 \\
+200 & 390 \\
+210 & 410 \\
+220 & 430
+\end{tabular}
+\end{minipage}
+
+\end{multicols}
+
+\clearpage
+
+\flags
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{recipes}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{ukraine}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part{The Leaf Spring Army Community}
+
+\chapter{The Enforcer Youtube Channel}
+
+The Enforcer Youtube Channel started broadcasting news of Russian Invasion of Ukraine, based on 
+video footage and open source news sources, from Day 1 of the War on Ukraine.
+From the 23rd February 2022, The Enforcer has streamed their particular style of news, 
+almost every day of the war.
+
+The \textbf{Leaf Spring Army} is the community of people who Like and Subscribe to the 
+The Enforcer Youtube Channel. 
+
+\textbf{Hosts and Presenters}
+
+\begin{description}
+\item[@The Enforcer] Andrew is the creator and host of The Enforcer Channel. 
+\item[@EnforcerMatt] Matthew is the co-host of The Enforcer Channel. 
+presents the polls and kills the bots with his trusty bot-be-gone.
+\end{description}
+
+\textbf{About} (from the Youtube Channel description)
+
+The Enforcer is a Global News Youtube Channel reporting on The Ukraine War
+and other world conflicts.
+We gather our intelligence from various sources to deliver the news as it happens
+in realtime. Our team consists of history \& political science graduates to bring you
+expert analysis on current events.
+
+The stream broadcasts live news from Tuesday to Sunday, with the Sunday
+broadcast being a designated fundraiser stream to directly support Ukraine
+(via Youtube Give). Be sure to join us For our nightly war news stream at 10:00pm EST. 
+\textbf{\textit{Please Like \& Subscribe for regular updates!}}
+
+\textbf{Links}
+
+\begin{tabular}{l l}
+  Youtube: & @EnforcerOfficial \\
+  Patreon: & patreon.com/The\_Enforcer \\
+  Twitter: & twitter.com/ItsTheEnforcer \\
+  Enforcer Merch Store: & officialenforcerstore.com 
+\end{tabular}
+
+\textbf{Comments}
+
+The Enforcer Channel is a Pro-Ukrainian space and prides itself on being 
+a politics and religious discussion free zone.
+
+\textbf{Mentions and Endorsements}
+\begin{quote}
+Platforms such as ``UAWeapons'' and ``JominiW'' on Twitter and\\
+``The Enforcer Channel'' and ``Institute for the Study of War'' \\
+allowed people around the world to follow the war in depth \\
+in a way that has never happened before. \\
+\\
+\textit{Gen. David Petraeus, Andrew Roberts ``Conflict, The Evolution of Warfare from
+  1945 to Ukraine'' pp392}
+\end{quote}
+
+\newpage \ \newpage
+
+\AddToShipoutPictureBG*{\includegraphics[width=\paperwidth,height=\paperheight]{Pictures/other/lsa-eagle-black-border.png}}
+
+\chapter{The Leaf Spring Army}
+
+You are a member of the LSA if you Like and Subscribe to The Enforcer Youtube channel.
+At last count there are almost 250,000 members.
+
+The name of the \textbf{Leaf Spring Army} (or LSA) was put forward in the live chat
+in response to the question - What should we call the community of channel members? 
+
+\textbf{@The Enforcer} in an earlier stream had commented ``Is that a leaf spring?!!'',
+referring to a wrecked Russian truck, thinking that this suspension type only existed on
+older obsolete vehicles (Day 27 1h10s)\footnote{In the following pages, references have been provided to points 
+in the stream, in the form ``(Day 27 1h10s)'', which for example,
+refers to a point 1 hour and 10 seconds into the stream on that day.}.
+
+The live chat of the stream spent the next two days riffing on ``Leaf Springs''.
+
+The name stuck.
+
+%\clearpage
+
+%\AddToShipoutPictureBG*{\includegraphics[width=\paperwidth,height=\paperheight]{Pictures/marmot.jpg}}
+
+\clearpage
+
+% \chapter{Definitions, In-Jokes, Gags and Memes}
+
+\section{Definitions}
+
+New members of the LSA are often confused by the large number of community in-jokes, memes etc, 
+used in the The Enforcer Stream. The following list has been included to assist the new 
+member (or help refresh the memory of The Old Guard).
+
+\begin{description}
+\item[LSA] The Leaf Spring Army. The community of people who Like 
+  and Subscribe to the ``The Enforcer'' Youtube Channel.
+  You are a member of the LSA if you Like and Subscribe to the channel.
+
+\item[LLTLSA] Long Live the LSA (the Leaf Spring Army will never die).
+
+\item[Morse Code] At the beginning of the live stream introduction, a message in
+  morse code is played over a background of an air-raid siren and explosions.
+  Listeners are encouraged to decode and post the answer in the live chat of the
+  stream. Decoders are awarded with "ding ding ding, that's the sound of money"
+  during the stream.
+
+\item [Day of the War in Ukraine] The Enforcer Stream tracks the war by days since the
+  Russians invaded Ukraine on the 24th February, 2022 (Day 1)
+
+\item [Snake Island] Early in the war (Day 1) the Russians went to take 
+Snake Island in the Black See. The response by the Ukrainian soldiers stationed 
+on the island was ``Russian warship, go fuck yourself!''. This defiant action 
+was later made into a postal stamp by Ukrposhta (the Ukrainian Postal Service).
+   
+\item [The Moskva] The first of Russia's new Black Sea submarine fleet.
+
+\item [The Ukraine Tractor Corp] During the early stages of the war, Ukrainian farmers 
+  were observed removing disabled Russian tanks from the battle field with their tractors. 
+
+\item [Buy a Car] Also known as ``Buy that car'', ``Buy Matt a Car'',  ``Buy tractor..'' and ``Bayraktar''. 
+  This is the name of a song used in the stream introduction that has also been called the theme song
+  on the Cult of Matt.
+
+\item [Cult of Matt] This usually refers to comments in live chat of the YouTube stream 
+  where the Cult of Matt is seen as a replacement
+  to religious and political discussion which has been banned in the channel. @EnforcerMatt
+  religiously bans bots and trolls in the live chat that break these rules.
+
+\item[Bobcats \bobcat]  Special vehicle losses (aka. bobcats) are a highlight of the
+daily Russian casualty report.
+
+\item [2 Group 2 Group]
+
+\item [Mr Lunch Time]
+
+\item[Don]
+ 
+\item[Vlad, Tha FAILBOAT Caputin!!]
+
+\item [The Leaf Spring Army Sends Its Regards] A donation to ``Sign My Rocket'' for a
+  155mm artillary shell was made on behalf of the LSA. This shell was signed with the 
+  message ``The Leaf Spring Army Sends Its Regards'' and it's ``sending'' is 
+  shown during the streams introduction. 
+
+\item[Hotdog Man] (Enough said, if you don't know, ask in the live stream chat.)
+
+\item[The Marmot (Alan)]  Alan! Alan! Alan! Hello. Would you like a plum? 
+  (Day 674 2h24m18s)
+
+\item[Eating a succulent Chinese meal] ``Democracy Manifest'' Youtube Internet Meme
+- Jack Karlson (1942 – 7 August 2024)
+
+\item[The Old Guard] A channel member is considered a member of the Old Guard if they have 
+  been watching the channel from the very early days of the war.  
+
+\item [Scooby-Doo Van]
+
+\item [eeGGooRR]
+
+\item [FPV(Drone)] First Person View drone, where the pilot flies the drone while wearing goggles and
+  viewing the flight of the drone through a front facing camera. 
+
+\item[Blayt] As reported by the FPV Drone footage (yes, we have video evidence), this is 
+  commonly the last thing a Russian soldier says on the front line before being added to the
+  statistics. 
+
+\item[UWD] Ukrainian War Discussion - Discord server supporting the LSA Community.
+\end{description}
+
+\clearpage
+
+\input{lsa-morse-code}
+\clearpage
+
+\input{lsa-bingo}
+\clearpage
+
+\input{lsa-units}
+\clearpage
+
+% Chapter: Timeline
+\input{lsa-history}
+\clearpage
+
+\input{lsa-anthem}
+\clearpage
+
+\input{lsa-fundraising}
+\clearpage
+
+\input{lsa-contributors}
+\clearpage
+
+\AddToShipoutPictureBG*{\includegraphics[width=\paperwidth,height=\paperheight]{Pictures/ico/44086.jpg}}
+
+\printindex
+\clearpage
+
+\pagestyle{empty}
+
+\newgeometry{top=5mm,left=15mm}
+
+\hfill
+\begin{minipage}[b]{8cm}
+\begin{flushright}
+The Leaf Spring Army Cookbook\\
+International Edition\\
+\publishingversion, \publishingdate
+
+\vspace{3mm}
+\hfil \EANisbn[SC3]
+\end{flushright}
+\end{minipage}
+
+\AddToShipoutPictureBG*{\includegraphics[width=\paperwidth,height=\paperheight]{Pictures/marmot.jpg}}
+
+\end{document}

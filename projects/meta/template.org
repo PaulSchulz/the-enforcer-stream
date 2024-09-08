@@ -1,0 +1,27 @@
+** The Enforcer Stream - Day ??? :the_enforcer:morse:
+
+@EnforcerMatt The morse code for today reads...
+
+#+begin_src yaml :comments link :tangle "../the-enforcer-stream/projects/meta/new.yaml"
+  - file: {}  # (buffer-name)
+    day: {}
+    broadcast: # TZ='America/New_York' date
+    duration: {}
+    title: |
+      -
+    morse: |
+      -
+    description: |
+      -
+
+    youtube:
+      url: ""
+      id: ""
+
+    casualties:
+      soldiers: {}
+      bobcats:  {}
+
+    notes: |
+      -
+#+end_src

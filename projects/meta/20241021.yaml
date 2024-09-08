@@ -1,0 +1,33 @@
+- file: 20241021
+  day: 970
+  broadcast: # TZ='America/New_York' date
+  duration: {}
+  title: |
+    SOUTH KOREA MOBILIZES, RUSSIA CRIPPLED IN DRONE ATTACK! Breaking War
+    News With The Enforcer (970)
+  morse: |        
+    OUR WESTERN WORLD WILL STAND STRONG AGAEST ALL ADVERSARIES. WE WILL TRIUMPH!
+    LONG LIVE THE LSA!
+description: |
+    South Korean forces mobilize as the Korean Peninsula enters a state of near
+    open conflict, with both the Chinese even declaring that their armed forces must
+    be ready to act a moment's notice in the region. Meanwhile Russia has been hit
+    heavily by a major Ukrainian drone attack overnight, which has hit a north
+    korean training base and a major Russian munitions factory within the
+    Yekaterinburg area. The Russian Black Sea fleet retreats in Defeat as they have
+    stated the fleet has permanantly left Sevastapol port. Meanwhile Israle
+    continues heavy bombing operations against Lebanon and is still preparing for
+    the strike against Iran.
+
+  youtube:
+    url: https://www.youtube.com/watch?v=J8oB85Df7h4
+    id: J8oB85Df7h4
+
+  casualties:
+    soldiers: -1340
+    bobcats:     -3
+
+  fundaraiser: NOVA UKRAINE
+
+  notes: |
+    -

@@ -1,0 +1,21 @@
+- file: 20241018  # (buffer-name)
+  day: 967
+  broadcast: # TZ='America/New_York' date
+  duration: {}
+  title: |
+    -
+  morse: |
+    -
+  description: |
+    -
+
+  youtube:
+    url: ""
+    id: ""
+
+  casualties:
+    soldiers: {}
+    bobcats:  {}
+
+  notes: |
+    -

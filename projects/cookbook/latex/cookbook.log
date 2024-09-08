@@ -1,0 +1,4372 @@
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2024.10.17)  10 NOV 2024 16:19
+ restricted system commands enabled.
+**cookbook
+(./cookbook.tex
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-05-27>
+Lua module: luaotfload 2024-02-14 3.28 Lua based OpenType font support
+Lua module: lualibs 2023-07-13 2.76 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2023-07-13 2.76 ConTeXt Lua libraries -- extended c
+ollection.
+luaotfload | conf : Root cache directory is "/home/paul/.texlive2024/texmf-var/l
+uatex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2023-12-28.lua" from kpse-res
+olved path "/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/fontloader-2023-
+12-28.lua".
+Lua-only attribute luaotfload@noligature = 1
+luaotfload | init : Context OpenType loader version 3.134
+Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' in `hpack_filter'.
+Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
+Inserting `luaotfload.define_font' in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 2
+luaotfload | conf : Root cache directory is "/home/paul/.texlive2024/texmf-var/l
+uatex-cache/generic/names".
+Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
+Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
+Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
+Inserting `luaotfload.harf.glyphstream' in `glyph_stream_provider'.
+Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_hlist' in `hpack_filter'.
+Inserting `luaotfload.cleanup_files' in `wrapup_run'.
+Inserting `luaotfload.harf.finalize_unicode' in `finish_pdffile'.
+Inserting `luaotfload.glyphinfo' in `glyph_info'.
+Lua-only attribute luaotfload.letterspace_done = 3
+Inserting `luaotfload.aux.set_sscale_dimens' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_font_index' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.patch_cambria_domh' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
+Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
+Inserting `tracingstacklevels' in `input_level_string'. (/usr/share/texlive/tex
+mf-dist/tex/latex/base/book.cls
+Document Class: book 2024/02/08 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk11.clo
+File: bk11.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
+luaotfload | db : Font names database loaded from /home/paul/.texlive2024/texmf-
+var/luatex-cache/generic/names/luaotfload-names.luc.gz)
+\c@part=\count192
+\c@chapter=\count193
+\c@section=\count194
+\c@subsection=\count195
+\c@subsubsection=\count196
+\c@paragraph=\count197
+\c@subparagraph=\count198
+\c@figure=\count199
+\c@table=\count266
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen140
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tempora/tempora.sty
+Package: tempora 2016/02/02 (msharpe) Style file for Tempora.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/ot2enc.def
+File: ot2enc.def 2022/06/11 v3.3b Cyrillic encoding definition file
+)
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2cenc.def
+File: t2cenc.def 2023/11/07 v1.0k Cyrillic encoding definition file
+)
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2benc.def
+File: t2benc.def 2023/11/07 v1.0k Cyrillic encoding definition file
+)
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2aenc.def
+File: t2aenc.def 2023/11/07 v1.0k Cyrillic encoding definition file
+)
+(/usr/share/texlive/texmf-dist/tex/latex/greek-fontenc/lgrenc.def
+File: lgrenc.def 2023-09-12 2.5 LGR Greek font encoding definitions
+
+(/usr/share/texlive/texmf-dist/tex/latex/greek-fontenc/greek-fontenc.def
+File: greek-fontenc.def 2023-09-12 2.5 Common Greek font encoding definitions
+))
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
+6.
+
+(/usr/share/texmf/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+Package: fontaxes 2020/07/21 v1.0e Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks17
+\XKV@tempa@toks=\toks18
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count267
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2024/06/26 v24.7 The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/luababel.def
+\bbl@readstream=\read2
+\l@dumylang=\language2
+Package babel Info: Non-standard hyphenation setup on input line 118.
+\l@nohyphenation=\language3
+\l@vietnamese=\language4
+\l@hebrew=\language5
+\l@pinyin=\language6
+\l@greek=\language7
+\l@telugu=\language8
+\l@malayalam=\language9
+\l@kannada=\language10
+\l@arabic=\language11
+\l@basque=\language12
+\l@nynorsk=\language13
+\l@russian=\language14
+\l@ibycus=\language15
+\l@welsh=\language16
+\l@serbianc=\language17
+\l@gujarati=\language18
+\l@estonian=\language19
+\l@french=\language20
+\l@sanskrit=\language21
+\l@esperanto=\language22
+\l@indonesian=\language23
+\l@thai=\language24
+\l@ethiopic=\language25
+\l@romanian=\language26
+\l@kurmanji=\language27
+\l@bengali=\language28
+\l@italian=\language29
+\l@czech=\language30
+\l@danish=\language31
+\l@polish=\language32
+\l@lithuanian=\language33
+\l@dutch=\language34
+\l@ukenglish=\language35
+\l@hindi=\language36
+\l@catalan=\language37
+\l@tamil=\language38
+\l@turkmen=\language39
+\l@croatian=\language40
+\l@afrikaans=\language41
+\l@ngerman=\language42
+\l@latin=\language43
+\l@slovenian=\language44
+\l@pali=\language45
+\l@coptic=\language46
+\l@icelandic=\language47
+\l@latvian=\language48
+\l@interlingua=\language49
+\l@belarusian=\language50
+\l@bokmal=\language51
+\l@slovak=\language52
+\l@farsi=\language53
+\l@macedonian=\language54
+\l@liturgicallatin=\language55
+\l@piedmontese=\language56
+\l@irish=\language57
+\l@friulan=\language58
+\l@classiclatin=\language59
+\l@ngerman-x-2024-02-28=\language60
+\l@serbian=\language61
+\l@uppersorbian=\language62
+\l@german=\language63
+\l@bulgarian=\language64
+\l@swissgerman=\language65
+\l@georgian=\language66
+\l@marathi=\language67
+\l@armenian=\language68
+\l@galician=\language69
+\l@german-x-2024-02-28=\language70
+\l@panjabi=\language71
+\l@mongolian=\language72
+\l@oriya=\language73
+\l@ancientgreek=\language74
+\l@spanish=\language75
+\l@finnish=\language76
+\l@mongolianlmc=\language77
+\l@romansh=\language78
+\l@occitan=\language79
+\l@churchslavonic=\language80
+\l@hungarian=\language81
+\l@schoolfinnish=\language82
+\l@turkish=\language83
+\l@portuguese=\language84
+\l@ukrainian=\language85
+\l@assamese=\language86
+\l@monogreek=\language87
+\l@swedish=\language88
+\l@usenglishmax=\language89
+\babelcatcodetablenum=\catcodetable14
+\bbl@pattcodes=\catcodetable15
+)
+\babel@savecnt=\count268
+\U@D=\dimen141
+\l@unhyphenated=\language90
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/luababel.def
+\bbl@attr@locale=\attribute4
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language35). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language35). Reported on input line 108.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-ukrainian/ukraineb.ldf
+File: ukraineb.ldf 2020/10/14 1.4e Ukrainian support for the Babel system
+Package babel Info: Making " an active character on input line 97.
+Package babel Info: Default for \cyrdash is provided on input line 142.
+Package ukrainian.ldf Info: Executing the 3.9 or latter on input line 148.
+Package ukrainian.ldf Info: Executing the post 3.9 branch for dates on input li
+ne 226.
+
+(/usr/share/texlive/texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-uk.tex
+UTF-8 Ukrainian hyphenation patterns
+(/usr/share/texlive/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-uk.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/hyph-utf8/patterns/quote/hyph-quote-
+uk.tex))))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/uk/babel-ukrainian.tex
+Package babel Info: Importing font and identification data for ukrainian
+(babel)             from babel-uk.ini. Reported on input line 11.
+) (/usr/share/texlive/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T2A+Tempora-TLF on inpu
+t line 116.
+
+(/usr/share/texlive/texmf-dist/tex/latex/tempora/t2atempora-tlf.fd
+File: t2atempora-tlf.fd 2015/09/13 Font definitions for T2A/Tempora-TLF.
+)
+LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
+(Font)              scaled to size 10.95pt on input line 116.
+)
+(./cuisine.sty
+Package: cuisine 
+ (/usr/share/texlive/texmf-dist/tex/latex/marvosym/marvosym.sty
+Package: marvosym 2011/07/20 v2.2 Martin Vogel's Symbols font definitions
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count269
+\Gm@cntv=\count270
+\c@Gm@tempcnt=\count271
+\Gm@bindingoffset=\dimen142
+\Gm@wd@mp=\dimen143
+\Gm@odd@mp=\dimen144
+\Gm@even@mp=\dimen145
+\Gm@layoutwidth=\dimen146
+\Gm@layoutheight=\dimen147
+\Gm@layouthoffset=\dimen148
+\Gm@layoutvoffset=\dimen149
+\Gm@dimlist=\toks19
+)
+(/usr/share/texlive/texmf-dist/tex/latex/imakeidx/imakeidx.sty
+Package: imakeidx 2016/10/15 v1.3e Package for typesetting indices in a synchro
+nous mode
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2024/05/23 v1.9h multicolumn formatting (FMi)
+\c@tracingmulticols=\count272
+\mult@box=\box52
+\multicol@leftmargin=\dimen150
+\c@unbalance=\count273
+\c@collectmore=\count274
+\doublecol@number=\count275
+\multicoltolerance=\count276
+\multicolpretolerance=\count277
+\full@width=\dimen151
+\page@free=\dimen152
+\premulticols=\dimen153
+\postmulticols=\dimen154
+\multicolsep=\skip51
+\multicolbaselineskip=\skip52
+\partial@page=\box53
+\last@line=\box54
+\mc@boxedresult=\box55
+\maxbalancingoverflow=\dimen155
+\mult@rightbox=\box56
+\mult@grightbox=\box57
+\mult@firstbox=\box58
+\mult@gfirstbox=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\c@minrows=\count278
+\c@columnbadness=\count279
+\c@finalcolumnbadness=\count280
+\last@try=\dimen156
+\multicolovershoot=\dimen157
+\multicolundershoot=\dimen158
+\mult@nat@firstbox=\box96
+\colbreak@box=\box97
+\mc@col@check@num=\count281
+))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-05-23 v7.01i Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+\pdftexcmds@toks=\toks20
+))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count282
+)
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count283
+)
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen159
+\Hy@linkcounter=\count284
+\Hy@pagecounter=\count285
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-05-23 v7.01i Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count286
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-05-23 v7.01i Hyperref: PDF Unicode definition (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/greek-fontenc/puenc-greek.def
+File: puenc-greek.def 2023-09-12 2.5 Greek LICRs for PDF strings
+
+(/usr/share/texlive/texmf-dist/tex/latex/greek-fontenc/greek-fontenc.def
+File: greek-fontenc.def 2023-09-12 2.5 Common Greek font encoding definitions
+)))
+Package hyperref Info: Option `colorlinks' set `false' on input line 4040.
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count287
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen160
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count288
+\Field@Width=\dimen161
+\Fld@charsize=\dimen162
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count289
+\c@Item=\count290
+\c@Hfootnote=\count291
+)
+Package hyperref Info: Driver (autodetected): hluatex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hluatex.def
+File: hluatex.def 2024-05-23 v7.01i Hyperref driver for luaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count292
+\c@bookmark@seq@number=\count293
+
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip53
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: luatex.def on input line 274.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/luatex.def
+File: luatex.def 2024/04/13 v1.2e Graphics/color driver for luatex
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2024/04/23 v4.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip54
+\f@nch@O@elh=\skip55
+\f@nch@O@erh=\skip56
+\f@nch@O@olh=\skip57
+\f@nch@O@orh=\skip58
+\f@nch@O@elf=\skip59
+\f@nch@O@erf=\skip60
+\f@nch@O@olf=\skip61
+\f@nch@O@orf=\skip62
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/05/23 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: luatex.def on input line 106.
+)
+\Gin@req@height=\dimen163
+\Gin@req@width=\dimen164
+)
+(/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen165
+\WF@size=\dimen166
+\c@WF@wrappedlines=\count294
+\WF@box=\box98
+\WF@everypar=\toks21
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/usr/share/texlive/texmf-dist/tex/latex/floatrow/floatrow.sty
+Package: floatrow 2008/08/02 v0.3b floatrow: float package extension
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen167
+\captionmargin=\dimen168
+\caption@leftmargin=\dimen169
+\caption@rightmargin=\dimen170
+\caption@width=\dimen171
+\caption@indent=\dimen172
+\caption@parindent=\dimen173
+\caption@hangindent=\dimen174
+Package caption Info: Standard document class detected.
+)
+\c@float@type=\count295
+\float@exts=\toks22
+\float@box=\box99
+\@floatcapt=\box100
+Package floatrow Info: Modified float package code loaded on input line 455.
+Package floatrow Info: Modified rotfloat package code loaded on input line 473.
+
+\FR@everyfloat=\toks23
+\flrow@foot=\insert252
+\FB@wd=\dimen175
+\FBo@wd=\dimen176
+\FBc@wd=\dimen177
+\FBo@ht=\skip63
+\FBc@ht=\skip64
+\FBf@ht=\skip65
+\FBo@max=\skip66
+\FBc@max=\skip67
+\FBf@max=\skip68
+\c@FBl@b=\count296
+\floatbox@depth=\count297
+\c@FRobj=\count298
+\c@FRsobj=\count299
+\Xhsize=\skip69
+\sXhsize=\skip70
+\Zhsize=\skip71
+\sZhsize=\skip72
+\flrow@rowbox=\box101
+\FR@Zunitlength=\dimen178
+\c@FBcnt=\count300
+\FPOScnt=\count301
+\LTleft=\skip73
+\LTright=\skip74
+\LTleft=\skip75
+\LTright=\skip76
+\flrow@types=\toks24
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks25
+\pgfutil@tempdima=\dimen179
+\pgfutil@tempdimb=\dimen180
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box102
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks26
+\pgfkeys@temptoks=\toks27
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered
+.code.tex
+\pgfkeys@tmptoks=\toks28
+))
+\pgf@x=\dimen181
+\pgf@y=\dimen182
+\pgf@xa=\dimen183
+\pgf@ya=\dimen184
+\pgf@xb=\dimen185
+\pgf@yb=\dimen186
+\pgf@xc=\dimen187
+\pgf@yc=\dimen188
+\pgf@xd=\dimen189
+\pgf@yd=\dimen190
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count302
+\c@pgf@countb=\count303
+\c@pgf@countc=\count304
+\c@pgf@countd=\count305
+\t@pgf@toka=\toks29
+\t@pgf@tokb=\toks30
+\t@pgf@tokc=\toks31
+\pgf@sys@id@count=\count306
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-luatex.def
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-luatex.def
+File: pgfsys-luatex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count307
+\pgfsyssoftpath@bigbuffer@items=\count308
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen191
+\pgfmath@count=\count309
+\pgfmath@box=\box103
+\pgfmath@toks=\toks32
+\pgfmath@stack@operand=\toks33
+\pgfmath@stack@operation=\toks34
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count310
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen192
+\pgf@picmaxx=\dimen193
+\pgf@picminy=\dimen194
+\pgf@picmaxy=\dimen195
+\pgf@pathminx=\dimen196
+\pgf@pathmaxx=\dimen197
+\pgf@pathminy=\dimen198
+\pgf@pathmaxy=\dimen199
+\pgf@xx=\dimen256
+\pgf@xy=\dimen257
+\pgf@yx=\dimen258
+\pgf@yy=\dimen259
+\pgf@zx=\dimen260
+\pgf@zy=\dimen261
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen262
+\pgf@path@lasty=\dimen263
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen264
+\pgf@shorten@start@additional=\dimen265
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box104
+\pgf@hbox=\box105
+\pgf@layerbox@main=\box106
+\pgf@picture@serial@count=\count311
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen266
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen267
+\pgf@pt@y=\dimen268
+\pgf@pt@temp=\dimen269
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen270
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen271
+\pgf@sys@shading@range@num=\count312
+\pgf@shadingcount=\count313
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box107
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box108
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen272
+\pgf@nodesepend=\dimen273
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen274
+\pgffor@skip=\dimen275
+\pgffor@stack=\toks35
+\pgffor@toks=\toks36
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count314
+\pgfplotmarksize=\dimen276
+)
+\tikz@lastx=\dimen277
+\tikz@lasty=\dimen278
+\tikz@lastxsaved=\dimen279
+\tikz@lastysaved=\dimen280
+\tikz@lastmovetox=\dimen281
+\tikz@lastmovetoy=\dimen282
+\tikzleveldistance=\dimen283
+\tikzsiblingdistance=\dimen284
+\tikz@figbox=\box109
+\tikz@figbox@bg=\box110
+\tikz@tempbox=\box111
+\tikz@tempbox@bg=\box112
+\tikztreelevel=\count315
+\tikznumberofchildren=\count316
+\tikznumberofcurrentchild=\count317
+\tikz@fig@count=\count318
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count319
+\pgfmatrixcurrentcolumn=\count320
+\pgf@matrix@numberofcolumns=\count321
+)
+\tikz@expandcount=\count322
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen285
+\ESO@tempdimb=\dimen286
+)
+(/usr/share/texlive/texmf-dist/tex/latex/transparent/transparent.sty
+Package: transparent 2022-10-27 v1.5 Transparency with color stacks
+
+(/usr/share/texlive/texmf-dist/tex/latex/transparent/transparent-nometadata.sty
+Package: transparent-nometadata 2022-10-27 v1.5 Transparency via pdfTeX's color
+ stack (HO)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/lettrine/lettrine.sty
+File: lettrine.sty 2024-06-26 v2.61 (Daniel Flipo)
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xfp/xfp.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-05-27 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
+File: l3backend-luatex.def 2024-05-08 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count323
+Inserting `l3color' in `luaotfload.parse_color'.
+\l__pdf_internal_box=\box113
+))
+Package: xfp 2024-05-08 L3 Floating point unit
+)
+\c@DefaultLines=\count324
+\c@DefaultDepth=\count325
+\DefaultFindent=\dimen287
+\DefaultNindent=\dimen288
+\DefaultSlope=\dimen289
+\DiscardVskip=\dimen290
+\L@lettrine=\box114
+\L@lbox=\box115
+\L@tbox=\box116
+\c@L@lines=\count326
+\c@L@depth=\count327
+\L@Pindent=\dimen291
+\L@Findent=\dimen292
+\L@Nindent=\dimen293
+\L@lraise=\dimen294
+\L@first=\dimen295
+\L@next=\dimen296
+\L@slope=\dimen297
+\L@height=\dimen298
+\L@novskip=\dimen299
+\L@ruleht=\dimen300
+\L@target@ht=\dimen301
+\L@target@dp=\dimen302
+\L@target@tht=\dimen303
+\LettrineWidth=\dimen304
+\LettrineHeight=\dimen305
+\LettrineDepth=\dimen306
+
+Loading lettrine.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/lettrine/lettrine.cfg)
+\Llist@everypar=\toks37
+)
+(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/polyglossia.sty
+Package: polyglossia 2024/03/07 v2.1 Modern multilingual typesetting with XeLaT
+eX and LuaLaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2024-05-08 L3 Experimental document command parser
+)
+Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2024/05/11 2.9e Font selection for XeLaTeX and LuaLaTeX
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
+Package: fontspec-luatex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaT
+eX
+\l__fontspec_script_int=\count328
+\l__fontspec_language_int=\count329
+\l__fontspec_strnum_int=\count330
+\l__fontspec_tmp_int=\count331
+\l__fontspec_tmpa_int=\count332
+\l__fontspec_tmpb_int=\count333
+\l__fontspec_tmpc_int=\count334
+\l__fontspec_em_int=\count335
+\l__fontspec_emdef_int=\count336
+\l__fontspec_strong_int=\count337
+\l__fontspec_strongdef_int=\count338
+\l__fontspec_tmpa_dim=\dimen307
+\l__fontspec_tmpb_dim=\dimen308
+\l__fontspec_tmpc_dim=\dimen309
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/luatex/luatexbase/luatexbase.sty
+Package: luatexbase 2015/10/04 v1.3 luatexbase interface to LuaTeX 
+
+(/usr/share/texlive/texmf-dist/tex/luatex/ctablestack/ctablestack.sty
+Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
+\@catcodetablestackcnt=\count339
+)
+\CatcodeTableOther=\catcodetable16
+\CatcodeTableExpl=\catcodetable17
+)
+Lua module: polyglossia 2013/05/11 1.3 Polyglossia
+(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/gloss-latex.ldf
+File: gloss-latex.ldf polyglossia: module for default language
+)
+Package polyglossia Info: Default language is latex.
+Package polyglossia Info: Setting LuaTeX font renderer to Harfbuzz.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/montserrat/montserrat.sty
+Package: montserrat 2019/11/07 v1.03
+
+`montserrat' v1.03, 2019/11/07 Style file for Montserrat and Alternates (msharp
+e) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/ly1/ly1enc.def
+File: ly1enc.def 2022/06/11 v0.8 TeX 'n ANSI encoding (DPC/KB)
+))
+LaTeX Info: Redefining \textsu on input line 42.
+LaTeX Info: Redefining \textin on input line 42.
+LaTeX Info: Redefining \textnu on input line 42.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\enitkv@toks@=\toks38
+\labelindent=\skip77
+\enit@outerparindent=\dimen310
+\enit@toks=\toks39
+\enit@inbox=\box117
+\enit@count@id=\count340
+\enitdp@description=\count341
+)
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box118
+\beforetitleunit=\skip78
+\aftertitleunit=\skip79
+\ttl@plus=\dimen311
+\ttl@minus=\dimen312
+\ttl@toksa=\toks40
+\titlewidth=\dimen313
+\titlewidthlast=\dimen314
+\titlewidthfirst=\dimen315
+)
+(/usr/share/texlive/texmf-dist/tex/latex/units/units.sty
+Package: units 1998/08/04 v0.9b Typesetting units
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/units/nicefrac.sty
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip80
+\L@UnitsRaiseTextstyle=\skip81
+\L@UnitsRaiseScriptstyle=\skip82
+))
+(/usr/share/texlive/texmf-dist/tex/latex/tabulary/tabulary.sty
+Package: tabulary 2024/06/04 v0.11 tabulary package (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2024/06/14 v2.6d Tabular extension package (FMi)
+\col@sep=\dimen316
+\ar@mcellbox=\box119
+\extrarowheight=\dimen317
+\NC@list=\toks41
+\extratabsurround=\skip83
+\backup@length=\skip84
+\ar@cellbox=\box120
+)
+\TY@count=\count342
+\TY@linewidth=\dimen318
+\tymin=\dimen319
+\tymax=\dimen320
+\TY@tablewidth=\dimen321
+))
+(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/gloss-english.ldf
+File: gloss-english.ldf polyglossia: module for English
+Package polyglossia Info: Option: English, variant=american.
+)
+Package polyglossia Info: Default language is english.
+
+(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/gloss-ukrainian.ldf
+File: gloss-ukrainian.ldf polyglossia: module for Ukrainian
+
+(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/xpg-cyrillicnumbers.sty
+Package: xpg-cyrillicnumbers 2019/11/15 v0.2 Formatting of Cyrillic alphabetic 
+numbers
+)
+Package polyglossia Info: Option: Ukrainian, numerals=arabic.
+)
+luaotfload | cache : Lookup cache loaded from /home/paul/.texlive2024/texmf-var/
+luatex-cache/generic/names/luaotfload-lookup-cache.luc.
+
+Package fontspec Info: 
+(fontspec)             Font family 'NotoSerif(0)' created for font 'Noto
+(fontspec)             Serif' with options [Renderer=Harfbuzz].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (regular/n) with NFSS spec.: <->"name:Noto
+(fontspec)             Serif:mode=harf;script=latn;language=dflt;"
+(fontspec)             - 'small caps'  (regular/sc) with NFSS spec.:
+(fontspec)             <->"name:Noto
+(fontspec)             Serif:mode=harf;script=latn;language=dflt;+smcp;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"name:Noto
+(fontspec)             Serif/B:mode=harf;script=latn;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"name:Noto
+(fontspec)             Serif/B:mode=harf;script=latn;language=dflt;+smcp;"
+(fontspec)             - 'italic' (regular/it) with NFSS spec.: <->"name:Noto
+(fontspec)             Serif/I:mode=harf;script=latn;language=dflt;"
+(fontspec)             - 'italic small caps'  (regular/scit) with NFSS spec.:
+(fontspec)             <->"name:Noto
+(fontspec)             Serif/I:mode=harf;script=latn;language=dflt;+smcp;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"name:Noto
+(fontspec)             Serif/BI:mode=harf;script=latn;language=dflt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"name:Noto
+(fontspec)             Serif/BI:mode=harf;script=latn;language=dflt;+smcp;"
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "Noto Mono/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "Noto Mono/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "Noto Mono/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'NotoMono(0)' created for font 'Noto Mono'
+(fontspec)             with options [Renderer=Harfbuzz].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (regular/n) with NFSS spec.: <->"name:Noto
+(fontspec)             Mono:mode=harf;language=dflt;"
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "Noto Sans Mono/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "Noto Sans Mono/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'NotoSansMono(0)' created for font 'Noto
+(fontspec)             Sans Mono' with options [Renderer=Harfbuzz].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (regular/n) with NFSS spec.: <->"name:Noto
+(fontspec)             Sans Mono:mode=harf;script=latn;language=dflt;"
+(fontspec)             - 'small caps'  (regular/sc) with NFSS spec.:
+(fontspec)             <->"name:Noto Sans
+(fontspec)             Mono:mode=harf;script=latn;language=dflt;+smcp;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"name:Noto Sans
+(fontspec)             Mono/B:mode=harf;script=latn;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"name:Noto Sans
+(fontspec)             Mono/B:mode=harf;script=latn;language=dflt;+smcp;"
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip85
+\cftbeforetoctitleskip=\skip86
+\cftaftertoctitleskip=\skip87
+\cftbeforepartskip=\skip88
+\cftpartnumwidth=\skip89
+\cftpartindent=\skip90
+\cftbeforechapskip=\skip91
+\cftchapindent=\skip92
+\cftchapnumwidth=\skip93
+\cftbeforesecskip=\skip94
+\cftsecindent=\skip95
+\cftsecnumwidth=\skip96
+\cftbeforesubsecskip=\skip97
+\cftsubsecindent=\skip98
+\cftsubsecnumwidth=\skip99
+\cftbeforesubsubsecskip=\skip100
+\cftsubsubsecindent=\skip101
+\cftsubsubsecnumwidth=\skip102
+\cftbeforeparaskip=\skip103
+\cftparaindent=\skip104
+\cftparanumwidth=\skip105
+\cftbeforesubparaskip=\skip106
+\cftsubparaindent=\skip107
+\cftsubparanumwidth=\skip108
+\cftbeforeloftitleskip=\skip109
+\cftafterloftitleskip=\skip110
+\cftbeforefigskip=\skip111
+\cftfigindent=\skip112
+\cftfignumwidth=\skip113
+\c@lofdepth=\count343
+\c@lotdepth=\count344
+\cftbeforelottitleskip=\skip114
+\cftafterlottitleskip=\skip115
+\cftbeforetabskip=\skip116
+\cfttabindent=\skip117
+\cfttabnumwidth=\skip118
+
+
+Package tocloft Warning: \@starttoc has already been redefined; tocloft bailing
+ out. on input line 1156.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/footmisc/footmisc.sty
+Package: footmisc 2023/07/05 v6.0f a miscellany of footnote facilities
+\FN@temptoken=\toks42
+\footnotemargin=\dimen322
+\@outputbox@depth=\dimen323
+Package footmisc Info: Declaring symbol style bringhurst on input line 696.
+Package footmisc Info: Declaring symbol style chicago on input line 704.
+Package footmisc Info: Declaring symbol style wiley on input line 713.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 724.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 744.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 765
+.
+) (./flags.tex) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2024-04-26 v4.20 Multi-page Table package (DPC)
+\LTleft=\skip119
+\LTright=\skip120
+\LTpre=\skip121
+\LTpost=\skip122
+\LTchunksize=\count345
+\LTcapwidth=\dimen324
+\LT@head=\box121
+\LT@firsthead=\box122
+\LT@foot=\box123
+\LT@lastfoot=\box124
+\LT@gbox=\box125
+\LT@cols=\count346
+\LT@rows=\count347
+\c@LT@tables=\count348
+\c@LT@chunks=\count349
+\LT@p@ftn=\toks43
+)
+(/usr/share/texlive/texmf-dist/tex/latex/ean13isbn/ean13isbn.sty
+Package: ean13isbn 2021/01/24 EAN13 with ISBN
+Package ean13isbn Info: $Id: ean13isbn.sty 550 2021-01-23 23:47:58Z zw $.
+
+(/usr/share/texlive/texmf-dist/tex/generic/ean/ean13.tex
+The EAN-13 barcodes macro. Copyright (C) Petr Olsak, 1995
+\numlines=\count350
+\nummodules=\count351
+\numdigit=\count352
+\evensum=\count353
+\oddsum=\count354
+\X=\dimen325
+\bcorr=\dimen326
+\workdimen=\dimen327
+\barheight=\dimen328
+)
+\zw@isbnfsize=\dimen329
+\zw@test@box=\box126
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 9
+7.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
+))
+\cookbook@idxfile=\write4
+
+\openout4 = cookbook.idx
+
+Writing index file cookbook.idx
+LaTeX Font Info:    Trying to load font information for T1+MontserratAlternates
+-TLF on input line 50.
+
+(/usr/share/texlive/texmf-dist/tex/latex/montserrat/T1MontserratAlternates-TLF.
+fd
+File: T1MontserratAlternates-TLF.fd 2019/11/07 (autoinst) Font definitions for 
+T1/MontserratAlternates-TLF.
+) (./cookbook.aux)
+\openout1 = cookbook.aux
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 50.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 5
+0.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OT2/cmr/m/n on input line 50.
+LaTeX Font Info:    Trying to load font information for OT2+cmr on input line 5
+0.
+
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/ot2cmr.fd
+File: ot2cmr.fd 2001/08/11 v3.2c Computer Modern Cyrillic font definitions
+)
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for T2C/cmr/m/n on input line 50.
+LaTeX Font Info:    Trying to load font information for T2C+cmr on input line 5
+0.
+
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2ccmr.fd
+File: t2ccmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for T2B/cmr/m/n on input line 50.
+LaTeX Font Info:    Trying to load font information for T2B+cmr on input line 5
+0.
+
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2bcmr.fd
+File: t2bcmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 50.
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 5
+0.
+
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 50.
+LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 5
+0.
+
+(/usr/share/texlive/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
+File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
+)
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 50.
+LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 5
+0.
+
+(/usr/share/texlive/texmf-dist/tex/latex/ly1/ly1ptm.fd
+File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
+)
+LaTeX Font Info:    ... okay on input line 50.
+\c@mv@tabular=\count355
+\c@mv@boldtabular=\count356
+LaTeX Info: Redefining \rmfamily on input line 50.
+LaTeX Info: Redefining \sffamily on input line 50.
+LaTeX Info: Redefining \ttfamily on input line 50.
+
+
+LaTeX Font Warning: Font shape `T1/lmr/regular/n' undefined
+(Font)              using `T1/lmr/m/n' instead on input line 50.
+
+LaTeX Info: Redefining \th on input line 50.
+*geometry* driver: auto-detecting
+*geometry* detected driver: luatex
+*geometry* verbose mode - [ preamble ] result:
+* driver: luatex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside heightrounded 
+* h-part:(L,W,R)=(56.9055pt, 455.24411pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 455.24411pt, 56.9055pt)
+* \paperwidth=569.05511pt
+* \paperheight=569.05511pt
+* \textwidth=455.24411pt
+* \textheight=459.8002pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-47.23828pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=11.0pt
+* \footskip=27.46295pt
+* \marginparwidth=116.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package hyperref Info: Link coloring OFF on input line 50.
+(./cookbook.out) (./cookbook.out)
+\@outlinefile=\write5
+
+\openout5 = cookbook.out
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count357
+\scratchdimen=\dimen330
+\scratchbox=\box127
+\nofMPsegments=\count358
+\nofMParguments=\count359
+\everyMPshowfont=\toks44
+\MPscratchCnt=\count360
+\MPscratchDim=\dimen331
+\MPnumerator=\count361
+\makeMPintoPDFobject=\count362
+\everyMPtoPDFconversion=\toks45
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+(/usr/share/texlive/texmf-dist/tex/latex/floatrow/fr-longtable.sty
+Package: fr-longtable 2007/11/28 v0.1b (beta) floatrow: additions for longtable
+
+\flrow@LT@lasthead=\box128
+\flrow@LT@prelastfoot=\box129
+\c@FBLTpage=\count363
+)
+
+Package fontspec Info: 
+(fontspec)             Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 50.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 50.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 50.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 50.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 50.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 50.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 50.
+LaTeX Font Info:    Redeclaring math accent \check on input line 50.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 50.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 50.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 50.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 50.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 50.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/lmr/regular/n on input line 50.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 50.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/regular/n on input line 50.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `tabular' on input line 50.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `tabular'
+(Font)                  OT1/cmr/m/n --> TU/lmr/regular/n on input line 50.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `boldtabular' on input line
+ 50.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `boldtabular
+'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/regular/n on input line 50.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/lmr/regular/n --> TU/lmr/regular/n on input line 50.
+
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/lmr/regular/it on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/MontserratAlternates-TLF/regular/n 
+on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/regular/n on input line 50.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/lmr/regular/n --> TU/lmr/b/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/MontserratAlternates-TLF/b/n on in
+put line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 50.
+LaTeX Info: Redefining \rmfamily on input line 50.
+LaTeX Info: Redefining \sffamily on input line 50.
+LaTeX Info: Redefining \ttfamily on input line 50.
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: luatex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(14.22636pt, 540.60239pt, 14.22636pt)
+* v-part:(T,H,B)=(14.22636pt, 540.60239pt, 14.22636pt)
+* \paperwidth=569.05511pt
+* \paperheight=569.05511pt
+* \textwidth=540.60239pt
+* \textheight=540.60239pt
+* \oddsidemargin=-58.04362pt
+* \evensidemargin=-58.04362pt
+* \topmargin=-89.91742pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=11.0pt
+* \footskip=27.46295pt
+* \marginparwidth=116.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<Pictures/other/lsa-eagle-black.png, id=195, 45.16875pt x 45.16875pt>
+File: Pictures/other/lsa-eagle-black.png Graphic file (type png)
+<use Pictures/other/lsa-eagle-black.png>
+Package luatex.def Info: Pictures/other/lsa-eagle-black.png  used on input line
+ 65.
+(luatex.def)             Requested size: 227.68057pt x 227.68057pt.
+
+
+[1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}<./Pictures/other/lsa-eagle-b
+lack.png>]
+<Pictures/flags/ukraine.png, id=203, 637.96965pt x 637.96965pt>
+File: Pictures/flags/ukraine.png Graphic file (type png)
+<use Pictures/flags/ukraine.png>
+Package luatex.def Info: Pictures/flags/ukraine.png  used on input line 94.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+
+
+LaTeX Font Warning: Font shape `TU/lmr/regular/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 116.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 116.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 116.
+LaTeX Font Info:    Trying to load font information for TS1+MontserratAlternate
+s-TLF on input line 130.
+
+(/usr/share/texlive/texmf-dist/tex/latex/montserrat/TS1MontserratAlternates-TLF
+.fd
+File: TS1MontserratAlternates-TLF.fd 2019/11/07 (autoinst) Font definitions for
+ TS1/MontserratAlternates-TLF.
+)
+
+[2
+
+<./Pictures/flags/ukraine.png>] (./cookbook.toc
+LaTeX Info: Redefining \rmfamily on input line 1.
+LaTeX Info: Redefining \sffamily on input line 1.
+LaTeX Info: Redefining \ttfamily on input line 1.
+LaTeX Info: Redefining \rmfamily on input line 2.
+LaTeX Info: Redefining \sffamily on input line 2.
+LaTeX Info: Redefining \ttfamily on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 5.
+
+
+[3
+
+]
+Package polyglossia Info: Option: English, variant=american.
+Package polyglossia Info: Option: English, variant=american.
+LaTeX Info: Redefining \rmfamily on input line 34.
+LaTeX Info: Redefining \sffamily on input line 34.
+LaTeX Info: Redefining \ttfamily on input line 34.
+Package polyglossia Info: Option: English, variant=american.
+Package polyglossia Info: Option: English, variant=american.
+LaTeX Info: Redefining \rmfamily on input line 35.
+LaTeX Info: Redefining \sffamily on input line 35.
+LaTeX Info: Redefining \ttfamily on input line 35.
+Package polyglossia Info: Option: English, variant=american.
+Package polyglossia Info: Option: English, variant=american.
+LaTeX Info: Redefining \rmfamily on input line 41.
+LaTeX Info: Redefining \sffamily on input line 41.
+LaTeX Info: Redefining \ttfamily on input line 41.
+Package polyglossia Info: Option: English, variant=american.
+Package polyglossia Info: Option: English, variant=american.
+LaTeX Info: Redefining \rmfamily on input line 42.
+LaTeX Info: Redefining \sffamily on input line 42.
+LaTeX Info: Redefining \ttfamily on input line 42.
+Package polyglossia Info: Option: English, variant=american.
+Package polyglossia Info: Option: English, variant=american.
+LaTeX Info: Redefining \rmfamily on input line 46.
+LaTeX Info: Redefining \sffamily on input line 46.
+LaTeX Info: Redefining \ttfamily on input line 46.
+Package polyglossia Info: Option: English, variant=american.
+Package polyglossia Info: Option: English, variant=american.
+LaTeX Info: Redefining \rmfamily on input line 47.
+LaTeX Info: Redefining \sffamily on input line 47.
+LaTeX Info: Redefining \ttfamily on input line 47.
+
+
+[4])
+\tf@toc=\write6
+
+\openout6 = cookbook.toc
+
+
+LaTeX Info: Redefining \rmfamily on input line 142.
+LaTeX Info: Redefining \sffamily on input line 142.
+LaTeX Info: Redefining \ttfamily on input line 142.
+LaTeX Info: Redefining \rmfamily on input line 142.
+LaTeX Info: Redefining \sffamily on input line 142.
+LaTeX Info: Redefining \ttfamily on input line 142.
+[5]
+
+[6
+
+]
+
+[7]
+
+[8]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 146.
+<Pictures/ico/chef.png, id=288, 377.57388pt x 377.57388pt>
+File: Pictures/ico/chef.png Graphic file (type png)
+<use Pictures/ico/chef.png>
+Package luatex.def Info: Pictures/ico/chef.png  used on input line 166.
+(luatex.def)             Requested size: 14.99667pt x 15.0pt.
+<Pictures/ico/pot.png, id=289, 377.57388pt x 377.57388pt>
+File: Pictures/ico/pot.png Graphic file (type png)
+<use Pictures/ico/pot.png>
+Package luatex.def Info: Pictures/ico/pot.png  used on input line 167.
+(luatex.def)             Requested size: 14.99667pt x 15.0pt.
+<Pictures/ico/oven.png, id=290, 377.57388pt x 377.57388pt>
+File: Pictures/ico/oven.png Graphic file (type png)
+<use Pictures/ico/oven.png>
+Package luatex.def Info: Pictures/ico/oven.png  used on input line 168.
+(luatex.def)             Requested size: 14.99667pt x 15.0pt.
+<Pictures/ico/fridge.png, id=291, 411.136pt x 411.136pt>
+File: Pictures/ico/fridge.png Graphic file (type png)
+<use Pictures/ico/fridge.png>
+Package luatex.def Info: Pictures/ico/fridge.png  used on input line 169.
+(luatex.def)             Requested size: 14.99974pt x 15.0pt.
+<Pictures/ico/plate.png, id=292, 411.136pt x 411.136pt>
+File: Pictures/ico/plate.png Graphic file (type png)
+<use Pictures/ico/plate.png>
+Package luatex.def Info: Pictures/ico/plate.png  used on input line 170.
+(luatex.def)             Requested size: 14.99974pt x 15.0pt.
+<Pictures/ico/biscuit.png, id=293, 385.44pt x 385.44pt>
+File: Pictures/ico/biscuit.png Graphic file (type png)
+<use Pictures/ico/biscuit.png>
+Package luatex.def Info: Pictures/ico/biscuit.png  used on input line 171.
+(luatex.def)             Requested size: 14.99739pt x 15.0pt.
+<Pictures/ico/cake.png, id=294, 385.44pt x 385.44pt>
+File: Pictures/ico/cake.png Graphic file (type png)
+<use Pictures/ico/cake.png>
+Package luatex.def Info: Pictures/ico/cake.png  used on input line 172.
+(luatex.def)             Requested size: 14.99739pt x 15.0pt.
+<Pictures/ico/robot.png, id=295, 283.0575pt x 283.0575pt>
+File: Pictures/ico/robot.png Graphic file (type png)
+<use Pictures/ico/robot.png>
+Package luatex.def Info: Pictures/ico/robot.png  used on input line 173.
+(luatex.def)             Requested size: 14.99593pt x 15.0pt.
+<Pictures/ico/bobcat.png, id=296, 486.81876pt x 294.09875pt>
+File: Pictures/ico/bobcat.png Graphic file (type png)
+<use Pictures/ico/bobcat.png>
+Package luatex.def Info: Pictures/ico/bobcat.png  used on input line 174.
+(luatex.def)             Requested size: 24.8252pt x 15.0pt.
+
+Overfull \hbox (19.17934pt too wide) in paragraph at lines 165--176
+[][] 
+ []
+
+
+
+[9<./Pictures/ico/chef.png><./Pictures/ico/pot.png><./Pictures/ico/oven.png><./P
+ictures/ico/fridge.png><./Pictures/ico/plate.png><./Pictures/ico/biscuit.png><./
+Pictures/ico/cake.png><./Pictures/ico/robot.png><./Pictures/ico/bobcat.png>]
+<Pictures/flags/afghanistan.png, id=312, 637.96965pt x 637.96965pt>
+File: Pictures/flags/afghanistan.png Graphic file (type png)
+<use Pictures/flags/afghanistan.png>
+Package luatex.def Info: Pictures/flags/afghanistan.png  used on input line 209
+.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/albania.png, id=313, 637.96965pt x 637.96965pt>
+File: Pictures/flags/albania.png Graphic file (type png)
+<use Pictures/flags/albania.png>
+Package luatex.def Info: Pictures/flags/albania.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/algeria.png, id=314, 637.96965pt x 637.96965pt>
+File: Pictures/flags/algeria.png Graphic file (type png)
+<use Pictures/flags/algeria.png>
+Package luatex.def Info: Pictures/flags/algeria.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/andorra.png, id=315, 637.96965pt x 637.96965pt>
+File: Pictures/flags/andorra.png Graphic file (type png)
+<use Pictures/flags/andorra.png>
+Package luatex.def Info: Pictures/flags/andorra.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/angola.png, id=316, 637.96965pt x 637.96965pt>
+File: Pictures/flags/angola.png Graphic file (type png)
+<use Pictures/flags/angola.png>
+Package luatex.def Info: Pictures/flags/angola.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/antigua-and-barbuda.png, id=317, 637.96965pt x 637.96965pt>
+File: Pictures/flags/antigua-and-barbuda.png Graphic file (type png)
+<use Pictures/flags/antigua-and-barbuda.png>
+Package luatex.def Info: Pictures/flags/antigua-and-barbuda.png  used on input 
+line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/argentina.png, id=318, 373.76pt x 373.76pt>
+File: Pictures/flags/argentina.png Graphic file (type png)
+<use Pictures/flags/argentina.png>
+Package luatex.def Info: Pictures/flags/argentina.png  used on input line 209.
+(luatex.def)             Requested size: 15.99722pt x 16.0pt.
+<Pictures/flags/armenia.png, id=319, 637.96965pt x 637.96965pt>
+File: Pictures/flags/armenia.png Graphic file (type png)
+<use Pictures/flags/armenia.png>
+Package luatex.def Info: Pictures/flags/armenia.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/american-samoa.png, id=320, 637.96965pt x 637.96965pt>
+File: Pictures/flags/american-samoa.png Graphic file (type png)
+<use Pictures/flags/american-samoa.png>
+Package luatex.def Info: Pictures/flags/american-samoa.png  used on input line 
+209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/australia.png, id=321, 637.96965pt x 637.96965pt>
+File: Pictures/flags/australia.png Graphic file (type png)
+<use Pictures/flags/australia.png>
+Package luatex.def Info: Pictures/flags/australia.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/austria.png, id=322, 637.96965pt x 637.96965pt>
+File: Pictures/flags/austria.png Graphic file (type png)
+<use Pictures/flags/austria.png>
+Package luatex.def Info: Pictures/flags/austria.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/azerbaijan.png, id=323, 637.96965pt x 637.96965pt>
+File: Pictures/flags/azerbaijan.png Graphic file (type png)
+<use Pictures/flags/azerbaijan.png>
+Package luatex.def Info: Pictures/flags/azerbaijan.png  used on input line 209.
+
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/bahamas.png, id=324, 637.96965pt x 637.96965pt>
+File: Pictures/flags/bahamas.png Graphic file (type png)
+<use Pictures/flags/bahamas.png>
+Package luatex.def Info: Pictures/flags/bahamas.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/bangladesh.png, id=325, 637.96965pt x 637.96965pt>
+File: Pictures/flags/bangladesh.png Graphic file (type png)
+<use Pictures/flags/bangladesh.png>
+Package luatex.def Info: Pictures/flags/bangladesh.png  used on input line 209.
+
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/barbados.png, id=326, 637.96965pt x 637.96965pt>
+File: Pictures/flags/barbados.png Graphic file (type png)
+<use Pictures/flags/barbados.png>
+Package luatex.def Info: Pictures/flags/barbados.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/burundi.png, id=327, 637.96965pt x 637.96965pt>
+File: Pictures/flags/burundi.png Graphic file (type png)
+<use Pictures/flags/burundi.png>
+Package luatex.def Info: Pictures/flags/burundi.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/belgium.png, id=328, 637.96965pt x 637.96965pt>
+File: Pictures/flags/belgium.png Graphic file (type png)
+<use Pictures/flags/belgium.png>
+Package luatex.def Info: Pictures/flags/belgium.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/benin.png, id=329, 637.96965pt x 637.96965pt>
+File: Pictures/flags/benin.png Graphic file (type png)
+<use Pictures/flags/benin.png>
+Package luatex.def Info: Pictures/flags/benin.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/bermuda.png, id=330, 637.96965pt x 637.96965pt>
+File: Pictures/flags/bermuda.png Graphic file (type png)
+<use Pictures/flags/bermuda.png>
+Package luatex.def Info: Pictures/flags/bermuda.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/bhutan.png, id=331, 637.96965pt x 637.96965pt>
+File: Pictures/flags/bhutan.png Graphic file (type png)
+<use Pictures/flags/bhutan.png>
+Package luatex.def Info: Pictures/flags/bhutan.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/bosnia-and-herzegovina.png, id=332, 637.96965pt x 637.96965pt>
+File: Pictures/flags/bosnia-and-herzegovina.png Graphic file (type png)
+<use Pictures/flags/bosnia-and-herzegovina.png>
+Package luatex.def Info: Pictures/flags/bosnia-and-herzegovina.png  used on inp
+ut line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/belize.png, id=333, 637.96965pt x 637.96965pt>
+File: Pictures/flags/belize.png Graphic file (type png)
+<use Pictures/flags/belize.png>
+Package luatex.def Info: Pictures/flags/belize.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/bolivia.png, id=334, 637.96965pt x 637.96965pt>
+File: Pictures/flags/bolivia.png Graphic file (type png)
+<use Pictures/flags/bolivia.png>
+Package luatex.def Info: Pictures/flags/bolivia.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/botswana.png, id=335, 637.96965pt x 637.96965pt>
+File: Pictures/flags/botswana.png Graphic file (type png)
+<use Pictures/flags/botswana.png>
+Package luatex.def Info: Pictures/flags/botswana.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/brazil.png, id=336, 637.96965pt x 637.96965pt>
+File: Pictures/flags/brazil.png Graphic file (type png)
+<use Pictures/flags/brazil.png>
+Package luatex.def Info: Pictures/flags/brazil.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/bahrain.png, id=337, 637.96965pt x 637.96965pt>
+File: Pictures/flags/bahrain.png Graphic file (type png)
+<use Pictures/flags/bahrain.png>
+Package luatex.def Info: Pictures/flags/bahrain.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/brunei.png, id=338, 637.96965pt x 637.96965pt>
+File: Pictures/flags/brunei.png Graphic file (type png)
+<use Pictures/flags/brunei.png>
+Package luatex.def Info: Pictures/flags/brunei.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/bulgaria.png, id=339, 637.96965pt x 637.96965pt>
+File: Pictures/flags/bulgaria.png Graphic file (type png)
+<use Pictures/flags/bulgaria.png>
+Package luatex.def Info: Pictures/flags/bulgaria.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/burkina-faso.png, id=340, 373.76pt x 373.76pt>
+File: Pictures/flags/burkina-faso.png Graphic file (type png)
+<use Pictures/flags/burkina-faso.png>
+Package luatex.def Info: Pictures/flags/burkina-faso.png  used on input line 20
+9.
+(luatex.def)             Requested size: 15.99722pt x 16.0pt.
+<Pictures/flags/central-african-republic.png, id=341, 637.96965pt x 637.96965pt
+>
+File: Pictures/flags/central-african-republic.png Graphic file (type png)
+<use Pictures/flags/central-african-republic.png>
+Package luatex.def Info: Pictures/flags/central-african-republic.png  used on i
+nput line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/cambodia.png, id=342, 637.96965pt x 637.96965pt>
+File: Pictures/flags/cambodia.png Graphic file (type png)
+<use Pictures/flags/cambodia.png>
+Package luatex.def Info: Pictures/flags/cambodia.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/cayman-islands.png, id=343, 637.96965pt x 637.96965pt>
+File: Pictures/flags/cayman-islands.png Graphic file (type png)
+<use Pictures/flags/cayman-islands.png>
+Package luatex.def Info: Pictures/flags/cayman-islands.png  used on input line 
+209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+File: Pictures/flags/cayman-islands.png Graphic file (type png)
+<use Pictures/flags/cayman-islands.png>
+Package luatex.def Info: Pictures/flags/cayman-islands.png  used on input line 
+209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/republic-of-the-congo.png, id=344, 637.96965pt x 637.96965pt>
+File: Pictures/flags/republic-of-the-congo.png Graphic file (type png)
+<use Pictures/flags/republic-of-the-congo.png>
+Package luatex.def Info: Pictures/flags/republic-of-the-congo.png  used on inpu
+t line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/chad.png, id=345, 637.96965pt x 637.96965pt>
+File: Pictures/flags/chad.png Graphic file (type png)
+<use Pictures/flags/chad.png>
+Package luatex.def Info: Pictures/flags/chad.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/chile.png, id=346, 637.96965pt x 637.96965pt>
+File: Pictures/flags/chile.png Graphic file (type png)
+<use Pictures/flags/chile.png>
+Package luatex.def Info: Pictures/flags/chile.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/china.png, id=347, 637.96965pt x 637.96965pt>
+File: Pictures/flags/china.png Graphic file (type png)
+<use Pictures/flags/china.png>
+Package luatex.def Info: Pictures/flags/china.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/ivory-coast.png, id=348, 637.96965pt x 637.96965pt>
+File: Pictures/flags/ivory-coast.png Graphic file (type png)
+<use Pictures/flags/ivory-coast.png>
+Package luatex.def Info: Pictures/flags/ivory-coast.png  used on input line 209
+.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/cameroon.png, id=349, 637.96965pt x 637.96965pt>
+File: Pictures/flags/cameroon.png Graphic file (type png)
+<use Pictures/flags/cameroon.png>
+Package luatex.def Info: Pictures/flags/cameroon.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/democratic-republic-of-congo.png, id=350, 637.96965pt x 637.969
+65pt>
+File: Pictures/flags/democratic-republic-of-congo.png Graphic file (type png)
+<use Pictures/flags/democratic-republic-of-congo.png>
+Package luatex.def Info: Pictures/flags/democratic-republic-of-congo.png  used 
+on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/colombia.png, id=351, 637.96965pt x 637.96965pt>
+File: Pictures/flags/colombia.png Graphic file (type png)
+<use Pictures/flags/colombia.png>
+Package luatex.def Info: Pictures/flags/colombia.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/comoros.png, id=352, 637.96965pt x 637.96965pt>
+File: Pictures/flags/comoros.png Graphic file (type png)
+<use Pictures/flags/comoros.png>
+Package luatex.def Info: Pictures/flags/comoros.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/cape-verde.png, id=353, 637.96965pt x 637.96965pt>
+File: Pictures/flags/cape-verde.png Graphic file (type png)
+<use Pictures/flags/cape-verde.png>
+Package luatex.def Info: Pictures/flags/cape-verde.png  used on input line 209.
+
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/costa-rica.png, id=354, 637.96965pt x 637.96965pt>
+File: Pictures/flags/costa-rica.png Graphic file (type png)
+<use Pictures/flags/costa-rica.png>
+Package luatex.def Info: Pictures/flags/costa-rica.png  used on input line 209.
+
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/croatia.png, id=355, 637.96965pt x 637.96965pt>
+File: Pictures/flags/croatia.png Graphic file (type png)
+<use Pictures/flags/croatia.png>
+Package luatex.def Info: Pictures/flags/croatia.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/cuba.png, id=356, 637.96965pt x 637.96965pt>
+File: Pictures/flags/cuba.png Graphic file (type png)
+<use Pictures/flags/cuba.png>
+Package luatex.def Info: Pictures/flags/cuba.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/cyprus.png, id=357, 637.96965pt x 637.96965pt>
+File: Pictures/flags/cyprus.png Graphic file (type png)
+<use Pictures/flags/cyprus.png>
+Package luatex.def Info: Pictures/flags/cyprus.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/czech-republic.png, id=358, 637.96965pt x 637.96965pt>
+File: Pictures/flags/czech-republic.png Graphic file (type png)
+<use Pictures/flags/czech-republic.png>
+Package luatex.def Info: Pictures/flags/czech-republic.png  used on input line 
+209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/denmark.png, id=359, 637.96965pt x 637.96965pt>
+File: Pictures/flags/denmark.png Graphic file (type png)
+<use Pictures/flags/denmark.png>
+Package luatex.def Info: Pictures/flags/denmark.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/djibouti.png, id=360, 637.96965pt x 637.96965pt>
+File: Pictures/flags/djibouti.png Graphic file (type png)
+<use Pictures/flags/djibouti.png>
+Package luatex.def Info: Pictures/flags/djibouti.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/dominica.png, id=361, 373.76pt x 373.76pt>
+File: Pictures/flags/dominica.png Graphic file (type png)
+<use Pictures/flags/dominica.png>
+Package luatex.def Info: Pictures/flags/dominica.png  used on input line 209.
+(luatex.def)             Requested size: 15.99722pt x 16.0pt.
+<Pictures/flags/dominican-republic.png, id=362, 637.96965pt x 637.96965pt>
+File: Pictures/flags/dominican-republic.png Graphic file (type png)
+<use Pictures/flags/dominican-republic.png>
+Package luatex.def Info: Pictures/flags/dominican-republic.png  used on input l
+ine 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/ecuador.png, id=363, 637.96965pt x 637.96965pt>
+File: Pictures/flags/ecuador.png Graphic file (type png)
+<use Pictures/flags/ecuador.png>
+Package luatex.def Info: Pictures/flags/ecuador.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/egypt.png, id=364, 637.96965pt x 637.96965pt>
+File: Pictures/flags/egypt.png Graphic file (type png)
+<use Pictures/flags/egypt.png>
+Package luatex.def Info: Pictures/flags/egypt.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/england.png, id=365, 637.96965pt x 637.96965pt>
+File: Pictures/flags/england.png Graphic file (type png)
+<use Pictures/flags/england.png>
+Package luatex.def Info: Pictures/flags/england.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/eritrea.png, id=366, 637.96965pt x 637.96965pt>
+File: Pictures/flags/eritrea.png Graphic file (type png)
+<use Pictures/flags/eritrea.png>
+Package luatex.def Info: Pictures/flags/eritrea.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/el-salvador.png, id=367, 637.96965pt x 637.96965pt>
+File: Pictures/flags/el-salvador.png Graphic file (type png)
+<use Pictures/flags/el-salvador.png>
+Package luatex.def Info: Pictures/flags/el-salvador.png  used on input line 209
+.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/spain.png, id=368, 637.96965pt x 637.96965pt>
+File: Pictures/flags/spain.png Graphic file (type png)
+<use Pictures/flags/spain.png>
+Package luatex.def Info: Pictures/flags/spain.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/estonia.png, id=369, 637.96965pt x 637.96965pt>
+File: Pictures/flags/estonia.png Graphic file (type png)
+<use Pictures/flags/estonia.png>
+Package luatex.def Info: Pictures/flags/estonia.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/ethiopia.png, id=370, 637.96965pt x 637.96965pt>
+File: Pictures/flags/ethiopia.png Graphic file (type png)
+<use Pictures/flags/ethiopia.png>
+Package luatex.def Info: Pictures/flags/ethiopia.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/european-union.png, id=371, 637.96965pt x 637.96965pt>
+File: Pictures/flags/european-union.png Graphic file (type png)
+<use Pictures/flags/european-union.png>
+Package luatex.def Info: Pictures/flags/european-union.png  used on input line 
+209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/fiji.png, id=372, 637.96965pt x 637.96965pt>
+File: Pictures/flags/fiji.png Graphic file (type png)
+<use Pictures/flags/fiji.png>
+Package luatex.def Info: Pictures/flags/fiji.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/finland.png, id=373, 637.96965pt x 637.96965pt>
+File: Pictures/flags/finland.png Graphic file (type png)
+<use Pictures/flags/finland.png>
+Package luatex.def Info: Pictures/flags/finland.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/france.png, id=374, 637.96965pt x 637.96965pt>
+File: Pictures/flags/france.png Graphic file (type png)
+<use Pictures/flags/france.png>
+Package luatex.def Info: Pictures/flags/france.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/gabon.png, id=375, 637.96965pt x 637.96965pt>
+File: Pictures/flags/gabon.png Graphic file (type png)
+<use Pictures/flags/gabon.png>
+Package luatex.def Info: Pictures/flags/gabon.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/gambia.png, id=376, 637.96965pt x 637.96965pt>
+File: Pictures/flags/gambia.png Graphic file (type png)
+<use Pictures/flags/gambia.png>
+Package luatex.def Info: Pictures/flags/gambia.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/united-kingdom.png, id=377, 637.96965pt x 637.96965pt>
+File: Pictures/flags/united-kingdom.png Graphic file (type png)
+<use Pictures/flags/united-kingdom.png>
+Package luatex.def Info: Pictures/flags/united-kingdom.png  used on input line 
+209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/guinea-bissau.png, id=378, 637.96965pt x 637.96965pt>
+File: Pictures/flags/guinea-bissau.png Graphic file (type png)
+<use Pictures/flags/guinea-bissau.png>
+Package luatex.def Info: Pictures/flags/guinea-bissau.png  used on input line 2
+09.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/georgia.png, id=379, 637.96965pt x 637.96965pt>
+File: Pictures/flags/georgia.png Graphic file (type png)
+<use Pictures/flags/georgia.png>
+Package luatex.def Info: Pictures/flags/georgia.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/equatorial-guinea.png, id=380, 637.96965pt x 637.96965pt>
+File: Pictures/flags/equatorial-guinea.png Graphic file (type png)
+<use Pictures/flags/equatorial-guinea.png>
+Package luatex.def Info: Pictures/flags/equatorial-guinea.png  used on input li
+ne 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/germany.png, id=381, 637.96965pt x 637.96965pt>
+File: Pictures/flags/germany.png Graphic file (type png)
+<use Pictures/flags/germany.png>
+Package luatex.def Info: Pictures/flags/germany.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/ghana.png, id=382, 637.96965pt x 637.96965pt>
+File: Pictures/flags/ghana.png Graphic file (type png)
+<use Pictures/flags/ghana.png>
+Package luatex.def Info: Pictures/flags/ghana.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/greece.png, id=383, 637.96965pt x 637.96965pt>
+File: Pictures/flags/greece.png Graphic file (type png)
+<use Pictures/flags/greece.png>
+Package luatex.def Info: Pictures/flags/greece.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/grenada.png, id=384, 637.96965pt x 637.96965pt>
+File: Pictures/flags/grenada.png Graphic file (type png)
+<use Pictures/flags/grenada.png>
+Package luatex.def Info: Pictures/flags/grenada.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/guatemala.png, id=385, 637.96965pt x 637.96965pt>
+File: Pictures/flags/guatemala.png Graphic file (type png)
+<use Pictures/flags/guatemala.png>
+Package luatex.def Info: Pictures/flags/guatemala.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/guinea.png, id=386, 637.96965pt x 637.96965pt>
+File: Pictures/flags/guinea.png Graphic file (type png)
+<use Pictures/flags/guinea.png>
+Package luatex.def Info: Pictures/flags/guinea.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/guam.png, id=387, 637.96965pt x 637.96965pt>
+File: Pictures/flags/guam.png Graphic file (type png)
+<use Pictures/flags/guam.png>
+Package luatex.def Info: Pictures/flags/guam.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/guyana.png, id=388, 637.96965pt x 637.96965pt>
+File: Pictures/flags/guyana.png Graphic file (type png)
+<use Pictures/flags/guyana.png>
+Package luatex.def Info: Pictures/flags/guyana.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/haiti.png, id=389, 637.96965pt x 637.96965pt>
+File: Pictures/flags/haiti.png Graphic file (type png)
+<use Pictures/flags/haiti.png>
+Package luatex.def Info: Pictures/flags/haiti.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/hong-kong.png, id=390, 637.96965pt x 637.96965pt>
+File: Pictures/flags/hong-kong.png Graphic file (type png)
+<use Pictures/flags/hong-kong.png>
+Package luatex.def Info: Pictures/flags/hong-kong.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/honduras.png, id=391, 637.96965pt x 637.96965pt>
+File: Pictures/flags/honduras.png Graphic file (type png)
+<use Pictures/flags/honduras.png>
+Package luatex.def Info: Pictures/flags/honduras.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/hungary.png, id=392, 637.96965pt x 637.96965pt>
+File: Pictures/flags/hungary.png Graphic file (type png)
+<use Pictures/flags/hungary.png>
+Package luatex.def Info: Pictures/flags/hungary.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/iceland.png, id=393, 637.96965pt x 637.96965pt>
+File: Pictures/flags/iceland.png Graphic file (type png)
+<use Pictures/flags/iceland.png>
+Package luatex.def Info: Pictures/flags/iceland.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/indonesia.png, id=394, 637.96965pt x 637.96965pt>
+File: Pictures/flags/indonesia.png Graphic file (type png)
+<use Pictures/flags/indonesia.png>
+Package luatex.def Info: Pictures/flags/indonesia.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/india.png, id=395, 637.96965pt x 637.96965pt>
+File: Pictures/flags/india.png Graphic file (type png)
+<use Pictures/flags/india.png>
+Package luatex.def Info: Pictures/flags/india.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/iran.png, id=396, 637.96965pt x 637.96965pt>
+File: Pictures/flags/iran.png Graphic file (type png)
+<use Pictures/flags/iran.png>
+Package luatex.def Info: Pictures/flags/iran.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/ireland.png, id=397, 637.96965pt x 637.96965pt>
+File: Pictures/flags/ireland.png Graphic file (type png)
+<use Pictures/flags/ireland.png>
+Package luatex.def Info: Pictures/flags/ireland.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/iraq.png, id=398, 637.96965pt x 637.96965pt>
+File: Pictures/flags/iraq.png Graphic file (type png)
+<use Pictures/flags/iraq.png>
+Package luatex.def Info: Pictures/flags/iraq.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/israel.png, id=399, 637.96965pt x 637.96965pt>
+File: Pictures/flags/israel.png Graphic file (type png)
+<use Pictures/flags/israel.png>
+Package luatex.def Info: Pictures/flags/israel.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/virgin-islands.png, id=400, 637.96965pt x 637.96965pt>
+File: Pictures/flags/virgin-islands.png Graphic file (type png)
+<use Pictures/flags/virgin-islands.png>
+Package luatex.def Info: Pictures/flags/virgin-islands.png  used on input line 
+209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/italy.png, id=401, 637.96965pt x 637.96965pt>
+File: Pictures/flags/italy.png Graphic file (type png)
+<use Pictures/flags/italy.png>
+Package luatex.def Info: Pictures/flags/italy.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/british-virgin-islands.png, id=402, 637.96965pt x 637.96965pt>
+File: Pictures/flags/british-virgin-islands.png Graphic file (type png)
+<use Pictures/flags/british-virgin-islands.png>
+Package luatex.def Info: Pictures/flags/british-virgin-islands.png  used on inp
+ut line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/jamaica.png, id=403, 637.96965pt x 637.96965pt>
+File: Pictures/flags/jamaica.png Graphic file (type png)
+<use Pictures/flags/jamaica.png>
+Package luatex.def Info: Pictures/flags/jamaica.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/jordan.png, id=404, 637.96965pt x 637.96965pt>
+File: Pictures/flags/jordan.png Graphic file (type png)
+<use Pictures/flags/jordan.png>
+Package luatex.def Info: Pictures/flags/jordan.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/japan.png, id=405, 637.96965pt x 637.96965pt>
+File: Pictures/flags/japan.png Graphic file (type png)
+<use Pictures/flags/japan.png>
+Package luatex.def Info: Pictures/flags/japan.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/kenya.png, id=406, 637.96965pt x 637.96965pt>
+File: Pictures/flags/kenya.png Graphic file (type png)
+<use Pictures/flags/kenya.png>
+Package luatex.def Info: Pictures/flags/kenya.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/kazakhstan.png, id=407, 637.96965pt x 637.96965pt>
+File: Pictures/flags/kazakhstan.png Graphic file (type png)
+<use Pictures/flags/kazakhstan.png>
+Package luatex.def Info: Pictures/flags/kazakhstan.png  used on input line 209.
+
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/kiribati.png, id=408, 637.96965pt x 637.96965pt>
+File: Pictures/flags/kiribati.png Graphic file (type png)
+<use Pictures/flags/kiribati.png>
+Package luatex.def Info: Pictures/flags/kiribati.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/south-korea.png, id=409, 637.96965pt x 637.96965pt>
+File: Pictures/flags/south-korea.png Graphic file (type png)
+<use Pictures/flags/south-korea.png>
+Package luatex.def Info: Pictures/flags/south-korea.png  used on input line 209
+.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/kosovo.png, id=410, 637.96965pt x 637.96965pt>
+File: Pictures/flags/kosovo.png Graphic file (type png)
+<use Pictures/flags/kosovo.png>
+Package luatex.def Info: Pictures/flags/kosovo.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/saudi-arabia.png, id=411, 637.96965pt x 637.96965pt>
+File: Pictures/flags/saudi-arabia.png Graphic file (type png)
+<use Pictures/flags/saudi-arabia.png>
+Package luatex.def Info: Pictures/flags/saudi-arabia.png  used on input line 20
+9.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/kuwait.png, id=412, 637.96965pt x 637.96965pt>
+File: Pictures/flags/kuwait.png Graphic file (type png)
+<use Pictures/flags/kuwait.png>
+Package luatex.def Info: Pictures/flags/kuwait.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/laos.png, id=413, 637.96965pt x 637.96965pt>
+File: Pictures/flags/laos.png Graphic file (type png)
+<use Pictures/flags/laos.png>
+Package luatex.def Info: Pictures/flags/laos.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/latvia.png, id=414, 637.96965pt x 637.96965pt>
+File: Pictures/flags/latvia.png Graphic file (type png)
+<use Pictures/flags/latvia.png>
+Package luatex.def Info: Pictures/flags/latvia.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/libya.png, id=415, 637.96965pt x 637.96965pt>
+File: Pictures/flags/libya.png Graphic file (type png)
+<use Pictures/flags/libya.png>
+Package luatex.def Info: Pictures/flags/libya.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/lebanon.png, id=416, 637.96965pt x 637.96965pt>
+File: Pictures/flags/lebanon.png Graphic file (type png)
+<use Pictures/flags/lebanon.png>
+Package luatex.def Info: Pictures/flags/lebanon.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/liberia.png, id=417, 637.96965pt x 637.96965pt>
+File: Pictures/flags/liberia.png Graphic file (type png)
+<use Pictures/flags/liberia.png>
+Package luatex.def Info: Pictures/flags/liberia.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/lesotho.png, id=418, 637.96965pt x 637.96965pt>
+File: Pictures/flags/lesotho.png Graphic file (type png)
+<use Pictures/flags/lesotho.png>
+Package luatex.def Info: Pictures/flags/lesotho.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/liechtenstein.png, id=419, 373.76pt x 373.76pt>
+File: Pictures/flags/liechtenstein.png Graphic file (type png)
+<use Pictures/flags/liechtenstein.png>
+Package luatex.def Info: Pictures/flags/liechtenstein.png  used on input line 2
+09.
+(luatex.def)             Requested size: 15.99722pt x 16.0pt.
+<Pictures/flags/lithuania.png, id=420, 373.76pt x 373.76pt>
+File: Pictures/flags/lithuania.png Graphic file (type png)
+<use Pictures/flags/lithuania.png>
+Package luatex.def Info: Pictures/flags/lithuania.png  used on input line 209.
+(luatex.def)             Requested size: 15.99722pt x 16.0pt.
+<Pictures/flags/luxembourg.png, id=421, 373.76pt x 373.76pt>
+File: Pictures/flags/luxembourg.png Graphic file (type png)
+<use Pictures/flags/luxembourg.png>
+Package luatex.def Info: Pictures/flags/luxembourg.png  used on input line 209.
+
+(luatex.def)             Requested size: 15.99722pt x 16.0pt.
+<Pictures/flags/madagascar.png, id=422, 373.76pt x 373.76pt>
+File: Pictures/flags/madagascar.png Graphic file (type png)
+<use Pictures/flags/madagascar.png>
+Package luatex.def Info: Pictures/flags/madagascar.png  used on input line 209.
+
+(luatex.def)             Requested size: 15.99722pt x 16.0pt.
+<Pictures/flags/morocco.png, id=423, 373.76pt x 373.76pt>
+File: Pictures/flags/morocco.png Graphic file (type png)
+<use Pictures/flags/morocco.png>
+Package luatex.def Info: Pictures/flags/morocco.png  used on input line 209.
+(luatex.def)             Requested size: 15.99722pt x 16.0pt.
+<Pictures/flags/malasya.png, id=424, 373.76pt x 373.76pt>
+File: Pictures/flags/malasya.png Graphic file (type png)
+<use Pictures/flags/malasya.png>
+Package luatex.def Info: Pictures/flags/malasya.png  used on input line 209.
+(luatex.def)             Requested size: 15.99722pt x 16.0pt.
+<Pictures/flags/malawi.png, id=425, 373.76pt x 373.76pt>
+File: Pictures/flags/malawi.png Graphic file (type png)
+<use Pictures/flags/malawi.png>
+Package luatex.def Info: Pictures/flags/malawi.png  used on input line 209.
+(luatex.def)             Requested size: 15.99722pt x 16.0pt.
+<Pictures/flags/mexico.png, id=426, 373.76pt x 373.76pt>
+File: Pictures/flags/mexico.png Graphic file (type png)
+<use Pictures/flags/mexico.png>
+Package luatex.def Info: Pictures/flags/mexico.png  used on input line 209.
+(luatex.def)             Requested size: 15.99722pt x 16.0pt.
+<Pictures/flags/moldova.png, id=427, 373.76pt x 373.76pt>
+File: Pictures/flags/moldova.png Graphic file (type png)
+<use Pictures/flags/moldova.png>
+Package luatex.def Info: Pictures/flags/moldova.png  used on input line 209.
+(luatex.def)             Requested size: 15.99722pt x 16.0pt.
+<Pictures/flags/mongolia.png, id=428, 373.76pt x 373.76pt>
+File: Pictures/flags/mongolia.png Graphic file (type png)
+<use Pictures/flags/mongolia.png>
+Package luatex.def Info: Pictures/flags/mongolia.png  used on input line 209.
+(luatex.def)             Requested size: 15.99722pt x 16.0pt.
+<Pictures/flags/marshall-island.png, id=429, 373.76pt x 373.76pt>
+File: Pictures/flags/marshall-island.png Graphic file (type png)
+<use Pictures/flags/marshall-island.png>
+Package luatex.def Info: Pictures/flags/marshall-island.png  used on input line
+ 209.
+(luatex.def)             Requested size: 15.99722pt x 16.0pt.
+<Pictures/flags/mali.png, id=430, 373.76pt x 373.76pt>
+File: Pictures/flags/mali.png Graphic file (type png)
+<use Pictures/flags/mali.png>
+Package luatex.def Info: Pictures/flags/mali.png  used on input line 209.
+(luatex.def)             Requested size: 15.99722pt x 16.0pt.
+<Pictures/flags/malta.png, id=431, 373.76pt x 373.76pt>
+File: Pictures/flags/malta.png Graphic file (type png)
+<use Pictures/flags/malta.png>
+Package luatex.def Info: Pictures/flags/malta.png  used on input line 209.
+(luatex.def)             Requested size: 15.99722pt x 16.0pt.
+<Pictures/flags/micronesia.png, id=432, 373.76pt x 373.76pt>
+File: Pictures/flags/micronesia.png Graphic file (type png)
+<use Pictures/flags/micronesia.png>
+Package luatex.def Info: Pictures/flags/micronesia.png  used on input line 209.
+
+(luatex.def)             Requested size: 15.99722pt x 16.0pt.
+<Pictures/flags/montenegro.png, id=433, 373.76pt x 373.76pt>
+File: Pictures/flags/montenegro.png Graphic file (type png)
+<use Pictures/flags/montenegro.png>
+Package luatex.def Info: Pictures/flags/montenegro.png  used on input line 209.
+
+(luatex.def)             Requested size: 15.99722pt x 16.0pt.
+<Pictures/flags/monaco.png, id=434, 373.76pt x 373.76pt>
+File: Pictures/flags/monaco.png Graphic file (type png)
+<use Pictures/flags/monaco.png>
+Package luatex.def Info: Pictures/flags/monaco.png  used on input line 209.
+(luatex.def)             Requested size: 15.99722pt x 16.0pt.
+<Pictures/flags/mozambique.png, id=435, 373.76pt x 373.76pt>
+File: Pictures/flags/mozambique.png Graphic file (type png)
+<use Pictures/flags/mozambique.png>
+Package luatex.def Info: Pictures/flags/mozambique.png  used on input line 209.
+
+(luatex.def)             Requested size: 15.99722pt x 16.0pt.
+<Pictures/flags/mauritius.png, id=436, 373.76pt x 373.76pt>
+File: Pictures/flags/mauritius.png Graphic file (type png)
+<use Pictures/flags/mauritius.png>
+Package luatex.def Info: Pictures/flags/mauritius.png  used on input line 209.
+(luatex.def)             Requested size: 15.99722pt x 16.0pt.
+<Pictures/flags/mauritania.png, id=437, 373.76pt x 373.76pt>
+File: Pictures/flags/mauritania.png Graphic file (type png)
+<use Pictures/flags/mauritania.png>
+Package luatex.def Info: Pictures/flags/mauritania.png  used on input line 209.
+
+(luatex.def)             Requested size: 15.99722pt x 16.0pt.
+<Pictures/flags/myanmar.png, id=438, 373.76pt x 373.76pt>
+File: Pictures/flags/myanmar.png Graphic file (type png)
+<use Pictures/flags/myanmar.png>
+Package luatex.def Info: Pictures/flags/myanmar.png  used on input line 209.
+(luatex.def)             Requested size: 15.99722pt x 16.0pt.
+<Pictures/flags/namibia.png, id=439, 373.76pt x 373.76pt>
+File: Pictures/flags/namibia.png Graphic file (type png)
+<use Pictures/flags/namibia.png>
+Package luatex.def Info: Pictures/flags/namibia.png  used on input line 209.
+(luatex.def)             Requested size: 15.99722pt x 16.0pt.
+<Pictures/flags/otan.png, id=440, 637.96965pt x 637.96965pt>
+File: Pictures/flags/otan.png Graphic file (type png)
+<use Pictures/flags/otan.png>
+Package luatex.def Info: Pictures/flags/otan.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/nicaragua.png, id=441, 637.96965pt x 637.96965pt>
+File: Pictures/flags/nicaragua.png Graphic file (type png)
+<use Pictures/flags/nicaragua.png>
+Package luatex.def Info: Pictures/flags/nicaragua.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/nigeria.png, id=442, 637.96965pt x 637.96965pt>
+File: Pictures/flags/nigeria.png Graphic file (type png)
+<use Pictures/flags/nigeria.png>
+Package luatex.def Info: Pictures/flags/nigeria.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/netherlands.png, id=443, 637.96965pt x 637.96965pt>
+File: Pictures/flags/netherlands.png Graphic file (type png)
+<use Pictures/flags/netherlands.png>
+Package luatex.def Info: Pictures/flags/netherlands.png  used on input line 209
+.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/nepal.png, id=444, 637.96965pt x 637.96965pt>
+File: Pictures/flags/nepal.png Graphic file (type png)
+<use Pictures/flags/nepal.png>
+Package luatex.def Info: Pictures/flags/nepal.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/niger.png, id=445, 637.96965pt x 637.96965pt>
+File: Pictures/flags/niger.png Graphic file (type png)
+<use Pictures/flags/niger.png>
+Package luatex.def Info: Pictures/flags/niger.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/norway.png, id=446, 637.96965pt x 637.96965pt>
+File: Pictures/flags/norway.png Graphic file (type png)
+<use Pictures/flags/norway.png>
+Package luatex.def Info: Pictures/flags/norway.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/nauru.png, id=447, 637.96965pt x 637.96965pt>
+File: Pictures/flags/nauru.png Graphic file (type png)
+<use Pictures/flags/nauru.png>
+Package luatex.def Info: Pictures/flags/nauru.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/new-zealand.png, id=448, 637.96965pt x 637.96965pt>
+File: Pictures/flags/new-zealand.png Graphic file (type png)
+<use Pictures/flags/new-zealand.png>
+Package luatex.def Info: Pictures/flags/new-zealand.png  used on input line 209
+.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/oman.png, id=449, 637.96965pt x 637.96965pt>
+File: Pictures/flags/oman.png Graphic file (type png)
+<use Pictures/flags/oman.png>
+Package luatex.def Info: Pictures/flags/oman.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/pakistan.png, id=450, 637.96965pt x 637.96965pt>
+File: Pictures/flags/pakistan.png Graphic file (type png)
+<use Pictures/flags/pakistan.png>
+Package luatex.def Info: Pictures/flags/pakistan.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/panama.png, id=451, 637.96965pt x 637.96965pt>
+File: Pictures/flags/panama.png Graphic file (type png)
+<use Pictures/flags/panama.png>
+Package luatex.def Info: Pictures/flags/panama.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/paraguay.png, id=452, 637.96965pt x 637.96965pt>
+File: Pictures/flags/paraguay.png Graphic file (type png)
+<use Pictures/flags/paraguay.png>
+Package luatex.def Info: Pictures/flags/paraguay.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/peru.png, id=453, 637.96965pt x 637.96965pt>
+File: Pictures/flags/peru.png Graphic file (type png)
+<use Pictures/flags/peru.png>
+Package luatex.def Info: Pictures/flags/peru.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/philippines.png, id=454, 637.96965pt x 637.96965pt>
+File: Pictures/flags/philippines.png Graphic file (type png)
+<use Pictures/flags/philippines.png>
+Package luatex.def Info: Pictures/flags/philippines.png  used on input line 209
+.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/palestine.png, id=455, 637.96965pt x 637.96965pt>
+File: Pictures/flags/palestine.png Graphic file (type png)
+<use Pictures/flags/palestine.png>
+Package luatex.def Info: Pictures/flags/palestine.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/palau.png, id=456, 637.96965pt x 637.96965pt>
+File: Pictures/flags/palau.png Graphic file (type png)
+<use Pictures/flags/palau.png>
+Package luatex.def Info: Pictures/flags/palau.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/papua-new-guinea.png, id=457, 637.96965pt x 637.96965pt>
+File: Pictures/flags/papua-new-guinea.png Graphic file (type png)
+<use Pictures/flags/papua-new-guinea.png>
+Package luatex.def Info: Pictures/flags/papua-new-guinea.png  used on input lin
+e 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/republic-of-poland.png, id=458, 637.96965pt x 637.96965pt>
+File: Pictures/flags/republic-of-poland.png Graphic file (type png)
+<use Pictures/flags/republic-of-poland.png>
+Package luatex.def Info: Pictures/flags/republic-of-poland.png  used on input l
+ine 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/portugal.png, id=459, 637.96965pt x 637.96965pt>
+File: Pictures/flags/portugal.png Graphic file (type png)
+<use Pictures/flags/portugal.png>
+Package luatex.def Info: Pictures/flags/portugal.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/romania.png, id=460, 637.96965pt x 637.96965pt>
+File: Pictures/flags/romania.png Graphic file (type png)
+<use Pictures/flags/romania.png>
+Package luatex.def Info: Pictures/flags/romania.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/north-korea.png, id=461, 637.96965pt x 637.96965pt>
+File: Pictures/flags/north-korea.png Graphic file (type png)
+<use Pictures/flags/north-korea.png>
+Package luatex.def Info: Pictures/flags/north-korea.png  used on input line 209
+.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/puerto-rico.png, id=462, 637.96965pt x 637.96965pt>
+File: Pictures/flags/puerto-rico.png Graphic file (type png)
+<use Pictures/flags/puerto-rico.png>
+Package luatex.def Info: Pictures/flags/puerto-rico.png  used on input line 209
+.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/qatar.png, id=463, 637.96965pt x 637.96965pt>
+File: Pictures/flags/qatar.png Graphic file (type png)
+<use Pictures/flags/qatar.png>
+Package luatex.def Info: Pictures/flags/qatar.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/south-africa.png, id=464, 637.96965pt x 637.96965pt>
+File: Pictures/flags/south-africa.png Graphic file (type png)
+<use Pictures/flags/south-africa.png>
+Package luatex.def Info: Pictures/flags/south-africa.png  used on input line 20
+9.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/rwanda.png, id=465, 637.96965pt x 637.96965pt>
+File: Pictures/flags/rwanda.png Graphic file (type png)
+<use Pictures/flags/rwanda.png>
+Package luatex.def Info: Pictures/flags/rwanda.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/samoa.png, id=466, 637.96965pt x 637.96965pt>
+File: Pictures/flags/samoa.png Graphic file (type png)
+<use Pictures/flags/samoa.png>
+Package luatex.def Info: Pictures/flags/samoa.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/scotland.png, id=467, 637.96965pt x 637.96965pt>
+File: Pictures/flags/scotland.png Graphic file (type png)
+<use Pictures/flags/scotland.png>
+Package luatex.def Info: Pictures/flags/scotland.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/senegal.png, id=468, 637.96965pt x 637.96965pt>
+File: Pictures/flags/senegal.png Graphic file (type png)
+<use Pictures/flags/senegal.png>
+Package luatex.def Info: Pictures/flags/senegal.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/seychelles.png, id=469, 637.96965pt x 637.96965pt>
+File: Pictures/flags/seychelles.png Graphic file (type png)
+<use Pictures/flags/seychelles.png>
+Package luatex.def Info: Pictures/flags/seychelles.png  used on input line 209.
+
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/singapore.png, id=470, 637.96965pt x 637.96965pt>
+File: Pictures/flags/singapore.png Graphic file (type png)
+<use Pictures/flags/singapore.png>
+Package luatex.def Info: Pictures/flags/singapore.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/saint-kitts-and-nevis.png, id=471, 637.96965pt x 637.96965pt>
+File: Pictures/flags/saint-kitts-and-nevis.png Graphic file (type png)
+<use Pictures/flags/saint-kitts-and-nevis.png>
+Package luatex.def Info: Pictures/flags/saint-kitts-and-nevis.png  used on inpu
+t line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/sierra-leone.png, id=472, 637.96965pt x 637.96965pt>
+File: Pictures/flags/sierra-leone.png Graphic file (type png)
+<use Pictures/flags/sierra-leone.png>
+Package luatex.def Info: Pictures/flags/sierra-leone.png  used on input line 20
+9.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/san-marino.png, id=473, 637.96965pt x 637.96965pt>
+File: Pictures/flags/san-marino.png Graphic file (type png)
+<use Pictures/flags/san-marino.png>
+Package luatex.def Info: Pictures/flags/san-marino.png  used on input line 209.
+
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/slovenia.png, id=474, 637.96965pt x 637.96965pt>
+File: Pictures/flags/slovenia.png Graphic file (type png)
+<use Pictures/flags/slovenia.png>
+Package luatex.def Info: Pictures/flags/slovenia.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/solomon-islands.png, id=475, 637.96965pt x 637.96965pt>
+File: Pictures/flags/solomon-islands.png Graphic file (type png)
+<use Pictures/flags/solomon-islands.png>
+Package luatex.def Info: Pictures/flags/solomon-islands.png  used on input line
+ 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/somalia.png, id=476, 637.96965pt x 637.96965pt>
+File: Pictures/flags/somalia.png Graphic file (type png)
+<use Pictures/flags/somalia.png>
+Package luatex.def Info: Pictures/flags/somalia.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/serbia.png, id=477, 637.96965pt x 637.96965pt>
+File: Pictures/flags/serbia.png Graphic file (type png)
+<use Pictures/flags/serbia.png>
+Package luatex.def Info: Pictures/flags/serbia.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/sri-lanka.png, id=478, 637.96965pt x 637.96965pt>
+File: Pictures/flags/sri-lanka.png Graphic file (type png)
+<use Pictures/flags/sri-lanka.png>
+Package luatex.def Info: Pictures/flags/sri-lanka.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/south-sudan.png, id=479, 637.96965pt x 637.96965pt>
+File: Pictures/flags/south-sudan.png Graphic file (type png)
+<use Pictures/flags/south-sudan.png>
+Package luatex.def Info: Pictures/flags/south-sudan.png  used on input line 209
+.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/sao-tome-and-prince.png, id=480, 637.96965pt x 637.96965pt>
+File: Pictures/flags/sao-tome-and-prince.png Graphic file (type png)
+<use Pictures/flags/sao-tome-and-prince.png>
+Package luatex.def Info: Pictures/flags/sao-tome-and-prince.png  used on input 
+line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/sudan.png, id=481, 637.96965pt x 637.96965pt>
+File: Pictures/flags/sudan.png Graphic file (type png)
+<use Pictures/flags/sudan.png>
+Package luatex.def Info: Pictures/flags/sudan.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/switzerland.png, id=482, 637.96965pt x 637.96965pt>
+File: Pictures/flags/switzerland.png Graphic file (type png)
+<use Pictures/flags/switzerland.png>
+Package luatex.def Info: Pictures/flags/switzerland.png  used on input line 209
+.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/slovakia.png, id=483, 637.96965pt x 637.96965pt>
+File: Pictures/flags/slovakia.png Graphic file (type png)
+<use Pictures/flags/slovakia.png>
+Package luatex.def Info: Pictures/flags/slovakia.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/sweden.png, id=484, 637.96965pt x 637.96965pt>
+File: Pictures/flags/sweden.png Graphic file (type png)
+<use Pictures/flags/sweden.png>
+Package luatex.def Info: Pictures/flags/sweden.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/syria.png, id=485, 637.96965pt x 637.96965pt>
+File: Pictures/flags/syria.png Graphic file (type png)
+<use Pictures/flags/syria.png>
+Package luatex.def Info: Pictures/flags/syria.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/taiwan.png, id=486, 637.96965pt x 637.96965pt>
+File: Pictures/flags/taiwan.png Graphic file (type png)
+<use Pictures/flags/taiwan.png>
+Package luatex.def Info: Pictures/flags/taiwan.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/tanzania.png, id=487, 637.96965pt x 637.96965pt>
+File: Pictures/flags/tanzania.png Graphic file (type png)
+<use Pictures/flags/tanzania.png>
+Package luatex.def Info: Pictures/flags/tanzania.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/tonga.png, id=488, 637.96965pt x 637.96965pt>
+File: Pictures/flags/tonga.png Graphic file (type png)
+<use Pictures/flags/tonga.png>
+Package luatex.def Info: Pictures/flags/tonga.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/thailand.png, id=489, 637.96965pt x 637.96965pt>
+File: Pictures/flags/thailand.png Graphic file (type png)
+<use Pictures/flags/thailand.png>
+Package luatex.def Info: Pictures/flags/thailand.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/tajikistan.png, id=490, 637.96965pt x 637.96965pt>
+File: Pictures/flags/tajikistan.png Graphic file (type png)
+<use Pictures/flags/tajikistan.png>
+Package luatex.def Info: Pictures/flags/tajikistan.png  used on input line 209.
+
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/turkmenistan.png, id=491, 637.96965pt x 637.96965pt>
+File: Pictures/flags/turkmenistan.png Graphic file (type png)
+<use Pictures/flags/turkmenistan.png>
+Package luatex.def Info: Pictures/flags/turkmenistan.png  used on input line 20
+9.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/east-timor.png, id=492, 637.96965pt x 637.96965pt>
+File: Pictures/flags/east-timor.png Graphic file (type png)
+<use Pictures/flags/east-timor.png>
+Package luatex.def Info: Pictures/flags/east-timor.png  used on input line 209.
+
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/togo.png, id=493, 637.96965pt x 637.96965pt>
+File: Pictures/flags/togo.png Graphic file (type png)
+<use Pictures/flags/togo.png>
+Package luatex.def Info: Pictures/flags/togo.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/trinidad-and-tobago.png, id=494, 637.96965pt x 637.96965pt>
+File: Pictures/flags/trinidad-and-tobago.png Graphic file (type png)
+<use Pictures/flags/trinidad-and-tobago.png>
+Package luatex.def Info: Pictures/flags/trinidad-and-tobago.png  used on input 
+line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/tunisia.png, id=495, 637.96965pt x 637.96965pt>
+File: Pictures/flags/tunisia.png Graphic file (type png)
+<use Pictures/flags/tunisia.png>
+Package luatex.def Info: Pictures/flags/tunisia.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/turkey.png, id=496, 637.96965pt x 637.96965pt>
+File: Pictures/flags/turkey.png Graphic file (type png)
+<use Pictures/flags/turkey.png>
+Package luatex.def Info: Pictures/flags/turkey.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/tuvalu.png, id=497, 637.96965pt x 637.96965pt>
+File: Pictures/flags/tuvalu.png Graphic file (type png)
+<use Pictures/flags/tuvalu.png>
+Package luatex.def Info: Pictures/flags/tuvalu.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/united-arab-emirates.png, id=498, 637.96965pt x 637.96965pt>
+File: Pictures/flags/united-arab-emirates.png Graphic file (type png)
+<use Pictures/flags/united-arab-emirates.png>
+Package luatex.def Info: Pictures/flags/united-arab-emirates.png  used on input
+ line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/uganda.png, id=499, 637.96965pt x 637.96965pt>
+File: Pictures/flags/uganda.png Graphic file (type png)
+<use Pictures/flags/uganda.png>
+Package luatex.def Info: Pictures/flags/uganda.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+File: Pictures/flags/ukraine.png Graphic file (type png)
+<use Pictures/flags/ukraine.png>
+Package luatex.def Info: Pictures/flags/ukraine.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/united-nations.png, id=500, 373.76pt x 373.76pt>
+File: Pictures/flags/united-nations.png Graphic file (type png)
+<use Pictures/flags/united-nations.png>
+Package luatex.def Info: Pictures/flags/united-nations.png  used on input line 
+209.
+(luatex.def)             Requested size: 15.99722pt x 16.0pt.
+<Pictures/flags/uruguay.png, id=501, 373.76pt x 373.76pt>
+File: Pictures/flags/uruguay.png Graphic file (type png)
+<use Pictures/flags/uruguay.png>
+Package luatex.def Info: Pictures/flags/uruguay.png  used on input line 209.
+(luatex.def)             Requested size: 15.99722pt x 16.0pt.
+<Pictures/flags/united-states.png, id=502, 637.96965pt x 637.96965pt>
+File: Pictures/flags/united-states.png Graphic file (type png)
+<use Pictures/flags/united-states.png>
+Package luatex.def Info: Pictures/flags/united-states.png  used on input line 2
+09.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/uzbekistan.png, id=503, 373.76pt x 373.76pt>
+File: Pictures/flags/uzbekistan.png Graphic file (type png)
+<use Pictures/flags/uzbekistan.png>
+Package luatex.def Info: Pictures/flags/uzbekistan.png  used on input line 209.
+
+(luatex.def)             Requested size: 15.99722pt x 16.0pt.
+<Pictures/flags/vanuatu.png, id=504, 637.96965pt x 637.96965pt>
+File: Pictures/flags/vanuatu.png Graphic file (type png)
+<use Pictures/flags/vanuatu.png>
+Package luatex.def Info: Pictures/flags/vanuatu.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/vatican-city.png, id=505, 373.76pt x 373.76pt>
+File: Pictures/flags/vatican-city.png Graphic file (type png)
+<use Pictures/flags/vatican-city.png>
+Package luatex.def Info: Pictures/flags/vatican-city.png  used on input line 20
+9.
+(luatex.def)             Requested size: 15.99722pt x 16.0pt.
+<Pictures/flags/venezuela.png, id=506, 637.96965pt x 637.96965pt>
+File: Pictures/flags/venezuela.png Graphic file (type png)
+<use Pictures/flags/venezuela.png>
+Package luatex.def Info: Pictures/flags/venezuela.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/vietnam.png, id=507, 637.96965pt x 637.96965pt>
+File: Pictures/flags/vietnam.png Graphic file (type png)
+<use Pictures/flags/vietnam.png>
+Package luatex.def Info: Pictures/flags/vietnam.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/yemen.png, id=508, 637.96965pt x 637.96965pt>
+File: Pictures/flags/yemen.png Graphic file (type png)
+<use Pictures/flags/yemen.png>
+Package luatex.def Info: Pictures/flags/yemen.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/zambia.png, id=509, 637.96965pt x 637.96965pt>
+File: Pictures/flags/zambia.png Graphic file (type png)
+<use Pictures/flags/zambia.png>
+Package luatex.def Info: Pictures/flags/zambia.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/zimbabwe.png, id=510, 637.96965pt x 637.96965pt>
+File: Pictures/flags/zimbabwe.png Graphic file (type png)
+<use Pictures/flags/zimbabwe.png>
+Package luatex.def Info: Pictures/flags/zimbabwe.png  used on input line 209.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+
+(./recipes.tex
+
+[10
+
+<./Pictures/flags/afghanistan.png><./Pictures/flags/albania.png><./Pictures/flag
+s/algeria.png><./Pictures/flags/andorra.png><./Pictures/flags/angola.png><./Pict
+ures/flags/antigua-and-barbuda.png><./Pictures/flags/argentina.png><./Pictures/f
+lags/armenia.png><./Pictures/flags/american-samoa.png><./Pictures/flags/australi
+a.png><./Pictures/flags/austria.png><./Pictures/flags/azerbaijan.png><./Pictures
+/flags/bahamas.png><./Pictures/flags/bangladesh.png><./Pictures/flags/barbados.p
+ng><./Pictures/flags/burundi.png><./Pictures/flags/belgium.png><./Pictures/flags
+/benin.png><./Pictures/flags/bermuda.png><./Pictures/flags/bhutan.png><./Picture
+s/flags/bosnia-and-herzegovina.png><./Pictures/flags/belize.png><./Pictures/flag
+s/bolivia.png><./Pictures/flags/botswana.png><./Pictures/flags/brazil.png><./Pic
+tures/flags/bahrain.png><./Pictures/flags/brunei.png><./Pictures/flags/bulgaria.
+png><./Pictures/flags/burkina-faso.png><./Pictures/flags/central-african-republi
+c.png><./Pictures/flags/cambodia.png><./Pictures/flags/cayman-islands.png><./Pic
+tures/flags/republic-of-the-congo.png><./Pictures/flags/chad.png><./Pictures/fla
+gs/chile.png><./Pictures/flags/china.png><./Pictures/flags/ivory-coast.png><./Pi
+ctures/flags/cameroon.png><./Pictures/flags/democratic-republic-of-congo.png><./
+Pictures/flags/colombia.png><./Pictures/flags/comoros.png><./Pictures/flags/cape
+-verde.png><./Pictures/flags/costa-rica.png><./Pictures/flags/croatia.png><./Pic
+tures/flags/cuba.png><./Pictures/flags/cyprus.png><./Pictures/flags/czech-republ
+ic.png><./Pictures/flags/denmark.png><./Pictures/flags/djibouti.png><./Pictures/
+flags/dominica.png><./Pictures/flags/dominican-republic.png><./Pictures/flags/ec
+uador.png><./Pictures/flags/egypt.png><./Pictures/flags/england.png><./Pictures/
+flags/eritrea.png><./Pictures/flags/el-salvador.png><./Pictures/flags/spain.png>
+<./Pictures/flags/estonia.png><./Pictures/flags/ethiopia.png><./Pictures/flags/e
+uropean-union.png><./Pictures/flags/fiji.png><./Pictures/flags/finland.png><./Pi
+ctures/flags/france.png><./Pictures/flags/gabon.png><./Pictures/flags/gambia.png
+><./Pictures/flags/united-kingdom.png><./Pictures/flags/guinea-bissau.png><./Pic
+tures/flags/georgia.png><./Pictures/flags/equatorial-guinea.png><./Pictures/flag
+s/germany.png><./Pictures/flags/ghana.png><./Pictures/flags/greece.png><./Pictur
+es/flags/grenada.png><./Pictures/flags/guatemala.png><./Pictures/flags/guinea.pn
+g><./Pictures/flags/guam.png><./Pictures/flags/guyana.png><./Pictures/flags/hait
+i.png><./Pictures/flags/hong-kong.png><./Pictures/flags/honduras.png><./Pictures
+/flags/hungary.png><./Pictures/flags/iceland.png><./Pictures/flags/indonesia.png
+><./Pictures/flags/india.png><./Pictures/flags/iran.png><./Pictures/flags/irelan
+d.png><./Pictures/flags/iraq.png><./Pictures/flags/israel.png><./Pictures/flags/
+virgin-islands.png><./Pictures/flags/italy.png><./Pictures/flags/british-virgin-
+islands.png><./Pictures/flags/jamaica.png><./Pictures/flags/jordan.png><./Pictur
+es/flags/japan.png><./Pictures/flags/kenya.png><./Pictures/flags/kazakhstan.png>
+<./Pictures/flags/kiribati.png><./Pictures/flags/south-korea.png><./Pictures/fla
+gs/kosovo.png><./Pictures/flags/saudi-arabia.png><./Pictures/flags/kuwait.png><.
+/Pictures/flags/laos.png><./Pictures/flags/latvia.png><./Pictures/flags/libya.pn
+g><./Pictures/flags/lebanon.png><./Pictures/flags/liberia.png><./Pictures/flags/
+lesotho.png><./Pictures/flags/liechtenstein.png><./Pictures/flags/lithuania.png>
+<./Pictures/flags/luxembourg.png><./Pictures/flags/madagascar.png><./Pictures/fl
+ags/morocco.png><./Pictures/flags/malasya.png><./Pictures/flags/malawi.png><./Pi
+ctures/flags/mexico.png><./Pictures/flags/moldova.png><./Pictures/flags/mongolia
+.png><./Pictures/flags/marshall-island.png><./Pictures/flags/mali.png><./Picture
+s/flags/malta.png><./Pictures/flags/micronesia.png><./Pictures/flags/montenegro.
+png><./Pictures/flags/monaco.png><./Pictures/flags/mozambique.png><./Pictures/fl
+ags/mauritius.png><./Pictures/flags/mauritania.png><./Pictures/flags/myanmar.png
+><./Pictures/flags/namibia.png><./Pictures/flags/otan.png><./Pictures/flags/nica
+ragua.png><./Pictures/flags/nigeria.png><./Pictures/flags/netherlands.png><./Pic
+tures/flags/nepal.png><./Pictures/flags/niger.png><./Pictures/flags/norway.png><
+./Pictures/flags/nauru.png><./Pictures/flags/new-zealand.png><./Pictures/flags/o
+man.png><./Pictures/flags/pakistan.png><./Pictures/flags/panama.png><./Pictures/
+flags/paraguay.png><./Pictures/flags/peru.png><./Pictures/flags/philippines.png>
+<./Pictures/flags/palestine.png><./Pictures/flags/palau.png><./Pictures/flags/pa
+pua-new-guinea.png><./Pictures/flags/republic-of-poland.png><./Pictures/flags/po
+rtugal.png><./Pictures/flags/romania.png><./Pictures/flags/north-korea.png><./Pi
+ctures/flags/puerto-rico.png><./Pictures/flags/qatar.png><./Pictures/flags/south
+-africa.png><./Pictures/flags/rwanda.png><./Pictures/flags/samoa.png><./Pictures
+/flags/scotland.png><./Pictures/flags/senegal.png><./Pictures/flags/seychelles.p
+ng><./Pictures/flags/singapore.png><./Pictures/flags/saint-kitts-and-nevis.png><
+./Pictures/flags/sierra-leone.png><./Pictures/flags/san-marino.png><./Pictures/f
+lags/slovenia.png><./Pictures/flags/solomon-islands.png><./Pictures/flags/somali
+a.png><./Pictures/flags/serbia.png><./Pictures/flags/sri-lanka.png><./Pictures/f
+lags/south-sudan.png><./Pictures/flags/sao-tome-and-prince.png><./Pictures/flags
+/sudan.png><./Pictures/flags/switzerland.png><./Pictures/flags/slovakia.png><./P
+ictures/flags/sweden.png><./Pictures/flags/syria.png><./Pictures/flags/taiwan.pn
+g><./Pictures/flags/tanzania.png><./Pictures/flags/tonga.png><./Pictures/flags/t
+hailand.png><./Pictures/flags/tajikistan.png><./Pictures/flags/turkmenistan.png>
+<./Pictures/flags/east-timor.png><./Pictures/flags/togo.png><./Pictures/flags/tr
+inidad-and-tobago.png><./Pictures/flags/tunisia.png><./Pictures/flags/turkey.png
+><./Pictures/flags/tuvalu.png><./Pictures/flags/united-arab-emirates.png><./Pict
+ures/flags/uganda.png><./Pictures/flags/united-nations.png><./Pictures/flags/uru
+guay.png><./Pictures/flags/united-states.png><./Pictures/flags/uzbekistan.png><.
+/Pictures/flags/vanuatu.png><./Pictures/flags/vatican-city.png><./Pictures/flags
+/venezuela.png><./Pictures/flags/vietnam.png><./Pictures/flags/yemen.png><./Pict
+ures/flags/zambia.png><./Pictures/flags/zimbabwe.png>]
+
+[11
+
+]
+
+[12]
+Chapter 1.
+(./recipes/Borscht/recipe.tex
+
+[13
+
+]
+File: Pictures/ico/chef.png Graphic file (type png)
+<use Pictures/ico/chef.png>
+Package luatex.def Info: Pictures/ico/chef.png  used on input line 2.
+(luatex.def)             Requested size: 14.99667pt x 15.0pt.
+File: Pictures/ico/pot.png Graphic file (type png)
+<use Pictures/ico/pot.png>
+Package luatex.def Info: Pictures/ico/pot.png  used on input line 2.
+(luatex.def)             Requested size: 14.99667pt x 15.0pt.
+File: Pictures/ico/plate.png Graphic file (type png)
+<use Pictures/ico/plate.png>
+Package luatex.def Info: Pictures/ico/plate.png  used on input line 2.
+(luatex.def)             Requested size: 14.99974pt x 15.0pt.
+File: Pictures/flags/ukraine.png Graphic file (type png)
+<use Pictures/flags/ukraine.png>
+Package luatex.def Info: Pictures/flags/ukraine.png  used on input line 2.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+<Pictures/flags/canada.png, id=727, 637.96965pt x 637.96965pt>
+File: Pictures/flags/canada.png Graphic file (type png)
+<use Pictures/flags/canada.png>
+Package luatex.def Info: Pictures/flags/canada.png  used on input line 2.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+
+Underfull \hbox (badness 3271) in paragraph at lines 46--46
+[]\T1/MontserratAlternates-TLF/regular/n/10.95 peeled and diced to thumb-nail si
+ze,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+
+ []
+
+
+Overfull \hbox (1.91295pt too wide) in paragraph at lines 46--47
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+
+ []
+
+)
+
+[14<./Pictures/flags/canada.png>] (./recipes/RoastOrc/recipe.tex
+
+LaTeX Info: Redefining \rmfamily on input line 1.
+LaTeX Info: Redefining \sffamily on input line 1.
+LaTeX Info: Redefining \ttfamily on input line 1.
+LaTeX Info: Redefining \rmfamily on input line 1.
+LaTeX Info: Redefining \sffamily on input line 1.
+LaTeX Info: Redefining \ttfamily on input line 1.
+<recipes/Borscht/photo.jpg, id=741, 367.3725pt x 367.3725pt>
+File: recipes/Borscht/photo.jpg Graphic file (type jpg)
+<use recipes/Borscht/photo.jpg>
+Package luatex.def Info: recipes/Borscht/photo.jpg  used on input line 1.
+(luatex.def)             Requested size: 569.14117pt x 569.14117pt.
+[15<./recipes/Borscht/photo.jpg>]
+File: Pictures/ico/chef.png Graphic file (type png)
+<use Pictures/ico/chef.png>
+Package luatex.def Info: Pictures/ico/chef.png  used on input line 2.
+(luatex.def)             Requested size: 14.99667pt x 15.0pt.
+File: Pictures/ico/pot.png Graphic file (type png)
+<use Pictures/ico/pot.png>
+Package luatex.def Info: Pictures/ico/pot.png  used on input line 2.
+(luatex.def)             Requested size: 14.99667pt x 15.0pt.
+
+Overfull \hbox (1.91295pt too wide) in paragraph at lines 17--18
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+)
+
+[16]
+
+LaTeX Info: Redefining \rmfamily on input line 12.
+LaTeX Info: Redefining \sffamily on input line 12.
+LaTeX Info: Redefining \ttfamily on input line 12.
+LaTeX Info: Redefining \rmfamily on input line 12.
+LaTeX Info: Redefining \sffamily on input line 12.
+LaTeX Info: Redefining \ttfamily on input line 12.
+<recipes/RoastOrc/photo.jpg, id=754, 582.175pt x 582.175pt>
+File: recipes/RoastOrc/photo.jpg Graphic file (type jpg)
+<use recipes/RoastOrc/photo.jpg>
+Package luatex.def Info: recipes/RoastOrc/photo.jpg  used on input line 12.
+(luatex.def)             Requested size: 569.09741pt x 569.09741pt.
+[17
+Missing character: There is no ￼ (U+FFFC) in font MontserratAlternates-Regular
+-tlf-t1!
+<./recipes/RoastOrc/photo.jpg>]
+
+[18
+
+]
+Chapter 2.
+(./recipes/ChickenKiev/recipe.tex
+
+[19]
+File: Pictures/ico/chef.png Graphic file (type png)
+<use Pictures/ico/chef.png>
+Package luatex.def Info: Pictures/ico/chef.png  used on input line 2.
+(luatex.def)             Requested size: 14.99667pt x 15.0pt.
+File: Pictures/ico/oven.png Graphic file (type png)
+<use Pictures/ico/oven.png>
+Package luatex.def Info: Pictures/ico/oven.png  used on input line 2.
+(luatex.def)             Requested size: 14.99667pt x 15.0pt.
+File: Pictures/ico/plate.png Graphic file (type png)
+<use Pictures/ico/plate.png>
+Package luatex.def Info: Pictures/ico/plate.png  used on input line 2.
+(luatex.def)             Requested size: 14.99974pt x 15.0pt.
+File: Pictures/flags/ukraine.png Graphic file (type png)
+<use Pictures/flags/ukraine.png>
+Package luatex.def Info: Pictures/flags/ukraine.png  used on input line 2.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+
+Overfull \hbox (1.91295pt too wide) in paragraph at lines 28--29
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+
+ []
+
+)
+
+[20] (./recipes/ChickenPlov/recipe.tex
+
+LaTeX Info: Redefining \rmfamily on input line 1.
+LaTeX Info: Redefining \sffamily on input line 1.
+LaTeX Info: Redefining \ttfamily on input line 1.
+LaTeX Info: Redefining \rmfamily on input line 1.
+LaTeX Info: Redefining \sffamily on input line 1.
+LaTeX Info: Redefining \ttfamily on input line 1.
+<recipes/ChickenKiev/photo.jpg, id=776, 3011.25pt x 2007.5pt>
+File: recipes/ChickenKiev/photo.jpg Graphic file (type jpg)
+<use recipes/ChickenKiev/photo.jpg>
+Package luatex.def Info: recipes/ChickenKiev/photo.jpg  used on input line 1.
+(luatex.def)             Requested size: 569.06494pt x 569.04962pt.
+[21
+Missing character: There is no ￼ (U+FFFC) in font MontserratAlternates-Regular
+-tlf-t1!
+<./recipes/ChickenKiev/photo.jpg>]
+File: Pictures/ico/chef.png Graphic file (type png)
+<use Pictures/ico/chef.png>
+Package luatex.def Info: Pictures/ico/chef.png  used on input line 2.
+(luatex.def)             Requested size: 14.99667pt x 15.0pt.
+File: Pictures/ico/pot.png Graphic file (type png)
+<use Pictures/ico/pot.png>
+Package luatex.def Info: Pictures/ico/pot.png  used on input line 2.
+(luatex.def)             Requested size: 14.99667pt x 15.0pt.
+File: Pictures/ico/plate.png Graphic file (type png)
+<use Pictures/ico/plate.png>
+Package luatex.def Info: Pictures/ico/plate.png  used on input line 2.
+(luatex.def)             Requested size: 14.99974pt x 15.0pt.
+File: Pictures/flags/ukraine.png Graphic file (type png)
+<use Pictures/flags/ukraine.png>
+Package luatex.def Info: Pictures/flags/ukraine.png  used on input line 2.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+
+ []
+
+
+Overfull \hbox (1.91295pt too wide) in paragraph at lines 44--45
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+)
+
+[22]
+
+LaTeX Info: Redefining \rmfamily on input line 20.
+LaTeX Info: Redefining \sffamily on input line 20.
+LaTeX Info: Redefining \ttfamily on input line 20.
+LaTeX Info: Redefining \rmfamily on input line 20.
+LaTeX Info: Redefining \sffamily on input line 20.
+LaTeX Info: Redefining \ttfamily on input line 20.
+<recipes/ChickenPlov/photo.jpg, id=793, 602.25pt x 602.25pt>
+File: recipes/ChickenPlov/photo.jpg Graphic file (type jpg)
+<use recipes/ChickenPlov/photo.jpg>
+Package luatex.def Info: recipes/ChickenPlov/photo.jpg  used on input line 20.
+(luatex.def)             Requested size: 569.11087pt x 569.11087pt.
+[23
+Missing character: There is no ￼ (U+FFFC) in font MontserratAlternates-Regular
+-tlf-t1!
+<./recipes/ChickenPlov/photo.jpg>]
+
+[24
+
+]
+Chapter 3.
+
+
+[25
+Missing character: There is no ￼ (U+FFFC) in font MontserratAlternates-Regular
+-tlf-t1!
+]
+
+[26
+
+]
+Chapter 4.
+
+
+[27
+Missing character: There is no ￼ (U+FFFC) in font MontserratAlternates-Regular
+-tlf-t1!
+]
+
+[28
+
+]
+Chapter 5.
+(./recipes/SpagettiCarbonara/recipe.tex
+
+[29]
+File: Pictures/ico/chef.png Graphic file (type png)
+<use Pictures/ico/chef.png>
+Package luatex.def Info: Pictures/ico/chef.png  used on input line 2.
+(luatex.def)             Requested size: 14.99667pt x 15.0pt.
+File: Pictures/ico/pot.png Graphic file (type png)
+<use Pictures/ico/pot.png>
+Package luatex.def Info: Pictures/ico/pot.png  used on input line 2.
+(luatex.def)             Requested size: 14.99667pt x 15.0pt.
+File: Pictures/ico/plate.png Graphic file (type png)
+<use Pictures/ico/plate.png>
+Package luatex.def Info: Pictures/ico/plate.png  used on input line 2.
+(luatex.def)             Requested size: 14.99974pt x 15.0pt.
+
+Underfull \hbox (badness 2573) in paragraph at lines 37--37
+[]\T1/MontserratAlternates-TLF/regular/n/10.95 Bring a large pan of salted wa-te
+r to sim-mer
+ []
+
+
+Overfull \hbox (1.91295pt too wide) in paragraph at lines 37--38
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+)
+
+[30]
+
+LaTeX Info: Redefining \rmfamily on input line 31.
+LaTeX Info: Redefining \sffamily on input line 31.
+LaTeX Info: Redefining \ttfamily on input line 31.
+LaTeX Info: Redefining \rmfamily on input line 31.
+LaTeX Info: Redefining \sffamily on input line 31.
+LaTeX Info: Redefining \ttfamily on input line 31.
+[31
+Missing character: There is no ￼ (U+FFFC) in font MontserratAlternates-Regular
+-tlf-t1!
+]
+
+[32
+
+]
+Chapter 6.
+(./recipes/RaspberryCobbler/recipe.tex
+
+[33]
+File: Pictures/ico/chef.png Graphic file (type png)
+<use Pictures/ico/chef.png>
+Package luatex.def Info: Pictures/ico/chef.png  used on input line 2.
+(luatex.def)             Requested size: 14.99667pt x 15.0pt.
+File: Pictures/ico/oven.png Graphic file (type png)
+<use Pictures/ico/oven.png>
+Package luatex.def Info: Pictures/ico/oven.png  used on input line 2.
+(luatex.def)             Requested size: 14.99667pt x 15.0pt.
+File: Pictures/ico/fridge.png Graphic file (type png)
+<use Pictures/ico/fridge.png>
+Package luatex.def Info: Pictures/ico/fridge.png  used on input line 2.
+(luatex.def)             Requested size: 14.99974pt x 15.0pt.
+File: Pictures/ico/cake.png Graphic file (type png)
+<use Pictures/ico/cake.png>
+Package luatex.def Info: Pictures/ico/cake.png  used on input line 2.
+(luatex.def)             Requested size: 14.99739pt x 15.0pt.
+
+Underfull \hbox (badness 1072) in paragraph at lines 29--29
+[]\T1/MontserratAlternates-TLF/regular/n/10.95 Whisk flour, 1/2 sugar and bak-in
+g pow-der to-
+ []
+
+
+Overfull \hbox (1.91295pt too wide) in paragraph at lines 29--30
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
+)
+
+[34] (./recipes/Meringues/recipe.tex
+
+LaTeX Info: Redefining \rmfamily on input line 1.
+LaTeX Info: Redefining \sffamily on input line 1.
+LaTeX Info: Redefining \ttfamily on input line 1.
+LaTeX Info: Redefining \rmfamily on input line 1.
+LaTeX Info: Redefining \sffamily on input line 1.
+LaTeX Info: Redefining \ttfamily on input line 1.
+<recipes/RaspberryCobbler/photo.jpg, id=854, 1624.0675pt x 1624.0675pt>
+File: recipes/RaspberryCobbler/photo.jpg Graphic file (type jpg)
+<use recipes/RaspberryCobbler/photo.jpg>
+Package luatex.def Info: recipes/RaspberryCobbler/photo.jpg  used on input line
+ 1.
+(luatex.def)             Requested size: 569.05168pt x 569.05168pt.
+[35<./recipes/RaspberryCobbler/photo.jpg>]
+File: Pictures/ico/chef.png Graphic file (type png)
+<use Pictures/ico/chef.png>
+Package luatex.def Info: Pictures/ico/chef.png  used on input line 2.
+(luatex.def)             Requested size: 14.99667pt x 15.0pt.
+File: Pictures/ico/oven.png Graphic file (type png)
+<use Pictures/ico/oven.png>
+Package luatex.def Info: Pictures/ico/oven.png  used on input line 2.
+(luatex.def)             Requested size: 14.99667pt x 15.0pt.
+File: Pictures/ico/cake.png Graphic file (type png)
+<use Pictures/ico/cake.png>
+Package luatex.def Info: Pictures/ico/cake.png  used on input line 2.
+(luatex.def)             Requested size: 14.99739pt x 15.0pt.
+
+Overfull \hbox (1.91295pt too wide) in paragraph at lines 28--29
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+
+ []
+
+)
+
+[36]
+
+LaTeX Info: Redefining \rmfamily on input line 39.
+LaTeX Info: Redefining \sffamily on input line 39.
+LaTeX Info: Redefining \ttfamily on input line 39.
+LaTeX Info: Redefining \rmfamily on input line 39.
+LaTeX Info: Redefining \sffamily on input line 39.
+LaTeX Info: Redefining \ttfamily on input line 39.
+<recipes/Meringues/photo.jpg, id=869, 752.8125pt x 752.8125pt>
+File: recipes/Meringues/photo.jpg Graphic file (type jpg)
+<use recipes/Meringues/photo.jpg>
+Package luatex.def Info: recipes/Meringues/photo.jpg  used on input line 39.
+(luatex.def)             Requested size: 569.0994pt x 569.0994pt.
+[37<./recipes/Meringues/photo.jpg>]
+
+[38
+
+]
+Chapter 7.
+(./recipes/Yabluchnyk/recipe.tex
+
+[39]
+File: Pictures/ico/chef.png Graphic file (type png)
+<use Pictures/ico/chef.png>
+Package luatex.def Info: Pictures/ico/chef.png  used on input line 2.
+(luatex.def)             Requested size: 14.99667pt x 15.0pt.
+File: Pictures/ico/oven.png Graphic file (type png)
+<use Pictures/ico/oven.png>
+Package luatex.def Info: Pictures/ico/oven.png  used on input line 2.
+(luatex.def)             Requested size: 14.99667pt x 15.0pt.
+File: Pictures/ico/plate.png Graphic file (type png)
+<use Pictures/ico/plate.png>
+Package luatex.def Info: Pictures/ico/plate.png  used on input line 2.
+(luatex.def)             Requested size: 14.99974pt x 15.0pt.
+File: Pictures/flags/ukraine.png Graphic file (type png)
+<use Pictures/flags/ukraine.png>
+Package luatex.def Info: Pictures/flags/ukraine.png  used on input line 2.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+
+Overfull \hbox (1.91295pt too wide) in paragraph at lines 37--38
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+)
+
+[40] (./recipes/HoneyCakeBase/recipe.tex
+
+LaTeX Info: Redefining \rmfamily on input line 1.
+LaTeX Info: Redefining \sffamily on input line 1.
+LaTeX Info: Redefining \ttfamily on input line 1.
+LaTeX Info: Redefining \rmfamily on input line 1.
+LaTeX Info: Redefining \sffamily on input line 1.
+LaTeX Info: Redefining \ttfamily on input line 1.
+<recipes/Yabluchnyk/photo.jpg, id=892, 566.115pt x 565.11125pt>
+File: recipes/Yabluchnyk/photo.jpg Graphic file (type jpg)
+<use recipes/Yabluchnyk/photo.jpg>
+Package luatex.def Info: recipes/Yabluchnyk/photo.jpg  used on input line 1.
+(luatex.def)             Requested size: 569.10243pt x 569.10225pt.
+[41<./recipes/Yabluchnyk/photo.jpg>]
+File: Pictures/ico/chef.png Graphic file (type png)
+<use Pictures/ico/chef.png>
+Package luatex.def Info: Pictures/ico/chef.png  used on input line 2.
+(luatex.def)             Requested size: 14.99667pt x 15.0pt.
+File: Pictures/ico/oven.png Graphic file (type png)
+<use Pictures/ico/oven.png>
+Package luatex.def Info: Pictures/ico/oven.png  used on input line 2.
+(luatex.def)             Requested size: 14.99667pt x 15.0pt.
+File: Pictures/flags/ukraine.png Graphic file (type png)
+<use Pictures/flags/ukraine.png>
+Package luatex.def Info: Pictures/flags/ukraine.png  used on input line 2.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+)
+Overfull \hbox (1.91295pt too wide) in paragraph at lines 33--44
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--44
+
+ []
+
+
+
+[42
+Missing character: There is no ’ (U+2019) in font MontserratAlternates-Regular
+-tlf-t1!
+Missing character: There is no ’ (U+2019) in font MontserratAlternates-Regular
+-tlf-t1!
+Missing character: There is no ’ (U+2019) in font MontserratAlternates-Regular
+-tlf-t1!
+] (./recipes/HoneyCake/recipe.tex
+
+LaTeX Info: Redefining \rmfamily on input line 1.
+LaTeX Info: Redefining \sffamily on input line 1.
+LaTeX Info: Redefining \ttfamily on input line 1.
+LaTeX Info: Redefining \rmfamily on input line 1.
+LaTeX Info: Redefining \sffamily on input line 1.
+LaTeX Info: Redefining \ttfamily on input line 1.
+<recipes/HoneyCakeBase/photo.jpg, id=907, 400.49625pt x 400.49625pt>
+File: recipes/HoneyCakeBase/photo.jpg Graphic file (type jpg)
+<use recipes/HoneyCakeBase/photo.jpg>
+Package luatex.def Info: recipes/HoneyCakeBase/photo.jpg  used on input line 1.
+
+(luatex.def)             Requested size: 569.13643pt x 569.13643pt.
+[43
+Missing character: There is no ￼ (U+FFFC) in font MontserratAlternates-Regular
+-tlf-t1!
+<./recipes/HoneyCakeBase/photo.jpg>]
+File: Pictures/ico/chef.png Graphic file (type png)
+<use Pictures/ico/chef.png>
+Package luatex.def Info: Pictures/ico/chef.png  used on input line 2.
+(luatex.def)             Requested size: 14.99667pt x 15.0pt.
+File: Pictures/ico/fridge.png Graphic file (type png)
+<use Pictures/ico/fridge.png>
+Package luatex.def Info: Pictures/ico/fridge.png  used on input line 2.
+(luatex.def)             Requested size: 14.99974pt x 15.0pt.
+File: Pictures/ico/cake.png Graphic file (type png)
+<use Pictures/ico/cake.png>
+Package luatex.def Info: Pictures/ico/cake.png  used on input line 2.
+(luatex.def)             Requested size: 14.99739pt x 15.0pt.
+File: Pictures/flags/ukraine.png Graphic file (type png)
+<use Pictures/flags/ukraine.png>
+Package luatex.def Info: Pictures/flags/ukraine.png  used on input line 2.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+
+Underfull \hbox (badness 5260) in paragraph at lines 32--32
+\T1/MontserratAlternates-TLF/regular/n/10.95 then cover with plas-tic wrap and 
+re-frig-er-ate
+ []
+
+
+Overfull \hbox (1.91295pt too wide) in paragraph at lines 32--33
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+
+ []
+
+)
+
+[44
+Missing character: There is no ’ (U+2019) in font MontserratAlternates-Regular
+-tlf-t1!
+Missing character: There is no ’ (U+2019) in font MontserratAlternates-Italic-
+tlf-t1!
+] (./recipes/BananaCake/recipe.tex
+
+LaTeX Info: Redefining \rmfamily on input line 1.
+LaTeX Info: Redefining \sffamily on input line 1.
+LaTeX Info: Redefining \ttfamily on input line 1.
+LaTeX Info: Redefining \rmfamily on input line 1.
+LaTeX Info: Redefining \sffamily on input line 1.
+LaTeX Info: Redefining \ttfamily on input line 1.
+<recipes/HoneyCake/photo.jpg, id=921, 602.25pt x 609.27625pt>
+File: recipes/HoneyCake/photo.jpg Graphic file (type jpg)
+<use recipes/HoneyCake/photo.jpg>
+Package luatex.def Info: recipes/HoneyCake/photo.jpg  used on input line 1.
+(luatex.def)             Requested size: 569.11087pt x 569.0754pt.
+[45<./recipes/HoneyCake/photo.jpg>]
+File: Pictures/ico/chef.png Graphic file (type png)
+<use Pictures/ico/chef.png>
+Package luatex.def Info: Pictures/ico/chef.png  used on input line 2.
+(luatex.def)             Requested size: 14.99667pt x 15.0pt.
+File: Pictures/ico/oven.png Graphic file (type png)
+<use Pictures/ico/oven.png>
+Package luatex.def Info: Pictures/ico/oven.png  used on input line 2.
+(luatex.def)             Requested size: 14.99667pt x 15.0pt.
+File: Pictures/ico/cake.png Graphic file (type png)
+<use Pictures/ico/cake.png>
+Package luatex.def Info: Pictures/ico/cake.png  used on input line 2.
+(luatex.def)             Requested size: 14.99739pt x 15.0pt.
+
+Underfull \hbox (badness 1314) in paragraph at lines 25--25
+[]\T1/MontserratAlternates-TLF/regular/n/10.95 Pre-heat oven to 180\TS1/Montser
+ratAlternates-TLF/regular/n/10.95 °\T1/MontserratAlternates-TLF/regular/n/10.9
+5 C/160\TS1/MontserratAlternates-TLF/regular/n/10.95 °\T1/MontserratAlternates
+-TLF/regular/n/10.95 C fan-forced. Line
+ []
+
+
+Overfull \hbox (1.91295pt too wide) in paragraph at lines 25--26
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
+)
+
+[46
+Missing character: There is no ￼ (U+FFFC) in font MontserratAlternates-Regular
+-tlf-t1!
+]
+Chapter 8.
+(./recipes/ANZACBiscuits/recipe.tex
+
+[47
+
+]
+File: Pictures/ico/chef.png Graphic file (type png)
+<use Pictures/ico/chef.png>
+Package luatex.def Info: Pictures/ico/chef.png  used on input line 2.
+(luatex.def)             Requested size: 14.99667pt x 15.0pt.
+File: Pictures/ico/oven.png Graphic file (type png)
+<use Pictures/ico/oven.png>
+Package luatex.def Info: Pictures/ico/oven.png  used on input line 2.
+(luatex.def)             Requested size: 14.99667pt x 15.0pt.
+File: Pictures/ico/biscuit.png Graphic file (type png)
+<use Pictures/ico/biscuit.png>
+Package luatex.def Info: Pictures/ico/biscuit.png  used on input line 2.
+(luatex.def)             Requested size: 14.99739pt x 15.0pt.
+File: Pictures/flags/australia.png Graphic file (type png)
+<use Pictures/flags/australia.png>
+Package luatex.def Info: Pictures/flags/australia.png  used on input line 2.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+File: Pictures/flags/new-zealand.png Graphic file (type png)
+<use Pictures/flags/new-zealand.png>
+Package luatex.def Info: Pictures/flags/new-zealand.png  used on input line 2.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+
+Underfull \hbox (badness 1412) in paragraph at lines 23--23
+[]\T1/MontserratAlternates-TLF/regular/n/10.95 Pre-head oven; Line two large ove
+n trays with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+
+ []
+
+
+Overfull \hbox (1.91295pt too wide) in paragraph at lines 23--24
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+
+ []
+
+)
+
+[48]
+
+LaTeX Info: Redefining \rmfamily on input line 58.
+LaTeX Info: Redefining \sffamily on input line 58.
+LaTeX Info: Redefining \ttfamily on input line 58.
+LaTeX Info: Redefining \rmfamily on input line 58.
+LaTeX Info: Redefining \sffamily on input line 58.
+LaTeX Info: Redefining \ttfamily on input line 58.
+<recipes/ANZACBiscuits/photo.jpg, id=946, 1284.8pt x 954.56625pt>
+File: recipes/ANZACBiscuits/photo.jpg Graphic file (type jpg)
+<use recipes/ANZACBiscuits/photo.jpg>
+Package luatex.def Info: recipes/ANZACBiscuits/photo.jpg  used on input line 58
+.
+(luatex.def)             Requested size: 569.0582pt x 569.04454pt.
+[49
+Missing character: There is no ￼ (U+FFFC) in font MontserratAlternates-Regular
+-tlf-t1!
+<./recipes/ANZACBiscuits/photo.jpg>]
+
+[50
+
+]
+Chapter 9.
+(./recipes/Pampusky/recipe.tex
+
+[51]
+File: Pictures/ico/chef.png Graphic file (type png)
+<use Pictures/ico/chef.png>
+Package luatex.def Info: Pictures/ico/chef.png  used on input line 2.
+(luatex.def)             Requested size: 14.99667pt x 15.0pt.
+File: Pictures/ico/oven.png Graphic file (type png)
+<use Pictures/ico/oven.png>
+Package luatex.def Info: Pictures/ico/oven.png  used on input line 2.
+(luatex.def)             Requested size: 14.99667pt x 15.0pt.
+File: Pictures/ico/biscuit.png Graphic file (type png)
+<use Pictures/ico/biscuit.png>
+Package luatex.def Info: Pictures/ico/biscuit.png  used on input line 3.
+(luatex.def)             Requested size: 14.99739pt x 15.0pt.
+File: Pictures/flags/ukraine.png Graphic file (type png)
+<use Pictures/flags/ukraine.png>
+Package luatex.def Info: Pictures/flags/ukraine.png  used on input line 3.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+
+Underfull \hbox (badness 4981) in paragraph at lines 36--36
+[]\T1/MontserratAlternates-TLF/regular/n/10.95 Place dough-nuts and dough-nut ho
+les on an
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--37
+
+ []
+
+
+Overfull \hbox (1.91295pt too wide) in paragraph at lines 2--37
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--37
+
+ []
+
+)
+
+[52] (./recipes/Scones/recipe.tex
+
+LaTeX Info: Redefining \rmfamily on input line 1.
+LaTeX Info: Redefining \sffamily on input line 1.
+LaTeX Info: Redefining \ttfamily on input line 1.
+LaTeX Info: Redefining \rmfamily on input line 1.
+LaTeX Info: Redefining \sffamily on input line 1.
+LaTeX Info: Redefining \ttfamily on input line 1.
+<recipes/Pampusky/photo.jpg, id=973, 832.10875pt x 831.105pt>
+File: recipes/Pampusky/photo.jpg Graphic file (type jpg)
+<use recipes/Pampusky/photo.jpg>
+Package luatex.def Info: recipes/Pampusky/photo.jpg  used on input line 1.
+(luatex.def)             Requested size: 569.07689pt x 569.07523pt.
+[53
+Missing character: There is no ￼ (U+FFFC) in font MontserratAlternates-Regular
+-tlf-t1!
+<./recipes/Pampusky/photo.jpg>]
+File: Pictures/ico/chef.png Graphic file (type png)
+<use Pictures/ico/chef.png>
+Package luatex.def Info: Pictures/ico/chef.png  used on input line 2.
+(luatex.def)             Requested size: 14.99667pt x 15.0pt.
+File: Pictures/ico/oven.png Graphic file (type png)
+<use Pictures/ico/oven.png>
+Package luatex.def Info: Pictures/ico/oven.png  used on input line 2.
+(luatex.def)             Requested size: 14.99667pt x 15.0pt.
+File: Pictures/ico/cake.png Graphic file (type png)
+<use Pictures/ico/cake.png>
+Package luatex.def Info: Pictures/ico/cake.png  used on input line 2.
+(luatex.def)             Requested size: 14.99739pt x 15.0pt.
+File: Pictures/flags/united-kingdom.png Graphic file (type png)
+<use Pictures/flags/united-kingdom.png>
+Package luatex.def Info: Pictures/flags/united-kingdom.png  used on input line 
+2.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+
+Underfull \hbox (badness 1377) in paragraph at lines 34--34
+[]\T1/MontserratAlternates-TLF/regular/n/10.95 Roll out dough un-til 2cm-thick. Us-ing a 5cm
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+
+ []
+
+
+Overfull \hbox (1.91295pt too wide) in paragraph at lines 34--35
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+)
+
+[54] (./recipes/Smores/recipe.tex
+
+LaTeX Info: Redefining \rmfamily on input line 1.
+LaTeX Info: Redefining \sffamily on input line 1.
+LaTeX Info: Redefining \ttfamily on input line 1.
+LaTeX Info: Redefining \rmfamily on input line 1.
+LaTeX Info: Redefining \sffamily on input line 1.
+LaTeX Info: Redefining \ttfamily on input line 1.
+<recipes/Scones/photo.jpg, id=988, 1322.9425pt x 1323.94624pt>
+File: recipes/Scones/photo.jpg Graphic file (type jpg)
+<use recipes/Scones/photo.jpg>
+Package luatex.def Info: recipes/Scones/photo.jpg  used on input line 1.
+(luatex.def)             Requested size: 569.03587pt x 569.04338pt.
+[55
+Missing character: There is no ￼ (U+FFFC) in font MontserratAlternates-Regular
+-tlf-t1!
+<./recipes/Scones/photo.jpg>]
+File: Pictures/ico/chef.png Graphic file (type png)
+<use Pictures/ico/chef.png>
+Package luatex.def Info: Pictures/ico/chef.png  used on input line 2.
+(luatex.def)             Requested size: 14.99667pt x 15.0pt.
+File: Pictures/ico/oven.png Graphic file (type png)
+<use Pictures/ico/oven.png>
+Package luatex.def Info: Pictures/ico/oven.png  used on input line 2.
+(luatex.def)             Requested size: 14.99667pt x 15.0pt.
+File: Pictures/ico/cake.png Graphic file (type png)
+<use Pictures/ico/cake.png>
+Package luatex.def Info: Pictures/ico/cake.png  used on input line 2.
+(luatex.def)             Requested size: 14.99739pt x 15.0pt.
+File: Pictures/flags/united-states.png Graphic file (type png)
+<use Pictures/flags/united-states.png>
+Package luatex.def Info: Pictures/flags/united-states.png  used on input line 2
+.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+
+ []
+
+
+Overfull \hbox (1.91295pt too wide) in paragraph at lines 25--26
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
+)
+
+[56]
+
+LaTeX Info: Redefining \rmfamily on input line 68.
+LaTeX Info: Redefining \sffamily on input line 68.
+LaTeX Info: Redefining \ttfamily on input line 68.
+LaTeX Info: Redefining \rmfamily on input line 68.
+LaTeX Info: Redefining \sffamily on input line 68.
+LaTeX Info: Redefining \ttfamily on input line 68.
+<recipes/Smores/photo.jpg, id=1001, 637.38126pt x 638.385pt>
+File: recipes/Smores/photo.jpg Graphic file (type jpg)
+<use recipes/Smores/photo.jpg>
+Package luatex.def Info: recipes/Smores/photo.jpg  used on input line 68.
+(luatex.def)             Requested size: 569.05705pt x 569.05702pt.
+[57<./recipes/Smores/photo.jpg>]
+
+[58
+
+]
+Chapter 10.
+(./recipes/Hotdogs/recipe.tex
+
+[59]
+File: Pictures/ico/chef.png Graphic file (type png)
+<use Pictures/ico/chef.png>
+Package luatex.def Info: Pictures/ico/chef.png  used on input line 2.
+(luatex.def)             Requested size: 14.99667pt x 15.0pt.
+File: Pictures/ico/pot.png Graphic file (type png)
+<use Pictures/ico/pot.png>
+Package luatex.def Info: Pictures/ico/pot.png  used on input line 2.
+(luatex.def)             Requested size: 14.99667pt x 15.0pt.
+File: Pictures/ico/plate.png Graphic file (type png)
+<use Pictures/ico/plate.png>
+Package luatex.def Info: Pictures/ico/plate.png  used on input line 2.
+(luatex.def)             Requested size: 14.99974pt x 15.0pt.
+File: Pictures/flags/united-states.png Graphic file (type png)
+<use Pictures/flags/united-states.png>
+Package luatex.def Info: Pictures/flags/united-states.png  used on input line 2
+.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+
+Overfull \hbox (1.91295pt too wide) in paragraph at lines 18--19
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+)
+
+[60]
+
+LaTeX Info: Redefining \rmfamily on input line 73.
+LaTeX Info: Redefining \sffamily on input line 73.
+LaTeX Info: Redefining \ttfamily on input line 73.
+LaTeX Info: Redefining \rmfamily on input line 73.
+LaTeX Info: Redefining \sffamily on input line 73.
+LaTeX Info: Redefining \ttfamily on input line 73.
+<recipes/Hotdogs/photo.jpg, id=1022, 1204.5pt x 1198.4775pt>
+File: recipes/Hotdogs/photo.jpg Graphic file (type jpg)
+<use recipes/Hotdogs/photo.jpg>
+Package luatex.def Info: recipes/Hotdogs/photo.jpg  used on input line 73.
+(luatex.def)             Requested size: 569.07413pt x 569.06328pt.
+[61<./recipes/Hotdogs/photo.jpg>]
+
+[62
+
+]
+Chapter 11.
+(./recipes/Palianytsia/recipe.tex
+
+[63]
+File: Pictures/ico/chef.png Graphic file (type png)
+<use Pictures/ico/chef.png>
+Package luatex.def Info: Pictures/ico/chef.png  used on input line 2.
+(luatex.def)             Requested size: 14.99667pt x 15.0pt.
+File: Pictures/ico/oven.png Graphic file (type png)
+<use Pictures/ico/oven.png>
+Package luatex.def Info: Pictures/ico/oven.png  used on input line 2.
+(luatex.def)             Requested size: 14.99667pt x 15.0pt.
+
+Overfull \hbox (1.91295pt too wide) in paragraph at lines 31--32
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+
+ []
+
+
+LaTeX Font Warning: Font shape `TU/NotoSansMono(0)/regular/it' undefined
+(Font)              using `TU/NotoSansMono(0)/regular/n' instead on input line 
+35.
+
+luaotfload | aux : no font with id -1
+Package polyglossia Info: Option: English, variant=american.
+LaTeX Info: Redefining \rmfamily on input line 35.
+LaTeX Info: Redefining \sffamily on input line 35.
+LaTeX Info: Redefining \ttfamily on input line 35.
+)
+
+[64]
+
+LaTeX Info: Redefining \rmfamily on input line 78.
+LaTeX Info: Redefining \sffamily on input line 78.
+LaTeX Info: Redefining \ttfamily on input line 78.
+LaTeX Info: Redefining \rmfamily on input line 78.
+LaTeX Info: Redefining \sffamily on input line 78.
+LaTeX Info: Redefining \ttfamily on input line 78.
+<recipes/Palianytsia/photo.jpg, id=1047, 470.75874pt x 469.755pt>
+File: recipes/Palianytsia/photo.jpg Graphic file (type jpg)
+<use recipes/Palianytsia/photo.jpg>
+Package luatex.def Info: recipes/Palianytsia/photo.jpg  used on input line 78.
+(luatex.def)             Requested size: 569.05956pt x 569.05759pt.
+[65
+Missing character: There is no ￼ (U+FFFC) in font MontserratAlternates-Regular
+-tlf-t1!
+<./recipes/Palianytsia/photo.jpg>]
+
+[66
+
+]
+Chapter 12.
+) (./ukraine.tex
+
+[67]
+<Pictures/other/ukrainian-map-bw.png, id=1060, 231.264pt x 180.675pt>
+File: Pictures/other/ukrainian-map-bw.png Graphic file (type png)
+<use Pictures/other/ukrainian-map-bw.png>
+Package luatex.def Info: Pictures/other/ukrainian-map-bw.png  used on input lin
+e 7.
+(luatex.def)             Requested size: 455.24582pt x 355.68095pt.
+
+
+[68
+
+<./Pictures/other/ukrainian-map-bw.png>]
+
+[69
+
+
+]
+
+[70]
+Chapter 13.
+
+
+[71
+
+]
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 2
+0.
+ (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+
+LaTeX Font Warning: Font shape `T1/lmtt/regular/n' undefined
+(Font)              using `T1/lmtt/m/n' instead on input line 20.
+
+Package polyglossia Info: Option: English, variant=american.
+LaTeX Info: Redefining \rmfamily on input line 23.
+LaTeX Info: Redefining \sffamily on input line 23.
+LaTeX Info: Redefining \ttfamily on input line 23.
+
+Overfull \hbox (5.51366pt too wide) in paragraph at lines 27--32
+\T1/MontserratAlternates-TLF/regular/n/10.95 niver-sary of the Dec-la-ra-tion of
+ State Sovereignty of Ukraine passed by the Verkhovna
+ []
+
+
+
+[72
+
+]
+
+LaTeX Info: Redefining \rmfamily on input line 53.
+LaTeX Info: Redefining \sffamily on input line 53.
+LaTeX Info: Redefining \ttfamily on input line 53.
+LaTeX Info: Redefining \rmfamily on input line 53.
+LaTeX Info: Redefining \sffamily on input line 53.
+LaTeX Info: Redefining \ttfamily on input line 53.
+<Pictures/other/ukraine-flag.jpg, id=1091, 602.25pt x 602.25pt>
+File: Pictures/other/ukraine-flag.jpg Graphic file (type jpg)
+<use Pictures/other/ukraine-flag.jpg>
+Package luatex.def Info: Pictures/other/ukraine-flag.jpg  used on input line 53
+.
+(luatex.def)             Requested size: 569.11087pt x 569.11087pt.
+[73<./Pictures/other/ukraine-flag.jpg>]
+Package polyglossia Info: Option: English, variant=american.
+LaTeX Info: Redefining \rmfamily on input line 68.
+LaTeX Info: Redefining \sffamily on input line 68.
+LaTeX Info: Redefining \ttfamily on input line 68.
+
+
+[74])
+
+[75
+
+
+]
+
+[76]
+Chapter 14.
+
+
+[77
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 267--274
+
+ []
+
+
+
+[78]
+
+[79]
+
+<Pictures/other/lsa-eagle-black-border.png, id=1121, 45.16875pt x 45.16875pt>
+File: Pictures/other/lsa-eagle-black-border.png Graphic file (type png)
+<use Pictures/other/lsa-eagle-black-border.png>
+Package luatex.def Info: Pictures/other/lsa-eagle-black-border.png  used on inp
+ut line 280.
+(luatex.def)             Requested size: 569.60464pt x 569.60464pt.
+[80
+
+<./Pictures/other/lsa-eagle-black-border.png>]
+Chapter 15.
+
+
+[81]
+
+[82
+
+]
+File: Pictures/ico/bobcat.png Graphic file (type png)
+<use Pictures/ico/bobcat.png>
+Package luatex.def Info: Pictures/ico/bobcat.png  used on input line 347.
+(luatex.def)             Requested size: 24.8252pt x 15.0pt.
+
+Overfull \hbox (5.21133pt too wide) in paragraph at lines 368--370
+[]\T1/MontserratAlternates-TLF/regular/n/10.95 ``Democ-racy Man-i-fest'' Youtube
+ In-ter-net Meme
+ []
+
+
+
+LaTeX Info: Redefining \rmfamily on input line 386.
+LaTeX Info: Redefining \sffamily on input line 386.
+LaTeX Info: Redefining \ttfamily on input line 386.
+LaTeX Info: Redefining \rmfamily on input line 386.
+LaTeX Info: Redefining \sffamily on input line 386.
+LaTeX Info: Redefining \ttfamily on input line 386.
+[83
+Missing character: There is no – (U+2013) in font MontserratAlternates-Regular
+-tlf-t1!
+]
+
+[84] (./lsa-morse-code.tex
+Overfull \hbox (5.0493pt too wide) in paragraph at lines 13--69
+ [] 
+ []
+
+)
+
+LaTeX Info: Redefining \rmfamily on input line 391.
+LaTeX Info: Redefining \sffamily on input line 391.
+LaTeX Info: Redefining \ttfamily on input line 391.
+LaTeX Info: Redefining \rmfamily on input line 391.
+LaTeX Info: Redefining \sffamily on input line 391.
+LaTeX Info: Redefining \ttfamily on input line 391.
+[85
+
+] (./lsa-bingo.tex
+Overfull \hbox (13.07602pt too wide) in paragraph at lines 65--65
+[]  \T1/lmtt/regular/n/10.95 The Leaf Sprint Army Sends it's Regards[] 
+ []
+
+
+Overfull \hbox (7.32729pt too wide) in paragraph at lines 65--65
+[]  \T1/lmtt/regular/n/10.95 Smack those Bots     Location Unknowns[] 
+ []
+
+
+Overfull \hbox (7.32729pt too wide) in paragraph at lines 65--65
+[]  \T1/lmtt/regular/n/10.95 Short War Summary    Sunday Fundraiser[] 
+ []
+
+
+Overfull \hbox (7.32729pt too wide) in paragraph at lines 65--65
+[]  \T1/lmtt/regular/n/10.95 Turrent Toss         Alan! Alan! Alan![] 
+ []
+
+
+Overfull \hbox (1.57855pt too wide) in paragraph at lines 65--65
+[]  \T1/lmtt/regular/n/10.95 Channel Legend       Tony was driving[] 
+ []
+
+
+Overfull \hbox (7.32729pt too wide) in paragraph at lines 65--65
+[]  \T1/lmtt/regular/n/10.95 Ruh Roh Raggy        Satellite Picture[] 
+ []
+
+
+Overfull \hbox (1.57855pt too wide) in paragraph at lines 65--65
+[]  \T1/lmtt/regular/n/10.95 Scoobiedoo Van       Bridge destroyed[] 
+ []
+
+
+Overfull \hbox (1.57855pt too wide) in paragraph at lines 65--65
+[]  \T1/lmtt/regular/n/10.95 Old Guard      FPV Drone    Explosion[] 
+ []
+
+
+Overfull \hbox (13.07602pt too wide) in paragraph at lines 65--65
+[]  \T1/lmtt/regular/n/10.95 OpSec          Blayt        Rabbit Hole[] 
+ []
+
+)
+
+[86
+
+] (./lsa-units.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 12.
+<Pictures/units/unit-infantry.png, id=1160, 237.19385pt x 162.14423pt>
+File: Pictures/units/unit-infantry.png Graphic file (type png)
+<use Pictures/units/unit-infantry.png>
+Package luatex.def Info: Pictures/units/unit-infantry.png  used on input line 1
+4.
+(luatex.def)             Requested size: 23.40227pt x 16.0pt.
+<Pictures/units/unit-reconnaissance.png, id=1161, 237.19385pt x 162.14423pt>
+File: Pictures/units/unit-reconnaissance.png Graphic file (type png)
+<use Pictures/units/unit-reconnaissance.png>
+Package luatex.def Info: Pictures/units/unit-reconnaissance.png  used on input 
+line 15.
+(luatex.def)             Requested size: 23.40227pt x 16.0pt.
+<Pictures/units/unit-artillery.png, id=1162, 237.19385pt x 162.14423pt>
+File: Pictures/units/unit-artillery.png Graphic file (type png)
+<use Pictures/units/unit-artillery.png>
+Package luatex.def Info: Pictures/units/unit-artillery.png  used on input line 
+16.
+(luatex.def)             Requested size: 23.40227pt x 16.0pt.
+<Pictures/units/unit-armoured.png, id=1163, 237.19385pt x 162.14423pt>
+File: Pictures/units/unit-armoured.png Graphic file (type png)
+<use Pictures/units/unit-armoured.png>
+Package luatex.def Info: Pictures/units/unit-armoured.png  used on input line 1
+7.
+(luatex.def)             Requested size: 23.40227pt x 16.0pt.
+<Pictures/units/unit-cavalry-scout.png, id=1164, 237.19385pt x 162.14423pt>
+File: Pictures/units/unit-cavalry-scout.png Graphic file (type png)
+<use Pictures/units/unit-cavalry-scout.png>
+Package luatex.def Info: Pictures/units/unit-cavalry-scout.png  used on input l
+ine 18.
+(luatex.def)             Requested size: 23.40227pt x 16.0pt.
+<Pictures/units/unit-mortar.png, id=1165, 237.19385pt x 162.14423pt>
+File: Pictures/units/unit-mortar.png Graphic file (type png)
+<use Pictures/units/unit-mortar.png>
+Package luatex.def Info: Pictures/units/unit-mortar.png  used on input line 19.
+
+(luatex.def)             Requested size: 23.40227pt x 16.0pt.
+<Pictures/units/unit-signal.png, id=1166, 237.19385pt x 162.14423pt>
+File: Pictures/units/unit-signal.png Graphic file (type png)
+<use Pictures/units/unit-signal.png>
+Package luatex.def Info: Pictures/units/unit-signal.png  used on input line 20.
+
+(luatex.def)             Requested size: 23.40227pt x 16.0pt.
+<Pictures/units/unit-uav.png, id=1167, 237.19385pt x 162.14423pt>
+File: Pictures/units/unit-uav.png Graphic file (type png)
+<use Pictures/units/unit-uav.png>
+Package luatex.def Info: Pictures/units/unit-uav.png  used on input line 21.
+(luatex.def)             Requested size: 23.40227pt x 16.0pt.
+<Pictures/units/unit-medical.png, id=1168, 237.19385pt x 162.14423pt>
+File: Pictures/units/unit-medical.png Graphic file (type png)
+<use Pictures/units/unit-medical.png>
+Package luatex.def Info: Pictures/units/unit-medical.png  used on input line 22
+.
+(luatex.def)             Requested size: 23.40227pt x 16.0pt.
+<Pictures/units/unit-air-defence.png, id=1169, 237.19385pt x 162.14423pt>
+File: Pictures/units/unit-air-defence.png Graphic file (type png)
+<use Pictures/units/unit-air-defence.png>
+Package luatex.def Info: Pictures/units/unit-air-defence.png  used on input lin
+e 23.
+(luatex.def)             Requested size: 23.40227pt x 16.0pt.
+<Pictures/units/unit-antitank.png, id=1170, 237.19385pt x 162.14423pt>
+File: Pictures/units/unit-antitank.png Graphic file (type png)
+<use Pictures/units/unit-antitank.png>
+Package luatex.def Info: Pictures/units/unit-antitank.png  used on input line 2
+4.
+(luatex.def)             Requested size: 23.40227pt x 16.0pt.
+<Pictures/units/unit-engineering.png, id=1171, 237.19385pt x 162.14423pt>
+File: Pictures/units/unit-engineering.png Graphic file (type png)
+<use Pictures/units/unit-engineering.png>
+Package luatex.def Info: Pictures/units/unit-engineering.png  used on input lin
+e 25.
+(luatex.def)             Requested size: 23.40227pt x 16.0pt.
+<Pictures/units/unit-motorized2.png, id=1172, 237.19385pt x 162.14423pt>
+File: Pictures/units/unit-motorized2.png Graphic file (type png)
+<use Pictures/units/unit-motorized2.png>
+Package luatex.def Info: Pictures/units/unit-motorized2.png  used on input line
+ 26.
+(luatex.def)             Requested size: 23.40227pt x 16.0pt.
+<Pictures/units/unit-combined-arms.png, id=1173, 237.19385pt x 162.14423pt>
+File: Pictures/units/unit-combined-arms.png Graphic file (type png)
+<use Pictures/units/unit-combined-arms.png>
+Package luatex.def Info: Pictures/units/unit-combined-arms.png  used on input l
+ine 27.
+(luatex.def)             Requested size: 23.40227pt x 16.0pt.
+<Pictures/units/unit-missile.png, id=1174, 237.19385pt x 162.14423pt>
+File: Pictures/units/unit-missile.png Graphic file (type png)
+<use Pictures/units/unit-missile.png>
+Package luatex.def Info: Pictures/units/unit-missile.png  used on input line 28
+.
+(luatex.def)             Requested size: 23.40227pt x 16.0pt.
+<Pictures/units/unit-tractor.png, id=1175, 237.19385pt x 162.14423pt>
+File: Pictures/units/unit-tractor.png Graphic file (type png)
+<use Pictures/units/unit-tractor.png>
+Package luatex.def Info: Pictures/units/unit-tractor.png  used on input line 29
+.
+(luatex.def)             Requested size: 23.40227pt x 16.0pt.
+<Pictures/units/unit-name-team.png, id=1176, 237.19385pt x 222.36923pt>
+File: Pictures/units/unit-name-team.png Graphic file (type png)
+<use Pictures/units/unit-name-team.png>
+Package luatex.def Info: Pictures/units/unit-name-team.png  used on input line 
+34.
+(luatex.def)             Requested size: 17.06491pt x 16.0pt.
+<Pictures/units/unit-name-squad.png, id=1177, 237.19385pt x 203.3752pt>
+File: Pictures/units/unit-name-squad.png Graphic file (type png)
+<use Pictures/units/unit-name-squad.png>
+Package luatex.def Info: Pictures/units/unit-name-squad.png  used on input line
+ 35.
+(luatex.def)             Requested size: 18.6574pt x 16.0pt.
+<Pictures/units/unit-name-section.png, id=1178, 237.19385pt x 203.3752pt>
+File: Pictures/units/unit-name-section.png Graphic file (type png)
+<use Pictures/units/unit-name-section.png>
+Package luatex.def Info: Pictures/units/unit-name-section.png  used on input li
+ne 36.
+(luatex.def)             Requested size: 18.6574pt x 16.0pt.
+<Pictures/units/unit-name-platoon.png, id=1179, 237.19385pt x 203.3752pt>
+File: Pictures/units/unit-name-platoon.png Graphic file (type png)
+<use Pictures/units/unit-name-platoon.png>
+Package luatex.def Info: Pictures/units/unit-name-platoon.png  used on input li
+ne 37.
+(luatex.def)             Requested size: 18.6574pt x 16.0pt.
+<Pictures/units/unit-name-company.png, id=1180, 237.19385pt x 222.36923pt>
+File: Pictures/units/unit-name-company.png Graphic file (type png)
+<use Pictures/units/unit-name-company.png>
+Package luatex.def Info: Pictures/units/unit-name-company.png  used on input li
+ne 38.
+(luatex.def)             Requested size: 17.06491pt x 16.0pt.
+<Pictures/units/unit-name-battalion.png, id=1181, 237.19385pt x 222.36923pt>
+File: Pictures/units/unit-name-battalion.png Graphic file (type png)
+<use Pictures/units/unit-name-battalion.png>
+Package luatex.def Info: Pictures/units/unit-name-battalion.png  used on input 
+line 39.
+(luatex.def)             Requested size: 17.06491pt x 16.0pt.
+<Pictures/units/unit-name-regiment.png, id=1182, 237.19385pt x 222.36923pt>
+File: Pictures/units/unit-name-regiment.png Graphic file (type png)
+<use Pictures/units/unit-name-regiment.png>
+Package luatex.def Info: Pictures/units/unit-name-regiment.png  used on input l
+ine 40.
+(luatex.def)             Requested size: 17.06491pt x 16.0pt.
+<Pictures/units/unit-name-brigade.png, id=1183, 237.19385pt x 222.36923pt>
+File: Pictures/units/unit-name-brigade.png Graphic file (type png)
+<use Pictures/units/unit-name-brigade.png>
+Package luatex.def Info: Pictures/units/unit-name-brigade.png  used on input li
+ne 41.
+(luatex.def)             Requested size: 17.06491pt x 16.0pt.
+<Pictures/units/unit-name-division.png, id=1184, 237.19385pt x 222.36923pt>
+File: Pictures/units/unit-name-division.png Graphic file (type png)
+<use Pictures/units/unit-name-division.png>
+Package luatex.def Info: Pictures/units/unit-name-division.png  used on input l
+ine 42.
+(luatex.def)             Requested size: 17.06491pt x 16.0pt.
+<Pictures/units/unit-name-corp.png, id=1185, 237.19385pt x 222.36923pt>
+File: Pictures/units/unit-name-corp.png Graphic file (type png)
+<use Pictures/units/unit-name-corp.png>
+Package luatex.def Info: Pictures/units/unit-name-corp.png  used on input line 
+43.
+(luatex.def)             Requested size: 17.06491pt x 16.0pt.
+<Pictures/units/unit-name-army.png, id=1186, 237.19385pt x 222.36923pt>
+File: Pictures/units/unit-name-army.png Graphic file (type png)
+<use Pictures/units/unit-name-army.png>
+Package luatex.def Info: Pictures/units/unit-name-army.png  used on input line 
+44.
+(luatex.def)             Requested size: 17.06491pt x 16.0pt.
+<Pictures/units/unit-name-army-group.png, id=1187, 260.57915pt x 222.91733pt>
+File: Pictures/units/unit-name-army-group.png Graphic file (type png)
+<use Pictures/units/unit-name-army-group.png>
+Package luatex.def Info: Pictures/units/unit-name-army-group.png  used on input
+ line 45.
+(luatex.def)             Requested size: 18.69965pt x 16.0pt.
+<Pictures/units/unit-name-region.png, id=1188, 313.57831pt x 222.93457pt>
+File: Pictures/units/unit-name-region.png Graphic file (type png)
+<use Pictures/units/unit-name-region.png>
+Package luatex.def Info: Pictures/units/unit-name-region.png  used on input lin
+e 46.
+(luatex.def)             Requested size: 22.50298pt x 16.0pt.
+<Pictures/units/unit-name-command.png, id=1189, 237.19385pt x 222.36923pt>
+File: Pictures/units/unit-name-command.png Graphic file (type png)
+<use Pictures/units/unit-name-command.png>
+Package luatex.def Info: Pictures/units/unit-name-command.png  used on input li
+ne 47.
+(luatex.def)             Requested size: 17.06491pt x 16.0pt.
+
+
+LaTeX Info: Redefining \rmfamily on input line 53.
+LaTeX Info: Redefining \sffamily on input line 53.
+LaTeX Info: Redefining \ttfamily on input line 53.
+LaTeX Info: Redefining \rmfamily on input line 53.
+LaTeX Info: Redefining \sffamily on input line 53.
+LaTeX Info: Redefining \ttfamily on input line 53.
+[87
+
+<./Pictures/units/unit-infantry.png><./Pictures/units/unit-reconnaissance.png><.
+/Pictures/units/unit-artillery.png><./Pictures/units/unit-armoured.png><./Pictur
+es/units/unit-cavalry-scout.png><./Pictures/units/unit-mortar.png><./Pictures/un
+its/unit-signal.png><./Pictures/units/unit-uav.png><./Pictures/units/unit-medica
+l.png><./Pictures/units/unit-air-defence.png><./Pictures/units/unit-antitank.png
+><./Pictures/units/unit-engineering.png><./Pictures/units/unit-motorized2.png><.
+/Pictures/units/unit-combined-arms.png><./Pictures/units/unit-missile.png><./Pic
+tures/units/unit-tractor.png><./Pictures/units/unit-name-team.png><./Pictures/un
+its/unit-name-squad.png><./Pictures/units/unit-name-section.png><./Pictures/unit
+s/unit-name-platoon.png><./Pictures/units/unit-name-company.png><./Pictures/unit
+s/unit-name-battalion.png><./Pictures/units/unit-name-regiment.png><./Pictures/u
+nits/unit-name-brigade.png><./Pictures/units/unit-name-division.png><./Pictures/
+units/unit-name-corp.png><./Pictures/units/unit-name-army.png><./Pictures/units/
+unit-name-army-group.png><./Pictures/units/unit-name-region.png><./Pictures/unit
+s/unit-name-command.png>]) (./lsa-history.tex
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+[]|\T1/MontserratAlternates-TLF/regular/n/10.95 The Mar-mot make his first ap-pe
+ar-ance (2h21m15s,
+ []
+
+[88
+
+])
+
+LaTeX Info: Redefining \rmfamily on input line 401.
+LaTeX Info: Redefining \sffamily on input line 401.
+LaTeX Info: Redefining \ttfamily on input line 401.
+LaTeX Info: Redefining \rmfamily on input line 401.
+LaTeX Info: Redefining \sffamily on input line 401.
+LaTeX Info: Redefining \ttfamily on input line 401.
+[89] (./lsa-anthem.tex
+Overfull \hbox (26.17755pt too wide) in paragraph at lines 1--1
+|[]\T1/MontserratAlternates-TLF/bold/n/24.88 LSA An-them: ``The White and Gold''
+| 
+ []
+
+)
+
+[90
+
+] (./lsa-fundraising.tex)
+
+LaTeX Info: Redefining \rmfamily on input line 407.
+LaTeX Info: Redefining \sffamily on input line 407.
+LaTeX Info: Redefining \ttfamily on input line 407.
+LaTeX Info: Redefining \rmfamily on input line 407.
+LaTeX Info: Redefining \sffamily on input line 407.
+LaTeX Info: Redefining \ttfamily on input line 407.
+[91
+
+] (./lsa-contributors.tex
+
+[92
+
+
+]
+Chapter 16.
+File: Pictures/flags/united-states.png Graphic file (type png)
+<use Pictures/flags/united-states.png>
+Package luatex.def Info: Pictures/flags/united-states.png  used on input line 5
+.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+File: Pictures/flags/united-states.png Graphic file (type png)
+<use Pictures/flags/united-states.png>
+Package luatex.def Info: Pictures/flags/united-states.png  used on input line 6
+.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+File: Pictures/flags/united-states.png Graphic file (type png)
+<use Pictures/flags/united-states.png>
+Package luatex.def Info: Pictures/flags/united-states.png  used on input line 7
+.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+File: Pictures/flags/canada.png Graphic file (type png)
+<use Pictures/flags/canada.png>
+Package luatex.def Info: Pictures/flags/canada.png  used on input line 8.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+File: Pictures/flags/australia.png Graphic file (type png)
+<use Pictures/flags/australia.png>
+Package luatex.def Info: Pictures/flags/australia.png  used on input line 9.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+File: Pictures/flags/australia.png Graphic file (type png)
+<use Pictures/flags/australia.png>
+Package luatex.def Info: Pictures/flags/australia.png  used on input line 10.
+(luatex.def)             Requested size: 15.99397pt x 16.0pt.
+)
+
+[93]
+
+<Pictures/ico/44086.jpg, id=1257, 4516.875pt x 4516.875pt>
+File: Pictures/ico/44086.jpg Graphic file (type jpg)
+<use Pictures/ico/44086.jpg>
+Package luatex.def Info: Pictures/ico/44086.jpg  used on input line 415.
+(luatex.def)             Requested size: 569.019pt x 569.019pt.
+[94
+
+
+<./Pictures/ico/44086.jpg>] (./cookbook.ind)
+
+[95
+
+]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: luatex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(42.67912pt, 458.0887pt, 68.2873pt)
+* v-part:(T,H,B)=(14.22636pt, 486.54146pt, 68.2873pt)
+* \paperwidth=569.05511pt
+* \paperheight=569.05511pt
+* \textwidth=458.0887pt
+* \textheight=486.54146pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-3.9827pt
+* \topmargin=-89.91742pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=11.0pt
+* \footskip=27.46295pt
+* \marginparwidth=116.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+EAN: 1 234567 890128
+EANinternal: 011121221411231112314111213111111121331123211222121221213111
+
+
+<Pictures/marmot.jpg, id=1286, 677.53125pt x 677.53125pt>
+File: Pictures/marmot.jpg Graphic file (type jpg)
+<use Pictures/marmot.jpg>
+Package luatex.def Info: Pictures/marmot.jpg  used on input line 435.
+(luatex.def)             Requested size: 569.07068pt x 569.07068pt.
+[96
+
+
+<./Pictures/marmot.jpg>] (./cookbook.aux)
+ ***********
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-05-27>
+ ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package rerunfilecheck Info: File `cookbook.out' has not changed.
+(rerunfilecheck)             Checksum: C1656F3E9EA36254792269FB3A447328;5992.
+)
+
+Here is how much of LuaTeX's memory you used:
+ 37530 strings out of 475915
+ 125086,1977958 words of node,token memory allocated
+ 845 words of node memory still in use:
+   6 hlist, 1 vlist, 1 rule, 16 glue, 3 kern, 2 glyph, 20 attribute, 96 glue_spe
+c, 20 attribute_list, 2 write nodes
+   avail lists: 1:3,2:2905,3:1227,4:96,5:635,6:113,7:5851,8:60,9:3746,10:15,11:2
+18
+ 57822 multiletter control sequences out of 65536+600000
+ 122 fonts using 26134247 bytes
+ 99i,13n,128p,1192b,743s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/fon
+ts/enc/dvips/lm/lm-ec.enc}</usr/share/texlive/texmf-dist/fonts/truetype/google/n
+oto/NotoSansMono-Regular.ttf>{/usr/share/texlive/texmf-dist/fonts/enc/dvips/mont
+serrat/zmo_bapnwu.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/montserrat/
+zmo_ro7vi7.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/montserrat/Mont
+serratAlternates-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/mont
+serrat/MontserratAlternates-BoldItalic.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/montserrat/MontserratAlternates-Italic.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/montserrat/MontserratAlternates-Regular.pfb></usr/shar
+e/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/texmf/fonts/type1/public/lm
+/lmtt9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ocr-b-outline/ocrb9
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8ac.pfb>
+Output written on cookbook.pdf (96 pages, 11004931 bytes).
+
+PDF statistics: 1349 PDF objects out of 1440 (max. 8388607)
+ 722 compressed objects within 8 object streams
+ 243 named destinations out of 1000 (max. 131072)
+ 392 words of extra memory for PDF output out of 10000 (max. 100000000)
+
