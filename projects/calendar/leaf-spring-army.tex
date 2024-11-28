@@ -522,6 +522,16 @@ tex.sprint(';')
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \makeatother
 
+%\newcommand{\publishingdate}{\today}
+\newcommand{\publishingdate}{December 2024}
+\newcommand{\publishingversion}{PDF Version}
+%\newcommand{\publishingversion}{Printed Version}
+\newcommand{\isbn}{123-45-67890-12-8} % Correct checksum required -8
+
+\usepackage[ISBN=\isbn,SC0]{ean13isbn}
+%\usepackage[ISBN=978-80-85955-35-4,SC0]{ean13isbn}
+%\EANisbn[SC3]
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
 
@@ -535,7 +545,83 @@ tex.sprint(';')
 
 \newpage
 
-\
+\vfill
+
+\begin{center}
+
+\includegraphics[width=120mm]{photos/lsa-eagle-black.png}
+
+\vspace{10mm}
+
+{\Huge The Leaf Spring Army}
+
+\vspace{10mm}
+
+{\HUGE \textbf{2025}}
+
+\vspace{10mm}
+
+{\Huge Calendar}
+
+
+\end{center}
+
+\vfill
+
+\newpage
+
+\textbf{Dedication}
+
+This calendar is dedicated to all the people of Ukraine, as they
+fight to repel the Russian invaders from their country.
+
+\textbf{\textit{Slava Ukraini!}}
+
+\vfill
+
+\textbf{Disclaimer}
+
+This calendar has been produced with as much care as possible, but errors can
+occur. Before relying on any information from this publication, please confirm
+with another source.
+
+\vspace{5mm}
+
+{\tiny
+\textbf{About this calendar}
+
+\vspace{3mm}
+
+\begin{tabular}{l l}
+Title:     & The Leaf Spring Army 2025 Calendar \\
+Author:    & @Paul Schulz, for the Leaf Spring Army \\
+Publisher: & The Enforcer Media Group \\
+Version:   & \publishingversion, \publishingdate \\
+ISBN:      & \isbn \\
+\end{tabular}
+
+\vspace{3mm}
+
+2025 Edition
+
+\vspace{3mm}
+
+The calendar was typeset using Overleaf and the \LaTeX\ type-setting system,
+using the ``wallcalendar'' layout.
+
+\vspace{3mm}
+
+Copyright \textcopyright The Enforcer Media Group, 2024
+
+\vspace{3mm}
+
+\begin{minipage}{\textwidth}
+This publication is copyright. All images are used under license from LSA member
+\textbf{@Duchie the cruton} and were taken while visiting Ukraine to deliver a
+donated vehicle. The Leaf Spring Army Eagle was designed and supplied by
+\textbf{@Nutters HD}.
+\end{minipage}
+}
 
 \MonthPage[layout=full page, put photo=full page]{January}
 

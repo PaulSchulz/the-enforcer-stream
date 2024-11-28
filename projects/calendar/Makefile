@@ -5,7 +5,7 @@ LATEX_OPTS=-interaction=nonstopmode -halt-on-error
 
 all: lsa-calendar-2025.pdf lsa-calendar-2025-trim.pdf
 
-%.pdf: %.tex
+%.pdf: %.tex leaf-spring-army.tex
 	 $(LATEX) $(LATEX_OPTS) $<
 
 clean:
