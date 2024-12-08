@@ -18,9 +18,21 @@
       url: ""
       id: ""
 
-    casualties:
-      soldiers: {}
-      bobcats:  {}
+    losses:
+      troops:          {}
+      tanks:           {}
+      apc:             {}
+      artillery:       {}
+      mlrs:            {}
+      anti-aircraft:   {}
+      planes:          {}
+      helicopters:     {}
+      uav:             {}
+      cruise_misslies: {}
+      warships:        {}
+      submarines:      {}
+      vehicles:        {}
+      bobcats:         {}
 
     notes: |
       -
