@@ -1,0 +1,48 @@
+# [[file:../../../ps-journal/20241214::*The Enforcer Stream - Day 1024][The Enforcer Stream - Day 1024:1]]
+- file: 20241214
+  day: {}
+  broadcast: Fri 13 Dec 2024 22:00 EST
+  duration: {}
+  title: |
+    RUSSIA CRIPPLED IN HUGE ATTACK, RUSSIANS TRAPPED IN SYRIA FLEE! Breaking Enforcer News 1024
+  morse-region: |
+    DIPLOMACY IS A STRONG POINT OF RUSSIA, THEY SAY SPEAK LOUDLY
+    AND GET THE SHORT END OF THE STICK. LSA!
+  description: |
+    Russi has suffered serious damage overnight as Ukrainian drone hit and
+    destroyed a major Russian oil depot in Orel, causing great devastation and chaos
+    for the Russian's war fighting abilities. Meanwhile Russia launched a major
+    attack on Ukraine, one of the largest of the war with msot of the drones and
+    missiles being fired shot down over Ukrainian skies. Russian forces that were
+    trapped in Northern Syria attempted to break for the port of Tartus, a daring
+    move for survival. Nearly 130 Russian vehicles filled with supplies and troops
+    make a bold dash for the coast, crossing the whole of Syria in it's path.
+    Negotiations have fallen apart, and the Russians are now having to leave their
+    airbase at tartus, and the details on port facilities is unknown at this time.
+    Meanwhile the drone incident continues to draw the public's attention, some even
+    firing at the drones in northern New Jersey.
+
+  youtube:
+    url: https://www.youtube.com/watch?v=4xNLTrk8RxQ
+    id: 4xNLTrk8RxQ
+
+  losses:
+    troops:          760121(+1390)
+    tanks:             9537(+5)
+    apc:              19675(+31)
+    artillery:        21078(+6)
+    mlrs:              1253
+    anti-aircraft:     1023
+    planes:             368
+    helicopters:        329
+    uav:              20176(+65)
+    cruise_missiles:   2861
+    warships:            28
+    submarines:           1
+    vehicles:         31177(+50)
+    bobcats:           3642
+
+  notes: 
+    - No morse decoders decoded message at beginning of stream.
+    - @Her Royal Fluffiness of Cake gave more decode at end.
+# The Enforcer Stream - Day 1024:1 ends here

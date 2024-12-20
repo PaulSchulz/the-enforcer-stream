@@ -28,7 +28,7 @@
       planes:          {}
       helicopters:     {}
       uav:             {}
-      cruise_misslies: {}
+      cruise_missiles: {}
       warships:        {}
       submarines:      {}
       vehicles:        {}
