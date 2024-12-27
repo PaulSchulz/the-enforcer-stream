@@ -1,29 +1,47 @@
-- file: 20241017  # (buffer-name)
-  day: 966
-  broadcast: Wed 16 Oct 2024 22:00 EDT
-  duration: {}
+# [[file:../../../ps-journal/20241223::*The Enforcer Stream - Day][The Enforcer Stream - Day:1]]
+- file: 20241223
+  day: 1033
+  broadcast: Sun 22 Dec 2024 22:00 EST
+  duration: {}                                              
   title: |
-    RUSSIAN FORCES SLAMMED IN KURSK, HUGE FIRE IN MOSCOW! Breaking War News With
-    The Enforcer (966)
+    RUSSIAN OIL DEPOTS EXPLODE, CHINA ORDERS 1 MILLION DRONES! Breaking War News
+    With The Enforcer 1033
   morse: |
-    TONY! TONY BLYAT SLOW DOWN, YOU'RE DRIVING INTO A TANK ONY! SLOW DOWN FOR
-    THE LOVE OF GOD! LLTLSA!
+    RUSSIA IS LOSING HEAVILY ON THE LAST DAY WE ARE ON AIR BEFORE
+    CHRISTMAS IS A GIFT. LLTLSA!
   description: |
-    Russian forces took heavy losses in the Kursk Oblast as they continue to
-    attempt the offensive against Ukrainian forces in the area. Random partisans are
-    beginning to set up road blocks at night to wipe out Russians who are driving
-    without headlights. Israel has conducted a major airstrikes in Western Syria
-    producing a high amount of damage and once again thwarting Iranian proxies.
-    Meanwhile in Ukraine more Ukrainian forces are conducting heavy defensives and
-    inflicting high casualties on the Russians.
+    Russian oil depots explode as Ukrainian kamikaze drones pummel the Russian
+    lifeline to economic survival, Massive explosions were seen in the Rostov area
+    from these attacks. Oil seeps upon the shores of the Russian Black Sea coast,
+    the damage is extensive, with some dolphins succumbing to the toxic shock that
+    the oil spill has created. The PLA of China has ordered nearly 1 Million
+    Kamikaze drones for future military endeavors, possibly suggesting more
+    preparations for an invasion of Taiwan.
 
   youtube:
-    url: https://www.youtube.com/watch?v=mUEISZoMhKc
-    id: mUEISZoMhKc
+    url: https://www.youtube.com/watch?v=phY9y2Wwrdc
+    id: phY9y2Wwrdc
 
-  casualties:
-    soldiers: -1450
-    bobcats:      0
+  losses:
+    troops:          774100(+1820)
+    tanks:             9609(+15)
+    apc:              19870(+29)
+    artillery:        21284(+32)
+    mlrs:              1256
+    anti-aircraft:     1030(+3)
+    planes:             369
+    helicopters:        329
+    uav:              20735(+50)
+    cruise_missiles:   2947
+    warships:            28
+    submarines:           1
+    vehicles:         31972(+81)
+    bobcats:           3662
+
+  fundraiser:
+    charity: Nova Ukraine
+    goal: $2500.00
 
   notes: |
     -
+# The Enforcer Stream - Day:1 ends here

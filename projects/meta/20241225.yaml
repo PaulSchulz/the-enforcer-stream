@@ -1,0 +1,23 @@
+# [[file:../../../ps-journal/20241225::*The Enforcer Stream - Day 1035][The Enforcer Stream - Day 1035:1]]
+- file: 20241225
+  day: 1035
+
+  losses:
+    troops:          777720(+1630)
+    tanks:           9624(+9)
+    apc:             19915(+30)
+    artillery:       21323(+10)
+    mlrs:            1256
+    anti-aircraft:   1030
+    planes:          369
+    helicopters:     329
+    uav:             20834(+44)
+    cruise_missiles: 2948
+    warships:        28
+    submarines:      1
+    vehicles:        32086(+47)
+    bobcats:         3667(+3)
+
+  notes: |
+    No Enforcer Stream on Christmas Eve
+# The Enforcer Stream - Day 1035:1 ends here
