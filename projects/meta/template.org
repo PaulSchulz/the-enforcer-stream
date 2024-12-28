@@ -2,6 +2,9 @@
 
 @EnforcerMatt The morse code for today reads...
 
+Useful link for casualty report:
+https://index.minfin.com.ua/en/russian-invading/casualties/
+
 #+begin_src yaml :comments link :tangle "../the-enforcer-stream/projects/meta/new.yaml"
   - file: {}  # (buffer-name)
     day: {}
