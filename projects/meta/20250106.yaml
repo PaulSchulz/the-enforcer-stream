@@ -1,0 +1,44 @@
+# [[file:../../../ps-journal/20250106::*The Enforcer Stream - Day 1047][The Enforcer Stream - Day 1047:1]]
+- file: 20250106
+  day: 1047
+  broadcast: # TZ='America/New_York' date
+  duration: {}
+  title: |
+    MAJOR RUSSIAN DEFEAT IN KURSK, RUSSIANS FLEE THE REGION! Breaking War News With The Enforcer 1047
+  morse: |    
+    UKRAINE IS AGAIN ON THE MARCH TO KURSK, HOPEFULLY IT WILL BE A SHORT
+    ONE. LLTLSA 
+  description: |
+    A major Russian defeat has been suffered in Kursk as Ukrainian forces began
+    an offesnive in the early morning hours, breaking the defensive lines of the
+    810th Naval Infantry Brigade and inflicting heavy losses on North Korean
+    Expeditionary forces. Currently the exact rate of advance is unknown, but panic
+    has spread throughout the oblast. Russian civil authorities have ordered
+    mandatory evacuations of areas as far away as 15 miles form the active front
+    possibly showing the frontline siuation is grave and Russian forces are in a
+    rout. Ukrainian forces have been able to conduct limited counteroffensives in
+    the Chasiv Yar direction as well reclaiming small amounts of territory.
+
+  youtube:
+    url: https://www.youtube.com/watch?v=UOO6NRVRydA
+    id: UOO6NRVRydA
+
+  losses:
+    troops:          796490(+1730)
+    tanks:             9686(+7)
+    apc:              20119(+26)
+    artillery:        21603(+25)
+    mlrs:              1257
+    anti-aircraft:     1032
+    planes:             369
+    helicopters:        331
+    uav:              21447(+91)
+    cruise_missiles:   3006
+    warships:            28
+    submarines:           1
+    vehicles:         32940(+97)
+    bobcats:           3677(+2)
+
+  notes: |
+    -
+# The Enforcer Stream - Day 1047:1 ends here

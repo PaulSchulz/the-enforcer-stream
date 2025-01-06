@@ -1,47 +1,35 @@
-# [[file:../../../ps-journal/20241223::*The Enforcer Stream - Day][The Enforcer Stream - Day:1]]
-- file: 20241223
-  day: 1033
-  broadcast: Sun 22 Dec 2024 22:00 EST
-  duration: {}                                              
+# [[file:../../../ps-journal/20250105::*The Enforcer Stream - Day ????][The Enforcer Stream - Day ????:1]]
+- file: {}  # (buffer-name)
+  day: {}
+  broadcast: # TZ='America/New_York' date
+  duration: {}
   title: |
-    RUSSIAN OIL DEPOTS EXPLODE, CHINA ORDERS 1 MILLION DRONES! Breaking War News
-    With The Enforcer 1033
+    -
   morse: |
-    RUSSIA IS LOSING HEAVILY ON THE LAST DAY WE ARE ON AIR BEFORE
-    CHRISTMAS IS A GIFT. LLTLSA!
+    -
   description: |
-    Russian oil depots explode as Ukrainian kamikaze drones pummel the Russian
-    lifeline to economic survival, Massive explosions were seen in the Rostov area
-    from these attacks. Oil seeps upon the shores of the Russian Black Sea coast,
-    the damage is extensive, with some dolphins succumbing to the toxic shock that
-    the oil spill has created. The PLA of China has ordered nearly 1 Million
-    Kamikaze drones for future military endeavors, possibly suggesting more
-    preparations for an invasion of Taiwan.
+    -
 
   youtube:
-    url: https://www.youtube.com/watch?v=phY9y2Wwrdc
-    id: phY9y2Wwrdc
+    url: ""
+    id: ""
 
   losses:
-    troops:          774100(+1820)
-    tanks:             9609(+15)
-    apc:              19870(+29)
-    artillery:        21284(+32)
-    mlrs:              1256
-    anti-aircraft:     1030(+3)
-    planes:             369
-    helicopters:        329
-    uav:              20735(+50)
-    cruise_missiles:   2947
-    warships:            28
-    submarines:           1
-    vehicles:         31972(+81)
-    bobcats:           3662
-
-  fundraiser:
-    charity: Nova Ukraine
-    goal: $2500.00
+    troops:          {}
+    tanks:           {}
+    apc:             {}
+    artillery:       {}
+    mlrs:            {}
+    anti-aircraft:   {}
+    planes:          {}
+    helicopters:     {}
+    uav:             {}
+    cruise_missiles: {}
+    warships:        {}
+    submarines:      {}
+    vehicles:        {}
+    bobcats:         {}
 
   notes: |
     -
-# The Enforcer Stream - Day:1 ends here
+# The Enforcer Stream - Day ????:1 ends here
