@@ -1,0 +1,34 @@
+# [[file:../../../ps-journal/20250109::*The Enforcer Stream - Day 1050][The Enforcer Stream - Day 1050:1]]
+- file: 20250109
+  day: 1050
+  broadcast: Wed 08 Jan 2025 22:00 EST
+  duration: {}
+  title: |
+    FIRES DESTROY LOS ANGELES, HOLLYWOOD EVACUATES! Breaking
+    News With The Enforcer
+  description: |
+    Currently the City of Los Angeles is dealing with the most destructive fire in the city's history, as over 60 Billion dollars of damage has been created form the fire, and at this moment 5 are dead. A New fire has broken in the Hollywood Hills and is rapidly descending the hills and entering Hollywood itself. Currently evacuations are underway in Hollywood, Santa Monia, Altadena, Malibu, and many other Areas. Firefighters, despite their heroic and selfless efforts, are unable to contain the blaze. The National Guard has been mobilized to the City to help with firefighting efforts, although this may be fruitless.
+
+  youtube:
+    url: https://www.youtube.com/watch?v=rzer0PuL7yE
+    id: rzer0PuL7yE
+
+  losses:
+    troops:          801670(+160)
+    tanks:             9714(+4)
+    apc:              20205(+16)
+    artillery:        21729(+19)
+    mlrs:              1290
+    anti-aircraft:     1038
+    planes:             369
+    helicopters:        331
+    uav:              21727(+19)
+    cruise_missiles:   3014
+    warships:            28
+    submarines:           1
+    vehicles:         33307(+81)
+    bobcats:           3681
+
+  notes: |
+    No morse code on stream.
+# The Enforcer Stream - Day 1050:1 ends here

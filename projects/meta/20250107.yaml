@@ -1,0 +1,23 @@
+# [[file:../../../ps-journal/20250107::*The Enforcer Stream - Day 1048][The Enforcer Stream - Day 1048:2]]
+- file: 20250107
+  day: 1048
+
+  losses:
+    troops:          798040(+1550)
+    tanks:           9700(+14)
+    apc:             20164(+45)
+    artillery:       21665(+62)
+    mlrs:            1258(+1)
+    anti-aircraft:   1034(+2)
+    planes:          369
+    helicopters:     331
+    uav:             21625(+178)
+    cruise_missiles: 3006
+    warships:        28
+    submarines:      1
+    vehicles:        33056(+116)
+    bobcats:         3681(+4)
+
+  notes: |
+    -
+# The Enforcer Stream - Day 1048:2 ends here
