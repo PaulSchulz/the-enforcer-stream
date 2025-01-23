@@ -1,0 +1,47 @@
+# [[file:../../../ps-journal/20250122::*The Enforcer Stream - Day 1063][The Enforcer Stream - Day 1063:1]]
+- file: 20250122
+  day: 1063
+  broadcast: # TZ='America/New_York' date
+  duration: {}
+  title: |
+    MAJOR AIRCRAFT FACTORY EXPLODES, UKRAINE BLOCKADES CRIMEA! Breaking War News
+    With The Enforcer 1063
+  morse: |
+    RUSSIA LOOKS LIKE IT MIGHT NOT BE HAVING AN EASY
+    TIME DEPENDING ON WHAT THEY DO. LLTLSA! 
+  description: |
+    The Smolensk Aviation Facotry, which produces SU-25 and cruise missiles has
+    been hit by Ukrainian drones causing significant damage to the factory and
+    rendering it largely inoperable in some of the assembly halls. Ukraine has also
+    been able to conduct a successful maritime blockade of Crimea, with Russian
+    carge now unable to arrive in any port inside the peninsula. Russia has also had
+    their port access rights in Syria revoked, but the interim government is
+    allowing them to finally evacuate their remaining forces from Tartus. Russian
+    forces are taking losses on all fronts, as Ukrainian defense remain resolute.
+    The United States will continue foreign support to Ukraine, as they have been
+    provided and exemption from the Secretary of State during the foreign funding
+    freeze ordered by the President for the next 90 days.
+
+  youtube:
+    url: https://www.youtube.com/watch?v=ivDfIpGXiCA
+    id: ivDfIpGXiCA
+
+  losses:
+    troops:          822030(+1600)
+    tanks:             9833(+12)
+    apc:              20477(+23)
+    artillery:        22134(+60)
+    mlrs:              1262
+    anti-aircraft:     1050(+1)
+    planes:             369
+    helicopters:        331
+    uav:              22898(+130)
+    cruise_missiles:   3051
+    warships:            28
+    submarines:           1
+    vehicles:         34682(+194)
+    bobcats:           3710(+4)
+
+  notes: |
+    -
+# The Enforcer Stream - Day 1063:1 ends here
