@@ -1,0 +1,45 @@
+# [[file:../../../ps-journal/20250207::*The Enforcer Stream - Day 1079][The Enforcer Stream - Day 1079:1]]
+- file: 20250207
+  day: 1079
+  broadcast: Thu 06 Feb 2025 22:00 EST
+  duration: {}
+  title: |
+    RUSSIAN IRBM EXPLODES IN FLIGHT, UKRAINE DEFEATS RUSSIA IN KURSK! Breaking News W The Enforcer 1079
+  morse: |
+    THAT ORESHNIK FAILING WAS A LITTLE BIT OF A LET DOWN, BUT YOU GOT TO GIVE IT TO
+    EM, THEY TRIED! LLTLSA! 
+  description: |
+    A Russian Oreshnik IRBM was launched at Ukraine today and
+    experienced a critical failure, exploding midfight over Russia. This was a
+    massive embarrassment coming on the heels of a Massive Ukrainian push in Kursk,
+    pushing the Russians back 4 miles in 4 hours, a major offensive victory. Russian
+    forces seem to re reeling from the shock of the attacks today while France has
+    announced the arrival of the first Mirage 2000s into Ukraine. Iran has launched
+    their first drone carrier to much fanfare; its a converted cargo ship. Saudia
+    Arabia has bombarded Houthi positions with THermobaric rockets today in an
+    attempt to dirupt the presence near their border.
+
+
+  youtube:
+    url: https://www.youtube.com/watch?v=jtw2yTE0fa4
+    id: jtw2yTE0fa4
+
+  losses:
+    troops:          845310(+1240)
+    tanks:             9965(+18)
+    apc:              20737(+16)
+    artillery:        22753(+46)
+    mlrs:              1271(+2)  
+    anti-aircraft:     1055(+2)
+    planes:             369
+    helicopters:        331
+    uav:              24185(+83)
+    cruise_missiles:   3054
+    warships:            28
+    submarines:           1
+    vehicles:         36211(*+133)
+    bobcats:           3737(+2)
+
+  notes: |
+    -
+# The Enforcer Stream - Day 1079:1 ends here

@@ -30,11 +30,12 @@
     tanks:           9893(+3)
     apc:             20631(+17)
     artillery:       22445(+33)
-    mlrs:            1050
-    anti-aircraft:   369
-    planes:          331
-    helicopters:     23573(+63)
-    uav:             3054
+    mlrs:            1265(+1)
+    anti-aircraft:   1050
+    planes:          369
+    helecopters:     331
+    uav:             23573(+63)
+    cruise-missiles: 3054
     warships:        28
     submarines:      1
     vehicles:        35552(+101)
