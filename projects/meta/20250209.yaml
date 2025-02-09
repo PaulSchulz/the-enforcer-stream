@@ -1,0 +1,23 @@
+# [[file:../../../ps-journal/20250209::*The Enforcer Stream - Day 1081][The Enforcer Stream - Day 1081:1]]
+- file: 20250209
+  day: 1081
+
+  losses:
+    troops:          849320(+1460)
+    tanks:             9992(+11)
+    apc:              20797(+20)
+    artillery:        22844(+24)
+    mlrs:              1273
+    anti-aircraft:     1056
+    planes:             370(+1)
+    helicopters:        331
+    uav:              24486(+83)
+    cruise_missiles:   3054
+    warships:            28
+    submarines:           1
+    vehicles:         36529(+127)
+    bobcats:           3739(+1)
+
+  notes: |
+    No stream was broadcast.
+# The Enforcer Stream - Day 1081:1 ends here
