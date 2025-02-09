@@ -3,20 +3,20 @@
   day: 1081
 
   losses:
-    troops:          849320(+1460)
-    tanks:             9992(+11)
-    apc:              20797(+20)
-    artillery:        22844(+24)
+    troops:          847860(+1210)
+    tanks:             9981(+6)
+    apc:              20777(+22)
+    artillery:        22820(+35)
     mlrs:              1273
     anti-aircraft:     1056
-    planes:             370(+1)
+    planes:             369
     helicopters:        331
-    uav:              24486(+83)
+    uav:              24403(+102)
     cruise_missiles:   3054
     warships:            28
     submarines:           1
-    vehicles:         36529(+127)
-    bobcats:           3739(+1)
+    vehicles:         36402(+95)
+    bobcats:           3738
 
   notes: |
     No stream was broadcast.
