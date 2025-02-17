@@ -1,0 +1,18 @@
+#+TITLE: The Enforcer Channel and the Leaf Spring Army
+
+* Introduction
+Welcome! This repository is here to hold the files for various 'fan based'
+projects for The Enforcer Youtube Stream and The Leaf Spring Army.
+
+The Enforcer is a Youtube Channel which regularly (daily) streams news from the
+Internet about global events and issues. It started on February 22 2022, when
+Russia invaded Ukraine after previously annexing Crimea.
+
+The news stream is produced and presented by:
+- @The Enforcer (Andrew)
+- @EnforcerMatt (Matt)
+
+The Leaf Spring Army (LSA) is the name for the community of the stream. For the
+origins of this name, please watch Day 27 of The Enforcer stream from the 1 hour
+mark. It is also worth reading the comments as they were posted.
+
