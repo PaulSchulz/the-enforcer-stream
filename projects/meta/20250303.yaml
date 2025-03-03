@@ -1,0 +1,43 @@
+# [[file:../../../ps-journal/20250303::*The Enforcer Stream - Day 1103][The Enforcer Stream - Day 1103:1]]
+- file: 20250303
+  day: 1103
+  broadcast: Sun 02 Mar 22:00 EST 2025
+  duration: {}
+  title: |
+    MASSIVE EXPLOSIONS DEEP IN RUSSIA, RUSSIA SURROUNDED IN TORETSK! Breaking War News With The Enforcer
+  morse: {}
+  description: |
+    Russian forces have been completely surrounded in Toretsk, Ukrainian forces
+    have now reached the downtown and have access to the major roadways Russian
+    forces would need to use to retreat. Massive explosions rocked a large refinery
+    in Ufa only hours ago as a mysterious drone or missile came roaring down onto
+    the refinery casuing significant damage. Ukrainian armed forces have kept
+    pressure high on the Russians, while diplomatic pressures have also been running
+    high as well. A European summit was held today, and the european powers made it
+    clear they have unwavering support towards Ukraine. The idea of a ceasefire was
+    mentioned, but rejected by Zelensky.
+
+  youtube:
+    url: https://www.youtube.com/watch?v=1r_AxX0iJK8
+    id: 1r_AxX0iJK8
+
+  losses:
+    troops:          876720(+1110)
+    tanks:           10241(+8)
+    apc:             21274(+25)
+    artillery:       23959(+51)
+    mlrs:            1306(+2)
+    anti-aircraft:   1091(+3)
+    planes:          370
+    helicopters:     331
+    uav:             27594(+192)
+    cruise_missiles: 3085
+    warships:        28
+    submarines:      1
+    vehicles:        39218(+117)
+    bobcats:         3768(+5)
+
+  notes: |
+    Stream started early, without morse code, as there was an issue with
+    upload of intro video.
+# The Enforcer Stream - Day 1103:1 ends here
