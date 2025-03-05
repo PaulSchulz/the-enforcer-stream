@@ -1,14 +1,14 @@
-** The Enforcer Stream - Day ????                           :the_enforcer:morse:
+** The Enforcer Stream - Day {{day}}                        :the_enforcer:morse:
 
 @EnforcerMatt The morse code for today reads...
 
 Useful link for casualty report:
 https://index.minfin.com.ua/en/russian-invading/casualties/
 
-#+begin_src yaml :comments link :tangle "../the-enforcer-stream/projects/meta/new.yaml"
-  - file: {}  # (buffer-name)
-    day: {}
-    broadcast: # TZ='America/New_York' date
+#+begin_src yaml :comments link :tangle "../the-enforcer-stream/projects/meta/{{buffer-name}}.yaml"
+  - file: {{buffer-name}}
+    day: {{day}}
+    broadcast: {{broadcast}}
     duration: {}
     title: |
       -
