@@ -4,15 +4,24 @@
   broadcast: Sun 09 Mar 22:00 EDT 2025
   duration: {}
   title: |
-    -
+    RUSSIA LOSING GROUND IN DONETSK, IRAN READY FOR WAR! Breaking War News With
+    The Enforcer 1110
   morse: |
-    -
+    RUSSIA IS TRYING TO TAKE ADVANTAGE OF THE SITUATION IN kURSK WHILE IT LASTS.
+    IT WONT LAST LONG .LLTLSA!
   description: |
-    -
-
+    Russia is continuing to lose ground in the Donetsk region on all fronts, as
+    Ukrainian forces keep up the pressure in Pokrovsk, Toretsk, and Chasiv Yar.
+    Russian forces have been able to advance, taking several villages in the Kursk
+    Oblast, which it appears that this may be due to a lack of intelligence provided
+    by the US. The US has announced that Ukraine signing the mineral deal may not
+    resume military support for Ukraine. Iran has stated that they are ready for war
+    with the US and are racing to produce a usable nuclear weapon. The US and South
+    Korea has begin military exercises today, which North Korea has warned that
+    there would be dire consequences to.
   youtube:
-    url: ""
-    id: ""
+    url: https://www.youtube.com/watch?v=Dp4-d1RScWY
+    id: Dp4-d1RScWY
 
   losses:
     troops:          885130(+1180)
@@ -29,6 +38,8 @@
     submarines:           1
     vehicles:         39933(+142)
     bobcats:           3773(+1)
+
+  fundraiser: NOVA UKRAINE
 
   notes: |
     -
