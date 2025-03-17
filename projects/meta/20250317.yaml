@@ -1,35 +1,54 @@
 # [[file:../../../ps-journal/20250317::*The Enforcer Stream - Day 1117][The Enforcer Stream - Day 1117:1]]
 - file: 20250317
-    day: 1117
-    broadcast: Sun 16 Mar 22:00 EDT 2025
-    duration: {}
-    title: |
-      -
-    morse: |
-      -
-    description: |
-      -
+  day: 1117
+  broadcast: Sun 16 Mar 22:00 EDT 2025
+  duration: {}
+  title: |
+    US AIRSTRIKES DESTROY IRANIAN PROXIES, MASSIVE STRIKES IN RUSSIA! Breaking
+    War News W The Enforcer
+  morse: |
+    LET THIS BE A MESSAGE TO IRAN THAT THE WILL BE NEXT IF THEY DON'T MIND OUR
+    WARNINGS. LLTLSA!
+  description: |
+    Massive US airstrikes have been conducted against the Yemeni Houthis for
+    the past 48 hours, with massive damage being inflicted on Houthi forces near
+    Major strongholds. Houthi forces have returned fire, some missiles targeted the
+    USS Harry S. Truman, all missiles were intercpeted by the Carrier Strike Group.
+    US leadership has stated that the strikes will go on until Houthi aggression
+    against global shipping in the Red Sea stops. In Russia, a massive drone strike
+    has been launched by Ukraine again, hitting airbases, refineries, and other
+    vital targets. Hezbollah attacked the Syrian interim government forces near the
+    Lebanese border today, starting a major conflict between Hezbollah and the
+    Syrian Interim Government. Brtiain and France are now creating their own
+    security guarantee pact for Ukraine, pledging that they can push this forward
+    outside of a US led peace agreement. A Chinese J-15 crashed during a training
+    exercise, and the Japanese are deploying missiles to the Ktushu islands to deter
+    aggressive chinese actions.
 
-    youtube:
-      url: ""
-      id: ""
+  youtube:
+    url: https://www.youtube.com/watch?v=eVoZuzC2e7s
+    id: eVoZuzC2e7s
 
-    losses:
-      troops:          894240(+1400)
-      tanks:            10325(+10)
-      apc:              21478(+20)
-      artillery:        24561(+78)
-      mlrs:              1317(+2)
-      anti-aircraft:     1104(+1)
-      planes:             370
-      helicopters:        331
-      uav:              29413(+180)
-      cruise_missiles:   3121
-      warships:            28
-      submarines:           1
-      vehicles:         40684(+113)
-      bobcats:           3777
-p;;
-    notes: |
-      -
+  losses:
+    troops:          894240(+1400)
+    tanks:            10325(+10)
+    apc:              21478(+20)
+    artillery:        24561(+78)
+    mlrs:              1317(+2)
+    anti-aircraft:     1104(+1)
+    planes:             370
+    helicopters:        331
+    uav:              29413(+180)
+    cruise_missiles:   3121
+    warships:            28
+    submarines:           1
+    vehicles:         40684(+113)
+    bobcats:           3777
+
+  fundraiser:
+    charity: NOVA UKRAINE
+    goal: 2500
+
+  notes: |
+    -
 # The Enforcer Stream - Day 1117:1 ends here
