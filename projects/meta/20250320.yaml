@@ -1,0 +1,35 @@
+# [[file:../../../ps-journal/20250320::*The Enforcer Stream - Day 1120][The Enforcer Stream - Day 1120:1]]
+- file: 20250320
+  day: 1120
+  broadcast: Wed 19 Mar 22:00 EDT 2025
+  duration: {}
+  title: |
+    -
+  morse: |
+    -
+  description: |
+    -
+
+  youtube:
+    url: ""
+    id: ""
+
+  losses:
+    troops:          898070(+1060)
+    tanks:            10364(+12)
+    apc:              21523(+14)
+    artillery:        24704(+64)
+    mlrs:              1320(+1)
+    anti-aircraft:     1107
+    planes:             370
+    helicopters:        331
+    uav:              29716
+    cruise_missiles:   3121
+    warships:            28
+    submarines:           1
+    vehicles:         41003(+111)
+    bobcats:           3780
+
+  notes: |
+    -
+# The Enforcer Stream - Day 1120:1 ends here
