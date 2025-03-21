@@ -4,31 +4,41 @@
   broadcast: Thu 20 Mar 22:00 EDT 2025
   duration: {}
   title: |
-    -
+    RUSSIAN AIRBASE LEVELLED IN EXPLOSION, CHINESE ARMY REVOLTS! Breaking War
+    News W/ The Enforcer 1121
   morse: |
-    -
+    THAT AIRBASE EXPLODED SO BADLY THAT THING FINNA ERASE, THE WAY IT GOING BOOM.
+    LLTLSA!
   description: |
-    -
+    Engels Airbase has been levelled in a massive explosion caused by a Ukrainian
+    attack. The massive shockwave flattened the airbase and surrounding areas of the
+    city. Ukrainian forces have confirmed to have made a foothold in Belgorod and
+    are making ground. The Chinese army seems to be moving into open opposition of
+    Xi Jinping, as propaganda published by the PLA is now beginning to critisize his
+    leadership. Poland is ordering 1 million landmines to create extensive
+    minefields around their eastern borders. New US-Russian talks on the war will
+    begin in Ritadh once more, the progress may be nonexistant. The US has told
+    Israel it will bomb the Houthis on behalf of both of them.
 
   youtube:
-    url: ""
-    id: ""
+    url: https://www.youtube.com/watch?v=KCZsacksQ6g
+    id: KCZsacksQ6g
 
   losses:
-    troops:          {}
-    tanks:           {}
-    apc:             {}
-    artillery:       {}
-    mlrs:            {}
-    anti-aircraft:   {}
-    planes:          {}
-    helicopters:     {}
-    uav:             {}
-    cruise_missiles: {}
-    warships:        {}
-    submarines:      {}
-    vehicles:        {}
-    bobcats:         {}
+    troops:          899470(+1400)
+    tanks:            10377(+13)
+    apc:              21561(+38)
+    artillery:        24747(+43)
+    mlrs:              1322(+2)
+    anti-aircraft:     1110(+3)
+    planes:             370
+    helicopters:        331
+    uav:              29895(+179)
+    cruise_missiles:   3121
+    warships:            28
+    submarines:           1
+    vehicles:         41094(+91)
+    bobcats:           3870
 
   notes: |
     -
