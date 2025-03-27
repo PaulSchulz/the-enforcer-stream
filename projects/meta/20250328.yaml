@@ -1,0 +1,35 @@
+# [[file:../../../ps-journal/20250328::*The Enforcer Stream - Day 1128][The Enforcer Stream - Day 1128:1]]
+- file: 20250328
+  day: 1128
+  broadcast: Thu 27 Mar 22:00 EDT 2025
+  duration: {}
+  title: |
+    -
+  morse: |
+    -
+  description: |
+    -
+
+  youtube:
+    url: ""
+    id: ""
+
+  losses:
+    troops:          908890(+1670)
+    tanks:            10438(+8)
+    apc:              21701(+16)
+    artillery:         1343(+2)
+    mlrs:              1343(+2)
+    anti-aircraft:     1118(+1)
+    planes:             370
+    helicopters:        335
+    uav:              30926(+108)
+    cruise_missiles:   3121
+    warships:            28
+    submarines:           1
+    vehicles:         42070(+169)
+    bobcats:           3787(+1)
+
+  notes: |
+    -
+# The Enforcer Stream - Day 1128:1 ends here
