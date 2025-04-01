@@ -1,0 +1,24 @@
+# [[file:../../../ps-journal/20250401::*The Enforcer Stream - Day 1132][The Enforcer Stream - Day 1132:1]]
+- file: 20250401
+  day: 1132
+  broadcast: Mon 31 Mar 22:00 EDT 2025
+
+  losses:
+    troops:          915230(1230)
+    tanks:            10496(+4)
+    apc:              21819(+3)
+    artillery:        25537(+30)
+    mlrs:              1347
+    anti-aircraft:     1123(+1)
+    planes:             370
+    helicopters:        335
+    uav:              31416(+71)
+    cruise_missiles:   3121
+    warships:            28
+    submarines:           1
+    vehicles:         42593(+65)
+    bobcats:           3787
+
+  notes: |
+    -
+# The Enforcer Stream - Day 1132:1 ends here
