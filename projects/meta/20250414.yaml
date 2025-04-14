@@ -4,15 +4,24 @@
   broadcast: Sun 13 Apr 22:00 EDT 2025
   duration: {}
   title: |
-    -
+    RUSSIAN ECONOMY FALLING APART, UKRAINE RETAKES KEY CITIES! Breaking War News
+    With The Enforcer 1145
   morse: |
-    -
+    THEN THE PRICE OF THE OIL IS DROPPING THE PUTIN IS BOUNCING HIS HEAD OFF THE
+    DESK. LLTLSA!
   description: |
-    -
+    The Russian economy is falling apart as the massive drop in the price of
+    crude oil is projected to lose the Russian economy 1 trillion rubles worth of
+    income, and force Russia into an economic collapse that could be gravely severe
+    within less than a year. MEanwhile Ukraine continues to take ground in Toretsk
+    and Pokrovsk as the Russian army finds it difficult to hold defensive positions
+    in these fronts due to heavy losses and supply line strains. No word has come
+    out about US-Iranian talks in Oman, and China is demanding the US drop all
+    tarriffs as they suspend the sell of rare earths to the US.
 
   youtube:
-    url: ""
-    id: ""
+    url: https://www.youtube.com/watch?v=AmRQ6SAtT3c
+    id: AmRQ6SAtT3c
 
   losses:
     troops:          932670(+1220)
@@ -29,6 +38,10 @@
     submarines:      1
     vehicles:        43950(+143)
     bobcats:         3799(+1)
+
+  fundraiser:
+    target: $2500
+    charity: Revived Soldiers Ukraine
 
   notes: |
     -
