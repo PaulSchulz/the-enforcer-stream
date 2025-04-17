@@ -1,0 +1,35 @@
+# [[file:../../../ps-journal/20250418::*The Enforcer Stream - Day 1149][The Enforcer Stream - Day 1149:1]]
+- file: 20250418
+  day: 1149
+  broadcast: Thu 17 Apr 22:00 EDT 2025
+  duration: {}
+  title: |
+    -
+  morse: |
+    -
+  description: |
+    -
+
+  youtube:
+    url: ""
+    id: ""
+
+  losses:
+    troops:          937440(+1230)
+    tanks:            10654(+16)
+    apc:              22217(+54)
+    artillery:        26442(+65)
+    mlrs:              1366(+2)
+    anti-aircraft:     1135(+3)
+    planes:             370
+    helicopters:        335
+    uav:              32925(+88)
+    cruise_missiles:   3145
+    warships:            28
+    submarines:           1
+    vehicles:         44642(+170)
+    bobcats:           3807(+3)
+
+  notes: |
+    -
+# The Enforcer Stream - Day 1149:1 ends here
