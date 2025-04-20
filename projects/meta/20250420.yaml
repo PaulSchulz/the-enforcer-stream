@@ -1,0 +1,23 @@
+# [[file:../../../ps-journal/20250420::*The Enforcer Stream - Day 1151][The Enforcer Stream - Day 1151:1]]
+- file: 20250420
+  day: 1151
+
+  losses:
+    troops:          940150(+1180)
+    tanks:           10676(+14)
+    apc:             22266(+9)
+    artillery:       26600(+70)
+    mlrs:            1368(+1)
+    anti-aircraft:   1139(+3)
+    planes:          370
+    helicopters:     335
+    uav:             33176(+111)
+    cruise_missiles: 3148(+3)
+    warships:        28
+    submarines:      1
+    vehicles:        45162(+208)
+    bobcats:         3858
+
+  notes: |
+    The Enforcer Stream is on a short break.
+# The Enforcer Stream - Day 1151:1 ends here
