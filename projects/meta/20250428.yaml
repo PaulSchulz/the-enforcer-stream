@@ -4,15 +4,25 @@
   broadcast: Sun 27 Apr 22:00 EDT 2025
   duration: {}
   title: |
-    -
+    NORTH KOREA DECLARES WAR ON UKRAINE, INDIA ATTACKS SOON! Breaking War News
+    With The Enforcer 1159
   morse: |
-    -
+    NORTH KOREA OFFICIALLY JOINS THE UKRAINE WAR AND TOTAL WAR IS ABOUT TO BEGIN
+    IN INDIA. LLTLSA!
   description: |
-    -
+    North Korea has officially declared war on the state of Ukraine and has
+    stated they will be sending a large number of forces into Russia to join in
+    fighting against the Ukrainian armed forces. Ukrainian forces are holding the
+    Russians back on most fronts, and are continuing to take ground in the Toretsk
+    battlefield. India will attack Pakistan in full force moving the border war into
+    total war in a matter of days as both sides rapidly mobilize, with heavy
+    firefights already occuring along the border. Iran has suffered heavy damage at
+    Bandar Abbas, and the United States appears ready to return to an unfriendly
+    stance on the diplomatic front with the Russian Federation.
 
   youtube:
-    url: ""
-    id: ""
+    url: https://www.youtube.com/watch?v=i3WXJPLfEqw
+    id: i3WXJPLfEqw
 
   losses:
     troops:          948640(+1030)
@@ -31,5 +41,9 @@
     bobcats:           3860
 
   notes: |
-    -
+            -
+
+  fundraiser:
+    charity: NOVA UKRAINE
+    target: $2500
 # The Enforcer Stream - Day 1159:1 ends here
