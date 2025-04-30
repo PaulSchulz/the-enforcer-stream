@@ -1,0 +1,35 @@
+# [[file:../../../ps-journal/20250501::*The Enforcer Stream - Day 1162][The Enforcer Stream - Day 1162:1]]
+- file: 20250501
+  day: 1162
+  broadcast: Wed 30 Apr 22:00 EDT 2025
+  duration: {}
+  title: |
+    -
+  morse: |
+    -
+  description: |
+    -
+
+  youtube:
+    url: ""
+    id: ""
+
+  losses:
+    troops:          951960(+1100)
+    tanks:            10729(+1)
+    apc:              22353(+1)
+    artillery:        27091(+11)
+    mlrs:              1374(+1)
+    anti-aircraft:     1146
+    planes:             370
+    helicopters:        335
+    uav:              34289(+112)
+    cruise_missiles:   3196
+    warships:            28
+    submarines:           1
+    vehicles:         46611(+179)
+    bobcats:           3869(+9)
+
+  notes: |
+    -
+# The Enforcer Stream - Day 1162:1 ends here
