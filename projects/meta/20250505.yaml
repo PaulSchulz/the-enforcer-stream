@@ -4,15 +4,28 @@
   broadcast: Sun 04 May 22:00 EDT 2025
   duration: {}
   title: |
-    -
+    PUTIN THREATENS UKRAINE WITH NUKES, HOUTHIS HIT ISRAELI AIRPORT! Breaking
+    War News With The Enforcer
   morse: |
-    -
+    RUSSIA THREATENING NUCLEAR WAR AND PRETENDING LIKE THEY ARE WINNING. LOL, LMAO
+    EVEN. LLTLSA!
   description: |
-    -
+    Putin has threatened possible nuclear armed action against Ukraine as more
+    heads of state and diplomats continue to decide not to show up on the May 9th
+    Victory day parade. Russian forces have taken sginificant losses over the past
+    24 hours as Ukrainian froces continue to keep up a high tempo of attacks and
+    also continue to hold the Russians back. In Israel a Houthi missile struck the
+    Ben Gurion airport in Tel Aviv, with Israel now stating military action is
+    inevitable against the Houthis and Iran as a direct repsonse. Iran also suffered
+    a major fire at a facility today as the US is now demanding "complete
+    denuclearization" and issues an ultimatum to Iran. India and Pakistan engaged in
+    more border skirmishes today, and are still on thew brink of total war.
+    INDOPACCOM states that the risk of a Taiwan invasion is high, as North Korea
+    begins a major rearmament.
 
   youtube:
-    url: ""
-    id: ""
+    url: https://www.youtube.com/watch?v=NLkZDLl2c_0
+    id: NLkZDLl2c_0
 
   losses:
     troops:          956810(+1340)
@@ -29,6 +42,10 @@
     submarines:           1
     vehicles:         47141(+129)
     bobcats:           3870
+
+    fundraiser:
+      charity: Revived Soldiers Ukraine
+      target: $2500
 
   notes: |
     -
