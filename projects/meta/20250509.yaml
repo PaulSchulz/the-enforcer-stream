@@ -1,0 +1,35 @@
+# [[file:../../../ps-journal/20250509::*The Enforcer Stream - Day 1170][The Enforcer Stream - Day 1170:1]]
+- file: 20250509
+  day: 1170
+  broadcast: Thu 08 May 22:00 EDT 2025
+  duration: {}
+  title: |
+    -
+  morse: |
+    -
+  description: |
+    -
+
+  youtube:
+    url: ""
+    id: ""
+
+  losses:
+    troops:          961970(+1200)
+    tanks:            10782(+2)
+    apc:              22429(+10)
+    artillery:        27552(+50)
+    mlrs:              1379(+1)
+    anti-aircraft:     1156(+1)
+    planes:             372
+    helicopters:        335
+    uav:              35407(+141)
+    cruise_missiles:   3197
+    warships:            28
+    submarines:           1
+    vehicles:         47604(+120)
+    bobcats:           3875(+2)
+
+  notes: |
+    -
+# The Enforcer Stream - Day 1170:1 ends here
