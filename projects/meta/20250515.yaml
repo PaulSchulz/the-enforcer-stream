@@ -1,0 +1,45 @@
+# [[file:../../../ps-journal/20250515::+begin_src yaml :comments link :tangle "../the-enforcer-stream/projects/meta/20250515.yaml"
+#  - file: 20250515
+#  day: 1176
+#  broadcast: Wed 14 May 22:00 EDT 2025
+#  duration: {}
+#  title: |
+#  -
+#  morse: |
+#  -
+#  description: |
+#  -][The Enforcer Stream - Day 1176:1]]
+- file: 20250515
+  day: 1176
+  broadcast: Wed 14 May 22:00 EDT 2025
+  duration: {}
+  title: |
+    -
+  morse: |
+    -
+  description: |
+    -
+
+  youtube:
+    url: ""
+    id: ""
+
+  losses:
+    troops:          969370(+1240)
+    tanks:            10804(+2)
+    apc:              22501(+14)
+    artillery:        27827(+47)
+    mlrs:              1382(+1)
+    anti-aircraft:     1165(+3)
+    planes:             372
+    helicopters:        335
+    uav:              35860(+82)
+    cruise_missiles:   3197
+    warships:            28
+    submarines:           1
+    vehicles:         48382(+126)
+    bobcats:           3884
+
+  notes: |
+    -
+# The Enforcer Stream - Day 1176:1 ends here
