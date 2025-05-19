@@ -4,15 +4,28 @@
   broadcast: Sun 18 May 22:00 EDT 2025
   duration: {}
   title: |
-    -
+    RUSSIAN ICBM LAUNCH ON UKRAINE SOON, IRANIAN PROXY LEADER KILLED! Breaking
+    War News W The Enforcer
   morse: |
-    -
+    RUSSIA IS GOING TO KEEP ACTING LIKE A CLOWN UNTIL THE ECONOMY FALLS OUT UNDER
+    THEM. LLTLSA!
   description: |
-    -
+    Russia is preparing to launch an RS-24 Yars ICBM from Yekaterinburg which
+    is, according to intelligence, targeting an undisclosed area in Ukraine. The
+    ICBM will not be carrying nuclear warheads, but the launch is expected to happen
+    soon. In Gaza, Mohammed Sinwar has been confriemd dead after an Israeli
+    airstrike targeted his position. Killing him and multiples of his assistants and
+    staff. Isralei ground operations in the strip are now beginning again, and
+    Israeli forces will be attempting an indefinite occupation of the strip. Iran
+    has refused to stop enriching Uranium on the grounds that they do not trust the
+    US. Ukrainian forces have inflicted losses on the Russian forces and have held
+    them off as best as possible.
 
   youtube:
-    url: ""
-    id: ""
+    url: https://www.youtube.com/watch?v=MNwAlZz89d0
+    id: MNwAlZz89d0
+
+  map: https://www.google.com/maps/d/viewer?mid=1ho4u62WLYLqJp74U1h1j3f9oJOsIbi8
 
   losses:
     troops:          973730(+1130)
@@ -30,6 +43,9 @@
     vehicles:         48900(+91)
     bobcats:           3892
 
+  fundraiser:
+    charity: Revived Soldiers of Ukraine
+    
   notes: |
     -
 # The Enforcer Stream - Day 1180:1 ends here
