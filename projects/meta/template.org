@@ -21,6 +21,8 @@ https://index.minfin.com.ua/en/russian-invading/casualties/
       url: ""
       id: ""
 
+    map: ""
+      
     losses:
       troops:          {}
       tanks:           {}
