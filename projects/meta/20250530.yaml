@@ -1,20 +1,8 @@
 # [[file:../../../ps-journal/20250530::*The Enforcer Stream - Day 1191][The Enforcer Stream - Day 1191:1]]
 - file: 20250530
   day: 1191
-  broadcast: Thu 29 May 22:00 EDT 2025
-  duration: {}
-  title: |
-    -
-  morse: |
-    -
-  description: |
-    -
 
-  youtube:
-    url: ""
-    id: ""
-
-  map: ""
+  map: https://www.google.com/maps/d/viewer?mid=1LiZBnK_t3_DCMWWcwESNV8rkjQqfvko
     
   losses:
     troops:          984940(+1050)
@@ -33,5 +21,5 @@
     bobcats:           3902
 
   notes: |
-    -
+    No stream was run.
 # The Enforcer Stream - Day 1191:1 ends here
