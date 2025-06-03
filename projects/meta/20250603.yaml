@@ -1,0 +1,24 @@
+# [[file:../../../ps-journal/20250603::*The Enforcer Stream - Day 1195][The Enforcer Stream - Day 1195:1]]
+- file: 20250603
+  day: 1195
+  broadcast: Mon 02 Jun 22:00 EDT 2025
+    
+  losses:
+    troops:          989700(+1140)
+    tanks:            19874(+2)
+    apc:              22663(+7)
+    artillery:        28575(+48)
+    mlrs:              1401
+    anti-aircraft:     1175(+2)
+    planes:             372
+    helicopters:        336
+    uav:              38622(+256)
+    cruise_missiles:   3271(+3)
+    warships:            28
+    submarines:           1
+    vehicles:         50462(+137)
+    bobcats:           3905(+2)
+
+  notes: |
+    -
+# The Enforcer Stream - Day 1195:1 ends here
