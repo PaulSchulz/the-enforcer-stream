@@ -4,21 +4,34 @@
   broadcast: Wed 04 Jun 22:00 EDT 2025
   duration: {}
   title: |
-    -
+    TUPOLEV HACKED IN RUSSIA, PUTIN STOPS ALL PEACE TALKS! Breaking War News
+    With The Enforcer 1196
   morse: |
-    -
+    IN THE WORDS OF JUNIOR SOPRANO PUTIN NEVER HAD THE KINGS OF A VARSITY
+    ATHLETE. LLTLSA!
   description: |
-    -
+    Hours ago the Ukrainian SBU has announced that they have hacked into the
+    Tupolev Aviation Company's computer systems, the very same company responsible
+    for producing the aircraft destroyed during Operation Spiderweb several days
+    ago. Putin has announced that Russia will no longer even consider peace talks
+    with Ukraine, stating that Ukraine is a "terrorist" state for conducting attacks
+    on military targets, and not civilian targets like the Russians. Ukrainian
+    forces have been able to hold the front lines today once more, inflicting heavy
+    casualties on Russian forces. Shoigu has arrived in North Korea to attend a
+    meeting with Kim Jung Un to request more military aid for Russia. A large
+    weapons cache was found inside of a small village in Poland, the reason for the
+    weapons being there is unknown. The US is now moving assets into the middle east
+    as prospects of a peaceful resolution to Iranian nuclearization become unlikely.
 
   youtube:
-    url: ""
-    id: ""
+    url: https://www.youtube.com/watch?v=KIsvivcSJlA
+    id: KIsvivcSJlA
 
-  map: ""
+  map: https://www.google.com/maps/d/viewer?mid=1LiZBnK_t3_DCMWWcwESNV8rkjQqfvko9999986&z=2
     
   losses:
     troops:          991820(+1020)
-    tanks:            y10884(+3)
+    tanks:            10884(+3)
     apc:              22678(+7)
     artillery:        28711(+88)
     mlrs:              1402
