@@ -25,20 +25,20 @@
   map: https://www.google.com/maps/d/viewer?mid=17uR3V6AlxJOA2o19R70x4iMnzSfy7LA
     
   losses:
-    troops:          {}
-    tanks:           {}
-    apc:             {}
-    artillery:       {}
-    mlrs:            {}
-    anti-aircraft:   {}
-    planes:          {}
-    helicopters:     {}
-    uav:             {}
-    cruise_missiles: {}
-    warships:        {}
-    submarines:      {}
-    vehicles:        {}
-    bobcats:         {}
+    troops:          992750(+930)
+    tanks:            10887(+3)
+    apc:              22680(+2)
+    artillery:        28750(+39)
+    mlrs:              1406(+4)
+    anti-aircraft:     1177(+1)
+    planes:             413
+    helicopters:        336
+    uav:              39019(+95)
+    cruise_missiles:   3271
+    warships:            28
+    submarines:           1
+    vehicles:         50812(+82)
+    bobcats:           3907
 
   notes: |
     -
