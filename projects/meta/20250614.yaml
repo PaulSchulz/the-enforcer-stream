@@ -1,0 +1,43 @@
+# [[file:../../../ps-journal/20250614::*The Enforcer Stream - Day 1206][The Enforcer Stream - Day 1206:1]]
+- file: 20250614
+  day: 1206
+  broadcast: Fri 13 Jun 14:00 EDT 2025
+  duration: {}
+  title: |
+    IRAN FIRE MISSILES AT ISRAEL, ISRAEL COUNTERATTACKS! Breaking War News W/
+    The Enforcer 1206
+  morse: |
+    ISRAEL LOOKS LIKE THEY WILL DO WHAT THEY HAVE TO DO SINCE THE OUTSET. LET'S
+    HOPE. LLTLSA!      
+  description: |
+    Iran has fired a massive attack of missiles in a second wave, which has
+    currently entered Israeli airspace, the air defenses are being overwhelmed in
+    some areas, and key government buildings inside of Israel have been heavily
+    damaged form direct impacts. The Israeli armed forces have vowed even stronger
+    attacks against Iran, we are covering these breaking events as they happen live.
+
+  youtube:
+    url: https://www.youtube.com/watch?v=ydAhMBIBwPs
+    id: ydAhMBIBwPs
+
+  map: https://www.google.com/maps/d/viewer?usp=sharing&entry=yt&mid=1DLKV9c6AOpQHU9-oxwO0H_p_Hxw70B8
+    
+  losses:
+    troops:          1001560(+1220)
+    tanks:            10934(+1)
+    apc:              22791(+5)
+    artillery:        29105(+42)
+    mlrs:              1416(+3)
+    anti-aircraft:     1184
+    planes:             416
+    helicopters:        337
+    uav:              40507(+72)
+    cruise_missiles:   3337
+    warships:            28
+    submarines:           1
+    vehicles:         51821(+106)
+    bobcats:           3914
+
+  notes: |
+    - Early stream.
+# The Enforcer Stream - Day 1206:1 ends here
