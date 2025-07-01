@@ -1,0 +1,23 @@
+# [[file:../../../ps-journal/20250701::*The Enforcer Stream - Day 1223][The Enforcer Stream - Day 1223:1]]
+- file: 20250701
+  day: 1223
+    
+  losses:
+    troops:          1020010(+1070)
+    tanks:             10980(+4)
+    apc:               22922(+7)
+    artillery:         29718(+29)
+    mlrs:               1427(+2)
+    anti-aircraft:      1190(+1)
+    planes:              420
+    helicopters:         340(+3)
+    uav:               42796(+172)
+    cruise_missiles:    3436(+42)
+    warships:             28
+    submarines:            1
+    vehicles:          53593(+85)
+    bobcats:            3921
+
+  notes: |
+    -
+# The Enforcer Stream - Day 1223:1 ends here
