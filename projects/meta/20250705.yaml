@@ -1,0 +1,23 @@
+# [[file:../../../ps-journal/20250705::*The Enforcer Stream - Day 1227][The Enforcer Stream - Day 1227:1]]
+- file: 20250705
+  day: 1227
+    
+  losses:
+    troops:          1024210(+1120)
+    tanks:             10988(+2)
+    apc:               22946(+10)
+    artillery:         29865(+50)
+    mlrs:               1428(+1)
+    anti-aircraft:      1191
+    planes:              420
+    helicopters:         340
+    uav:               43303(+205)
+    cruise_missiles:    3436
+    warships:             28
+    submarines:            1
+    vehicles:          53999(+112)
+    bobcats:            3925(+3)
+
+  notes: |
+    No stream due to 4th of July holiday in USA.
+# The Enforcer Stream - Day 1227:1 ends here
