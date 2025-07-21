@@ -4,17 +4,31 @@
   broadcast: Sun 20 Jul 22:00 EDT 2025
   duration: {}
   title: |
-    -
+    UKRAINE STRIKES KEY RUSSIAN SITES, HEAVY BATTLES RAGE IN SYRIA! Breaking War
+    News With The Enforcer
   morse: |
-    -
+    UKRAINE IS HITTING MOSCOW JUST ABOUT EVERY SINGLE NIGHT WITH NEARLY NO END IN
+    SIGHT. LLTLSA!
   description: |
-    -
+    Ukraine strikes at key Russian sites in Moscow and the Rostov regions with
+    drones attempting to hit key sites and facilities throughout the country.
+    Ukrainian forces are continuing to drive forward offensives in the Zaporizhzhia
+    front clearing out the city of Vasylivka, and driving Russian forces further
+    south. Meanwhile heaby battles are still breaking out in Southern Syria as the
+    Syrian Tribal armies, Syrian government armies, and Druze armies continue to
+    clash in As Suwayda. The US continues to look into providing more weapons to
+    Ukraine, and A council has convened in Istanbul to speak on the Iranian nuclear
+    program.
 
   youtube:
-    url: ""
-    id: ""
+    url: https://www.youtube.com/watch?v=bBzj8L_A174
+    id: bBzj8L_A174
 
-  map: ""
+  map: http://google.com/maps/d/viewer?mid=11t3Rtjxevnfa0dBcPNrEw-MCdUVtCAw
+
+  fundraiser:
+    charity: NOVA UKRAINE
+    targetr: $2500
     
   losses:
     troops:          1041990(+1040)
