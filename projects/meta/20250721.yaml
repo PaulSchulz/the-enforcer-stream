@@ -1,0 +1,37 @@
+# [[file:../../../ps-journal/20250721::*The Enforcer Stream - Day 1243][The Enforcer Stream - Day 1243:1]]
+- file: 20250721
+  day: 1243
+  broadcast: Sun 20 Jul 22:00 EDT 2025
+  duration: {}
+  title: |
+    -
+  morse: |
+    -
+  description: |
+    -
+
+  youtube:
+    url: ""
+    id: ""
+
+  map: ""
+    
+  losses:
+    troops:          1041990(+1040)
+    tanks:             11035(+3)
+    apc:               23021(+9)
+    artillery:         30583(+52)
+    mlrs:               1443(+1)
+    anti-aircraft:      1198
+    planes:              421
+    helicopters:         340
+    uav:               46982(+270)
+    cruise_missiles:    3515(+23)
+    warships:             28
+    submarines:            1
+    vehicles:          55727(+121)
+    bobcats:            3932
+
+  notes: |
+    -
+# The Enforcer Stream - Day 1243:1 ends here
