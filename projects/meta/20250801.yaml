@@ -1,37 +1,23 @@
 # [[file:../../../ps-journal/20250801::*The Enforcer Stream - Day 1254][The Enforcer Stream - Day 1254:1]]
 - file: 20250801
   day: 1254
-  broadcast: Thu 31 Jul 22:00 EDT 2025
-  duration: {}
-  title: |
-    -
-  morse: |
-    -
-  description: |
-    -
 
-  youtube:
-    url: ""
-    id: ""
-
-  map: ""
-    
   losses:
     troops:          1953260(+1070)
-    tanks:           11067(+1)
-    apc:             23066(+1)
-    artillery:       {30911(+16)
-    mlrs:            1451
-    anti-aircraft:   1203(+1)
-    planes:          421
-    helicopters:     340
-    uav:             48894(+209)
-    cruise_missiles: 3548
-    warships:        28
-    submarines:      1
-    vehicles:        56822(+68)
-    bobcats:         3935
+    tanks:             11067(+1)
+    apc:               23066(+1)
+    artillery:         30911(+16)
+    mlrs:               1451
+    anti-aircraft:      1203(+1)
+    planes:              421
+    helicopters:         340
+    uav:               48894(+209)
+    cruise_missiles:    3548
+    warships:             28
+    submarines:            1
+    vehicles:          56822(+68)
+    bobcats:            3935
 
-  notes: |
-    -
+notes: |
+  No stream today (Day 1254).
 # The Enforcer Stream - Day 1254:1 ends here
