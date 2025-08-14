@@ -4,17 +4,31 @@
   broadcast: Wed 13 Aug 22:00 EDT 2025
   duration: {}
   title: |
-    -
-  morse: |
-    -
+    RUSSIA DEPLOYS NUKES ON POLISH BORDER, RUSSIAN ADVANCE STOPPED! Breaking War
+    News With The Enforcer
+  morse: |-
+    NOW RUSSIA IS PUTTING POSSIBLE NUCLEAR ARMED WEAPONS IN ZAPAD?! LLTLSA!
   description: |
-    -
+    Russia deploys nuclear forces directly along the Polish border with Belarus
+    which will take an active part in the upcoming Zapad 2025 military exercise,
+    which in it's design is simulating a Russian offensive to take the Suwalki Gap.
+    We have not yet heard an official repsonse from the Foreign ministry of Poland
+    or the Department of State in the US. Russia is also planning on testing a new
+    nuclear powered ICBM capable of striking the United States during the Alaska
+    summit on Friday. The Russian advance in Pokrovsk was stopped entirely by
+    Ukrainian forces, although future attempts at encircling Russian advancing
+    forces seems uncertain. Israel has continued it's offensive within the Gaza
+    strip, and also killed another Hezbollah leader in Southern Lebanon. Azerbaijan
+    is threatening the Russians in repsonse to the Russians suggesting they will
+    invade the country. Iran has tested some ballistic missiles in the western
+    region of the country, while a border infiltration attempt appears to have been
+    conducted by Pakistani forces in Jamu and Kashmir overnight.
 
   youtube:
-    url: ""
-    id: ""
+    url: https://www.youtube.com/watch?v=y41i6SEWCAg
+    id: y41i6SEWCAg
 
-  map: ""
+  map: https://www.google.com/maps/d/viewer?mid=1uDG_dteO5UNMVDX2OtixmvpH9i1p89s
     
   losses:
     troops:          1066110(+890)
