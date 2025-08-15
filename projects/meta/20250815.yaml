@@ -4,17 +4,28 @@
   broadcast: Thu 14 Aug 22:00 EDT 2025
   duration: {}
   title: |
-    -
-  morse: |
-    -
+    LARGEST ATTACK SLAMS RUSSIA, NORTH KOREANS DEPLOY TO UKRAINE! Breaking War
+    News W/ The Enforcer 1268
+  morse: |-
+    THE LARGEST DRONE ATTACK OF THE WAR HAPPENED JUST HOURS BEFORE THE TALKIES,
+    MAKES MESSAGE CLEAR. LLTLSA!
   description: |
-    -
+    The largest drone attack of the war has just been launched against the Russian
+    Federation, with hundreds of drones flying into the country and destroying key
+    sites. Russian electronic warfare had resulted in some drones flying off course,
+    hitting residential buildings in Kursk. Ukrainian intelligence has stated that
+    North Korea will be deploying additional troops into the war in Ukraine for
+    further Russian support. Russian Il-96s have been flying in and out of Anchorage
+    Alaska today, preparing for the final arrival of Putin. US aircraft has also
+    been flying into the area as well. Ukraine has held the lines around most of the
+    fronts, and is attempting an encirclement of the Myrnohrad breakthrough.
+    
 
   youtube:
-    url: ""
-    id: ""
+    url: https://www.youtube.com/watch?v=hwvR75IKIRI
+    id: hwvR75IKIRI
 
-  map: ""
+  map: https://www.google.com/maps/d/viewer?mid=1q83NvccWlQDcDCBZsDWZc9ZXulR6KlY
     
   losses:
     troops:          1067100(+990)
