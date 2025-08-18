@@ -28,7 +28,11 @@
     id: pxivp28R8yQ
 
   map: https://www.google.com/maps/d/viewer?mid=1q83NvccWlQDcDCBZsDWZc9ZXulR6KlY
-    
+
+  fundraiser:
+    charity: NOVA UKRAINE
+    target: $2500
+  
   losses:
     troops:          1069950(+900)
     tanks:             11116(+4)
@@ -37,7 +41,7 @@
     mlrs:               1468(+1)
     anti-aircraft:      1208(+1)
     planes:              422
-    helicopters:         340
+    helicopters:         @Off340
     uav:               51528(+186)
     cruise_missiles:    3558
     warships:             28
