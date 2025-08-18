@@ -1,0 +1,43 @@
+# [[file:../../../ps-journal/20250819::*The Enforcer Stream - Day 1272][The Enforcer Stream - Day 1272:1]]
+- file: 20250819
+  day: 1272
+  broadcast: Mon 18 Aug 14:00 EDT 2025
+  duration: {}
+  title: |
+    ZELENSKY MEETS WHITE HOUSE OFFICIALS FOR PEACE TALKS! Breaking War News With
+    The Enforcer
+  morse: |
+    IRAN IS GETTING CRAZY, THREATENING WAR. AND ZALENSKY WILL BE IN WASHINGTON
+    TOMORROW. LLTLSA!
+  description: |
+    President Zelensky along with multiple leaders of top European countries
+    have arrived in Washington DC to discuss the possibility of a ceasefire in the
+    Ukraine War. European leaders have already begun arriving at the White House
+    only moments ago, with Zelensky expected to arrive shortly. We will be covering
+    the developments as they happen live.
+
+  youtube:
+    url: https://www.youtube.com/watch?v=HWuOSGV_K7Q
+    id: HWuOSGV_K7Q
+
+  map: ""
+    
+  losses:
+    troops:          1070890(+940)
+    tanks:             11118(+2)
+    apc:               23148(+5)
+    artillery:         31632(+43)
+    mlrs:               1469(+1)
+    anti-aircraft:      1208
+    planes:              422
+    helicopters:         340
+    uav:               51685(+157)
+    cruise_missiles:    3558
+    warships:             28
+    submarines:            1
+    vehicles:          58937(+116)
+    bobcats:            3942
+
+  notes: |
+    Special stream with breaking news. (Same morse code as previous day.)
+# The Enforcer Stream - Day 1272:1 ends here
