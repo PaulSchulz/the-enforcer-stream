@@ -1,0 +1,37 @@
+# [[file:../../../ps-journal/20250822::*The Enforcer Stream - Day 1275][The Enforcer Stream - Day 1275:1]]
+- file: 20250822
+  day: 1275
+  broadcast: Thu 21 Aug 22:00 EDT 2025
+  duration: {}
+  title: |
+    -
+  morse: |
+    -
+  description: |
+    -
+
+  youtube:
+    url: ""
+    id: ""
+
+  map: ""
+    
+  losses:
+    troops:          1073530(+830)
+    tanks:           11120(+1)
+    apc:             23157(+5)
+    artillery:       31789(+41)
+    mlrs:            1471(+1)
+    anti-aircraft:   1209(+1)
+    planes:          422
+    helicopters:     340
+    uav:             52469(+315)
+    cruise_missiles: 3565
+    warships:        28
+    submarines:      1
+    vehicles:        59316(+114)
+    bobcats:         3944(+1)
+
+  notes: |
+    -
+# The Enforcer Stream - Day 1275:1 ends here
