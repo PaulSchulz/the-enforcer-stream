@@ -1,0 +1,53 @@
+# [[file:../../../ps-journal/20250825::*The Enforcer Stream - Day 1278][The Enforcer Stream - Day 1278:1]]
+- file: 20250825
+  day: 1278
+  broadcast: Sun 24 Aug 22:00 EDT 2025
+  duration: {}
+  title: |
+    RUSSIAN ARMY ENCIRCLED AT POKROVSK, MAJOR PORT DESTROYED! Breaking War News
+    With The Enforcer 1278
+  morse: |
+    THE RUSSIANS HAD A BREAK THROUGH AND THEN GOT BROKEN THROUGH BY UKRAINE.
+    LLTLSA!
+  description: |
+    24,000 Russian Soldiers have been effectively encircled at Pokrovsk from a
+    Ukrainian counterattack that has pushed through a gap in the Russian lines.
+    Currently it appears this will become a complete encirclement in roughly 24-48
+    hours, meaning this may be the single largest frontline defeat by either side
+    during the entire war. This comes as reports rang out that the Kerch bridge is
+    once again under attack, with Dozens of Ukrainian drones flying right over the
+    sea of Azov to the bridge. Ukrainian drones also hit Russian barracks nearby.
+    Ukrainian drones hit and destroyed the Port of Ust-Luga, hitting the facility
+    that is responsible for transporting the natural gas onto the ships. The Russian
+    Federation has effectively ended talks today claiming the Ukrainian government
+    is illegitimate and will not accept any deal made with them. Israel conducted an
+    air campaign against the Houthis, striking the city of Sanaa.
+
+  youtube:
+    url: https://www.youtube.com/watch?v=oRaAsPa1MW4
+    id: oRaAsPa1MW4
+
+  map: https://www.google.com/maps/d/viewer?mid=1SOPQQ2LHeMYucKnWiLT9mfy6NLfoReg
+
+  fundraiser:
+    charity: Razom for Ukraine
+
+  losses:
+    troops:          1076070(+910)
+    tanks:             11129
+    apc:               23167(+3)
+    artillery:         31898(+40)
+    mlrs:               1472
+    anti-aircraft:      1211(+1)
+    planes:              422
+    helicopters:         340
+    uav:               53056(+121)
+    cruise_missiles:    3598
+    warships:             28 
+    submarines:            1
+    vehicles:          59593(+81)
+    bobcats:            3944
+
+  notes: |
+    -
+# The Enforcer Stream - Day 1278:1 ends here
