@@ -4,17 +4,33 @@
   broadcast: Wed 03 Sep 22:00 EDT 2025
   duration: {}
   title: |
-    -
+    US ORDERS PREPARATIONS FOR WORLD WAR, FUEL SHORTAGES REACH MOSCOW! Breaking War
+    News W The Enforcer
   morse: |
-    -
+    THE UNITED STATES IS MAKING IT CLEAR TODAY THAT THE LINES HAVE BEEN DRAWN IN THE
+    WORLD. LLTLSA!
   description: |
-    -
-
+    The President of the United States has ordered the Secretary of Defense to make
+    all possible preparations for a global conflict with the People's Republic of
+    China and the Russian Federation as a precaution given the perilous state of
+    foreign policy and global affairs. The president has also iterated that more US
+    forces may be deployed to Poland if the Polish request such action, making it
+    clear that the US is taking a more aggressive approach against the Russians.
+    Fuel shortages are now appearing in Moscow, as gas stations are now running out
+    of vital fuels even in the capitol city; fuel supplies are dangerously low
+    nationwide. India is purchasing more S-400 systems from Russia, while Iran is
+    ramping up enriched uranium production to full capabilities. Israel is
+    continuing armed action in the Gaza Strip and West Bank. Ukrainian forces have
+    held the Russians back in Pokrovsk and other fronts today, inflicting sizable
+    losse son Russian armed forces. The US is also increasing it's presence in the
+    Caribbean Sea, Venezuela outright denied the boat attacked yesterday even
+    existed.
+    
   youtube:
-    url: ""
-    id: ""
+    url: https://www.youtube.com/watch?v=uojCsQ9Qyjk
+    id: uojCsQ9Qyjk
 
-  map: ""
+  map: https://www.google.com/maps/d/viewer?mid=13ewkFdj9L6i9L2GhOZLVOtodejuyOwI
     
   losses:
     troops:          1084570(+780)
