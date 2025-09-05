@@ -4,17 +4,26 @@
   broadcast: Thu 04 Sep 22:00 EDT 2025
   duration: {}
   title: |
-    -
+    VENEZUELA BUZZES US WARSHIPS, UKRAINE SLAMS RUSSIAN REFINERIES! Breaking War
+    News With The Enforcer
   morse: |
-    -
+    YE BEST START BELIEVING IN PIRATES OF THE CARIBBEAN, YER FIGHTIN' EM. LLTLSA!
   description: |
-    -
+    The Venezuela Air Force has buzzed the US Warship USS Jason Dunham armed
+    with Air to Surface munitions. A show of forces by the Venezuelan Government and
+    a direct threat to the warships under the command of Second Fleet. The United
+    States has vowed that they will destroy more narco vessels previously, and no
+    official response has been made to the buzzing of the warship just yet. Ukraine
+    has slammed more refineries and fuel storage depots in Russia; the refinery in
+    Ryazan is burning and the fuel depot in Luhansk has taken severe damage. US
+    forces were attacked inside Somalia today, while news has emerged that the US
+    conducted secret talks with Taiwan in Alaska.
 
   youtube:
-    url: ""
-    id: ""
+    url: https://www.youtube.com/watch?v=600o3YKDd9s
+    id: 600o3YKDd9s
 
-  map: ""
+  map: https://google.com/maps/d/viewer?mid=1peZ8vnL2eXdTRe-0KrQLsbAq97KkcdM
     
   losses:
     troops:          1085410(+840)
