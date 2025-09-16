@@ -1,0 +1,37 @@
+# [[file:../../../ps-journal/20250916::*The Enforcer Stream - Day 1300][The Enforcer Stream - Day 1300:1]]
+- file: 20250916
+  day: 1300
+  broadcast: Mon 15 Sep 22:00 EDT 2025
+  duration: {}
+  title: |
+    -
+  morse: |
+    -
+  description: |
+    -
+
+  youtube:
+    url: ""
+    id: ""
+
+  map: ""
+    
+  losses:
+    troops:          1095520(+910)
+    tanks:             11184
+    apc:               23269(+2)
+    artillery:         32784(+35)
+    mlrs:               1488(+1)
+    anti-aircraft:      1217
+    planes:              422
+    helicopters:         341
+    uav:               59409(+323)
+    cruise_missiles:    3718
+    warships:             28
+    submarines:            1
+    vehicles:          61698(+84)
+    bobcats:            3965(+1)
+
+  notes: |
+    -
+# The Enforcer Stream - Day 1300:1 ends here
