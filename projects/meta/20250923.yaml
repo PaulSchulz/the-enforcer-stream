@@ -1,0 +1,28 @@
+# [[file:../../../ps-journal/20250923::*The Enforcer Stream - Day 1307][The Enforcer Stream - Day 1307:1]]
+- file: 20250923
+  day: 1307
+  broadcast: Mon 22 Sep 22:00 EDT 2025
+    
+  losses:
+    troops:          1102570(+960)
+    tanks:             11194(+1)
+    apc:               23282(+1)
+    artillery:         32999(+47)
+    mlrs:               1493(+1)
+    anti-aircraft:      1218
+    planes:              422
+    helicopters:         344(+3)
+    uav:               62001(+403)
+    cruise_missiles:    3747
+    warships:             28
+    submarines:            1
+    vehicles:          62363(+118)
+    bobcats:            3969
+
+  casualty_summary: |
+    +403 UAVs is the 4th highest daily loss, total now exceeds 62000.
+    +3 Russian Mi-8 helicopters destroyed in occupied Crimea. 
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1307:1 ends here
