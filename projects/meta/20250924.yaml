@@ -1,0 +1,54 @@
+# [[file:../../../ps-journal/20250924::*The Enforcer Stream - Day 1308][The Enforcer Stream - Day 1308:1]]
+- file: 20250924
+  day: 1308
+  broadcast: Tue 23 Sep 22:00 EDT 2025
+  duration: {}
+  title: |
+    US ORDERS RUSSIAN AIRCRAFT SHOT DOWN, RUSSIAN MARKETS CRASH! Breaking War News With The Enforcer
+  morse: |
+    SO BUDDY THIS IS GOING TO TURN OUT IN A REALLY INTERESTING SORT OF WAY REALLY,
+    NICE! LLTLSA!
+  description: |
+    The President Of The United States has ordered NATO forces to shoot down
+    Russian Aircraft incurring in Russian airspace from this point forward. The
+    President has voewd unconditional support to Ukraine and NATO, and has also
+    stated confidence that Ukraine will be able to win back all of it's territory
+    with the help of the might western alliance. Overnight Norway, Denmark, and
+    Sweden have dealt with drone incursions that are believed to be launched from
+    Russian ghost ships in the area, without Denmark calling the action an "attack."
+    Russian stock markets have crashed today after the statements by the President,
+    which is expected to cause a harsh reaction by the Russians. Iran has announced
+    their first ICBM test launch successful, and are still working towards nuclear
+    weapons. Ukraine launched a large dron attack on Crimea, and Russian fuel prices
+    are skyrocketing unabeited.
+
+  youtube:
+    url: https://www.youtube.com/watch?v=Ty4kIe5m2xc
+    id: Ty4kIe5m2xc
+
+  map: https://www.google.com/maps/d/viewer?mid=1GGxYDYS1ZtFGq9jXh73LKL2adNbJYUI
+    
+  losses:
+    troops:          1103580(+1010)
+    tanks:             11199(+5)
+    apc:               23282
+    artillery:         33052(+53)
+    mlrs:               1495(+2)
+    anti-aircraft:      1218
+    planes:              424(+2)
+    helicopters:         345(+1)
+    uav:               62486(+485)
+    cruise_missiles:    3747
+    warships:             28
+    submarines:            1
+    vehicles:          62486(+123)
+    bobcats:            3969
+
+  loss_summary: |
+    +485 UAVs is the 2nd highest daily loss & total matches Vehicles.
+    +2 Aircraft are Be-12 “Chaika” anti-submarine amphibious aircraft.
+    +1 Mi-8 helicopter on same operation in Crimea
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1308:1 ends here
