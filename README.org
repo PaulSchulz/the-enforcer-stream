@@ -16,3 +16,21 @@ The Leaf Spring Army (LSA) is the name for the community of the stream. For the
 origins of this name, please watch Day 27 of The Enforcer stream from the 1 hour
 mark. It is also worth reading the comments as they were posted.
 
+* Projects
+See the [[file:./projects][projects]] sub-directory for various projects
+
+- [[file:./meta][Meta]] :: Details from the daily "The Enforcer" stream. This has been collected
+  so that searching can more easily be done on the stream.
+
+  Please Note: The file names are in a date format (YYYYMMDD) but for the next day. 
+
+- Booklet :: LSA Booket with useful information for LSA Members
+  
+- Calendar :: LSA 2025 Calendar with photos of Ukraine, taken and supplied by LSA members. 
+
+- Cookbook :: LSA Cookbook, featuring Ukrainian recipes and recipes from around
+  the world. Also contains useful information for LSA members, including details
+  about the origins of "The Enforcer" Stream and the Leaf Spring Army.
+
+- Lore :: Stream LoRa and background information.
+

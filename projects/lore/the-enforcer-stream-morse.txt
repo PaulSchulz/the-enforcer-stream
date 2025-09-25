@@ -1,0 +1,964 @@
+# Date | Day | Title | Morse
+20220225 | 1 | UKRAINE HOLDS!!! Current Info with The Enforcer | -
+20220226 | 2 |  
+20220227 | 3 | THE FIGHT GOES ON! Ukraine War News With The Enforcer (Day 3) | - 
+20220228 | 4 | UKRAINE SURVIVES! Current Info with The Enforcer (Day 4) | - 
+20220301 | 5 | UKRAINE DESTROYS! Current Info With The Enforcer (Day 5) | - 
+20220302 | 6 | UKRAINE WILL HOLD! Current Ukraine Info With The Enforcer (Day 6) (part 1) | -
+20220303 | 7 | UKRAINE SURVIVES A WEEK! Current Ukraine Info with The Enforcer (Day 7) | -
+20220304 | 8 | UKRAINE BROKE THE SIEGE! Current Ukraine Invasion Info With The Enforcer (Day 8) | -
+20220305 | 9 | UKRAINE KEEPS STRONG! Creent Ukraine Invasion Info With The Enforcer (Day 9) | -
+20220306 | 10 | UKRAINE JUST KEEPS GOING! Current Ukraine Invasion Info With The Enforcer (Day 10) | -
+20220307 | 11 | UKRAINE STOMPS RUSSIA! Current Invasion Info With The Enforcer (Day 11) | -
+20220308 | 12 | UKRAINE KEEPS HOLDING! Current Ukraine Invasion Info With the Enforcer (Day 12) | -
+20220309 | 13 | UKRAINE GETS HELP! Current Invasion Info With The Enforcer (Day 13) | -
+20220310 | 14 | UKRAINE SURVIVES 2 WEEKS! Current Invasion Info With The Enforcer (Day 14) | -
+20220311 | 15 | UKRAINE CAPTURES TANKS! Current Invasion Info With The Enforcer (Day 15) | -
+20220312 | 16 | UKRAINE MUST HOLD! Current Invasion Info With The Enforcer (Day 16) | -
+20220313 | 17 | - | -
+20220314 | 18 | UKRAINE DESTROYS TANKS! Current Invasion Info With The Enforcer (Day 18) | -
+20220315 | 19 | UKRAINE HOLDS MARIUPOL! Current Invasion Info With The Enforcer (Day 19) | -
+20220316 | 20 | UKRAINE STALLS RUSSIANS! Current Invasion Info With The Enforcer (Day 20) | -
+20220317 | 21 | UKRAINE COUNTERATTACKS! Current Invasion Info With The Enforcer (Day 21) | -
+20220318 | 22 | UKRAINE TAKES GROUND! Current Invasion Info With The Enforcer (Day 22) | -
+20220319 | 23 | UKRAINE KEEPS PUSHING! Current Invasion Info With The Enforcer (Day 23) | -
+20220320 | 24 | RUSSIA IS WORRIED! Current Ukraine Invasion Info With The Enforcer (Day 24) | -
+20220321 | 25 | RUSSIA IS FAILING! Current Ukraine Invasion Info With The Enforcer (Day 25)  | -
+20220322 | 26 | UKRAINE WAR RAGES ON! Current Invasion Info With The Enforcer (Day 26) | -
+20220323 | 27 | UKRAINE CLASHES! Current Invasion Info With The Enforcer (Day 27) | -
+20220324 | 28 | UKRAINE ATTACKS! Current Invasion Info With The Enforcer (Day 28) | -
+20220325 | 29 | RUSSIAN SHIPS SINK! Current Ukraine Invasion Info With The Enforcer (Day 29) | -
+20220326 | 30 | - | -
+20220327 | 31 | WORLD WAR 3? Current Invasion Info With The Enforcer (Day 31) | -
+20220328 | 30 | - | -
+20220329 | 31 | - | -
+20220330 | 32 | - | -
+20220331 | 33 | - | -
+
+20220401 | 34 | - | -         
+20220402 | 35 | - | -         
+20220403 | 36 | - | -         
+20220404 | 37 | - | -         
+20220405 | 38 | - | -         
+20220406 | 39 | - | -         
+20220407 | 40 | - | -         
+20220408 | 41 | - | -         
+20220409 | 42 | - | -         
+20220410 | 43 | - | -         
+20220411 | 44 | - | -         
+20220412 | 45 | - | -         
+20220413 | 46 | - | -         
+20220414 | 47 | - | -         
+20220415 | 48 | - | -         
+20220416 | 49 | - | -         
+20220417 | 50 | - | -         
+20220418 | 51 | - | -         
+20220419 | 52 | - | -         
+20220420 | 53 | - | -         
+20220421 | 54 | - | -         
+20220422 | 55 | - | -         
+20220423 | 56 | - | -         
+20220424 | 57 | - | -         
+20220425 | 58 | - | -         
+20220426 | 59 | - | -         
+20220427 | 60 | - | -         
+20220428 | 61 | - | -         
+20220429 | 62 | - | -
+20220430 | 63 | - | -
+
+20220501 | 64 | - | -         
+20220502 | 65 | - | -         
+20220503 | 66 | - | -         
+20220504 | 67 | - | -         
+20220505 | 68 | - | -         
+20220506 | 69 | - | -         
+20220507 | 70 | - | -         
+20220508 | 71 | - | -         
+20220509 | 72 | - | -         
+20220510 | 73 | - | -         
+20220511 | 74 | - | -         
+20220512 | 75 | - | -         
+20220513 | 76 | - | -         
+20220514 | 77 | - | -         
+20220515 | 78 | - | -         
+20220516 | 79 | - | -         
+20220517 | 80 | - | -         
+20220518 | 81 | - | -         
+20220519 | 82 | - | -         
+20220520 | 83 | - | -         
+20220521 | 84 | - | -         
+20220522 | 85 | - | -         
+20220523 | 86 | - | -         
+20220524 | 87 | - | -         
+20220525 | 88 | - | -         
+20220526 | 89 | - | -         
+20220527 | 90 | - | -         
+20220528 | 91 | - | -         
+20220529 | 92 | - | -         
+20220530 | 93 | - | -
+20220531 | 94 | - | -
+
+20220601 | 95 | - | -                    
+20220602 | 96 | - | -                    
+20220603 | 97 | - | -                    
+20220604 | 98 | - | -                    
+20220605 | 99 | - | -                    
+20220606 | 100 | - | -                    
+20220607 | 101 | - | -                    
+20220608 | 102 | - | -                    
+20220609 | 103 | - | -                    
+20220610 | 104 | - | -                    
+20220611 | 105 | - | -                    
+20220612 | 106 | - | -                    
+20220613 |  | - | -                    
+20220614 |  | - | -                    
+20220615 |  | - | -                    
+20220616 |  | - | -                    
+20220617 |  | - | -                    
+20220618 |  | - | -                    
+20220619 |  | - | -                    
+20220620 |  | - | -                    
+20220621 |  | - | -                    
+20220622 |  | - | -                    
+20220623 |  | - | -                    
+20220624 |  | - | -                    
+20220625 |  | - | -                    
+20220626 |  | - | -                    
+20220627 |  | - | -                    
+20220628 |  | - | -                    
+20220629 |  | - | -                    
+20220630 |  | - | -                    
+
+20220701 |  | - | -                    
+20220702 |  | - | -                    
+20220703 |  | - | -                    
+20220704 |  | - | -                    
+20220705 |  | - | -                    
+20220706 |  | - | -                    
+20220707 |  | - | -                    
+20220708 |  | - | -                    
+20220709 |  | - | -                    
+20220710 |  | - | -                    
+20220711 |  | - | -                    
+20220712 |  | - | -                    
+20220713 |  | - | -                    
+20220714 |  | - | -                    
+20220715 |  | - | -                    
+20220716 |  | - | -                    
+20220717 |  | - | -                    
+20220718 |  | - | -                    
+20220719 |  | - | -                    
+20220720 |  | - | -                    
+20220721 |  | - | -                    
+20220722 |  | - | -                    
+20220723 |  | - | -                    
+20220724 |  | - | -                    
+20220725 |  | - | -                    
+20220726 |  | - | -                    
+20220727 |  | - | -                    
+20220728 |  | - | -                    
+20220729 |  | - | -                    
+20220730 |  | - | -                    
+20220731 |  | - | -                    
+
+20220801 |  | - | -                    
+20220802 |  | - | -                    
+20220803 |  | - | -                    
+20220804 |  | - | -                    
+20220805 |  | - | -                    
+20220806 |  | - | -                    
+20220807 |  | - | -                    
+20220808 |  | - | -                    
+20220809 |  | - | -                    
+20220810 |  | - | -                    
+20220811 |  | - | -                    
+20220812 |  | - | -                    
+20220813 |  | - | -                    
+20220814 |  | - | -                    
+20220815 |  | - | -                    
+20220816 |  | - | -                    
+20220817 |  | - | -                    
+20220818 |  | - | -                    
+20220819 |  | - | -                    
+20220820 |  | - | -                    
+20220821 |  | - | -                    
+20220822 |  | - | -                    
+20220823 |  | - | -                    
+20220824 |  | - | -                    
+20220825 |  | - | -                    
+20220826 |  | - | -                    
+20220827 |  | - | -                    
+20220828 |  | - | -                    
+20220829 |  | - | -                    
+20220830 |  | - | -                    
+20220831 |  | - | -                    
+
+20220901 |  | - | -                    
+20220902 |  | - | -                    
+20220903 |  | - | -                    
+20220904 |  | - | -                    
+20220905 |  | - | -                    
+20220906 |  | - | -                    
+20220907 |  | - | -                    
+20220908 |  | - | -                    
+20220909 |  | - | -                    
+20220910 |  | - | -                    
+20220911 |  | - | -                    
+20220912 |  | - | -                    
+20220913 |  | - | -                    
+20220914 |  | - | -                    
+20220915 |  | - | -                    
+20220916 |  | - | -                    
+20220917 |  | - | -                    
+20220918 |  | - | -                    
+20220919 |  | - | -                    
+20220920 |  | - | -                    
+20220921 |  | - | -                    
+20220922 |  | - | -                    
+20220923 |  | - | -                    
+20220924 |  | - | -                    
+20220925 |  | - | -                    
+20220926 |  | - | -                    
+20220927 |  | - | -                    
+20220928 |  | - | -                    
+20220929 |  | - | -                    
+20220930 |  | - | -                    
+
+20221001 |  | - | -                    
+20221002 |  | - | -                    
+20221003 |  | - | -                    
+20221004 |  | - | -                    
+20221005 |  | - | -                    
+20221006 |  | - | -                    
+20221007 |  | - | -                    
+20221008 |  | - | -                    
+20221009 |  | - | -                    
+20221010 |  | - | -                    
+20221011 |  | - | -                    
+20221012 |  | - | -                    
+20221013 |  | - | -                    
+20221014 |  | - | -                    
+20221015 |  | - | -                    
+20221016 |  | - | -                    
+20221017 |  | - | -                    
+20221018 |  | - | -                    
+20221019 |  | - | -                    
+20221020 |  | - | -                    
+20221021 |  | - | -                    
+20221022 |  | - | -                    
+20221023 |  | - | -                    
+20221024 |  | - | -                    
+20221025 |  | - | -                    
+20221026 |  | - | -                    
+20221027 |  | - | -                    
+20221028 |  | - | -                    
+20221029 |  | - | -                    
+20221030 |  | - | -                    
+20221031 |  | - | -                    
+
+20221101 |  | - | -                    
+20221102 |  | - | -                    
+20221103 |  | - | -                    
+20221104 |  | - | -                    
+20221105 |  | - | -                    
+20221106 |  | - | -                    
+20221107 |  | - | -                    
+20221108 |  | - | -                    
+20221109 |  | - | -                    
+20221110 |  | - | -                    
+20221111 |  | - | -                    
+20221112 |  | - | -                    
+20221113 |  | - | -                    
+20221114 |  | - | -                    
+20221115 |  | - | -                    
+20221116 |  | - | -                    
+20221117 |  | - | -                    
+20221118 |  | - | -                    
+20221119 |  | - | -                    
+20221120 |  | - | -                    
+20221121 |  | - | -                    
+20221122 |  | - | -                    
+20221123 |  | - | -                    
+20221124 |  | - | -                    
+20221125 |  | - | -                    
+20221126 |  | - | -                    
+20221127 |  | - | -                    
+20221128 |  | - | -                    
+20221129 |  | - | -                    
+20221130 |  | - | -                    
+
+20221201 |  | - | -                    
+20221202 |  | - | -                    
+20221203 |  | - | -                    
+20221204 |  | - | -                    
+20221205 |  | - | -                    
+20221206 |  | - | -                    
+20221207 |  | - | -                    
+20221208 |  | - | -                    
+20221209 |  | - | -                    
+20221210 |  | - | -                    
+20221211 |  | - | -                    
+20221212 |  | - | -                    
+20221213 |  | - | -                    
+20221214 |  | - | -                    
+20221215 |  | - | -                    
+20221216 |  | - | -                    
+20221217 |  | - | -                    
+20221218 |  | - | -                    
+20221219 |  | - | -                    
+20221220 |  | - | -                    
+20221221 |  | - | -                    
+20221222 |  | - | -                    
+20221223 |  | - | -                    
+20221224 |  | - | -                    
+20221225 |  | - | -                    
+20221226 |  | - | -                    
+20221227 |  | - | -                    
+20221228 |  | - | -                    
+20221229 |  | - | -                    
+20221230 |  | - | -                    
+20221231 |  | - | -                    
+
+20230101 |  | - | -                    
+20230102 |  | - | -                    
+20230103 |  | - | -                    
+20230104 |  | - | -                    
+20230105 |  | - | -                    
+20230106 |  | - | -                    
+20230107 |  | - | -                    
+20230108 |  | - | -                    
+20230109 |  | - | -                    
+20230110 |  | - | -                    
+20230111 |  | - | -                    
+20230112 |  | - | -                    
+20230113 |  | - | -                    
+20230114 |  | - | -                    
+20230115 |  | - | -                    
+20230116 |  | - | -                    
+20230117 |  | - | -                    
+20230118 |  | - | -                    
+20230119 |  | - | -                    
+20230120 |  | - | -                    
+20230121 |  | - | -                    
+20230122 |  | - | -                    
+20230123 |  | - | -                    
+20230124 |  | - | -                    
+20230125 |  | - | -                    
+20230126 |  | - | -                    
+20230127 |  | - | -                    
+20230128 |  | - | -                    
+20230129 |  | - | -                    
+20230130 |  | - | -                    
+20230131 |  | - | -                    
+
+20230201 |  | - | -                    
+20230202 |  | - | -                    
+20230203 |  | - | -                    
+20230204 |  | - | -                    
+20230205 |  | - | -                    
+20230206 |  | - | -                    
+20230207 |  | - | -                    
+20230208 |  | - | -                    
+20230209 |  | - | -                    
+20230210 |  | - | -                    
+20230211 |  | - | -                    
+20230212 |  | - | -                    
+20230213 |  | - | -                    
+20230214 |  | - | -                    
+20230215 |  | - | -                    
+20230216 |  | - | -                    
+20230217 |  | - | -                    
+20230218 |  | - | -                    
+20230219 |  | - | -                    
+20230220 |  | - | -                    
+20230221 |  | - | -                    
+20230222 |  | - | -                    
+20230223 |  | - | -                    
+20230224 |  | - | -                    
+20230225 |  | - | -                    
+20230226 |  | - | -                    
+20230227 |  | - | -                    
+20230228 |  | - | -                    
+20230229 |  | - | -                    
+20230230 |  | - | -                    
+
+20230301 |  | - | -                    
+20230302 |  | - | -                    
+20230303 |  | - | -                    
+20230304 |  | - | -                    
+20230305 |  | - | -                    
+20230306 |  | - | -                    
+20230307 |  | - | -                    
+20230308 |  | - | -                    
+20230309 |  | - | -                    
+20230310 |  | - | -                    
+20230311 |  | - | -                    
+20230312 |  | - | -                    
+20230313 |  | - | -                    
+20230314 |  | - | -                    
+20230315 |  | - | -                    
+20230316 |  | - | -                    
+20230317 |  | - | -                    
+20230318 |  | - | -                    
+20230319 |  | - | -                    
+20230320 |  | - | -                    
+20230321 |  | - | -                    
+20230322 |  | - | -                    
+20230323 |  | - | -                    
+20230324 |  | - | -                    
+20230325 |  | - | -                    
+20230326 |  | - | -                    
+20230327 |  | - | -                    
+20230328 |  | - | -                    
+20230329 |  | - | -                    
+20230330 |  | - | -                    
+20230331 |  | - | -                    
+
+20230401 |  | - | -                    
+20230402 | 402 | CATASTROPHIC RUSSIAN FAILURE! Current Ukraine War Footage And News With The Enforcer (Day 402) | DID YOU KNOW THAT 1 IN EVERY 1 RUSSIAN SOLDIER IN UKRAINE WILL BE PART OF A TURRET TOSS?
+20230403 |  | - | -                    
+20230404 |  | - | -                    
+20230405 |  | - | -                    
+20230406 |  | - | -                    
+20230407 |  | - | -                    
+20230408 |  | - | -                    
+20230409 |  | - | -                    
+20230410 |  | - | -                    
+20230411 |  | - | -                    
+20230412 |  | - | -                    
+20230413 |  | - | -                    
+20230414 |  | - | -                    
+20230415 |  | - | -                    
+20230416 |  | - | -                    
+20230417 |  | - | -                    
+20230418 |  | - | -                    
+20230419 |  | - | -                    
+20230420 |  | - | -                    
+20230421 |  | - | -                    
+20230422 |  | - | -                    
+20230423 |  | - | -                    
+20230424 |  | - | -                    
+20230425 |  | - | -                    
+20230426 |  | - | -                    
+20230427 |  | - | -                    
+20230428 |  | - | -                    
+20230429 |  | - | -                    
+20230430 |  | - | -                    
+
+20230501 |  | - | -                    
+20230502 |  | - | -                    
+20230503 |  | - | -                    
+20230504 |  | - | -                    
+20230505 |  | - | -                    
+20230506 |  | - | -                    
+20230507 |  | - | -                    
+20230508 |  | - | -                    
+20230509 |  | - | -                    
+20230510 |  | - | -                    
+20230511 |  | - | -                    
+20230512 |  | - | -                    
+20230513 |  | - | -                    
+20230514 |  | - | -                    
+20230515 |  | - | -                    
+20230516 |  | - | -                    
+20230517 |  | - | -                    
+20230518 |  | - | -                    
+20230519 |  | - | -                    
+20230520 |  | - | -                    
+20230521 |  | - | -                    
+20230522 |  | - | -                    
+20230523 |  | - | -                    
+20230524 |  | - | -                    
+20230525 |  | - | -                    
+20230526 |  | - | -                    
+20230527 |  | - | -                    
+20230528 |  | - | -                    
+20230529 |  | - | -                    
+20230530 |  | - | -                    
+20230531 |  | - | -                    
+
+20230601 |  | - | -                    
+20230602 |  | - | -                    
+20230603 |  | - | -                    
+20230604 |  | - | -                    
+20230605 |  | - | -                    
+20230606 |  | - | -                    
+20230607 |  | - | -                    
+20230608 |  | - | -                    
+20230609 |  | - | -                    
+20230610 |  | - | -                    
+20230611 |  | - | -                    
+20230612 |  | - | -                    
+20230613 |  | - | -                    
+20230614 |  | - | -                    
+20230615 |  | - | -                    
+20230616 |  | - | -                    
+20230617 |  | - | -                    
+20230618 |  | - | -                    
+20230619 |  | - | -                    
+20230620 |  | - | -                    
+20230621 |  | - | -                    
+20230622 |  | - | -                    
+20230623 |  | - | -                    
+20230624 |  | - | -                    
+20230625 |  | - | -                    
+20230626 |  | - | -                    
+20230627 |  | - | -                    
+20230628 |  | - | -                    
+20230629 |  | - | -                    
+20230630 |  | - | -                    
+
+20230701 |  | - | -                    
+20230702 |  | - | -                    
+20230703 |  | - | -                    
+20230704 |  | - | -                    
+20230705 |  | - | -                    
+20230706 |  | - | -                    
+20230707 |  | - | -                    
+20230708 |  | - | -                    
+20230709 |  | - | -                    
+20230710 |  | - | -                    
+20230711 |  | - | -                    
+20230712 |  | - | -                    
+20230713 |  | - | -                    
+20230714 |  | - | -                    
+20230715 |  | - | -                    
+20230716 |  | - | -                    
+20230717 |  | - | -                    
+20230718 |  | - | -                    
+20230719 |  | - | -                    
+20230720 |  | - | -                    
+20230721 |  | - | -                    
+20230722 |  | - | -                    
+20230723 |  | - | -                    
+20230724 |  | - | -                    
+20230725 |  | - | -                    
+20230726 |  | - | -                    
+20230727 |  | - | -                    
+20230728 |  | - | -                    
+20230729 |  | - | -                    
+20230730 |  | - | -                    
+20230731 |  | - | -                    
+
+20230801 |  | - | -                    
+20230802 |  | - | -                    
+20230803 |  | - | -                    
+20230804 |  | - | -                    
+20230805 |  | - | -                    
+20230806 |  | - | -                    
+20230807 |  | - | -                    
+20230808 |  | - | -                    
+20230809 |  | - | -                    
+20230810 |  | - | -                    
+20230811 | 533 | RUSSIAN FORCES MUTINY! Current Ukraine War Footage And News With The Enforcer (Day 533) | AMAZING JOB FOR HEUA FORCES NEAR ROBOTYNE, ONWARDS TO TOKMAK. GLORY TO UKRAINE! LONG LIVE THE LSA!             
+20230812 | 534 | MAJOR VICTORY AT ROBOTYNE! Current Ukraine War Footage And News With The Enforcer (Day 534) | THE LSA WILL GO HAND IN HAND WITH UKRAINE UNTIL THE END. GLORY TO UKRAINE! LONG LIVE THE LSA!              
+20230813 |  | - | -                    
+20230814 |  | - | -                    
+20230815 |  | - | -                    
+20230816 |  | - | -                    
+20230817 |  | - | -                    
+20230818 |  | - | -                    
+20230819 |  | - | -                    
+20230820 |  | - | -                    
+20230821 |  | - | -                    
+20230822 |  | - | -                    
+20230823 |  | - | -                    
+20230824 |  | - | -                    
+20230825 |  | - | -                    
+20230826 |  | - | -                    
+20230827 |  | - | -                    
+20230828 |  | - | -                    
+20230829 |  | - | -                    
+20230830 |  | - | -                    
+20230831 |  | - | -                    
+
+20230901 |  | - | -                    
+20230902 |  | - | -                    
+20230903 |  | - | -                    
+20230904 |  | - | -                    
+20230905 |  | - | -                    
+20230906 |  | - | -                    
+20230907 |  | - | -                    
+20230908 |  | - | -                    
+20230909 |  | - | -                    
+20230910 |  | - | -                    
+20230911 |  | - | -                    
+20230912 |  | - | -                    
+20230913 |  | - | -                    
+20230914 |  | - | -                    
+20230915 |  | - | -                    
+20230916 |  | - | -                    
+20230917 |  | - | -                    
+20230918 |  | - | -                    
+20230919 |  | - | -                    
+20230920 |  | - | -                    
+20230921 |  | - | -                    
+20230922 |  | - | -                    
+20230923 |  | - | -                    
+20230924 |  | - | -                    
+20230925 |  | - | -                    
+20230926 |  | - | -                    
+20230927 |  | - | -                    
+20230928 |  | - | -                    
+20230929 |  | - | -                    
+20230930 |  | - | -                    
+
+20231001 |  | - | -                    
+20231002 |  | - | -                    
+20231003 |  | - | -                    
+20231004 |  | - | -                    
+20231005 |  | - | -                    
+20231006 |  | - | -                    
+20231007 |  | - | -                    
+20231008 |  | - | -                    
+20231009 |  | - | -                    
+20231010 |  | - | -                    
+20231011 |  | - | -                    
+20231012 |  | - | -                    
+20231013 |  | - | -                    
+20231014 |  | - | -                    
+20231015 |  | - | -                    
+20231016 |  | - | -                    
+20231017 |  | - | -                    
+20231018 |  | - | -                    
+20231019 |  | - | -                    
+20231020 |  | - | -                    
+20231021 |  | - | -                    
+20231022 |  | - | -                    
+20231023 |  | - | -                    
+20231024 |  | - | -                    
+20231025 | 608 | US CASUALTIES, HEAVY RUSSIAN LOSSES! Breaking Ukraine/ Israel War News With The Enforcer (Day 608) | THE LSA WILL NEVER YIELD TO ANY CROOKS OR TOUGH GUYS ANYWHERE! LONG LIVE THE LSA!                 
+20231026 | 609 | US PREPARES FOR WAR, UKRAINE HOLDS! Breaking Ukraine/ Israel War News With The Enforcer (Day 609) | MAY ISRAEL PROVE VICTORIOUS IN THESE COMING WEEKS, AND MAY THE US STAND STRONG. LONG LIVE THE LSA!                  
+20231027 |  | - | -                    
+20231028 |  | - | -                    
+20231029 |  | - | -                    
+20231030 |  | - | -                    
+20231031 |  | - | -                    
+
+20231101 | 615 | US FORCES IN ISRAEL, UKRAINE LIBERATION! Breaking Ukraine/ Israel War News W/ The Enforcer (Day 615) | THE WORLD STANDS WITH NATIONS THAT FIGHT AGAINST EVIL. LONG LIVE THE LSA!                  
+20231102 | 616 | ISRAEL SPLITS GAZA, REGIONAL WAR?! Breaking Israel/Ukraine War News With The Enforcer (Day 616) | ISRAEL HAS ALREADY CUT GAZA IN TWO, NOW IT MUST CUT HAMAS IN TWO. LONG LIVE THE LSA!                
+20231103 | 617 | RUSSIAN ARMY AMBUSHED, HUGE LOSSES! Current Ukraine War Footage And News With The Enforcer (Day 617) | ISRAEL HAS ALREADY CUT GAZA IN TWO, NOW IT MUST CUT HAMAS IN TWO. LONG LIVE THE LSA!      
+20231104 | 618 | HAMAS PLANS EXPOSED, ISRAEL SHOCKED! Current Israel/Ukraine War News With The Enforcer (Day 618) | ISRAEL ALREADY CUT GAZA IN TWO, NOW IT MUST CUT HAMAS IN TWO. LONG LIVE THE LSA!                   
+20231105 | 619 | - | -                    
+20231106 | 620 | - | -                    
+20231107 | 621 | - | -                    
+20231108 | 622 | - | -                    
+20231109 | 623 | - | -                    
+20231110 | 624 | - | -                    
+20231111 | 625 | UKRAINE TAKES MAJOR RIVER! Current Ukraine/Israel War Footage And News With The Enforcer (Day 625) |  I AM BACK! UKRAINE IS BEGINNING TO MAKE THEIR MOVES IN PREPARATION FOR WINTER!                   
+20231112 | 626 | - | -                    
+20231113 | 627 | UKRAINE OPENS NEW FRONT! Breaking Ukraine War Footage And News With The Enforcer (Day 627) | UKRAINE IS OPENING A BRAND NEW FRONT FOR AN OLD AN DYING RUSSIAN ARMY. LONG LIVE THE LSA!             
+20231114 | 628 | - | -                    
+20231115 | 629 | RUSSIAN ARMY RETREATS! Current Ukraine War Footage And News With The Enforcer (Day 629) | LET'S GO UKRAINE IS GOING HAM AND THE RUSSIANS ARE ONLY AS HAM! LONG LIVE THE LSA!           
+20231116 | 630 | UKRAINE MOVES TOWARDS CRIMEA, RUSSIA PANICS! Breaking Ukraine War News With The Enforcer (Day 630) |  LET'S GET IT THE RUSSIANS ARE GETTING PLASTERED NEAR A RIVER, CALL IT CRIMEA RIVER. LONG LIVE THE LSA!             
+20231117 | 631 | HUGE EXPLOSION IN RUSSIA! Breaking Ukraine War Footage And News With The Enforcer (Day 631) |  UKRAINE IS BRINGING THE WAR TO THE RUSSIANS, AND THIS TME NOT PLAYING GAMES. SLAVA UKRAINI!                 
+20231118 | 632 | RUSSIA LOSES ENTIRE FRONT! Breaking Ukraine War Footage And News With The Enforcer (Day 632) |    THE DAY WHEN THIS WAR IS OVER I WILL GET SOME SLEEP. LONG LIVE THE LSA!              
+20231119 | 633 | RUSSIAN UNITS RETREAT, RECORD SNIPER SHOT! Breaking Ukraine War News With The Enforcer (Day 633) | UKRAINE HAS TURNED THE TABLES, AND THE RUSSIANS CANNOT REGAIN COHESION. LONG LIVE THE LSA!                 
+20231120 | 634 | RUSSIAN FORCES DESTROYED, HUGE LOSSES! Breaking Ukraine War News With The Enforcer (Day 634) | THE RUSSIANS BE HITTING UKRAINIAN LINES LIKE ISRAEL BE HITTING HAMAS WITH THE DOOBIE. LONG LIVE THE LSA!        
+20231121 | 635 | - | -                    
+20231122 | 636 | UKRAINE ATTACKS SOON, CHINESE SHIP BURNS! Breaking Ukraine War News With The Enforcer (Day 636) |  RUSSIA IS GETTING THE WIPPING THAT MANY A RAUCOUS COUNTRY NEED. LONG LIVE THE LSA!
+20231123 | 637 | UKRAINE LIBERATES KEY TOWNS! Breaking Ukraine War Footage And News With The Enforcer (Day 637) | LET RUSSIA GIVE IT UP FOR THEMSELVES, BECAUSE THEY ARE TO DUMB TO QUIT. LONG LIVE THE LSA!     
+20231124 | 638 | - | -                    
+20231125 | 639 | RUSSIAN ARMY FALLING APART! Current Ukraine War Footage And News With The Enforcer (Day 639) | RUSSIAN FORCES GOT A LITTLE COLD AND IT MADE THM LOSE IT. LONG LIVE THE LSA!              
+20231126 | 640 | RUSSIA LAUNCHES AIR ATTACK! Breaking Ukraine War Footage And News With The Enforcer (Day 640) | THE RUSSIANS ARE ABOUT AS UNAPPEALING AS ICE CREAM AFTER YOUR TEETH HAVE BEEN FILED DOWN. LONG LIVE THE LSA!
+20231127 | 641 | RUSSIANS WIPED OUT BY HURRICANE! Breaking Ukraine War Footage And News With The Enforcer (Day 641) | THE YANKS ARE HERE THE ABRAMS IS LOOKING GREAT OUT THERE IN THE NORTHEAST! LONG LIVE THE LSA                  
+20231128 | 642 | - | -                    
+20231129 | 643 | RUSSIAN GENERAL KILLED! Current Ukraine War Footage And News With The Enforcer (Day 643) | RUSSIANS THAT GOT SWEPT AWAY IN THE STORM GOT A FREE TRIP TO THE MOSKVA. LONG LIVE THE LSA!                    
+20231130 | 644 | UKRAINE DESTROYS SHAHED BASES! Current Ukraine War Footage And News With The Enforcer (Day 644) | WE ARE GOING TO SEE A VICTORY FOR UKRAINE IN THE FUTURE! LONG LIVE THE LSA!
+
+20231201 | 645 | UKRAINE STARTS NEW OFFENSIVE! Current Ukraine War Footage And News With The Enforcer (Day 645) | WE ARE GOING TO SEE A VICTORY FOR UKRAINE IN THE FUTURE! LONG LIVE THE LSA!
+20231202 | 646 | - | -                    
+20231203 | 647 | RUSSIA RUNS OUT OF TROOPS! Current Ukraine War Footage And News With The Enforcer (Day 647) | MAN THE RUSSIAN ARMY BEING SO DESTROYED THEY NEED ANOTHER 170,000 IS TELLING. LONG LIVE THE LSA!               
+20231204 | 648 | US SHIPS ATTACKED, US RESPONSE?! Current Ukraine War Footage And News With The Enforcer (Day 648)  | AMERICA MIGHT GET VERY ANGRY, BUT WE WILL HAVE TO SEE. LONG LIVE THE LSA!           
+20231205 | 649 | - | -                    
+20231206 | 650 | RUSSIAN FORCES TRICKED, HUGE LOSS! Current Ukraine War Footage And News With The Enforcer (Day 650)  | RUSSIANS ARE ABOUT TO GO ON SEWER-SIDE WATCH FOR LOOSING THAT GROUND. LONG LIVE THE LSA!
+20231207 | 651 | UKRAINE COUNTERATTACKS, RUSSIANS FREEZE! Current Ukraine War News With The Enforcer (Day 651) | BEEP BEEP BEEP, DOT DOT DOT. LONG LIVE THE LSA!    
+20231208 | 652 | RUSSIAN ATTACK COLLAPSES! Breaking Ukraine War Footage And News With The Enforcer (Day 652) | RUSSIA CAN'T PUT IT TOGETHER. UKRAINE WILL HOLD IN AVDIIVKA. LONG LIVE THE LSA!
+20231209 | 653 | UKRAINE PUSHING TO CRIMEA! Current Ukraine War Footage And News With The Enforcer (Day 653) | PUT AN LSA IN THE CHAT FOR THE LEAF SPRING ARMY MAKING IT TO A SECOND CHRISTMAS! LONG LIVE THE LSA! 
+20231210 | 654 | PUTIN IS LOSING IT, ORDERS ASSAULT! Current Ukraine War Footage And News With The Enforcer (Day 654) | CAN I BE RUNNING OUT OF IDEAS FOR THE MORSE CODE AGAIN BUT LONG LIVE THE LSA!    
+20231211 | 655 | ELITE RUSSIAN FORCES DESTROYED! Current Ukraine War Footage And News With The Enforcer (Day 655) | AHEM RUSSIANS DO BE GETTING HIT PRETTY BADLY AROUND KRYNY AND AVDIIVKA. LONG LIVE THE LSA!
+20231212 | 656 | - | -                    
+20231213 | 657 | HUGE VICTORY NEAR AVDIIVKA! Current Ukraine War Footage And News With The Enforcer (Day 657) | LONG LIVE THE LSA! MAY THE LSA ALWAYS SHINE ABOVE THE REST!
+20231214 | 658 | ENTIRE RUSSIAN UNIT AMBUSHED! Breaking Ukraine War Footage And News With The Enforcer (Day 658) | THE RUSSIANS HAVE TO BE ONE OF THE MOST VILE FIGHTING FORCES ON THE EARTH. THEY WILL BE CRUSHED. LSA!
+20231215 | 659 | RUSSIAN FORCES DESTROYED, HUGE LOSSES! Current Ukraine War News With The Enforcer (Day 659) | HOW ARE ALL OF YOU DOING TONIGHT? lET ME KNOW IN THE CHAT! LONG LIVE THE LSA!
+20231216 | 660 | RUSSIANS FORCES BEATEN BACK! Current Ukraine War News And Footage With The Enforcer (Day 660) | WHAT DO THE RUSSIANS AND LOSERS HAVE IN COMMON? THEY WERE BOTH HOT DOG SALESMEN. LONG LIVE THE LSA!               
+20231217 | 661 | UKRAINE LAUNCHES MASS DRONE ATTACK! Breaking Ukraine War Footage & News With The Enforcer (Day 661) | THE RUSSIANS ARE ABOUT TO BE CHOPPING UP THE OLD LADA FOR SOME EXTRA TANK ARMOR. LONG LIVE THE LSA!                
+20231218 | 662 | UKRAINE RUNS RUSSIANS OVER! Current Ukraine War Footage And News With The Enforcer (Day 662) | UKRAINE IS LITRALLY RUNNING OVER THE RUSSIAN LINES. HOPEFULLY THEY WILL KEEP GOING! LONG LIVE THE LSA!              
+20231219 | 663 | - | -                    
+20231220 | 664 | UKRAINE TAKES RUSSIAN STRONGHOLD! Breaking Ukraine War Footage And News With The Enforcer (Day 664) | RUSSIAN FORCES ARE PRAYING THAT THEY WON'T FREEZE THIS WINTER. LONG LIVE THE LSA!                 
+20231221 | 665 | HEAVY RUSSIAN LOSSES IN AVDIIVKA! Current Ukraine War Footage And News With The Enforcer (Day 665) | THE LEAF SPRING MUST WORK WITH ALL OF IT'S STRENGTH TO SUPPORT UKRAINE. LONG LIVE THE LSA! THE LSA NEVER DIES!              
+20231222 | 666 | RUSSIANS SURRENDER IN BAKHMUT! Current Ukraine War Footage And News With The Enforcer (Day 666) | MARCH ON THE LSA! LET'S KEEP THE FLAGS HIGH UNTIL WE SEE THE VICTORY! LONG LIVE THE LSA!        
+20231223 | 667 | RUSSIAN AIR FORCE SHOT DOWN! Current Ukraine War Footage And News With The Enforcer (Day 667) | RUSSIAN PILOTS ARE BECOMING AN ENDANGERED SPECIES. LONG LIVE THE LSA!              
+20231224 | 668 | UKRAINE GETS ADVANCED FIGHTER JETS! Current Ukraine War Footage And News With The Enforcer (Day 668) | RUSSIAN FORCES ARE BEING BEATEN SILLY AT THE MOMENT. LONG LIVE THE LSA! THE LSA SENDS IT'S REGARDS!                  
+20231225 | 669 | RUSSIA CAN'T FIGHT ANY LONGER! Breaking Ukraine War Footage And News With The Enforcer (Day 669) | -                    
+20231226 | 670 | - | -
+20231227 | 671 | MASSIVE EXPLOSION DESTROYS SHIP! Current Ukraine War Footage And News With The Enforcer (Day 671) | RUSSIAN FORCES ARE NOT MAKING THE LANDING BUT THE UKRAINIANS SURE ARE! LONG LIVE THE LSA!                
+20231228 | 672 | UKRAINE RETAKES MAJOR BATTLEFIELD! Current Ukraine War Footage And News With The Enforcer (Day 672) | UKRAINE IS SHOWING THE EVEN AGAINST HEAVY RUSSIAN FORCES THERE IS STILL VICTORY!                
+20231229 | 673 | NATO PREPARES FOR WAR! Current Ukraine War Footage And News With The Enforcer (Day 673) | NATO MUST PREPARE FOR WHATEVER MAY COME OUR WAY IN THE WORLD. LONG LIVE THE LSA! SLAVA UKRAINI!                   
+20231230 | 674 | MASSIVE ATTACKS IN RUSSIA! Current Ukraine War Footage And News With The Enforcer (Day 674) | OH BOY THE UKRAINIANS ARE LTTING FEISTY AND GETTING DOWN AND DIRTY WITH THE RUSKIES. LONG LIVE THE LSA!                
+20231231 | 675 | RUSSIA ATTACKS THEIR OWN CITY! Current Ukraine War Footage And News With The Enforcer (Day 675) | THEY BE GETTING THE HOT DOGS BECAUSE THEY GOT THAT DOG IN 'EM. LONG HIVE THE LSA! SLAVA UKRAINI!                 
+
+20240101 | 676 | - | -                    
+20240102 | 677 | - | -                    
+20240103 | 678 | HUGE AIR BATTLE OVER UKRAINE! Current Ukraine War Footage And News With The Enforcer (Day 678) |THE LSA HAS FINALLY BEEN RECOGNIZED FOR OUR ACHIVEMENTS. LONG LIVE THE LSA! THE LSA           
+20240104 | 679 | MAJOR BATTLES ON ALL FRONTS! Current Ukraine War Footage And News With The Enforcer (Day 679) | WELCOME BACK TO THE 240 UKRAINIANS WHO JUST BECAME FREE, MAY THERE BE MANY MORE! LSA!          
+20240105 | 680 | UKRAINE STRIKES ALL RUSSIAN BASES! Current Ukraine War Footage And News With The Enforcer (Day 680) | UKRAINE WENT ALL OUT TO BEAT UP THE RUSKIES TODAY. LONG LIVE THE LSA!                  
+20240106 | 681 | - | -                    
+20240107 | 682 | RUSSIAN FORCES RETREAT, HEAVY LOSSES! Current Ukraine War Footage & News With The Enforcer (Day 682) | UKRAINE KEEPS PUSHING AND WILL RETAKE CRIMEA. LONG LIVE THE LSA, AND SLAVA UKRAINI!                
+20240108 | 683 | UKRAINE RAIDS RUSSIAN TRENCHES! Current Ukraine War Footage & News With The Enforcer (Day 683) | RUSSIANS LOSING HUNDREDS OF MEN IN A DAY IS ABOUT AS SHOCKING AS THE SUN RISING THE NEXT DAY. LONG LIVE THE LSA!          
+20240109 | 684 | - | -                    
+20240110 | 685 | RUSSIAN ATTACK DESTROYED! Current Ukraine War Footage And News With The Enforcer (Day 685) | CAN THERE EVER BE THE CHANCE THAT UKRAINE IS GOING TO THE THUNDER DOME? LONG LIVE THE LSA!              
+20240111 | 686 | SHOCKING RUSSIAN REPORT FOUND! Current Ukraine War Footage And News With The Enforcer (Day 686) | THE LSA WILL KEEP GOING WITH EVERY OUNCE OF STRENGTH WE HAVE UNTIL THE WAR ENDS! LONG LIVE THE LSA!               
+20240112 | 687 | AMERICA AT WAR WITH YEMEN! Breaking Ukraine/ Yemen War Footage And News With The Enforcer (Day 687) | -                    
+20240113 | 688 | US FORCES BOMB KEY HOUTHI SITES! Breaking Ukraine/ Yemen War News With The Enforcer (Day 688) | -                    
+20240114 | 689 | UKRAINE KNOCKS OUT RUSSIAN GRID! Current Ukraine War Footage And News With The Enforcer (Day 689) | UKRAINE WILL KEEP MARCHING ONWARDS TO TOTAL VICTORY! LONG LIVE THE LSA!    
+20240115 | 690 | FLYING COMMAND POST SHOT DOWN! Breaking Ukraine War Footage And News With The Enforcer (Day 690) |   THIS IS THE SPARTAK BRIGADE CALLING COMMAND... ANYONE ON FREQUENCY... HELLO?
+20240116 | 691  | - | -                    
+20240117 | 692 | RUSSIAN GENERAL IS DEAD! Breaking Ukraine War Footage And News With The Enforcer (Day 692) | RUSSIAN GENERALS ARE GIVING OUT THE BRAND NEW COFFINS TO SEE IF THEY ARE MADE TO MATCH! LSA!
+20240118 | 693 | RIOTS ERUPT IN RUSSIA, FACTORIES EXPLODE! Current Ukraine War News With The Enforcer (Day 693) | RUSSIAN IS NOW FIGHTING A WAR IN THE URALS DEEP INSIDE THEIR OWN NATION. LONG LIVE THE LSA!
+20240119 | 694 | BLACKOUT IN CRIMEA, RUSSIANS PANIC! Current Ukraine War Footage And News With The Enforcer (Day 694) | IT'S GOTTEN A LITTLE DARK DOWN HERE IN CRIMEA... MUCH LIKE THE WAR ITSELF. LONG LIVE THE LSA!               
+20240120 | 695 | CHINESE SOLDIERS IN RUSSIA! Current Ukraine War Footage And News With The Enforcer (Day 695) | THAT M2 BRADLEY GOT UKRAINE MOVING LIKE AN INVASIVE SPECIES. LONG LIVE THE LSA!                  
+20240121 | 696 | EXPLOSIONS ROCK RUSSIA! Current Ukraine War Footage And News With The Enforcer (Day 696) | RUSSIAN IS WONDERING WHY THE GAS KEEPS EXPLODING, UKRAINE SAYS IT MUST BE THE BEANS. LSA!
+20240122 | 697 | RUSSIAN SOLDIERS REFUSE ORDERS! Current Ukraine War Footage And News With The Enforcer (Day 697) | WOULD YA LOOK AT THAT, RUSSIANS MUTINYING HOW WILD! LONG LIVE THE LSA!                    
+20240123 | 698 | - | -                    
+20240124 | 699 | RUSSIAN ARMY TAKES RECORD LOSSES! Breaking Ukraine War Footage And News With The Enforcer (Day 699) | RUSSIA DECIDED TODAY WAS THE DAY TO CALL A BLACK FRIDAY AND CLEAR OUT THEIR INVENTORY. LONG LIVE THE LSA!               
+20240125 | 700 | HUGE RUSSIAN JET SHOT DOWN! Breaking Ukraine War Footage And News With TheEnforcer (Day 700) | RUSSIA LOSING OIL REFINERIES AND JETS LIKE I LOSE FRIES BETWEEN THE CAR SEATS. LONG LIVE THE LSA!
+20240126 | 701 | - | -                    
+20240127 | 702 | RUSSIAN TRAINING CAMP EXPLODES! Breaking Ukraine War Footage And News With The Enforcer (Day 702) | TRAINING NOW INCLUDES THE ULTIMATE HIMARS EXPERIENCE, STARTING TODAY. LONG LIVE THE LSA!                    
+20240128 | 703 | RUSSIAN TANK DESTROYED IN DUEL! Current Ukraine War Footage And News With The Enforcer (Day 703) | RUSSIAN FORCES WATCHING THEIR TANKS START MELTING MUST FEEL REALLY STUPID AT THIS POINT. LSA!
+20240129 | 704 | US SOLDIERS KILLED BY IRAN! Breaking Middle East/ Ukraine War News With The Enforcer (Day 704) | GOD BLESS AMERICA
+20240130 | 705 | - | -                    
+20240131 | 706 | MASSIVE EXPLOSIONS IN RUSSIA! Breaking Ukraine War Footage And News With The Enforcer (Day 706) | MEAN WHILE IN CHELYABINSK THEY ARE FEELING LIKE IT'S THE F0'S AGAIN AND THE AIR IS GETTING SPICY!      
+
+20240201 | 707 | RUSSIA DEVASTATED FROM HUGE ATTACK! Breaking Ukraine War Footage & News With The Enforcer (Day 707) | THROUGH THE MARCHES OF TIME PEOPLE WILL KNOW OF THE FEATS OF THE LSA AND THE ENFORCER CHANNEL. LONG LIVE THE LSA!
+20240202 | 708 | RUSSIAN SHIP EXPLODES AND SINKS! Breaking Ukraine War Footage And News With The Enforcer (Day 708) | THROUGH THE MARCHES OF TIME PEOPLE WILL KNOW OF THE FEATS OF THE LSA AND THE ENFORCER CHANNEL. LONG LIVE THE LSA!
+20240203 | 709 | US FORCES CARPET BOMB IRANIAN BASES! Breaking Iran/Ukraine War News With The Enforcer (Day 709) | AMERICA WILL FIGHT FOR WHAT'S RIGHT! LSA!
+20240204 | 710 | MASSIVE STRIKE CRIPPLES RUSSIA! Breaking Ukraine War Footage And News With The Enforcer (Day 710) | SKIES OF RUSSIA WILL BE BLACKENED WITH BURNING OIL. LONG LIVE THE LSA!
+20240205 | 711 | RUSSIA FEARS NEW UKRAINIAN TANK! Breaking Ukraine War Footage & News With The Enforcer (Day 711) | RUSSIA QUIVERS IN FEAR SEEING ABRAMS COME ON TO THE FRONTLINE. LONG LIVE THE LSA!
+20240206 | 712 | - | -                    
+20240207 | 713 | UKRAINE ENCIRCLES RUSSIAN ARMY! Breaking Ukraine War Footage And News With The Enforcer (Day 713) | THEY ARE LEARNING THE HARD WAY IN AVIIVKA NOW. LONG LIVE THE LSA!
+20240208 | 714 | ICBM FACTORY EXPLODES IN RUSSIA! Breaking Ukraine War Footage And News With The Enforcer (Day 714) | NUCLEAR ROCKET PLANTS ARE EXPLODING, AND THIS IS \ SECOND BEST, \ IN RUSSIA'S MIND. LONG LIVE THE LSA!
+20240209 | 715 | MASSIVE ATTACKS ALL OVER RUSSIA! Breaking Ukraine War Footage And News With The Enforcer (Day 715) | THAT INTERVIEW WITH PUTIN WAS LIKE WATCHING THE PAINT DRY ON THE WALL. LONG LIVE THE LSA!
+20240210 | 716 | RUSSIAN ARMY REFUSES ORDERS! Breaking Ukraine War Footage And News With The Enforcer (Day 716) | PUTIN HAS TO PAY THE RUSSIAN ARMY, IF NOT WITH MONEY, IT WILL BE WITH HIS BLOOD. LONG LIVE THE LSA!
+20240211 | 717 | CRITICAL SITUATION IN AVDIIVKA! Breaking Ukraine War Footage And News With The Enforcer (Day 717) | UKRAINE MUST PULL TOGETHER AND PUSH THE RUSSIANS BACK! LONG LIVE THE LSA! SLAVA UKRAINI!
+20240212 | 718 | UKRAINE USES NEW SECRET WEAPON! Breaking Ukraine War Footage And News With The eEnforcer (Day 718) | HOPEFULLY THIS NEW WEAPON WILL KEEP URAINIES SAFE. LONG LIVE THE LSA! SLAVA UKRAINI!
+20240213 | 719 | - | -
+20240214 | 720 | - | -                    
+20240215 | 721 | RUSSIA HIT WITH MASSIVE ATTACKS, SHIP SINKS! Breaking Ukraine War News With The Enforcer (Day 721) | RUSSIA IS TRYING TO PULL AN OPERATION STARFISH PRIME AND THAT'S NOT GOING TO FLY. LSA
+20240216 | 722 | RUSSIA ATTACKS IT'S OWN CITY! Breaking Ukraine War Footage And News With The Enforcer (Day 722) | HAPPY BIRTHDAY TO YOU, HAPPY BIRTHDAY TO YOU, LONG LIVE THE LSA!
+20240217 | 723 | UKRAINE LEAVES AVDIIVKA, HUGE BATTLE! Current Ukraine War News With The Enforcer (Day 723) | UKRAINE WILL LIVE TO FIGHT ANOTHER BATTLE ANOTHER DAY. LONG LIVE THE LSA! SLAVA UKRAINI!
+20240218 | 724 | - | -                    
+20240219 | 725 | RUSSIA TAKES AVDIIVKA, BUT AT WHAT COST! Breaking Ukraine War News With The Enforcer (Day 725) | RUSSIA TAKES THE CITY AND THEN OPENLY ADMITS IT WAS NOT WORTH THE LOSSES. A VERY RUSSIAN ENDING. LONG LIVE THE LSA!
+20240220 | 726 | - | -                    
+20240221 | 727 | RUSSIANS LOSE HUGE AIR BATTLE! Breaking Ukraine War Footage And News With The Enforcer (Day 727) | RUSSIA'S AIR FORCE IS LOSING AIR BATTLE AGAIN ST BELIEVE IT OR NOT, A COUNTRY WITH HARD LOAN AIRFORCE
+20240222 | 728 | ENTIRE RUSSIAN BASE EXPLODES! Breaking Ukraine War Footage And News With The Enforcer (Day 728) | RUSSIAN FORCES ARE GETTING SLAMMED FEROCIOUSLY BY UKRAINIAN FIRE. LONG LIVE THE LSA!                    
+20240223 | 729 | US THREATENS RUSSIA, WAR IS COMING! Breaking Ukraine War Footage & News With The Enforcer (Day 729) | 48.141845369723704, 37.746642014639846. LONG LIVE THE LSA!
+20240224 | 730 | LARGEST RUSSIAN FACTORY DESTROYED, 2 YEARS OF WAR! Breaking Ukraine War News With The Enforcer (730) | HERE IS TO TWO YEARS OF GLORIOUS DEFENSE OF UKRAINE THE WEST. SLAVA UKRAINI, LONG LIVE THE LSA!                    
+20240225 | 731 | CRIPPLING RUSSIAN DEFEAT, GENERAL KILLED! Breaking Ukraine War News With The Enforcer (Day 731) | 47.38202124866343, 35.79080011444702 LONG LIVE THE LSA!
+20240226 | 732 | UKRAINE PLANS MAJOR ATTACK! Breaking Ukraine War News And Footage With The Enforcer (Day 732) | RUSSIA IS PULLING OUT THE TEN CENT TECHNOLOGY TO TRY AND FIGHT. LONG LIVE THE LSA!                    
+20240227 | 733 | - | -                    
+20240228 | 734 | RUSSIA ATTACKS, UKRAINE LEAVES NO SURVIVORS! Breaking Ukraine War News With The Enforcer (Day 735) | ANOTHER FAILED ATTACK, LOSING DOZENS OF TANK SAND STUFF... THE LOSSES YOU TAKE WHEN YOU'R RUSSIAN TO WIN
+20240229 | 735 | UKRAINE STRIKES, RUSSIA TARGETS MOLDOVA! Breaking Ukraine War News With The Enforcer (Day 735) | UKRAINE IS PUTTNG IN HEAVY EFFORTS NEAR AVDIIVKA TO WIPE OUT THE RUSSIANS. LONG LIVE THE LSA!
+
+20240301 | 736 | RUSSIAN NUKES ARE READY, NATO MAY SEND TROOPS! Breaking Ukraine War News With The Enforcer (Day 736) | RUSSIA SAYS THEY HAVE NUKES READY AND THE ONLY THING GETTING NUKED IS THE RUSSIA'S HOPE OF BEING TAKEN SERIOUS. LSA!
+20240302 | 737 | NATO WARNS RUSSIA, UKRAINE STRIKES CRIMEA! Breaking Ukraine War News With TheEnforcer (Day 737) | RUSSIA IS PLAYING WITH FIRE AND THEY LIVE IN A NEST OF PURE KINDLING. LONG LIVE THE LSA!                    
+20240303 | 738 | UKRAINE ATTACKS PORT, KERCH BRIDGE CLOSES! Breaking Ukraine War News With The Enforcer (Day 738) | UKRAINE PULLED OFF ANOTHER SUCCESSFUL STRIKE, AND IT WAS SO GOOD THEY CLOSED THE BRIDGE. LONG LIVE THE LSA!
+20240304 | 739 | OPEN REBELLION IN RUSSIA, MASSIVE BATTLES! Breaking Ukraine War News With The Enforcer (Day 739) | OH NO, NOW  RUSSIA HAS TO DEAL WITH A FULL BLOWN REBELLION IN SOUTHERN RUSSIA. LONG LIVE THE LSA!
+20240305 | 740 | - | -                    
+20240306 | 741 | RUSSIAN WARSHIP DESTROYED, KERCH BRIDGE OUT! Breaking Ukraine War News With The Enforcer (Day 741) | RUSSIA LOSING SHIPS AND NEARLY LOSING BRIDGES, LIKE A GAME OF BATTLESHIP OUT THERE. LONG LIVE THE LSA!
+20240307 | 742 | ZELENSKY SURVIVES ATTACK, RUSSIA LOSES BATTLE! Breaking Ukraine War News With The Enforcer (Day 742) | RUSSIA TRIES AND FAILS TO RECOVER FROM THE DISASTER OF LAST WEEK. LONG LIVE THE LSA!                    
+20240308 | 743 | AMERICA WARNS RUSSIA ATTACK IS COMING! Breaking Ukraine War News With The Enforcer (Day 743) | UKRAINE BE BULLIN' UP IN THIS B, GETTIN A THE RUSSINS HDI LIKE OSAMA. LONG LIVE THE LSA!
+20240309 | 744 | FRANCE GIVES RUSSIA ULTIMATUM ON UKRAINE! Breaking Ukraine War News With The Enforcer (Day 744) | FRANCE IS CONTINUING TO PROVE TO BE ONE OF UKRAINE'S GREATEST ALLIES. LONG LIVE THE LSA!
+20240310 | 745 | RUSSIAN POLICE SWARM MOSCOW! Breaking Ukraine War News With The Enforcer (Day 745) | MOSCOW IS PANICKING OVER THE REALITY THAT PEOPLE MAY NOT LIKE RUSSIA ALL THAT MUCH. LONG LIVE THE LSA!
+20240311 | 746 | HUGE ATTACK IN ST. PETERSBURG, RUSSIA FURIOUS! Breaking Ukraine War News With The Enforcer (Day 746) | NATO IS IN UKRAINE, SOME WHERE, SOMEHOW, AND THE RUSSIANS WILL PROBABLY BE SCARED ABOUT THIS. LONG LIVE THE LSA!
+20240312 | 747 | - | -                    
+20240313 | 748 | RUSSIA INVADED, MASS ATTACKS EVERYWHERE! Breaking Ukraine War News With The Enforcer (Day 748) | THE FREEDOM OF RUSSIA HAS LONG BEEN COMING. LONG LIVE THE LSA, SLAVA UKRAINI, SLAVA FREE RUSSIA!
+20240314 | 749 | RUSSIAN BORDER COLLAPSES, PUTIN THREATENS! Breaking Ukraine War News With The Enforcer (Day 749) | THE LIGHT OF LIBERATION WILL NEVER FADE FROM RUSSIAN SOIL. ONWARDS, FREE RUSSIA! LONG LIVE THE LSA!
+20240315 | 750 | TACTICAL NUKES ON FRONT, FREE RUSSIA ADVANCES! Breaking Ukraine War News With The Enforcer (Day 750) | FREE RUSSIA WILL BE THE ONLY RUSSIA. SLAVA UKRAINI, SLAVA FREE RUSSIA, ONWARDS TO VICTORY! LSA!
+20240316 | 751 | FREE RUSSIA IN BELGOROD, ELECTION VIOLENCE ! Breaking Ukraine War News With The Enforcer (Day 751) | THE FREE RUSSIAN ARMY MARCHES ON BELGOROD. LIBERATION COMES SOONER THAN EVEN HOPED FOR. LONG LIVE THE LSA!
+20240317 | 752 | UKRAINE ATTACKS REFINERIES, RUSSIA RUNS DRY! Breaking Ukraine War News With The Enforcer (Day 752) | THE FREEDOM OF RUSSIA ARMY ARE GOING TO BE WORKING ON CLEANING OUT THE BELGOROD AREA. LONG LIVE THE LSA!
+20240318 | 753 | MOSCOW ATTACKED, CITY ON LOCKDOWN! Breaking Ukraine War Footage And News With The Enforcer (Day 753) | MOSCOW IS LOOKING LIKE A GOOGLIEST MOOGLIEST JUICY TARGET THERE EVER WAS. LONG LIVE THE LSA!
+20240319 | 754 | - | -                    
+20240320 | 755 | RUSSIA EVACUATES BELGOROD, HUGE BATTLES! Breaking Ukraine War News With The Enforcer (Day 755) | RUSSIA IS NOW SHOWING HOW BAD IT IS BY EVACUATING THOUSANDS FROM BELGOROD. LONG LIVE THE LSA!
+20240321 | 756 | RUSSIAN ARMY DEFEATED IN BELGOROD! Breaking Ukraine War News With The Enforcer (Day 756) | FORCES ARE GETTING BEAT BY FREE RUSSIANS FORCES AND THE WHOLE AREA IS A WARZONE. LONG LIVE THE LSA!
+20240322 | 757 | UKRAINE STOPS MASSIVE ATTACK, RUSSIA OUTDONE! Breaking Ukraine War News With The Enforcer (Day 757) | ALL OF RUSSIA WILL NOW KNOW THE STORY OF THE FREE RUSSIAN ARMY, AND WHAT THEY HAVE DONE. LONG LIVE THE LSA!                    
+20240323 | 758 | MASSIVE ATTACK ON MOSCOW, PUTIN LASHES OUT! Breaking Ukraine War News With The Enforcer (Day 758) | CROCUS CITY HALL WAS NEARLY A FALSE FLAG ATTACK. NOTICE HOW WELL BENT RUSSIAN WAS TO MAKE IT ONE. LONG LIVE THE LSA!                    
+20240324 | 759 | RUSSIAN HQ IN SEVASTOPOL DESTROYED! Breaking Ukraine War News With The Enforcer (Day 759) | TODAY IS LSA DAY, THE SECOND YEAR THAT THE LSA HAS EXIST ON THE INTERNET. LONG LIVE THE LSA: THE LSA WILL NEVER DIE
+20240325 | 760 | RUSSIA IN CHAOS; SHIPS HIT, PLANES DESTROYED! Breaking Ukraine War News With The Enforcer (Day 760) | RUSSIA IS IN A SPIRAL OF CHAOS THAT IS LEADING THEM TO A PASS. LONG LIVE THE LSA, THE LSA WILL NEVER DIE!
+20240326 | 761 | - | -                    
+20240327 | 762 | RUSSIA OUT OF TROOPS, NEEDS NEW ARMIES! Breaking Ukraine War News With The Enforcer (Day 762) | RUSSIA IS RUNNING OUT OF MEN SO BADLY THEY HAVE TO RAISE TWO NEW ARMIES. LONG LIVE THE LSA!                    
+20240328 | 763 | NATO DEPLOYS TROOPS, EXPLOSIONS IN BELGOROD! Breaking Ukraine War News With The Enforcer (Day 763) | NATO IS READY TO ROLL THEY JUST DON'T SAY IT ALL THAT MUCH. LONG LIVE THE LSA!                    
+20240329 | 764 | NATO AIRFIELDS TARGETED, JETS SHOT DOWN! Breaking Ukraine War News With The Enforcer (Day 764) | RUSSIAN IS PLAYING WITH FIRE TRYING TO SUGGEST PREEMPTIVE STRIKES ON WESTERN AIRFIELDS. LONG LIVE THE LSA!                    
+20240330 | 765 | POLAND REVOKES TREATY; PREPARES FOR WAR! Breaking Ukraine War News With The Enforcer (Day 765) | POLAND IS ON THE STEADY PATH FOR WAR AND RUSSIA MAY NOT BE READY FOR WHAT IS IN STORE. LONG LIVE THE LSA!                    
+20240331 | 766 | UKRAINE LIBERATES NORTHEAST, RUSSIANS RETREAT! Breaking Ukraine War News With The Enforcer (Day 766) | I LIKE MY HOTDOGS WITH EXTRA RELISH, THERE IS TRULY NO NEED TO EMBELLISH! LONG LIVE THE LSA!                    
+20240401 | 767 | RUSSIA MOBILIZES 150,000 TROOPS, ARMY SUFFERS! Breaking Ukraine War News With The Enforcer (Day 767) | RUSSIAN FORCES ARE RUNNING LOW ON MAN POWER, ANOTHER 150K TO THE MEAT GRINDER. LONG LIVE THE LSA!
+20240402 | 768 | - | -                    
+20240403 | 769 | MASS ATTACKS INSIDE RUSSIA, CHAOS ENSUES! Breaking Ukraine War News With The Enforcer (Day 769) | EVERY THING IN RUSSIA IS ON FIRE, IT'S ONE OF THE FEW TIMES THE RUSSIAN HAS EVER FELT WARMTH. LONG LIVE THE LSA!
+20240404 | 770 | - | -                    
+20240405 | 771  | RUSSIAN AIRBASE BLOWN UP, IRAN FIRES MISSILES! Breaking Ukraine War News With The Enforcer (Day 771) | RUSSIA IS GETTING BEAT UP, AND WAR IS LOOMING IN THE MIDDLE EAST. THE WEST WILL PREVAIL, LONG LIVE THE LSA!
+20240406 | 772 | EUROPE REVOKES PEACE TREATY, MOBILIZATION! Breaking Ukraine War News With The Enforcer (Day 772) | SO MANY COUNTRIES ARE BACKING OUT OF THE TREATY IT SHOWS WAR IS COMING. LONG LIVE THE LSA!                    
+20240407 | 773 | UKRAINE ASKS FOR FRENCH SUPPORT, HUGE ATTACKS! Breaking Ukraine War News With The Enforcer (Day 773) | UKRAINE AND FRANCE ARE COOKITNG UP THE DEALS, VERY INTERESTING AND HOPEFULLY WILL GO FAR. LONG LIVE THE LSA!
+20240408 | 774 | NUCLEAR POWERPLANT HIT, EUROPE WORRIED! Breaking Ukraine War News With The Enforcer (Day 774) | THE RUSSIANS ARE PLAYING WITH A DANGEROUS OUTCOME. THE ZNPP NEEDS TO BE IN A NEUTRAL ZONE.  LONG LIVE THE LSA!
+20240409 | 775 | - | -                    
+20240410 | 776 | RUSSIAN TOP GUN SCHOOL HIT, AIR FORCE HURT! Breaking Ukraine War News With The Enforcer (Day 776) | LET'S HOPE THAT UKRAINE WILL RECEIVE AID VERY SOON TO KEEP THE WAR EFFORT ROLLING! LONG LIVE THE LSA!                    
+20240411 | 777 | MAJOR RUSSIAN FRIENDLY FIRE INCIDENT! Breaking Ukraine War News With The Enforcer (Day 777) | RUSSIAN FORCES ARE MAKING SURE THEY LOOK LIKE CLOWNS, HONK HONK. LONG LIVE THE LSA! 
+20240412 | 778 | - | -                    
+20240413 | 779 | RUSSIA CRUMBLING, SENDS NUCLEAR WARNING! Breaking Ukraine War News With The Enforcer (Day 779) | THE LSA WILL STEP BOLDLY IN TO THAT FUTURE UNKNOWN LONG LIVE THE LSA! THE LSA WILL NEVER DIE!                    
+20240414 | 780 | IRAN LAUNCHES ATTACK ON ISRAEL, WAR DECLARED! Breaking Middle East News With The Enforcer (Day 1) | LONG LIVE THE LSA! THE LSA WILL NEVER DIE!                    
+20240415 | 781 | ISRAEL DECLARES WAR WITH IRAN, ATTACK SOON! Breaking Ukraine/ Israel News W/ The Enforcer (Day 781) | RUSSIA AND IRAN WILL SOON LEARN THE MIGHT OF WESTERN METTLE AND STEEL. LONG LIVE THE LSA!
+20240416 | 782 | - | -                    
+20240417 | 783 | ISRAEL HITS IRANIAN GROUPS, RUSSIA JOINS IRAN! Breaking Ukraine War News With The Enforcer (Day 783) | RUSSIA IS TRYING TO PLAY TOO MANY GAMES AT ONE TIME, WHILE LOSING ALL OF THEM. LONG LIVE THE LSA!  
+20240418 | 784 | UKRAINE DESTROYS KEY BOMBER FACTORY! Breaking Ukraine/ Israel War News With The Enforcer (Day 784) | RUSSIA JUST HAD THEIR BOMBER FACTORY BOMBED. IS THAT WHAT THE FACTORY WAS MADE FOR? LONG LIVE THE LSA!                    
+20240419 | 785 | MASSIVE EXPLOSIONS IN IRAN, ISRAEL ATTACKS! Breaking Ukraine/Israel News With The Enforcer (Day 785) | ISRAEL IS STRIKING BACK AT THE AXIS OF EVIL. LONG LIVE THE LSA!, THE LSA WILL NEVER DIE!
+20240420 | 786 | UKRAINE SHOOTS DOWN BOMBER, RUSSIA HOPELESS! Breaking Ukraine War News With The Enforcer (Day 786) | RUSSIA JUST HAD THEIR BOMBER FACTORY BOMBED. IS THAT WHAT THE FACTORY WAS MADE FOR? LONG LIVE THE LSA!
+20240421 | 787 | UKRAINE HITS VITAL TARGETS, AID BILL PASSED! Breaking Ukraine War News With The Enforcer (Day 787) | RUSSIA JUST HAD THEIR BOMBER FACTORY BOMBED. IS THAT WHAT THE FACTORY WAS MADE FOR? LONG LIVE THE LSA!                    
+20240422 | 788 | MAJOR RUSSIAN SHIP SINKS, UKRAINE STRIKES! Breaking Ukraine War News With The Enforcer (Day 788) | RUSSIA WILL ONLY HAVE THE RUBBER DUCKS LEFT IN THE BATHTUBS AS SHIPS IN THE NAVY. LONG LIVE THE LSA!                    
+20240423 | 789 | - | -                    
+20240424 | 790 | UKRAINE GETS SUPER MISSILE, RUSSIA IN FEAR! Breaking Ukraine War News With The Enforcer (Day 790) |  RUSSIA FEARS WHAT THE ATACMS WILL DO TO THEIS REAR LINES, IT'S GONNA BE UGLY. LONG LIVE THE LSA!               
+20240425 | 791 | UKRAINE CLAIMS BIG VICTORY, RUSSIANS SHOCKED! Breaking Ukraine War News With The Enforcer (Day 791) | UKRAINE IS SLOWLY CHIPPING AWAY AT THE RUSSIAN FORCES ALONG THE RIVER. LONG LIVE THE LSA!                    
+20240426 | 792 | RUSSIA THREATENS NATO NUCLEAR FACILITES! Breaking Ukraine War News With The EnforcerMatt (Day 792) | RUSSIA IS NOW GOING TO MAKE THE DUMBEST STATEMENTS IN THE WAR. REALLY GOOFY MOVE AGAIN. LONG LIVE THE LSA!
+20240427 | 793 | - | -                    
+20240428 | 794 | HUGE EXPLOSIONS IN RUSSIA, REFINERY BURNS! Breaking Ukraine War News With The Enforcer (Day 794) | RUSSIA CANNOT CATCH A BREAK, THEY WILL BE TOASTED OVER AND OVER. LONG LIVE THE LSA!
+20240429 | 795 | MAJOR ATTACK ON RUSSIAN AIRBASE, NATO MOVING! Breaking Ukraine War News With The Enforcer (Day 795) | 46.534582579484095, 39.555092031359166 GETTING HIT HARD!                    
+20240430 | 796 | - | -                    
+
+20240501 | 797 | RUSSIA TAKES HEAVY LOSSES, GOING BROKE! Breaking Ukraine War News With The Enforcer (Day 797) | IVAN CANNOT FIND THE WAY HOME, HELP HIM BY SUPPORTING UKRAINE, AND SENDING HIM BACK!
+20240502 | 798 | PUTIN PURGES TOP OFFICIALS, REFINERIES BURN! Breaking Ukraine War News With The Enforcer (Day 798) | PURGES ARE BEGINNING IN THE RUSSIAN GOVERNMENT AGAIN, PRESSURE MUST BE GROWING AROUND THE WAR.                    
+20240503 | 799 | MOSCOW ATTACKED, MAJOR RUSSIAN SITES DESTROYED! Breaking Ukraine War News With The Enforcer (Day 799) | THEY CAN'T EVEN PROTECT MOSCOW CITY. HOW CAN YOU HAVE A VICTORY PARTY WHEN YOU CAN'T PROTECT THE CITY?
+20240504 | 800 | - | -                    
+20240505 | 801 | RUSSIA LOSES BIG TANK BATTLE, BOMBS BELGOROD! Breaking Ukraine War News With The Enforcer (Day 801) | UKRAINE KEEPS HOLDING ON STRONG! LONG LIVE THE LSA, THE LSA WILL NEVER DIE!                    
+20240506 | 802 | UKRAINIAN SURPRISE RAID STRIKES DEEP! Breaking Ukraine War News With The Enforcer (Day 802) | UKRAINE CONDUCTING RAIDS TO TAKE OUT COLLABORATORS IS PRETTY WILD STUFF. LONG LIVE THE LSA.              
+20240507 | 803 | - | -                    
+20240508 | 804 | UKRAINE STOPS ALL RUSSIAN OFFENSIVES! Breaking Ukraine War News With The Enforcer (Day 804) | UKRAINE WILL TURN THE WAR AROUND WITH THE SUPPORT OF THE WEST, ONWARDS UKRAINE! LONG LIVE THE LSA!                    
+20240509 | 805 | UKRAINE BREAKS RUSSIAN FORCES, TIDES TURN! Breaking Ukraine War News With The Enforcer (Day 805) | UKRAINE CAN PUSH THE RUSSIANS BACK STILL, KEEP ON FIGHTING UKRAINE! LONG LIVE THE LSA!
+20240510 | 806 | HUGE EXPLOSIONS INSIDE RUSSIA, NEAR COLLAPSE! Breaking Ukraine War News With The Enforcer (Day 806) | HAPPY DEFEAT DAY TO THE RUSSIANS, THE UKRAINIANS REMINDED THEM THAT THE GAS IS RUNNING OUT SOON. LONG LIVE THE LSA!             
+20240511 | 807 | RUSSIA LAUNCHES OFFENSIVE, BIG EXPLOSIONS! Breaking Ukraine War News With The Enforcer (Day 807) | RUSSIA IS TRYING TO DRAW UKRAINE AWAY FROM VITAL FRONT LINES, ACT OF DESPERATION. LONG LIVE THE LSA!
+20240512 | 808 | MOSCOW TARGETED, RUSSIAN OFFENSIVES FAIL! Breaking Ukraine War News With The Enforcer (Day 808) | RUSSIA IS DEALING WITH A LOT OF STUFF BUT GOOD STUFF ISN'T ANY OF IT. LONG LIVE THE LSA!                 
+20240513 | 809 | MAJOR PURGE IN MOSCOW, SHOIGU REMOVED! Breaking Ukraine War News With The Enforcer (Day 809) | SHOIGU IS GONE, ONE OF THE FEW THAT REMAINS FROM THE START OF THE WAR. UKRAINE IS NOT YET LOST! LSA!                      
+20240514 | 810 | - | -                    
+20240515 | 811 | UKRAINE STRIKES MULTIPLE BASES IN CRIMEA! Breaking Ukraine War News With The Enforcer (Day 811) | UKRAINE IS CONDUCTING A MASSIVE ATTACKS IN CRIMEA AS WE SPEAK. UKRAINE IS NOT YET LOST! LONG LIVE THE LSA!                 
+20240516 | 812 | RUSSIAN OFFENSIVE CRUMBLING IN KHARKIV! Breaking Ukraine War News With The Enforcer (Day 812) | RUSSIAN FORCES ALREADY TRYING TO RUN AWAY FROM THE KHARKIV FRONT JUST DAYS AFTER IT STARTED. LSA!
+20240517 | 813 | RUSSIANS SURRENDER IN KHARKIV, VITAL AIRCRAFT LOST! Breaking Ukraine War News W/The Enforcer (813) |  RUSSIAN FORCES ARE ALREADY TRYING TO RUN AWAY FROM THE KHARKIV FRONT JUST DAYS AFTER IT STARTED. LSA!                  
+20240518 | 814 | RUSSIA DESTROYED IN MAJOR ATTACK, FAILURE IN KHARKIV! Breaking Ukraine War News With The Enforcer (814) | RUSSIA HAS HARDLY AN AIR DEFENSE SYSTEM LEFT. THE WAR WILL BE WON IN THE SKIES. LONG LIVE THE LSA!              
+20240519 | 815 | UKRAINE DESTROYS RUSSIAN FORCES, KHARKIV DEFEAT! Breaking Ukraine War News With The Enforcer (815) | RUSSIA IS GETTING OVER WHELMED YET AGAIN. LONG LIVE THE LSA! THE LSA WILL NEVER DIE!
+20240520 | 816 | PRESIDENT OF IRAN DEAD IN HELI CRASH! Breaking Ukraine/Iran War News With The Enforcer (Day 816) | RUSSIA IS GETTING OVERWHELMED YET AGAIN; LONG LIVE THE LSA! THE LSA WILL NEVER DIE!
+20240521 | 817 | - | -                    
+20240522 | 818 | MAJOR RUSSIAN HQ BURNS, KEY GENERALS WOUNDED ! Breaking Ukraine War News With The Enforcer (Day 818) | HEY THERE THAT'S A NICE HQ YOU GOT WOULDN'T IT BE A SHAME IF SOMEONE BOMBED IT? LOL LONG LIVE THE LSA!             
+20240523 | 819 | RUSSIA LOSES MAJOR BATTLE, COWERS TO NATO! Breaking Ukraine War News With The Enforcer (Day 819) | RUSSIA LOSING ANOTHER MAJOR CAMPAIGN JUST LIKE THAT. UKRAINE IS NOT YET LOST! SLAVA UKRAINI! LONG LIVE THE LSA!
+20240524 | 820 | CHINESE FORCES ENCIRCLE TAIWAN, PURGE IN RUSSIA! Breaking Ukraine/ Taiwan News With The Enforcer 820 | PUTIN WILL SOON REMOVE EVERY SEMI-COMPETENT OFFICER LEFT, LEAVING RUSSIA WITH NOTHING. LONG LIVE THE LSA!
+20240525 | 821 | PUTIN DEMANDS PEACE TALKS, RUSSIA LOSING! Breaking Ukraine War News With The Enforcer (Day 821) | PUTIN REALLY THINKS HE CAN JUST FREZE THE LINE LIKE THAT THE ONLY THING FREEZING ARE RUSSIAN ASSETS. LSA!
+20240526 | 822 | UKRAINE COUNTERATTACKS, RUSSIA LOSES 500K! Breaking Ukraine War News With The Enforcer (Day 822) | THE COUNTER ATTACK WILL DRIVE THE RUSSIANS FROM KHARKIV'S FIELDS. LONG LIVE THE LSA!
+20240527 | 823 | CHINA READIES INVASION FLEET, RUSSIA LOSING KHARKIV! Breaking Ukraine/ Taiwan News With The Enforcer | THE WEST MUST BE READY FOR WAR ON ALL FRONTS. WE SHALL PREVAIL. LONG LIVE THE LSA! THE LSA WILL NEVER DIE!             
+20240528 | 824 | - | -                    
+20240529 | 825 | FRENCH FORCES ENTER UKRAINE, PUTIN TERRIFIED! Breaking Ukraine War News With The Enforcer (Day 825) | FRANCE SENDING SPECIAL FORCES TO TRAIN AND ALSO GIVING THE ...               
+20240530 | 826 | EXPLOSIONS IN KERCH, PUTIN DECLARES TOTAL WAR! Breaking Ukraine War News With The Enforcer (Day 826) | RUSSIA DECLARING TOTAL WAR SHOULD GIVE AN IDEA OF HOW FAR AWAY RUSSIA IS FROM EVER WINNING. LSA!
+20240531 | 827 | RUSSIA PUSHED BACK HARD, KERCH BURNS! Breaking Ukraine War News With The Enforcer (Day 827) | RUSSIANS FORCES TRY A NEW OFFENSIVE TO GET PUSHED OUT. LONG LIVE THE LSA! THE LSA WILL NEVER DIE!                  
+
+20240601 | 828 | US WEAPONS STRIKE RUSSIA, BELGOROD BURNS! Breaking Ukraine War News With The Enforcer (Day 828) | RUSSIA IS BEING OVERWHELMED BY UKRAINIAN MISSILES AND DRONES, WOMP WOMP. LONG LIVE THE LSA!
+20240602 | 829 | UKRAINE BEGINS HUGE COUNTERATTACK! Breaking Ukraine War News With The Enforcer (Day 829) |  UKRAINE IS ON THE COUNTER ATTACK, DRIVE THE RUSSIANS FROM THE FIELD! LONG LIVE THE LSA! THE LSA WILL NEVER DIE!
+20240603 | 830 | BELARUS IS NUCLEAR READY, MASSIVE ESCALATION! Breaking Ukraine War News With The Enforcer (830) |  RUSSIA IS GETTING INTO A PRETTY TOUGH SPOT AT THE MOMENT TRYING TO HOLD NEAR VOVCHASA. LONG LIVE THE LSA!
+20240604 | 831 | - | -
+20240605 | 832 | RUSSIA OUTNUMBERED IN VOVCHANSK, PUTIN SCARED! Breaking Ukraine War News With The Enforcer (Day 832) | RUSSIA IS GETTING INTO A PRETTY TOUGH SPOT AT THE MOMENT TRYING TO HOLD NEAR VOVCHANSK. LONG LIVE THELSA!
+20240606 | 833 | RUSSIAN REFINERY HIT, PUTIN THREATENS WEST! Breaking Ukraine War News With The Enforcer (Day 833) | RUSSIA IS DRIPPING AWAY ALL OF THEIR OIL SLOWLY, THEY WILL BE RUN DRY SOON. LLTLSA!
+20240607 | 834 | RUSSIAN FLEET GOING TO CUBA, FRANCE GIVES JETS! Breaking Ukraine War News With The Enforcer (834) |  WHATEVER MESSAGE YOU WANT HERE. LSA
+20240608 | 835 | MASSIVE BASE DESTROYED, RUSSIA PUSHED BACK! Breaking Ukraine War News With The Enforcer (Day 835) | RUSSIAN FORCES ARE GETTING BEATEN BADLY DEEP BEHIND THE LINES. THEY SHOULD LEAVE UKRAINE ONE DAY. LONG LIVE THE LSA
+20240609 | 836 | UKRAINE TAKES VOVCHANSK, RUSSIAN BOMBER HIT! Breaking Ukraine War News With The Enforcer (Day 836) | FORCES ARE GETTING ABSOLUTELY HAMMERED IN VOVCHANSK. IT WILL BE UKRAINE'S AGAIN! LLTLSA!
+20240610 | 837 | RUSSIAN STEALTH FIGHTERS DESTROYED, MAJOR LOSS! Breaking Ukraine War News With The Enforcer (837) | RUSSIA LOSING TWO SU-57S SOUNDS A LOT LIKE FANTASY BUT IT'S REALITY NOW. DLTLSA!
+20240611 | 838 | - | -
+20240612 | 839 | ATTACK ON MOSCOW, RUSSIA PUSHED BACK IN KHARKIV! Breaking Ukraine War News With The Enforcer (839) | FIRES IN MOSCOW AGAIN, MMMMMM, LOOKS LIKE THEY ARE KEEPING PUTIN WARM. LONG LIVE THE LSA!
+20240613 | 840 | CRIMEA BEING DESTROYED, PUTIN DEPLOYS S-500! Breaking Ukraine War News With The Enforcer (Day 840) | RUSSIAN IS DEPLYING THE S-500 NOW, LET'S SEE WHAT IT CAN DO. LONG LIVE THE LSA!
+20240614 | 841 | RUSSIAN ECONOMY COLLAPSES, MOSCOW ON FIRE! Breaking Ukraine War News With The Enforcer (Day 841) | THE RUBLE IS COLLAPSING INTO RUBBLE, LOOKS LIKE PUTIN'S WAR IS FOR HIS OWN SURVIVAL. LLTLSA!
+20240615 | 842 | MASSIVE EXPLOSIONS IN RUSSIA, PUTIN TERRIFIED! Breaking Ukraine War News With The Enforcer (Day 842) | RUSSIA IS IN FOR ALL KINDS OFF UNSURPRISES THIS WEEK, MAYBE THEY WILL HAVE EVEN MORE TO COME! LLTLSA!
+20240616 | 843 | RUSSIAN FORCES SURRENDER IN VOVCHANSK! Breaking Ukraine War News With The Enforcer (Day 843) | THE MASS SURRENDER AT VOVCHANSKS A SERIOUS BLOW FOR RUSSIAN FORCES IN THE AREA. LONG LIVE THE LSA!
+20240617 | 844 | RUSSIAN FORCES LOSE IN VOVCHANSK! Breaking Ukraine War News With The Enforcer (Day 844) | THE RUSSIANS ARE GETTING BEATEN PRETTY BADLY NOWADAYS, DON'T THINK THEY WILL HANG IN THERE. LSA!
+20240618 | 845 | - | - 
+20240619 | 846 | MAJOR RUSSIAN PORT HIT, PUTIN VISITS N. KOREA! Breaking Ukraine War News With The Enforcer (846) | THE RUSSIANS ARE GETTING BEATEN PRETTY BADLY NOWADAYS, DON'T THINK THEY WILL HANG IN THERE. LSA
+20240620 | 847 | MAJOR EXPLOSION BEHIND RUSSIAN LINES, HUGE LOSS! Breaking Ukraine War News With The Enforcer (847) | RUSSIA IS DOING SO POORLY SUPPLY TRUCKS ARE SPONTANEOUSLY COMBUSTING. LONG LIVE THE LSA!
+20240621 | 848 | MASSIVE ATTACKS IN SOUTHERN RUSSIA, HUGE DAMAGE! Breaking Ukraine War News With The Enforcer (848) | RUSSIA IS GETTING HAMMERED AT HOME SO BADLY THEY ARE TRYING TO DIVERT TO NUCLEAR THREATS. LSA!
+20240622 | 849 | RUSSIA HIT HARD FROM MASS ATTACK, PUTIN DESPERATE! Breaking Ukraine War News With The Enforcer (849) | RUSSIA IS PUSHING THE WORLD TO THE BRINK FOR THE FAILURES IN UKRAINE, KEEP GOING. LONG LIVE THE LSA!
+20240623 | 850 | RUSSIANS WITHDRAW FROM VOVCHANSK, FRONT COLLAPSE! Breaking Ukraine War News With The Enforcer (850) | IT WON'T BE MUCH LONGER BEFORE ALL RUSSIAN SOLDIERS EVACUATE FROM KHARKIV. LONG LIVE THE LSA!
+20240624 | 851 | RUSSIA BATTLES ARMED UPRISING, CRIMEA HIT HARD! Breaking Ukraine War News With The Enforcer (851) | THE PROBLEMS ONLY CONTINUE TO WORSEN FOR RUSSIA, THEY NEVER ACTUALLY IMPROVE. LONG LIVE THE LSA!
+20240625 | 852 | - | -
+20240626 | 853 | MASSIVE EXPLOSIONS ON RUSSIAN BORDER, MAJOR DAMAGE! Breaking Ukraine War News With The Enforcer 853 | RUSSIAN IS DEALING WITH TOUGHER AND TOUGHER TIMES WITH WEAKER AN DWEAKER MEN. LONG LIVE THE LSA! 
+20240627 | 854 | NORTH KOREA SENDS TROOPS; JOINS WAR, UKRAINE ATTACKS! Breaking Ukraine War News W/ The Enforcer 854 | NORTH KOREA JOINING THE WAR IS A FINAL ACT OF DESPERATION BY BOTH RUSSIAN AND N.KOREA. LONG LIVE THE LSA!
+20240628 | 855 | - | -
+20240629 | 856 | RUSSIA LOSING HEAVILY IN VOVCHANSK, HUGE DEFEAT! Breaking Ukraine War News With The Enforcer (856) | RUSSIAN FORCES LOSING ANENTRE BRIGADE IN VOVCHANSK SOUNDS ON-PAR. LONG LIVE THE LSA! 
+20240630 | 857 | RUSSIA DEFEATED IN HUGE ATTACK, EXPLOSIONS IN RUSSIA! Breaking Ukraine War News W/ The Enforcer 857 | UKRAINE HAS BEGIN TO PUSH BACK! LONG LIVE THE LSA! LONG LIVE THE COUNTER OFFENSIVE!
+20240701 | 858 | CATASTROPHIC RUSSIAN FAILURE! Current Ukraine War Footage And News With The Enforcer (Day 402) | DID YOU KNOW THAT 1 IN EVERY 1 RUSSIAN SOLDIER IN UKRAINE WILL BE PART OF A TURRET TOSS?
+20240702 | 859 | - | -
+20240703 | 860 | UKRAINE DESTROYS MAJOR RUSSIAN PORTS, RUSSIA HURT! Breaking Ukraine War News With The Enforcer (860) | THE RUSSIANS ARE TURNING THEIR SHIPS INTO COOKERS, THE WAY THEY COOK THEIR OWN SAILORS. LLTLSA!
+20240704 | 861 | UKRAINE DESTROYS KEY RUSSIAN BASES, HUGE EXPLOSIONS! Breaking Ukraine War News With The Enforcer 861 | RUSSIAN SUPPLY BASES GETTING BLOWN UP LOOK REALLY PRETTY, IT SAVERY ORANGE KIND OF GLOW. LLTLSA!
+20240705 | 862 | - | -
+20240706 | 863 | RUSSIA HIT WITH MASSIVE ATTACK, MAJOR DAMAGE! Breaking Ukraine War News With The Enforcer (Day 863) |  RUSSIA IS ONCE AGAIN FEELING THE PRSURE OF ATTACKS FROM WITHIN, AND IS BUCKLING. LLTLSA!
+20240707 | 864 | RUSSIAN FORCES DEFEATED IN VOVCHANSK, PUTIN WORRIED! Breaking Ukraine War News W/ The Enforcer (864) | RUSSIAN FORCES KEEP GETTING PUSHED BACK LITTLE BY LITTLE VOVCHANSK, THEY SHOULD JUST LEAVE. LLTLSA!
+20240708 | 865 | MAJOR AMMO BASE EXPLODES, IRANIAN WARSHIP SINKS! Breaking Ukraine War News With The Enforcer (865) | RUSSIA LOSIRG MORE AMMUNITION IN THAT EXPLOSION THAN AMERICA DID IN VIETNAM. LLTLSA!
+y20240709 | 866 | - | -
+20240710 | 867 | MASSIVE EXPLOSIONS IN RUSSIA; AIR RAID SIRENS! Breaking Ukraine War News With The Enforcer (867) | RUSSIA CONDUCTING ATROCITIES AND TRYING TO JUSTIFY THEM SOUNDS LIKE A NORMAL DAY IN THE WAR. UKRAINE WILL BE AVENGED LLTLSA!
+20440711 | 868 | POLAND READY FOR WAR, RUSSIAN OFFICERS PURGED! Breaking Ukraine War News With The Enforcer (868) | THE WEST IS REALLY PUTTING THE PRESSURE, F-16S WILL ARRIVE VERY SOON. LLTLSA!
+20240712 | 869 | MAJOR RUSSIAN SPY PLOT EXPOSED, NATO DEPLOYS HYPERSONICS! Breaking Ukraine War News W/ The Enforcer | RUSSIA IS NOW TRYING TO SABOTAGE WAR INDUSTRY AND KILL THOSE INVOLVED WITH IT. WE SHOULD STOP THIS. LSA!
+20240713 | 870 | RUSSIA PLANS FALSE FLAG, RUSSIAN SUPERJET CRASHES! Breaking Ukraine War News With The Enforcer (870) | RUSSIA'S AVIATION INDUSTRY IS FALLING APART JUST LIKE EVERY OTHER. LLTLSA!
+20240714 | 871 | RUSSIA SUFFERS CRIPPLING DAMAGE IN MAJOR ATTACK! Breaking Ukraine War News With The Enforcer (871) | RUSSIAN ENTIRE DON RIVER SUPPLY ROUTE IS OUT. LONG LIVE THE LSA! SLAVA UKRAINI!
+20240715 | 872 | RUSSIA COLLAPSING; FIREFIGHTS IN ST. PETERSBURG! Breaking Ukraine War News With The Enforcer (872) | RUSSIA'S SECOND BIGGEST CITY IS DEVOLVING INTO LAWLESSNESS. LONG LIVE THE LSA!
+20240716 | 873 | - | -
+20240717 | 874 | RUSSIAN NAVY DEFEATED, HUGE LOSSES IN VOVCHANSK! Breaking Ukraine War News With The Enforcer (874) | RUSSIAN FORCES ARE WINNING SO GOOD THEY ARE LEAVING UKRAINE! LOOK AT EM GO!!! LSA!
+20240718 | 875 | - | -
+20240719 | 876 | EXPLOSION IN TEL AVIV, CRIMEAN BASE ATTACKED! Breaking Ukraine/ Israel News With The Enforcer (876) | UKRAINE IS CREATING AMAZING TRUMPHS BY HITTING AND DESTROYING THAT BASE. LONG LIVE THE LSA!
+20240720 | 877 | RUSSIAN REACTOR RADIATION LEAK, UKRAINE ATTACKS! Breaking Ukraine War News With The Enforcer (877) | THE ROSTOV NUCLEAR POWER PLANT MAY BE IN MAJOR TROUBLE, WHY DOES RUSSIA STILL CONTROL THE ZNPP? LLTLSA
+20240721 | 878 | KEY RUSSIAN BASE BURNS, ISRAEL ON BRINK OF WAR! Breaking Ukraine War News With The Enforcer (878) | GET YU SOM ECOOKED UP SUKHOI, GET EM WHILE THEY'RE HOT! LONG LIVE THE LSA!
+20240722 | 879 | US BOMBERS MILES FROM ST. PETERSBURG, PUTIN SCARED! Breaking Ukraine War News With The Enforcer 879 | US BOMBERS FLEW JUST MILES AWAY FORM ST. PETERSBURG FOR THE FIRST TIME... CHECKMATE! LSA!
+20240723 | 880 | - | -
+20240724 | 881 | KERCH STRAIT CROSSING HIT HARD, NATO UNDER FIRE! Breaking Ukraine War News With The Enforcer (881) | UKRAINE IS CUTTING OFF ALLEXITS TO MAKE SURE THAT NO ROADS WILL LEAD TO MOSCOW, ONLY SURRENDER. LSA!
+20240725 | 882 |  RUSSIAN AND CHINESE BOMBERS NEAR ALASKA, NATO BUILDUP AROUND RUSSIA! Breaking News With Enforcer 882 | RUSSIA IS GETTING VERY CONCERNED OVER THAT NATO PRESENCE IN FINLAND. IT IS SOMETHING THAT WILL AFFECT THEM SOON. LSA!
+20240726 | 883 | NATO SHOOTS DOWN RUSSIAN DRONES, RUSSIA READY FOR MASS CASUALTIES! Breaking News With The Enforcer | THINGS ARE RAPIDLY ESCALATING BETWEEN THE EAST AND NATO, WE NEED TO BE READY FOR ANYTHING. LLTLSA!
+20240727 | 884 | MAJOR COLLAPSE INSIDE OF RUSSIA, CRUMBLING FROM WITHIN! Breaking Ukraine War News With The Enforcer | RUSSIANS ARE FALLING APART FROM THE INSIDE OUT. HOPEFULLY IT WILL BE QUICKER. LLTLSA
+20240728 | 885 | ISRAEL BOMBS LEBANON, WAR IMMINENT; MAJOR ATTACK IN RUSSIA! Breaking News With The Enforcer (885) | IT SEEMS THAT THE HEZBOLLAH WILL NOW PAY FOR THE ACTIONS THEY HAVE CONDUCTED AGAINST ISRAEL. LLTLSA!
+20240729 | 886 | REPORTS OF EXPLOSIONS IN LEBANON, RUSSIAN REFINERY EXPLODES! Breaking War News With The Enforcer 886 | ISRAEL IS STARTING THE GROUND WORK TO BE ABLE TO BEGIN FIGHTING AN ALL OUT WAR. LONG LIVE THE LSA!
+20240730 | 887 | - | -
+20240731 | 888 | ISMAIL HANIYEH DEAD IN MIDDLE EAST, KEY RUSSIAN FACTORY BURNS! Breaking War News With The Enforcer (888) | THE WORLD IS SEEMINGLY COMING TO AHEAD WITH EVIL FORCES ATTEMPTING TO TRIUMPH OVER EVIL. LLTLSA!
+
+20240801 | 889 | MAJOR AIRSTRIKES CRIPPLE IRAN, RUSSIA FEARS NEW JETS! Breaking War News With The Enforcer (889) | THE WORLD IS SEEMINGLY COMING TO AHEAD WITH EVIL FORCES ATTEMPTING TO TRIUMPH OVER EVIL. LLTLSA!
+20240802 | 890 | MASSIVE RUSSIAN REFINERY BURNS, US FORCES READY FOR WAR! Breaking War News With The Enforcer (890) | RUSSIA AND IRAN ARE DESPERATELY LOOKING FOR JUST ABOUT ANYTHING TO HELP THEM OUT. LLTLSA!
+20240803 | 891 | IRANIAN MISSILES READY TO FIRE, CONGRESS CONSIDERS WAR! Breaking War News With The Enforcer (891) | THE WORLD IS SITTING BY IDLY WAITING FOR THE NEXT BIG WAR TO START IN HOURS. MAY OUR SIDE PREVAIL. LSA!
+20240804 | 892 | RUSSIAN ATTACK SUB DESTROYED, MAJOR ATTACKS IN RUSSIA ! Breaking War News With The Enforcer (892) | THE RUSSIAN SUB JOINED THE... SURFACE FLEET? IDK, BUT ANYWAYS! LLTLSA!
+20240805 | 893 | RUSSIA SUFFERS CRITICAL DAMAGE, ISRAELI ARMY ON HIGH ALERT! Breaking War News With The Enforcer 893 | RUSSIAN FORCES ARE GETTING PUMMELED IN THE HOME FRONT, IT'S VERY SIMILAR TO AN AVERAGE RUSSIAN HOME HEHE. LLTLSA!
+20240806 | 894 | - | -
+20240807 | 895 | RUSSIA INVADED, ISRAEL PREPARES PREEMPTIVE STRIKE! Breaking War News With The Enforcer (895) | RUSSIA GETTING INVADED BY UKRAINE IS THE UNO REVERSE OF THE WAR. LET'S SEE HOW IT GOES. LLTLSA!
+20240808 | 896 | UKRAINE PUSHES DEEP INTO RUSSIA; IRAN READY TO STRIKE! Breaking War News With The Enforcer (896) | NOW IS THE TIME FOR STRENGTH, FOR COURAGE AGAINST OUR ENEMIES! LONG LIVE THE WESTERN WORLD, LONG LIVE THE LSA!
+20240809 | 897 | UKRAINIAN ARMY APPROACHES KURSK, RUSSIA IN PANIC! Breaking War News With The Enforcer (897) | UKRAINIAN FORCES ARE GETTING VERY CLOSE TO THE CITY OF KURSK. MAY VICTORY BE SWIFT! LLTLSA
+20240810 | 898 | UKRAINE APPROACHES NUCLEAR PLANT, RUSSIANS MASS SURRENDER! Breaking War News With The Enforcer (898) | UKRAINE DRIVES ONWARDS TO THE POWER PLANT AND THE CITY BEYOND. LONG LIVE THE LSA! THE LSA WILL NEVER DIE!
+20240811 | 899 | UKRAINE INVADES BELGOROD, RUSSIAN FORCES MASS SURRENDER! Breaking War News With The Enforcer (899) | UKRAINE IS OPENING THE ENTIRE BORDER OPEN TO INVASION. RUSSIA IS GOING TO GET OVER WHELMED FROM THIS. LLTLSA!
+20240812 | 900 | ZAPORIZHZHIA NUCLEAR PLANT ON FIRE, EMERGENCY DELCARED! Breaking War News With The Enforcer | THAT THANGH BURNING! 3.6 ROENTGEN ... NOT GREAT NOT TERRIBLE LONG LIVE THE LSA!
+20240812 | 900 | RUSSIAN FORCES DESTROYED NEAR KURSK, MASS SURRENDERS! Breaking War News With The Enforcer (900) | RUSSIAN FGORCES ARE SURRENDERING FASTER THAN REINFORCEMENTS ARE ARRIVING. CALL THIS THE RUSSIAN DILEMMA, LONG LIVE THE LSA!
+20240813 | 901 | - | -
+20240814 | 902 | UKRAINE OPENS NEW FRONTS IN RUSSIA, PUTIN PANICS! Breaking War News With The Enforcer (902) | UKRAINIAN FORCES KEEP PUSHING THE DRIVE TO KURSK, IT'S GOING EXCEEDINGLY WELL! LLTLSA!
+20240815 | 903 | UKRAINE TAKES HUGE AREAS OF KURSK, MASSIVE AIRFIELD ATTACK! Breaking War News With The Enforcer 903 | RUSSIA IS BECOMING MORE AND MORE LIKE GERMANY FROM WORLD WAR 2. IT'S NOT A GOOD LOOK AT ALL. LLTLSA!
+20240816 | 904 | HUGE RUSSIAN DEFEATS IN KURSK AND BELGOROD, MASS SURRENDERS! Breaking War News With The Enforcer 904 |THE RUSSIANS ARE NOT HAVING A FUN TIME IN KURSK, THEY DEMAND A REFUND. LLTLSA!
+20240817 | 905 | MAJOR UKRAINIAN VICTORY IN KURSK, KERCH ATTACKED HEAVILY! Breaking War News With The Enforcer (905) | RUSSIA NOT RETREATING ACROSS THAT BRIDGE WILL COST THEM DEARLY. I GUESS THEY WILL CROSS THAT BRIDGE WHEN THEY GET THERE. LLTLSA!
+20240818 | 906 | ELITE RUSSIAN FORCES BROKEN IN KURSK, UKRAINE ADVANCES! Breaking War News With The Enforcer (906) | THE 810TH BROKE FOR THE FIRS TTIME, EVEN THE REINFORCEMENTS WILL NOT STAND A CHANCE. LONG LIVE THE LSA!
+20240819 | 907 | RUSSIAN FORCES CAN'T STOP KURSK OFFENSIVE, MAJOR ATTACKS! Breaking War News With The Enforcer (907) | MM DANG THE RUSSIANS ARE STILL GETTING BEATEN EVEN WORSE IN KURSK, HOPEFULLY THEY WILL BREAK. LLTLSA!
+20240820 | 908 | - | -
+20240821 | 909 | RUSSIAN FORCES ENCIRCLED IN KURSK, MAJOR UKRAINIAN VICTORY! Breaking War News With The Enforcer 909 | RUSSIA IS REALLY SQUIRMING NOW THAT THE SITUATION IS TRULY WORSENING, ANOTHER 10,000 CHECHENS READY TO GO!
+20240822 | 910 | UKRAINE DRIVES DEEPER INTO KURSK, LOCALS BETRAY PUTIN! Breaking War News With The Enforcer (910)  | RUSSIA IS BEG BETRAYED BY THEIR OWN REGIONAL GOVERNMENTS. LOL CAN YOU EVEN IMAGINE?! LSA!
+20240823 | 911 | KEY RUSSIAN AIRFIELD DESTROYED, KERCH CROSSING BURNS! Breaking War News With The Enforcer (911) | A MAJOR VICTORY FOR UKRAINE AND A SERIOUS DEFEAT FOR THE RUSSIANS IN KURSK, CRIMEA, AND IN THE DON. LSA!
+20240824 | 912 | - | -
+20240825 | 913 | RUSSIAN FORCES BEATEN IN KURSK, HUGE ATTACKS IN RUSSIA! Breaking War News With The Enforcer (913) | RUSSIA WILL NEVER RECOVER IN KURSK, OR ANYWHERE FOR THAT MATTER IN RUSSIA. LLTLSA!
+20240826 | 914 | BELARUS TO INVADE UKRAINE, RUSSIA AT BREAKING POINT! Breaking War News With The Enforcer (914) | BELARUS IS DOING WHAT THEY DO MOST WHICH IS LOOKING STUPID AND LOOKING IT VERY OFTEN. LLTLSA!
+20240827 | 915 | - | -
+20240828 | 916 | BELARUS MOVES MORE FORCES NEAR UKRAINE; MASSIVE ATTACKS! Breaking War News With The Enforcer (916) | RUSSIA IS TRYING ANYTHING THEY CAN TO TRY AND STOP UKRAINE BUT IT'S TOUGH FOR THEM. LLTLSA!
+20240829 | 917 | RUSSIA HIT WITH MASSIVE ATTACK, VITAL TARGETS HIT! Breaking War News With The Enforcer (Day 917) |  RUSSIA ATTEMPTS TO SET UKRAINE ALIGHT, BUT IN RETURN OULY ARE SET ABLAZE. LET RUSIIA BURN. LSA!
+20240830 | 918 | RUSSIANS HOPELESS IN KURSK, BELARUS BACKS OUT! Breaking War News With The Enforcer (Day 918) |  THE RUSSIANS JUST CAN'T FIGURE OUT WHAT'S GOING ON. NOW BELARUS CHICKENED OUT LOL. LLTLSA!
+20240831 | 919 | UKRAINE GAINS GROUND IN KURSK, RUSSIANS BOMB BELGOROD! Breaking War News With The Enforcer (Day 919) | LOSING MORE GROUND, BUT CLAIMING TO BE WINNING, THE SOVIET MINDSET PREVAILS AGAIN! LLTLSA!
+
+20240901 | 920 | MOSCOW UNDER MASSIVE ATTACK, UKRAINE SLAMS KURSK! Breaking War News With The Enforcer (920) | THE SKY IS TURNING BLACK WITH UKRAINIAN DRONES, LET'S HOPE THE KREMLIN GETS IT! LLTLSA!
+20240902 | 921 | MAJOR REFINERY EXPLODES IN MOSCOW, KEY POWERPLANT DESTROYED! Breaking War News With The Enforcer 921 |  THE SKY IS TURNING BLACK WITH UKRAINIAN DRONES, LET'S HOPE THE KREMLIN GETS IT! LLTLSA!
+20240903 | 922 | -
+20240904 | 923 | RUSSIA SUFFERS MAJOR LOSSES, UKRAINE POUNDS KURSK! Breaking War News With The Enforcer (Day 923) | RUSSIAN FORCES DON'T LIKE TO GET BEATEN A WHOLE LOT, BUT NEITHER DOES NORTH KOREAN GENERALS. LLTLSA!
+20240905 | 924 | BELARUS SHOOTS DOWN RUSSIAN DRONES, RUSSIANS STOPPED! Breaking War News With The Enforcer 924 | RUSSIA IS STARTING TO SEE THAT BELARUS MAY NOT BE THEIR BIGGEST FRIENDS POSSIBLY. LLTLSA!
+20240906 | 925 | UKRAINE DESTROYS MAJOR OFFENSIVE, HUGE ATTACK IN RUSSIA! Breaking War News With The Enforcer 925 | UKRAINE HAS STOPPED THE RUSSIANS AT POKROVSK, THE RUSSIAN STEAMROLLER CAN BE STOPPED! LLTLSA!
+20240907 | 926 | RUSSIA LOSES GROUND IN KURSK, MAJOR ATTACK IN MOSCOW! Breaking War News With The Enforcer 926 | RUSSIA IS LOSING GROUND IN UKRAINE AND RUSSIA, LOOKS LIKE THE UKRAINIANS ARE RUSSIAN TO WIN. LLTLSA!
+20240908 | 927 | UKRAINE WINS MAJOR BATTLE, MASSIVE EXPLOSION IN RUSSIA! Breaking War News With The Enforcer Part Two | RUSSIA IS LOSING GROUND THEY JUST TOOK, LOOKING LIKE THEY ARE REALLY INVINCIBLE AND LEGENDARY, NOT! LLTLSA!
+20240909 | 928 | RUSSIAN DRONES HIT LATVIA AND ROMANIA, RUSSIA HIT HARD! Breaking War News With The Enforcer 928 | RUSSIA IS ONCE AGAIN LANDING DRONES IN NATO AND NOTHING IS BEING DONE ABOUT IT. WE SHOULD RESPOND
+20240910 | 929 | - | - 
+20240911 | 930 | - | - 
+20240912 | 931 | RUSSIA SUFFERS MASSIVE ATTACKS, UKRAINE HAS NEW WEAPON! Breaking War News With The Enforcer (931) | RUSSIA WILL NEVER BE ABLE TO CATCH A BREAK WITH HOW THINGS KEEP GOING WITH THE WAR. NO MORE INTERNET FOR THEM. LSA!
+20240913 | 932 | MAJOR PUSH CRUSHES RUSSIANS IN KURSK, PUTIN THREATENS WAR! Breaking War News With The Enforcer (932) | PUTIN THREATENING WAR WITH THE WEST IS SO Y. I WONDER IF WE CROSSED THE RED LINE? WOMP WOMP. LSA!
