@@ -39,6 +39,9 @@ https://index.minfin.com.ua/en/russian-invading/casualties/
       vehicles:        {}
       bobcats:         {}
 
+    loss_summary: |
+      -
+      
     notes: |
       -
 #+end_src
