@@ -1,0 +1,56 @@
+# [[file:../../../ps-journal/20250929::*The Enforcer Stream - Day 1313][The Enforcer Stream - Day 1313:1]]
+- file: 20250929
+  day: 1313
+  broadcast: Sun 28 Sep 22:00 EDT 2025
+  duration: {}
+  title: |
+    RUSSIA SUFFERS FROM HUGE ATTACKS, CHINA RACES TO INVADE TAIWAN! Breaking War
+    News With The Enforcer
+  morse: |
+    RUSSIA DOESN'T HAVE THE POWER, THE LIGHTS ARE OFF, AND THE GAS IS OUT.
+    LLTLSA!
+  description: |
+    Russia suffers from massive attacks in the Belgorod and Bryansk regions, as
+    Ukraine has started to turn the tables on the Russians. Drones slammed down into
+    the Belgorod powerplant causing an immediate blackout with no foreseeable future
+    of turning the grid back on. In Bryansk a critical facility was hit by what
+    appears to be a HIMARS Attack using GMLRS missiles. China is racing to convert
+    civilian ferries into military use, giving note that China is preparing to
+    invade Taiwan as soon as possible. Iran is now openly stating they are working
+    on creating nuclear weapons after sanctions were snapped back onto Iran. Drones
+    have been sighted over a wide area of Europe again today, and Ukraine states
+    they have intelligence that these drones are 100% Russian. Ukraine has held the
+    lines today and continues to cause large amounts of damage to Russian forces.
+
+  youtube:
+    url: https://www.youtube.com/watch?v=yefmUumN3GQ
+    id: yefmUumN3GQ
+
+  map: https://www.google.com/maps/d/viewer?mid=1RnX9NbmbRM9HgLajCV_BfL7osG8_pWA
+
+  fundraiser:
+    charity: Razom for Ukraine
+    target: $2500
+  
+  losses:
+    troops:          1108510(+1110)
+    tanks:             11211(+7)
+    apc:               23290(+2)
+    artillery:         33231(+45)
+    mlrs:               1503(+1)
+    anti-aircraft:      1223
+    planes:              427
+    helicopters:         345
+    uav:               64385(+454)
+    cruise_missiles:    3747
+    warships:             28
+    submarines:            1
+    vehicles:          63040(+131)
+    bobcats:            3977
+
+  loss_summary: |
+    +454 UAVs is the 4th highest daily loss
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1313:1 ends here
