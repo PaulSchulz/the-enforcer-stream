@@ -1,0 +1,26 @@
+# [[file:../../../ps-journal/20250930::*The Enforcer Stream - Day 1315][The Enforcer Stream - Day 1315:1]]
+- file: 20250930
+  day: 1314
+  losses:
+    troops:          1109590(+1080)
+    tanks:             11218(+7)
+    apc:               23290
+    artillery:         33284(+53)
+    mlrs:               1504(+1)
+    anti-aircraft:      1224(+1)
+    planes:              427
+    helicopters:         345
+    uav:               65002(+617)
+    cruise_missiles:    3790(+43)
+    warships:             28
+    submarines:            1
+    vehicles:          63151(+111)
+    bobcats:            3979(+2)
+
+  loss_summary: |
+    +617 UAVs is the highest daily loss, expected after the massive attack on Ukraine.
+    +43 Cruise Missiles is the 17th highest loss
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1315:1 ends here
