@@ -32,5 +32,5 @@ See the [[file:./projects][projects]] sub-directory for various projects
   the world. Also contains useful information for LSA members, including details
   about the origins of "The Enforcer" Stream and the Leaf Spring Army.
 
-- Lore :: Stream LoRa and background information.
+- Lore :: Stream Lore and background information.
 
