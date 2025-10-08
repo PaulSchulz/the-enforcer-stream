@@ -23,10 +23,10 @@
     plans. The US has halted all diplomatic efforts with Venezuela.
 
   youtube:
-    url: ""https://www.youtube.com/watch?v=0u-w8D0eZlI
-    id: ""https://www.youtube.com/watch?v=0u-w8D0eZlI
+    url: https://www.youtube.com/watch?v=0u-w8D0eZlI
+    id: 0u-w8D0eZlI
 
-  map: ""
+  map: https://www.google.com/maps/d/viewer?mid=1FVY1ieQogVQJNxOmlBZ6ZZKKSx80fBM
     
   losses:
     troops:          1117360(+1020)
