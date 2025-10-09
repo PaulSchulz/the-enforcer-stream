@@ -1,0 +1,41 @@
+# [[file:../../../ps-journal/20251009::*The Enforcer Stream - Day 1323][The Enforcer Stream - Day 1323:1]]
+- file: 20251009
+  day: 1323
+  broadcast: Wed 08 Oct 22:00 EDT 2025
+  duration: {}
+  title: |
+    ZAPORIZHZHIA NUCLEAR PLANT CRITICAL, RUSSIAN STOCK MARKET PLUMMETS! Breaking
+    War News W The Enforcer
+  morse: |
+    -
+  description: |
+    THe Zaporizhzhia Nuclear Powerplant is in critical condition according to Ukrainian reports, as it has gone 2 weeks without power from the external grid. Emergency generators are running on their last days of fuel left, and one generator has already failed due to over-exhertion several days ago. The Russian stock market has also plummeted over 3% today, as a result of the worsening economic and strategic picture of Russia in the past few days. Meanwhile Russia is openly threatening to attack the "launch sites" of Tomahawk missiles to the provided for Ukraine. In the Middle East victory has been declared in a ceasefire talk in Qatar, where Israel and Hamas have at least agreed to phase one of a possible ceasefire. it is unclear if both sides will act in good faith. the US has conducted special military exercises with the 160th SOAR near Trinidad and Tobago, just miles form the Venezuelan coastline.
+  youtube:
+    url: https://www.youtube.com/watch?v=j16z3DWSHwA
+    id: j16z3DWSHwA
+
+  map: https://www.google.com/maps/d/viewer?mid=1FVY1ieQogVQJNxOmlBZ6ZZKKSx80fBM
+    
+  losses:
+    troops:          1118370(+1010)
+    tanks:             11240(+2)
+    apc:               23324(+5)
+    artillery:         33519(+26)
+    mlrs:               1517(+1)
+    anti-aircraft:      1225(+1)
+    planes:              427
+    helicopters:         346
+    uav:               67965(+401)
+    cruise_missiles:    3841
+    warships:             28
+    submarines:            1
+    vehicles:          63650(+75)
+    bobcats:            3973
+
+  loss_summary: |
+    -
+    
+  notes: |
+    Due to technical issues the live stream stopped after the introduction
+    videos. No morse code was transmitted.
+# The Enforcer Stream - Day 1323:1 ends here
