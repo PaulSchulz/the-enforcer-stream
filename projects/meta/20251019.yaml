@@ -1,0 +1,40 @@
+# [[file:../../../ps-journal/20251019::*The Enforcer Stream - Day 1333][The Enforcer Stream - Day 1333:1]]
+- file: 20251019
+  day: 1333
+  broadcast: Sat 18 Oct 22:00 EDT 2025
+  duration: {}
+  title: |
+    -
+  morse: |
+    -
+  description: |
+    -
+
+  youtube:
+    url: ""
+    id: ""
+
+  map: ""
+    
+  losses:
+    troops:          1129189(+1150)
+    tanks:           11267(+1)
+    apc:             23396(+2)
+    artillery:       33789(+41)
+    mlrs:            1522(+2)
+    anti-aircraft:   1228
+    planes:          428(+1)
+    helicopters:     346
+    uav:             71523(+498)
+    cruise_missiles: 3864
+    warships:        28
+    submarines:      1
+    vehicles:        64672(+131)
+    bobcats:         3980(+2)
+
+  loss_summary: |
+    +498 UAVs is the 4th highest daily loss
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1333:1 ends here
