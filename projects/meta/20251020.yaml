@@ -1,0 +1,54 @@
+# [[file:../../../ps-journal/20251020::*The Enforcer Stream - Day 1334][The Enforcer Stream - Day 1334:1]]
+- file: 20251020
+  day: 1334
+  broadcast: Sun 19 Oct 22:00 EDT 2025
+  duration: {}
+  title: |
+    COMMANDANT WARNS OF LOOMING WAR, MASS DESERTIONS IN RUSSIA! Breaking War
+    News W The Enforcer
+  morse: |
+    MAN MADURO IS GETTING REAL SCARED CAUSE THE US WON'T
+    EVEN LET HIM TALK HIS WAY OUT. LLTLSA 
+  description: |
+    The US Commandant of the Marine Corps has warned that a major war is looming
+    on the horizon, and that the US military and Marine Corps must be ready to face
+    the coming threats to the nation that are imminent. Mass desertions are now
+    plauging the ranks of the Russian army, with 25,000 men deserting in the last 9
+    months, with the number now increasing in the last month alone. This comes as
+    the US continues to conduct strikes on narco vessels within the Carribean. China
+    has claimed the US cyberattacked them, while Taiwan hurries to prepare drone
+    nets. A ceasefire was acheived in Pakistan and Afghanistan, while the ceasefire
+    between Hamas and Israel already appears to be failing.
+
+  youtube:
+    url: https://www.youtube.com/watch?v=C_wmVMpKJOo
+    id: C_wmVMpKJOo
+
+  map: https://www.google.com/maps/d/viewer?entry=yt&mid=10KZclNYXimPEfwdSWVkNFG5X3CBq9PA
+
+  fundraiser:
+    charity: NOVA UKRAINE
+    target: $2500
+  
+  losses:
+    troops:          1130180(+1000)
+    tanks:             11268(+1)
+    apc:               23399(+3)
+    artillery:         33834(+45)
+    mlrs:               1524(+2)
+    anti-aircraft:      1228
+    planes:              428
+    helicopters:         346
+    uav:               71967(+444)
+    cruise_missiles:    3864
+    warships:             28
+    submarines:            1
+    vehicles:          64798(+126)
+    bobcats:            3980
+
+  loss_summary: |
+    +444 UAVs is the 9th highest daily loss 
+    
+  notes: |
+    Fundraiser goal was met in under 5mins of the stream starting.
+# The Enforcer Stream - Day 1334:1 ends here
