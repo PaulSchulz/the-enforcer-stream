@@ -4,18 +4,30 @@
   broadcast: Sat 25 Oct 22:00 EDT 2025
   duration: {}
   title: |
-    -
+    MAJOR RUSSIAN RETREATS AT POKROVSK, ATTACKS IN MOSCOW STREETS! Breaking War News
+    W The Enforcer 1340
   morse: |
-    -
+    DOES MY MIC SOUND DIFFERENT? SORRY IF IT DOES, THE SOUND PROOFING IS GONE.
+    LLTLSA!
   description: |
-    -
+    Russian forces are continuing to retreat near to the Pokrovsk battlefield,
+    as Ukrainian forces continue to retake ground in the area. Russian forces
+    attempted a counterattack to retake lost ground at Shakove to no avail, leaving
+    them completely unable to reconsolidate their defensive lines. Major attacks
+    also broke out in the streets of Moscow, with groups of armed migrants swarming
+    the streets, and attacking passerbys wherever they found them. Russia continues
+    it's campaign over Lithuania, with mroe balloons sighted. The Gerald R Ford is
+    two weeks away from the carribbean, and the Hurricane in the area is growing
+    larger. The US has made it clear they will not talk to Putin until it's clear
+    that Russia actually wants peace. India and Pakistan appear to be preparing for
+    war, while Pakistan is also prepping further strikes on the Taliban in
+    Afghanistan.
 
   youtube:
-    url: ""
-    id: ""
+    url: https://www.youtube.com/watch?v=5icivWceSX0
+    id: 5icivWceSX0
 
-  map: ""
-    
+  map: https://www.google.com/maps/d/viewer?mid=17-uXKzaTmHA4KbNW58XoCNKw01aJ3HI@wub
   losses:
     troops:          1135990(+910)
     tanks:             11287(+4)
@@ -36,5 +48,6 @@
     +359 UAVs is the 25th highest daily loss
     
   notes: |
-    -
+    The Enforcer Stream will be off-air from 27 Oct to 32 Oct, back on-air 1
+    November 2025, during the move to Enforcer HQ 3.0.
 # The Enforcer Stream - Day 1340:1 ends here
