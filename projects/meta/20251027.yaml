@@ -1,53 +1,4 @@
-# [[file:../../../ps-journal/20251027::+begin_src yaml :comments link :tangle "../the-enforcer-stream/projects/meta/20251027.yaml"
-#  - file: 20251027
-#  day: 1341
-#  broadcast: Sun 26 Oct 22:00 EDT 2025
-#  duration: {}
-#  title: |
-#  RUSSIA FIRES NUCLEAR POWERED CRUISE MISSILE, HUGE ATTACKS HIT MOSCOW!
-#  Breaking War News The Enforcer 
-#  morse: |
-#  MY DOES MY MIC SOUND DIFFERENT? SORRY IF IT DOES, THE SOUND PROOFING IS GONE.
-#  LLTLSA!
-#  description: |
-#  Russia has successfully fired the Burevestnik Nuclear Powered Cruise
-#  missile today. A nuclear armed cruise missile powered by a Nuclear Reactor;
-#  giving it an unlimited range. Russian officials immediately used the successful
-#  launch to insinuate future attacks on the west for their sanctions on Russia.
-#  Ukrainian forces conducted a massive attack on Moscow, which began to overwhelm
-#  air defenses. Russian technicals were seen dotted around the Kremlin waiting for
-#  the drones to enter the area. India and Pakistan are now engagin in the Leepa
-#  valley area currently, showing war is now coming. Peace was secured between
-#  Thailand and Cambodia through a ratified peace traty, which also grew Us
-#  connections to the two kingdoms. Hurricane Melissa is building in strength,
-#  halting operations in the area for now.
- 
-#  Tonight's Fundraiser is for Razom for Ukraine, make sure to support to show the
-#  world that our way of life will persevere!
-
-#  youtube:
-#  url: https:/www.youtube.com/watch?v=u160Q8-wGDQ
-#  id: u160Q8-wGDQ
-
-#  map: https:/www.google.com/maps/d/viewer?mid=17-uXKzaTmHA4KbNW58XoCNKw01aJ3HI
-
-#  fundraiser:
-#  charity: Razom for Ukraine
-#  target: $2500
- 
-#  losses:
-#  troops: 1136890(+900)
-#  tanks: 11291(+4)
-#  apc: 23477(+18)
-#  artillery: 34002(+15)
-#  mlrs: 1526
-#  anti-aircraft: 1230
-#  planes: 428
-#  helicopters: 346
-#  uav: 74399(+214)
-#  cruise_missiles: 3880
-#  warships: 28
-#  submarines: 1][The Enforcer Stream - Day 1341:1]]
+# [[file:../../../ps-journal/20251027::*The Enforcer Stream - Day 1341][The Enforcer Stream - Day 1341:1]]
 - file: 20251027
   day: 1341
   broadcast: Sun 26 Oct 22:00 EDT 2025
@@ -104,6 +55,6 @@
     -
     
   notes: |
-    The Enforcer Stream will be off-air from 27 Oct to 32 Oct, back on-air 1
+    The Enforcer Stream will be off-air from 27 Oct to 31 Oct, back on-air 1
     November 2025, during the move to Enforcer HQ 3.0.
 # The Enforcer Stream - Day 1341:1 ends here
