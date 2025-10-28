@@ -1,0 +1,27 @@
+# [[file:../../../ps-journal/20251028::*The Enforcer Stream - Day 1342][The Enforcer Stream - Day 1342:1]]
+- file: 20251028
+  day: 1342
+
+  losses:
+    troops:          1137690(+800)
+    tanks:             11293(+2)
+    apc:               23480(+3)
+    artillery:         34036(+34)
+    mlrs:               1527(+1)
+    anti-aircraft:      1230
+    planes:              428
+    helicopters:         346
+    uav:               74946(+547)
+    cruise_missiles:    3880
+    warships:             28
+    submarines:            1
+    vehicles:          65655(+138)
+    bobcats:            3981
+
+  loss_summary: |
+    +547 UAVs is the 5th highest daily loss.
+    Oct average Troop loss stays above 1000 but is dropping.
+    
+  notes: |
+    No stream due to reloaction of Enforcer HQ.
+# The Enforcer Stream - Day 1342:1 ends here
