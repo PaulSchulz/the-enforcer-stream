@@ -1,0 +1,26 @@
+# [[file:../../../ps-journal/20251031::*The Enforcer Stream - Day 1345][The Enforcer Stream - Day 1345:1]]
+- file: 20251031
+  day: 1345
+    
+  losses:
+    troops:          1140860(+960)
+    tanks:             11305(+2)
+    apc:               23514(+3)
+    artillery:         34089(+25)
+    mlrs:               1531(+1)
+    anti-aircraft:      1232(+2)
+    planes:              428
+    helicopters:         346
+    uav:               75707(+340)
+    cruise_missiles:    3880
+    warships:             28
+    submarines:            1
+    vehicles:          65993(+128)
+    bobcats:            3986
+
+  loss_summary: |
+    -
+    
+  notes: |
+    No stream due to reloaction of Enforcer HQ. Back on November 1st.
+# The Enforcer Stream - Day 1345:1 ends here
