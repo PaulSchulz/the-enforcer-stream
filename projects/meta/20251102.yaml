@@ -1,0 +1,26 @@
+# [[file:../../../ps-journal/20251102::*The Enforcer Stream - Day 1347][The Enforcer Stream - Day 1347:1]]
+- file: 20251102
+  day: 1347
+    
+  losses:
+    troops:          1142730(+900)
+    tanks:             11316(+6)
+    apc:               23521(+2)
+    artillery:         34137(+9)
+    mlrs:               1534(+1)
+    anti-aircraft:      1235(+2)
+    planes:              428
+    helicopters:         346
+    uav:               76704(+349)
+    cruise_missiles:    3917
+    warships:             28
+    submarines:            1
+    vehicles:          66169(+58)
+    bobcats:            3987(+1)
+
+  loss_summary: |
+    -
+    
+  notes: |
+    The Enforcer stream has been defered until tomorrow due to ill health.
+# The Enforcer Stream - Day 1347:1 ends here
