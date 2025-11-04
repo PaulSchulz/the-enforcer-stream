@@ -1,0 +1,26 @@
+# [[file:../../../ps-journal/20251104::*The Enforcer Stream - Day 1349][The Enforcer Stream - Day 1349:1]]
+- file: 20251104
+  day: 1349
+
+  losses:
+    troops:          1144830(+1160)
+    tanks:             11321(+5)
+    apc:               23531(+6)
+    artillery:         34207(+45)
+    mlrs:               1534
+    anti-aircraft:      1235
+    planes:              428
+    helicopters:         346
+    uav:               77435(+383)
+    cruise_missiles:    3918(+1)
+    warships:             28
+    submarines:            1
+    vehicles:          66411(+121)
+    bobcats:            3989(+2)
+
+  loss_summary: |
+    -
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1349:1 ends here
