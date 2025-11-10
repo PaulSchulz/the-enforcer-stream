@@ -24,7 +24,10 @@
     id: ioXfqWacyOo
 
   map: https://www.google.com/maps/d/viewer?mid=1tLdHvD1TALUFuvhxs7uS1t54ydbY-Ac
-    
+
+  fundraiser:
+    charity: Razom for Ukraine
+      
   losses:
     troops:          1151070(+970)
     tanks:             11335(+5)
