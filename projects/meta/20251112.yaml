@@ -1,0 +1,40 @@
+# [[file:../../../ps-journal/20251112::*The Enforcer Stream - Day 1357][The Enforcer Stream - Day 1357:1]]
+- file: 20251112
+  day: 1357
+  broadcast: Tue 11 Nov 22:00 EST 2025
+  duration: {}
+  title: |
+    -
+  morse: |
+    -
+  description: |
+    -
+
+  youtube:
+    url: ""
+    id: ""
+
+  map: ""
+    
+  losses:
+    troops:          1153180(+1020)
+    tanks:           11342
+    apc:             23553(+1)
+    artillery:       34366(+17)
+    mlrs:            1539(+1)
+    anti-aircraft:   1239
+    planes:          428
+    helicopters:     347
+    uav:             79642(+217)
+    cruise_missiles: 3926
+    warships:        28
+    submarines:      1
+    vehicles:        67036(+79)
+    bobcats:         3993
+
+  loss_summary: |
+    -
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1357:1 ends here
