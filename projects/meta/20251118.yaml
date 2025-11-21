@@ -1,31 +1,5 @@
-# [[file:../../../ps-journal/20251118::*The Enforcer Stream - Day 1363][The Enforcer Stream - Day 1363:1]]
-- file: 20251117
-  day: 1363
-  losses:
-    troops:          1159420(+1160)
-    tanks:             11355(+2)
-    apc:               23594(+3)
-    artillery:         34486(+17)
-    mlrs:               1544(+1)
-    anti-aircraft:      1246(+2)
-    planes:              428
-    helicopters:         347
-    uav:               81499(+216)
-    cruise_missiles:    3940
-    warships:             28
-    submarines:            1
-    vehicles:          67536(+72)
-    bobcats:            4000
-
-  loss_summary: |
-    -
-    
-  notes: |
-    -
-# The Enforcer Stream - Day 1363:1 ends here
-
-# [[file:../../../ps-journal/20251118::*The Enforcer Stream - Day 1364][The Enforcer Stream - Day 1364:1]]
-- file: 20251118
+# [[file:../../../ps-journal/20251119::*The Enforcer Stream - Day 1364][The Enforcer Stream - Day 1364:1]]
+- file: 20251119
   day: 1364
   broadcast: Tue 18 Nov 22:00 EST 2025
   duration: {}
