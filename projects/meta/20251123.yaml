@@ -1,0 +1,40 @@
+# [[file:../../../ps-journal/20251123::*The Enforcer Stream - Day 1368][The Enforcer Stream - Day 1368:1]]
+- file: 20251123
+  day: 1368
+  broadcast: Sat 22 Nov 22:00 EST 2025
+  duration: {}
+  title: |
+    -
+  morse: |
+    -
+  description: |
+    -
+
+  youtube:
+    url: ""
+    id: ""
+
+  map: ""
+    
+  losses:
+    troops:          1164340(+1170)
+    tanks:           11361(+4)
+    apc:             23607(+7)
+    artillery:       34559(+9)
+    mlrs:            1547(+1)
+    anti-aircraft:   1248(+1)
+    planes:          428
+    helicopters:     347
+    uav:             82842(+222)
+    cruise_missiles: 3981
+    warships:        28
+    submarines:      1
+    vehicles:        67842(+74)
+    bobcats:         4002
+
+  loss_summary: |
+    -
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1368:1 ends here
