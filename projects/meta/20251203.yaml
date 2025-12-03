@@ -1,0 +1,57 @@
+# [[file:../../../ps-journal/20251203::+begin_src yaml :comments link :tangle "../the-enforcer-stream/projects/meta/20251203.yaml"
+#  - file: 20251203
+#  day: 1378
+#  broadcast: Tue 02 Dec 22:00 EST 2025
+#  duration: {}
+#  title: |
+#  UKRAINE SLAUGHTERS RUSSIAN SHADOW TANKERS, PUTIN NUKES PEACE DEAL! Breaking
+#  War News W/ The Enforcer
+#  morse: |][The Enforcer Stream - Day 1378:1]]
+- file: 20251203
+  day: 1378
+  broadcast: Tue 02 Dec 22:00 EST 2025
+  duration: {}
+  title: |
+    UKRAINE SLAUGHTERS RUSSIAN SHADOW TANKERS, PUTIN NUKES PEACE DEAL! Breaking
+    War News W/ The Enforcer
+  morse: |
+    RUSSIA IS SAYING NO AGAIN. HOW MANY TIMES DO WE LOOK LIKE A
+    FOOL UNTIL WE SAY ENOUGH? LLTLSA!
+  description: |
+    Ukraine has begun an endless campaign against Russian shadow tankers,
+    hitting a 4th tanker today in the Black Sea. Russia has now trapped itself in a
+    corner as it has rejected another peace deal offering from the US, and has made
+    it clear they will only accept unconditional surrender by Ukraine and largely
+    the west. NATO is saying there is a possibility of preemptive strikes against
+    The Russian Federation, but it is unknown if these strikes would ever be
+    conducted under realistic scenarios. Turkey is now incensed about the attacks
+    near their coast, and stating that the waters of the Black Sea are no longer
+    safe. The US is now saying strikes will begin on Venezuela on land.
+
+  youtube:
+    url: https://www.youtube.com/watch?v=8ii9Mo2izRE
+    id: 8ii9Mo2izRE
+
+  map: https://www.google.com/maps/d/viewer?mid=1BEIl00KcyB1H3GIJ62EB8yaz4Jzt8xM
+    
+  losses:
+    troops:          1175030(+1110)
+    apc:               11387
+    artillery:         23679(+1)
+    mlrs:               1552
+    anti-aircraft:      1253
+    planes:              430
+    helicopters:         347
+    uav:               86141(+51)
+    cruise_missiles:    4024
+    warships:             28
+    submarines:            1
+    vehicles:          68641(+58)
+    bobcats:            4011(+1)
+
+  loss_summary: |
+    -
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1378:1 ends here
