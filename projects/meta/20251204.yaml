@@ -1,0 +1,41 @@
+# [[file:../../../ps-journal/20251204::*The Enforcer Stream - Day 1379][The Enforcer Stream - Day 1379:1]]
+- file: 20251204
+  day: 1379
+  broadcast: Wed 03 Dec 22:00 EST 2025
+  duration: {}
+  title: |
+    -
+  morse: |
+    -
+  description: |
+    -
+
+  youtube:
+    url: ""
+    id: ""
+
+  map: ""
+    
+  losses:
+    troops:          1176230(+1300)
+    tanks:             11393(+6)
+    apc:               23682(+3)
+    artillery:         34780(+12)
+    mlrs:               1555(+3)
+    anti-aircraft:      1253
+    planes:              430
+    helicopters:         347
+    uav:               86231(+90)
+    cruise_missiles:    4024
+    warships:             28
+    submarines:            1
+    vehicles:          68688(+47)
+    bobcats:            4012(+1)
+
+  loss_summary: |
+    +1300 is the largest recorded personel loss. Other high loss
+    days were +1240 (Oct 2012) and +1230 (Jul 2015)
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1379:1 ends here
