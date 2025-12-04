@@ -19,7 +19,7 @@ mark. It is also worth reading the comments as they were posted.
 * Projects
 See the [[file:./projects][projects]] sub-directory for various projects
 
-- [[file:./meta][Meta]] :: Details from the daily "The Enforcer" stream. This has been collected
+- [[file:./projects/meta][Meta]] :: Details from the daily "The Enforcer" stream. This has been collected
   so that searching can more easily be done on the stream.
 
   The comparative loss summary for each day is provided by @MisDisa. 
