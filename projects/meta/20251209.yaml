@@ -1,0 +1,26 @@
+# [[file:../../../ps-journal/20251209::*The Enforcer Stream - Day 1384][The Enforcer Stream - Day 1384:1]]
+- file: 20251209
+  day: 1384
+    
+  losses:
+    troops:          1181680(+810)
+    tanks:             11403(+2)
+    apc:               23689(+1)
+    artillery:         34917(+10)
+    mlrs:               1562
+    anti-aircraft:      1253
+    planes:              431
+    helicopters:         347
+    uav:               88457(+530)
+    cruise_missiles:    4058(+4)
+    warships:             28
+    submarines:            1
+    vehicles:          69182(+47)
+    bobcats:            4018(+3)
+
+  loss_summary: |
+    +530 UAVs is the 9th highest daily loss
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1384:1 ends here
