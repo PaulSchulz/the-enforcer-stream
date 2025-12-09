@@ -1,0 +1,15 @@
+.PHONY: all clean dist-clean
+
+LATEX=lualatex
+LATEX_OPTS=-interaction=nonstopmode -halt-on-error
+
+all: lsa-calendar.pdf lsa-calendar-trim.pdf
+
+%.pdf: %.tex leaf-spring-army.tex
+	 $(LATEX) $(LATEX_OPTS) $<
+
+clean:
+	@rm -v *.dvi *.ps *.aux *.log *.bbl *.blg *.bcf *.toc
+
+dist-clean:
+	@rm lsa-calendar.pdf lsa-calendar-trim.pdf
