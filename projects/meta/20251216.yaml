@@ -1,0 +1,27 @@
+# [[file:../../../ps-journal/20251216::*The Enforcer Stream - Day 1391][The Enforcer Stream - Day 1391:1]]
+- file: 20251216
+  day: 1391
+    
+  losses:
+    troops:          1189470(+980)
+    tanks:             11412(+2)
+    apc:               23731(+10)
+    artillery:         35105(+64)
+    mlrs:               1570(+3)
+    anti-aircraft:      1261(+2)
+    planes:              432
+    helicopters:         347
+    uav:               90777(+653)
+    cruise_missiles:    4073
+    warships:             28
+    submarines:            1
+    vehicles:         270005(+207)
+    bobcats:            4026
+
+  loss_summary: |
+    +653 UAVs is the 2nd highest daily loss
+    Highest Arty since mid-August and highest Vehicles since May. 
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1391:1 ends here
