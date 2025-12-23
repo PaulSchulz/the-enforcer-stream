@@ -1,0 +1,27 @@
+# [[file:../../../ps-journal/20251223::*The Enforcer Stream - Day 1398][The Enforcer Stream - Day 1398:1]]
+- file: 20251223
+  day: 1398
+  broadcast: Mon 22 Dec 22:00 EST 2025
+    
+  losses:
+    troops:          1197860(+1120)
+    tanks:             11438(+3)
+    apc:               23772(+2)
+    artillery:         35308(+10)
+    mlrs:               1575
+    anti-aircraft:      1263
+    planes:              432
+    helicopters:         347
+    uav:               92713(+109)
+    cruise_missiles:    4073
+    warships:             28
+    submarines:            2
+    vehicles:          70853(+64)
+    bobcats:            4029
+
+  loss_summary: |
+    -
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1398:1 ends here
