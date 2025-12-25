@@ -1,0 +1,27 @@
+# [[file:../../../ps-journal/20251225::*The Enforcer Stream - Day 1400][The Enforcer Stream - Day 1400:1]]
+- file: 20251225
+  day: 1400
+  broadcast: Thu 25 Dec 22:00 EST 2025
+    
+  losses:
+    troops:          1200370(+1090)
+    tanks:             11449(+3)
+    apc:               23796(+4)
+    artillery:         35376(+45)
+    mlrs:               1579(+3)
+    anti-aircraft:      1263
+    planes:              343
+    helicopters:         347
+    uav:               94197(+1031)
+    cruise_missiles:    4107(+34)
+    warships:             28
+    submarines:            2
+    vehicles:          71125(+159)
+    bobcats:            4029
+
+  loss_summary: |
+    -
+    
+  notes: |
+    No stream on Christmas Eve.
+# The Enforcer Stream - Day 1400:1 ends here
