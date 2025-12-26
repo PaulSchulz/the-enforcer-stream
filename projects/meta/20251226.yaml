@@ -1,0 +1,30 @@
+# [[file:../../../ps-journal/20251226::*The Enforcer Stream - Day 1401][The Enforcer Stream - Day 1401:1]]
+- file: 20251226
+  day: 1401
+  broadcast: Thu 25 Dec 22:00 EST 2025
+    
+  losses:
+    troops:          1201239(+860)
+    tanks:             11456(+7)
+    apc:               23801(+5)
+    artillery:         35435(+59)
+    mlrs:               1579
+    anti-aircraft:      1263
+    planes:              434
+    helicopters:         347
+    uav:               94797(+600) 
+    cruise_missiles:    4107
+    warships:             28
+    submarines:            2
+    vehicles:          71274(+149)
+    bobcats:            4029
+
+  loss_summary: |
+    +600 UAVs ranks as the 7th highest daily loss. December total
+    Artillery, MLRS, Planes and Vehicles are already higher than November total
+    Average. December to date remains higher than for past 2 months. Despite big
+    fluctuations, December may beat them in other categories.
+    
+  notes: |
+    No Enforcer Stream today - Christmas Day
+# The Enforcer Stream - Day 1401:1 ends here
