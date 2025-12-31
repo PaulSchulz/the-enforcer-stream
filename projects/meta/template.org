@@ -1,6 +1,6 @@
 ** The Enforcer Stream - Day {{day}}                        :the_enforcer:morse:
 
-@EnforcerMatt The morse code for today reads...
+@ItsEnforcerMatt The morse code for today reads...
 
 Useful link for casualty report:
 https://index.minfin.com.ua/en/russian-invading/casualties/
