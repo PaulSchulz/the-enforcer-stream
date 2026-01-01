@@ -1,0 +1,67 @@
+# [[file:../../../ps-journal/20260101::*The Enforcer Stream - Day 1407][The Enforcer Stream - Day 1407:1]]
+- file: 20260101
+    day: 1407
+    broadcast: Wed 31 Dec 22:00 EST 2025
+    duration: {}
+    title: |
+      IRANIAN CITIES BURN AMID REBELLION, RUSSIAN AIR DEFENSE OVERWHELMED! Breaking War News The Enforcer
+    morse: |
+      IRAN IS COLLAPSING SOMEWHAT RAPIDLY, GREAT HEAVENS THIS IS ALL QUITE
+      SUDDEN. LLTLSA!
+    description: |
+      Iranian cities are burning along with key government offices and IRGC
+      headquarters as rebels are now taking control of areas inside Iran and forcing
+      the Iranian govenrment into retreat. The city of Ramhormoz in the southwestern
+      region of the country has been reported to fall to the active rebellion, with
+      others in equally precarious positions. Iranian forces are now opening fire
+      across the whole country, and it is highly likely the situation will only
+      further deteriorate. Russian air defenses were overwhelmed today throughout the
+      entirety of Russia, with key facilites including refineries and oil depots being
+      destoryed through the attacks. Finland has seized a Russian ship and is
+      conducting an investigation after another undersea cable was snapped today in
+      mysterious circumstances. China has announced the conclusion of Operation
+      Justice Mission 2025, Taiwan remains on high alert. The US has declared that
+      Russia has lied and fabricated the claim about Putin;s private residence being
+      attacked, now claiming Russia is the one stopping peace. Meanwhile Ukrainian
+      forces inflicted heavy losses, and stopped the Russian advances on most fronts
+      altogether.
+
+    youtube:
+      url: https://www.youtube.com/watch?v=oLT_yo6CHbk
+      id: oLT_yo6CHbk
+
+    map: https://www.google.com/maps/d/u/0/viewer?mid=1YGmwfGSicP-jVen70GGqNUQMazi2AjY
+      
+    losses:
+      troops:          1207910(+1000)
+      tanks:             11481(+4)
+      apc:               23845(+4)
+      artillery:         35642(+4)
+      mlrs:               1586(+1)
+      anti-aircraft:      1266
+      planes:              434
+      helicopters:         347
+      uav:               97684(+552)
+      cruise_missiles:    4136
+      warships:             28
+      submarines:            2
+      vehicles:          72247(+127)
+      bobcats:            4035(+1)
+
+    loss_summary: |
+      December counts: Personnel total 35050 almost as high as May. Tanks 95 is
+      highest since Junuary. MLRS 34 highest since February, UAVs 11883 highest month
+      of the war, Vehicles 3735 highest since April. 
+      
+    notes: |
+      Due to the constant influx of updated intelligence data, there was need to
+      adjust some positions of the enemy's total losses - artillery systems(+49) ,
+      operational-tactical level UAVs(+201), automotive(+110) and special equipment(+3). The total
+      figure has been adjusted, and the losses for the day are presneted in the usual
+      mode.
+
+(- 35642 35589 4) ;; 49
+(- 97685 96932 552) ;; 201
+(- 72247 72010 127) ;; 110
+(- 4035 4031 1) ;; 3
+# The Enforcer Stream - Day 1407:1 ends here
