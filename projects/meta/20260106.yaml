@@ -1,0 +1,47 @@
+# [[file:../../../ps-journal/20260106::*The Enforcer Stream - Day 1412][The Enforcer Stream - Day 1412:1]]
+- file: 20260106
+  day: 1412
+  broadcast: Mon 05 Jan 20:50 EST 2026
+  duration: {}
+  title: |
+    GUNFIRE BREAKS OUT IN VENEZUELAN CAPITAL, SOLDIERS DEPLOYED! Breaking War News
+    The Enforcer Day 1412
+  morse: |
+    IRAN IS JUST ON THE CUSP OF COMPLETELY COLLAPSING, LET'S HOPE THAT THEY CAN DO
+    IT! LLTLSA!
+  description: |
+    Massive firefights are occuring in and around the Miraflores Presidential Palace
+    in Venezuela. Videos of the firefights are emerging, while at the same time
+    heavy air defense fire has been reported around the entirety of the city. Drones
+    have been reportedly sited by Venezuelan ground-air defense forces, although the
+    situation is very unclear and uncertain at the moment. We will be covering this
+    as it develops live on air.
+
+  youtube:
+    url: https://www.youtube.com/watch?v=g9bkQnYbonc
+    id: g9bkQnYbonc
+
+  map: https://www.google.com/maps/d/u/0/viewer?mid=1TqXdoxjQecUlnPkEfbaUDZquiqV2qPQ
+    
+  losses:
+    troops:             1212520(+990)
+    tanks:                11507(+8)
+    apc:                  23857(+2)
+    artillery:            35785(+29)
+    mlrs:                  1592(+2)
+    anti-aircraft:         1268
+    planes:                 434
+    helicopters:            347
+    uav:                 100564(+704)
+    cruise_missiles:       4137
+    warships:                28
+    submarines:               2
+    vehicles:             72945(+169)
+    bobcats:               4036(+1)
+
+  loss_summary: |
+    +704 UAVs is 4th highest daily loss
+    
+  notes: |
+    Breaking News stream
+# The Enforcer Stream - Day 1412:1 ends here
