@@ -1,0 +1,54 @@
+# [[file:../../../ps-journal/20260112::*The Enforcer Stream - Day 1418][The Enforcer Stream - Day 1418:1]]
+- file: 20260112
+  day: 1418
+  broadcast: Sun 11 Jan 22:00 EST 2026
+  duration: {}
+  title: |
+    RUSSIAN OIL RIGS DESTROYED IN HUGE ATTACK, IRAN THREATENS US FORCES! Breaking
+    War News The Enforcer
+  morse: |
+    CAN YOU BELIEVE THAT THE RUSSIANS HAVE BEEN FIGHTING LONGER THAN
+    THE SOVIETS IN WW2? LLTLSA
+  description: |
+    Russian oil rigs in the Caspian sea have been heavily damaged if not knocked out
+    after a major Ukrainian drone attack hit the area. Ukrainian drones have also
+    landed hits in Rostov and Voronezh once more. An attack was also conducted in
+    Moscow knocking out a comms system. Meanwhile the Iranians have continued their
+    massacres against the Iranian public, with the US stating they will help the
+    Iranian people; there have been many statements affirming and contradicting the
+    claim. Iran has threatened US forces in the meantime, with Iran feeling that
+    their government stability is threatened. The US has also threatened war with
+    Cuba over the course of the day, stating they better negotiate or else.
+    
+  youtube:
+    url: https://www.youtube.com/watch?v=_5CR7AZW78s
+    id: _5CR7AZW78s
+
+  map: https://www.google.com/maps/d/u/0/viewer?mid=13a2-SUn7W14i3C_SHiLZVSNeOvJYwmw
+
+  fundraiser:
+    charity: Razom For Ukraine
+    target: $2500
+
+  losses:
+    troops:             1218940(+1130)
+    tanks:                11541(+11)
+    apc:                  23885(+3)
+    artillery:            35952(+44)
+    mlrs:                  1598(+1)
+    anti-aircraft:         1269
+    planes:                 434
+    helicopters:            347
+    uav:                 104068(+654)
+    cruise_missiles:       4155
+    warships:                28
+    submarines:               2
+    vehicles:             73644(+134)
+    bobcats:               4039
+
+  loss_summary: |
+    +654 is the 8th highest daily loss for UAVs.
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1418:1 ends here
