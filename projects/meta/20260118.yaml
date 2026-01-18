@@ -1,0 +1,96 @@
+# [[file:../../../ps-journal/20260118::+begin_src yaml :comments link :tangle "../the-enforcer-stream/projects/meta/20260118.yaml"
+#  - file: 20260118
+#  day: 1424
+#  broadcast: Sat 17 Jan 22:00 EST 2026
+#  duration: {}
+#  title: |
+#  IRAN RIOTS REIGNITE AMID REGIME CHANGE, MASSIVE BLACKOUTS IN MOSCOW!
+#  Breaking War News The Enforcer
+#  morse: |
+#  IRAN JUST KEEPS DESCENDING INTO A SPIRAL OF WORSE AND WORSE DEALINGS. NOT GOOD
+#  AT ALL. LLTLSA!
+#  description: |
+#  The riots and uprisings have resurged inside of Iran after the US has called
+#  for regime changes inside of the country, with more strike forces moving into
+#  the area. Currently Iran is still taking armed and violent action against the
+#  protestors and rebels, with snipers firing into the crowds over the course of
+#  the day again. The Israelis have also urged for the US to hold back until they
+#  can conduct larger strikes; jeopardizing the possible success of the revolution
+#  on the ground. Massive blackouts have gripped the outer suburbs of Moscow, as
+#  Ukrainian drones continue to hit electrical infrastructure knocking out massive
+#  parts of the electrical grid. Ukraine has inflicted heavy losses on the Russian
+#  armed forces, and has held their lines today. Meanwhile the US has now
+#  heightened tensions even farther with Europe over Greenland, with Europe now
+#  suspending a trade deal with the US, and sending even more forces to the region.
+#  The US has also levied tarriffs against Europe for not complying with the
+#  draconian demands.
+
+#  youtube:
+#  url: https:/www.youtube.com/watch?v=zvJnrvhNf6o
+#  id: zvJnrvhNf6o
+
+#  map: https:/www.google.com/maps/d/u/0/viewer?mid=1PJAn5DlozdIRsfO9GLbaw5obnfTrxtY
+ 
+#  losses:
+#  troops: 1225590(+1130)
+#  tanks: 11566(+3)
+#  apc: 23914(+6)
+#  artillery: 36261(+31)
+#  mlrs: 1615(+1)
+#  anti-aircraft: 1278(+1)
+#  planes: 434
+#  helicopters: 347][The Enforcer Stream - Day 1424:1]]
+- file: 20260118
+  day: 1424
+  broadcast: Sat 17 Jan 22:00 EST 2026
+  duration: {}
+  title: |
+    IRAN RIOTS REIGNITE AMID REGIME CHANGE, MASSIVE BLACKOUTS IN MOSCOW!
+    Breaking War News The Enforcer
+  morse: |
+    IRAN JUST KEEPS DESCENDING INTO A SPIRAL OF WORSE AND WORSE DEALINGS. NOT GOOD
+    AT ALL. LLTLSA!
+  description: |
+    The riots and uprisings have resurged inside of Iran after the US has called
+    for regime changes inside of the country, with more strike forces moving into
+    the area. Currently Iran is still taking armed and violent action against the
+    protestors and rebels, with snipers firing into the crowds over the course of
+    the day again. The Israelis have also urged for the US to hold back until they
+    can conduct larger strikes; jeopardizing the possible success of the revolution
+    on the ground. Massive blackouts have gripped the outer suburbs of Moscow, as
+    Ukrainian drones continue to hit electrical infrastructure knocking out massive
+    parts of the electrical grid. Ukraine has inflicted heavy losses on the Russian
+    armed forces, and has held their lines today. Meanwhile the US has now
+    heightened tensions even farther with Europe over Greenland, with Europe now
+    suspending a trade deal with the US, and sending even more forces to the region.
+    The US has also levied tarriffs against Europe for not complying with the
+    draconian demands.
+
+  youtube:
+    url: https://www.youtube.com/watch?v=zvJnrvhNf6o
+    id: zvJnrvhNf6o
+
+  map: https://www.google.com/maps/d/u/0/viewer?mid=1PJAn5DlozdIRsfO9GLbaw5obnfTrxtY
+    
+  losses:
+    troops:             1225590(+1130)
+    tanks:                11566(+3)
+    apc:                  23914(+6)
+    artillery:            36261(+31)
+    mlrs:                  1615(+1)
+    anti-aircraft:         1278(+1)
+    planes:                 434
+    helicopters:            347
+    uav:                 108605(+721)
+    cruise_missiles:       4163
+    warships:                28
+    submarines:               2
+    vehicles:             74601(+115)
+    bobcats:               4044
+
+  loss_summary: |
+    +721 UAVs is the 8th highest daily loss
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1424:1 ends here
