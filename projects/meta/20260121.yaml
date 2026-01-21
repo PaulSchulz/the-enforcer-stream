@@ -4,17 +4,31 @@
   broadcast: Tue 20 Jan 22:00 EST 2026
   duration: {}
   title: |
-    -
+    MAJOR AMMO DUMPS EXPLODE IN RUSSIA, CHERNOBYL POWERPLANT ATTACKED! Breaking War
+    News W/ The Enforcer
   morse: |
-    -
+    RUSSIA IS A CRIMINAL STATE HOW THEY CONTINUE TO AKACK
+    NUCLEAR PLANTS TO INSTILL TERROR. LLTLSA!
   description: |
-    -
+    Ukraine has launched major attacks on the Russian Federation, hitting major
+    cities and ammo dumps within occupied territories and around the border regions.
+    A major ammo explosion has suffered a major blow near to the city of Donetsk.
+    The Russian Federation is still dealing with the worsening economic situation
+    and no advances near the front adding to the bitterness of the continued high
+    losses. Russia has targeted and sit substations providing power to the Chernobyl
+    nuclear powerplant area, leaving the powerplant completely cut off from the
+    grid. Ukraine has stated that this is a crisis along with the IAEA. Meanwhile
+    Protests are still ongoing in Iran. The SDF's remaining froces have rebelled
+    against the unconditional surredner and are fighting the Jolani Regime in the
+    northeastern area of the country. ISIS fighters are being released from prisons
+    in the thousands, and terror attacks are already being claimed by ISIS within
+    the region.
 
   youtube:
-    url: ""
-    id: ""
+    url: https://www.youtube.com/watch?v=vXaCBTBOMLA
+    id: vXaCBTBOMLA
 
-  map: ""
+  map: https://www.google.com/maps/d/u/0/viewer?mid=1PJAn5DlozdIRsfO9GLbaw5obnfTrxtY
     
   losses:
     troops:             1228570(+1130)
@@ -33,7 +47,7 @@
     bobcats:               4048(+3)
 
   loss_summary: |
-    -
+    +925 UAVs is the 5th highest daily loss
     
   notes: |
     -
