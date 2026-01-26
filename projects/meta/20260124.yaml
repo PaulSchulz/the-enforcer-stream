@@ -1,0 +1,40 @@
+# [[file:../../../ps-journal/20260124::*The Enforcer Stream - Day 1430][The Enforcer Stream - Day 1430:1]]
+- file: 20260124
+  day: 1430
+  broadcast: Fri 23 Jan 22:00 EST 2026
+  duration: {}
+  title: |
+    -
+  morse: |
+    -
+  description: |
+    -
+
+  youtube:
+    url: ""
+    id: ""
+
+  map: ""
+    
+  losses:
+    troops:             1232090(+1280)
+    tanks:                11599(+3)
+    apc:                  23946(+3)
+    artillery:            36549(+33)
+    mlrs:                  1623
+    anti-aircraft:         1282
+    planes:                 434
+    helicopters:            347
+    uav:                 113277(+449)
+    cruise_missiles:       4190
+    warships:                28
+    submarines:               2
+    vehicles:             75556(+140)
+    bobcats:               4050(+1)
+
+  loss_summary: |
+    -
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1430:1 ends here
