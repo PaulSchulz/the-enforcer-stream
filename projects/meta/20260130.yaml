@@ -1,0 +1,51 @@
+# [[file:../../../ps-journal/20260130::*The Enforcer Stream - Day 1436][The Enforcer Stream - Day 1436:1]]
+- file: 20260130
+  day: 1436
+  broadcast: Thu 29 Jan 22:00 EST 2026
+  duration: {}
+  title: |
+    IRAN DECLARES MAJOR LIVE-FIRE EXERCISES, US SPECIAL FORCES MOVE IN! Breaking War
+    News The Enfor
+  morse: |
+    IT'S PRETTY CLEAR TO ME THAT KHAMENEI IS SHAKING IN HIS BOOTS AT THIS
+    POINT. NOT LOOKING GOOD. LLTLSA!
+  description: |
+    Iran has threatened to blockade the Strait of Hormuz, a vital waterway
+    allowing for the passage of the majority of middle eastern oil to the global
+    markets. Meanwhile US special forces are deploying to the area of Azerbeijan, in
+    the possiblity that special forces raids might be conducted near the captiol of
+    Iran. Meanwhile the Iranians are now conducting major live-fire exercises in the
+    Strait of Hormuz, and are also continuing drills for air defenses in the
+    country; signaling that Iranian leadership believes war is coming soon.
+    Significant US airlifts are being conducted to the region, with F-35s spotted in
+    the Azores. The Russians are taking high losses in Ukraine, and are not moving
+    forward.
+
+  youtube:
+    url: https://www.youtube.com/watch?v=aOA7Wg4Jcjg
+    id: aOA7Wg4Jcjg
+
+  map: https://www.google.com/maps/d/u/0/viewer?mid=1-ECohCwbD2x0Z3tCHfMxjgzblHZOu5Q
+    
+  losses:
+    troops:             1237400(+850)
+    tanks:                11613(+4)
+    apc:                  23965(+7)
+    artillery:            36733(+20)
+    mlrs:                  1629
+    anti-aircraft:         1288(+2)
+    planes:                 435(+1)
+    helicopters:            347
+    uav:                 118679(+955)
+    cruise_missiles:       4205
+    warships:                28
+    submarines:               2
+    vehicles:             76190(+88)
+    bobcats:               4053
+
+  loss_summary: |
+    +955 UAVs is the 5th highest daily loss
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1436:1 ends here
