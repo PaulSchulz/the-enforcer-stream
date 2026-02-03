@@ -1,0 +1,45 @@
+# [[file:../../../ps-journal/20260201::*The Enforcer Stream - Day 1438][The Enforcer Stream - Day 1438:1]]
+- file: 20260201
+  day: 1438
+  broadcast: Sat 31 Jan 22:00 EST 2026
+  duration: {}
+  title: |
+    -
+  morse: |
+    -
+  description: |
+    -
+
+  youtube:
+    url: ""
+    id: ""
+
+  map: ""
+    
+  losses:
+    troops:             1239590(+880)
+    tanks:           {11619(+5)
+    apc:                  23977(+8)
+    artillery:            36768(+20)
+    mlrs:                  1632(+1)
+    anti-aircraft:         1290(+1)
+    planes:                 435
+    helicopters:            347
+    uav:                 119928(+694)
+    cruise_missiles:       4205
+    warships:                20
+    submarines:               2
+    vehicles:             76377(+58)
+    bobcats:               4054
+
+  loss_summary: |
+    January Recap:
+    +694 UAVs ranks as 20th highest and 22244 total is almost double prior highest month.
+    January Vehicles total 4130 is the highest month of the war.
+    Tanks total 138 and Anti-Aircraft total 23 are highest since May 2025 
+    Artillery total 1126 highest since August 2025
+    MLRS total 46 is highest month since November 2023
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1438:1 ends here
