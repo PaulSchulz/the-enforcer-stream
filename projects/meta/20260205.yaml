@@ -1,0 +1,42 @@
+# [[file:../../../ps-journal/20260205::*The Enforcer Stream - Day 1442][The Enforcer Stream - Day 1442:1]]
+- file: 20260205
+  day: 1442
+  broadcast: Wed 04 Feb 22:00 EST 2026
+  duration: {}
+  title: |
+    MAJOR US DEPLOYMENTS TO MIDDLE EAST, MAJOR SHIP SEIZED NEAR RUSSIA! Breaking
+    War News The Enforcer
+  morse: |
+    WHAT WE GOT GOING ON DOWN IN TO THE MIDDLE EAST GOT IRAN ACTING UP. LLTLSA
+  description: |
+    Major deployments have been conducted by US forces into the middle east, some of the largest seen so far, as talks with Iran waffle and seem to have failed before talks even begin. Currently there is some word that the Iranians are going to talk to the US in Muscat Oman although this may be unlikely in the end, and the situation is incredibly tense. The Iranian government has made it clear that they are moving towards possiblew preemptive strikes, and Israel has asked for permission from the US to conduct strikes on Iran even while talks are ongoing. A major ship has been seized by Estonian authorities near to Russia, off of the allegation that the ship may be carrying sanctioned cargo from Russia.
+
+  youtube:
+    url: https://www.youtube.com/watch?v=yhnm78sQ88k
+    id: yhnm78sQ88k
+
+  map: https://www.google.com/maps/d/u/0/viewer?mid=1-ECohCwbD2x0Z3tCHfMxjgzblHZOu5Q
+    
+  losses:
+    troops:             1243070(+780)
+    tanks:                11637(+4)
+    apc:                  23992(+7)
+    artillery:            36915(+60)
+    mlrs:                  1634(+1)
+    anti-aircraft:         1293(+1)
+    planes:                 435
+    helicopters:            347
+    uav:                 123743(+1355)
+    cruise_missiles:       4245(+40)
+    warships:                28
+    submarines:               2
+    vehicles:             76949(+211)
+    bobcats:               4062(+4)
+
+  loss_summary: |
+    +1355 UAVs is the new highest daily loss
+    +211 Vehicles is the 3rd highest loss
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1442:1 ends here
