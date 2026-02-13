@@ -1,0 +1,53 @@
+# [[file:../../../ps-journal/20260213::*The Enforcer Stream - Day 1450][The Enforcer Stream - Day 1450:1]]
+- file: 20260213
+  day: 1450
+  broadcast: Thu 12 Feb 22:00 EST 2026
+  duration: {}
+  title: |
+    RUSSIAN FORCES PANIC AS UKRAINE ADVANCES, US NAVY BLOCKADES CUBA! Breaking War
+    News W/ The Enforcer
+  morse: |
+    THE RUSSIAN ARMY IS COLLAPSING, AND THE RUSSIAN ECONOMY IS TOO, VERY NICE!
+    LLTLSA!
+  description: |
+    Russian forces are now in a full panic across the frontlines as Ukrainian
+    forces are now making major advances after a total Russian frontline collapse
+    due to a complete blackout of all communication systems the Russian army was
+    using. Currently Russian forces are falling back in a heavily disorganized
+    state, and Ukraine has achieved the upper hand by the Russian's own undoing.
+    Ukraine has also hit major targets in Russia, including a refinery, a GRAU
+    arsenal, and the city of Volgograd among many other targets. Ukrainian Flamingo
+    missiles were used in the overnight attack. The US NAVY is currently conducting
+    a blockade of Cuba, with Russian and China vowing support to the Cubans to
+    attempt to break the US blockade and to return fuel resources to the ailing
+    island nation. Iran is mobilizing forces in the street, but has also been
+    reported that there will be another month given for negotiations.
+
+  youtube:
+    url: https://www.youtube.com/watch?v=15-ekxhbEMA
+    id: 15-ekxhbEMA
+
+  map: https://www.google.com/maps/d/u/0/viewer?mid=12J4XAoPq5tn5Ug1Yxot7suolUl3GEu0
+    
+  losses:
+    troops:             1250150(+770)
+    tanks:                11662(+1)
+    apc:                  24025(+5)
+    artillery:            37213(+65)
+    mlrs:                  1641(+3)
+    anti-aircraft:         1299(+1)
+    planes:                 435
+    helicopters:            347
+    uav:                 132153(+1442)
+    cruise_missiles:       4270
+    warships:                28
+    submarines:               2
+    vehicles:             78141(+172)
+    bobcats:               4070
+
+  loss_summary: |
+    +1442 UAVs is the 2nd highest daily loss
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1450:1 ends here
