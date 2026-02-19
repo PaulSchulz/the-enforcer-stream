@@ -31,20 +31,20 @@
   map: https://www.google.com/maps/d/u/0/viewer?mid=12J4XAoPq5tn5Ug1Yxot7suolUl3GEu0
     
   losses:
-    troops:          1256080(+740)
-    tanks:           11681(+3)
-    apc:             24051(+6)
-    artillery:       37363(+40)
-    mlrs:            1648
-    anti-aircraft:   1302(+1)
-    planes:          435
-    helicopters:     347
-    uav:             137924(+1851)
-    cruise_missiles: 4314(+26)
-    warships:        29
-    submarines:      2
-    vehicles:        78919(+194)
-    bobcats:         4072(+1)
+    troops:             1256080(+740)
+    tanks:                11681(+3)
+    apc:                  24051(+6)
+    artillery:            37363(+40)
+    mlrs:                  1648
+    anti-aircraft:         1302(+1)
+    planes:                 435
+    helicopters:            347
+    uav:                 137924(+1851)
+    cruise_missiles:       4314(+26)
+    warships:                29
+    submarines:               2
+    vehicles:             78919(+194)
+    bobcats:               4072(+1)
 
   loss_summary: |
     +1851 UAVs is the new highest daily loss (prior was +1551 on 11 Feb 2026)
