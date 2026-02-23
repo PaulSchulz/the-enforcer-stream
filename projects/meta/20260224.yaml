@@ -1,0 +1,28 @@
+# [[file:../../../ps-journal/20260224::*The Enforcer Stream - Day 1461][The Enforcer Stream - Day 1461:1]]
+- file: 20260224
+  day: 1461
+
+  losses:
+    troops:             1260500(+720)
+    tanks:                11696(+2)
+    apc:                  24082(+13)
+    artillery:            37510(+40)
+    mlrs:                  1654(+2)
+    anti-aircraft:         1304(+1)
+    planes:                 435
+    helicopters:            348
+    uav:                 143878(+1765)
+    cruise_missiles:       4347(+33)
+    warships:                29
+    submarines:               2
+    vehicles:             79636(+136)
+    bobcats:               4073
+
+  loss_summary: |
+    +1765 UAVs is the 2nd highest daily loss 
+    Febrary to date total 23950 UAVs exceeds all of January
+    and average is over 1000/day.
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1461:1 ends here
