@@ -1,0 +1,102 @@
+# [[file:../../../ps-journal/20260227::+begin_src yaml :comments link :tangle "../the-enforcer-stream/projects/meta/20260227.yaml"
+#  - file: 20260227
+#  day: 1464
+#  broadcast: Thu 26 Feb 22:00 EST 2026
+#  duration: {}
+#  title: |
+#  PAKISTAN DECLARES WAR ON AFGHANISTAN, DRONE FIRED AT FRENCH WARSHIP! Breaking
+#  War News The Enforcer
+#  morse: |
+#  THE TALIBAN IS BACK TO GETTING THEIR TALI-TAIL BEAT BY THE PAKISTANIS, JOLLY
+#  GOOD SHOW! LLTLSA!
+#  description: |
+#  Pakistan declared war on Afghanistan after surprise attacks were conducted
+#  by the Taliban along the border. Pakistani forces are now conducting heavy
+#  artillery barrages and airstrikes on Taliban positions and Afghan cities, while
+#  the Taliban is conducting heavy fighting along the border with rocket artillery
+#  support. Pakistan has further stated that the Afghan nation is a puppet of India
+#  and they will not stop fighting until the Taliban government has been reduced to
+#  nothing. Today, a Russian drone flew over the Charles De Gaulle, a French
+#  Nuclear Aircraft Carrier, while it was moored in Malmo Sweden. Swedish
+#  authorities ran the drone off, but it seems that the issued has incensed the
+#  French and Swedish governments. Russia has also announced they do not plan on
+#  ending the war any time soon, even as their economy is failing and frontlines
+#  are receeding. Iran has completely refused any US talking points in Geneva
+#  today, and the US is now ready to conduct strikes on Iran. Israel is already
+#  bombing Hezbollah forces to put them out of the fight before the war begins.
+
+#  youtube:
+#  url: https:/www.youtube.com/watch?v=01Va8_HjdjM
+#  id: 01Va8_HjdjM
+
+#  map: https:/www.google.com/maps/d/u/0/viewer?mid=1YUPCVkR-2wXuQp3UlGq2ujaSnmP2EIc
+ 
+#  losses:
+#  troops: 1263850(+1360)
+#  tanks: 11704(+3)
+#  apc: 24091
+#  artillery: 37614(+25)
+#  mlrs: 1659(+4)
+#  anti-aircraft: 1305
+#  planes: 435
+#  helicopters: 348
+#  uav: 147138(+681)
+#  cruise_missiles: 4347
+#  warships: 29
+#  submarines: 2
+#  vehicles: 80064(93)
+#  bobcats: 4075][The Enforcer Stream - Day 1464:1]]
+- file: 20260227
+  day: 1464
+  broadcast: Thu 26 Feb 22:00 EST 2026
+  duration: {}
+  title: |
+    PAKISTAN DECLARES WAR ON AFGHANISTAN, DRONE FIRED AT FRENCH WARSHIP! Breaking
+    War News The Enforcer
+  morse: |
+    THE TALIBAN IS BACK TO GETTING THEIR TALI-TAIL BEAT BY THE PAKISTANIS, JOLLY
+    GOOD SHOW! LLTLSA!
+  description: |
+    Pakistan declared war on Afghanistan after surprise attacks were conducted
+    by the Taliban along the border. Pakistani forces are now conducting heavy
+    artillery barrages and airstrikes on Taliban positions and Afghan cities, while
+    the Taliban is conducting heavy fighting along the border with rocket artillery
+    support. Pakistan has further stated that the Afghan nation is a puppet of India
+    and they will not stop fighting until the Taliban government has been reduced to
+    nothing. Today, a Russian drone flew over the Charles De Gaulle, a French
+    Nuclear Aircraft Carrier, while it was moored in Malmo Sweden. Swedish
+    authorities ran the drone off, but it seems that the issued has incensed the
+    French and Swedish governments. Russia has also announced they do not plan on
+    ending the war any time soon, even as their economy is failing and frontlines
+    are receeding. Iran has completely refused any US talking points in Geneva
+    today, and the US is now ready to conduct strikes on Iran. Israel is already
+    bombing Hezbollah forces to put them out of the fight before the war begins.
+
+  youtube:
+    url: https://www.youtube.com/watch?v=01Va8_HjdjM
+    id: 01Va8_HjdjM
+
+  map: https://www.google.com/maps/d/u/0/viewer?mid=1YUPCVkR-2wXuQp3UlGq2ujaSnmP2EIc
+    
+  losses:
+    troops:          1263850(+1360)
+    tanks:           11704(+3)
+    apc:             24091
+    artillery:       37614(+25)
+    mlrs:            1659(+4)
+    anti-aircraft:   1305
+    planes:          435
+    helicopters:     348
+    uav:             147138(+681)
+    cruise_missiles: 4347
+    warships:        29
+    submarines:      2
+    vehicles:        80064(93)
+    bobcats:         4075
+
+  loss_summary: |
+    -
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1464:1 ends here
