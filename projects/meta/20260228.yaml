@@ -1,0 +1,52 @@
+# [[file:../../../ps-journal/20260228::*The Enforcer Stream - Day 1465][The Enforcer Stream - Day 1465:1]]
+- file: 20260228
+  day: 1465
+  broadcast: Fri 27 Feb 22:00 EST 2026
+  duration: {}
+  title: |
+    EXPLOSIONS ROCK IRANIAN MISSILE BASES, FIGHTER JETS OVER IRAQ! Breaking War News
+    W/ The Enforcer
+  morse: |
+    LOOKS LIKE WE WILL PROBABLY BE WAITING THIS WEEKEND OUT, STILL LIKELY A WEEKEND.
+    LLTLSA!
+  description: |
+    Explosions have rocked Iranian missile facilities on the outskirts of Tehran
+    while large swarms of fighter jets could be heard near the border with Iraq.
+    Iran has declared that they will conduct the "doomsday option" of firing
+    everything at Israle if it appears they will not survive a US attack. The IAEA
+    claims that the enriched uranium has been hidden in the Isfahan facility, and
+    have buried the entrances in a large amount of soil. Sweden has confirmed that
+    the drone that flew over the French carrier was in fact a Russian drone.
+    Pakistani forces are now advancing into Afghanistan, and taking over military
+    outposts on the other side of the border. Taliban factions have now started
+    infighting, with firefights breaking out in Kabul. Ukraine has held the line and
+    inflicted heavy losses onto the Russian armed forces.
+
+  youtube:
+    url: https://www.youtube.com/watch?v=Pv8BbBYQ3GE
+    id: Pv8BbBYQ3GE
+
+  map: https://www.google.com/maps/d/u/0/viewer?mid=1YUPCVkR-2wXuQp3UlGq2ujaSnmP2EIc
+    
+  losses:
+    troops:             1265130(+1280)
+    tanks:                11706(+2)
+    apc:                  24097(+6)
+    artillery:            37631(+17)
+    mlrs:                  1659
+    anti-aircraft:         1305
+    planes:                 435
+    helicopters:            348
+    uav:                 148021(+883)
+    cruise_missiles:       4384(+37)
+    warships:                29
+    submarines:               2
+    vehicles:             80180(+116)
+    bobcats:               4075
+
+  loss_summary: |
+    -
+      
+  notes: |
+    Stream ended to start coverage of Iran conflict in new stream.
+# The Enforcer Stream - Day 1465:1 ends here
