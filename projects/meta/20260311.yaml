@@ -1,0 +1,42 @@
+# [[file:../../../ps-journal/20260311::*The Enforcer Stream - Day 1476][The Enforcer Stream - Day 1476:1]]
+- file: 20260311
+  day: 1476
+  broadcast: Tue 10 Mar 22:00 EDT 2026
+  duration: {}
+  title: |
+    -
+  morse: |
+    -
+  description: |
+    -
+
+  youtube:
+    url: ""
+    id: ""
+
+  map: ""
+    
+  losses:
+    troops:             1274990(+950)
+    tanks:                11758(+13)
+    apc:                  24174(+7)
+    artillery:            38202(+73)
+    mlrs:                  1679(+4)
+    anti-aircraft:         1328(+2)
+    planes:                 435
+    helicopters:            349
+    uav:                 168809(+2169)
+    cruise_missiles:       4403
+    warships:                31
+    submarines:               2
+    vehicles:             82510(+221)
+    bobcats:               4087(+4)
+
+  loss_summary: |
+    +13 Tanks the highest since 7 Jun 2025
+    +2169 UAVs is the 3rd highest daily loss
+    +221 Vehicles is the 6th highest loss
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1476:1 ends here

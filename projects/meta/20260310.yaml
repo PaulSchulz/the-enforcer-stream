@@ -1,0 +1,26 @@
+# [[file:../../../ps-journal/20260310::*The Enforcer Stream - Day 1475][The Enforcer Stream - Day 1475:1]]
+- file: 20260310
+  day: 1475
+    
+  losses:
+    troops:             1274040(+750)
+    tanks:                11745(+3)
+    apc:                  24167(+10)
+    artillery:            38129(+70)
+    mlrs:                  1675(+2)
+    anti-aircraft:         1326(+4)
+    planes:                 435
+    helicopters:            349
+    uav:                 166640(+2224)
+    cruise_missiles:       4403
+    warships:                31(+1)
+    submarines:               2
+    vehicles:             82289(+188)
+    bobcats:               4083
+
+  loss_summary: |
+    +2224 UAVs is the 2nd highest daily loss
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1475:1 ends here
