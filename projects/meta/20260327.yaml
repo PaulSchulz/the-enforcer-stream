@@ -1,0 +1,53 @@
+# [[file:../../../ps-journal/20260327::*The Enforcer Stream - Day 1492][The Enforcer Stream - Day 1492:1]]
+- file: 20260327
+  day: 1492
+  broadcast: Thu 26 Mar 22:00 EDT 2026
+  duration: {}
+  title: |
+    IRAN MOBILIZES 1 MILLION TROOPS AGAINST US, SEVERE NUCLEAR WARNING! Breaking War
+    News W The Enforcer
+  morse: |
+    WHAT DO YOU SAY WHEN YOU SEE SOMETHING THAT YOU DONT LIKE? I-RAN! LLTLSA!
+  description: |
+    Iran mobilizes 1 million ground troops and reservists in preparation for a
+    possible US amphibious landing to come in the near future. This happens just as
+    the 82nd Airborne's BCT and the USS Triploi carrying the 11th MEU arrive into
+    the area shortly. Currently the US is sending mixed signals about possible peace
+    talks, saying they are going well, and then saying Iran is not treating them
+    seriously. The IAEA has issued a stark warning that further actions near the
+    Bushehr nuclear powerplant could lead to irreprable consequences for the region
+    if it was hit heavily and severely damaged. Ukraine has hit the Russian port of
+    Ust Luga and St. Petersburg over the course of the day, leading to major fires
+    and damage once again. the fires at Primorsk were visible from Vyborg several
+    dozen miles away. Ukraine has held the line and pushed the Russians back once
+    more.
+
+  youtube:
+    url: https://www.youtube.com/watch?v=YPYvztNQAdU
+    id: YPYvztNQAdU
+
+  map: https://www.google.com/maps/d/u/0/viewer?mid=13UoeHOokxTs5rwKSRUJW93osHIackwU
+    
+  losses:
+    troops:             1292170(+1210)
+    tanks:                11807(+1)
+    apc:                  24278(+4)
+    artillery:            38795(+49)
+    mlrs:                  1698(+2)
+    anti-aircraft:         1337(+1)
+    planes:                 435
+    helicopters:            350
+    uav:                 198389(+2038)
+    cruise_missiles:       4491
+    warships:                33
+    submarines:               2
+    vehicles:             85352(+201)
+    bobcats:               4100(+2)
+
+  loss_summary: |
+    +2038 UAVs is the 9th highest daily loss
+    +201 Auto/Fuel Tanks is the 17th highest
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1492:1 ends here
