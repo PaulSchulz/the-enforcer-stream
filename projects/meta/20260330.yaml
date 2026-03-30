@@ -1,0 +1,49 @@
+# [[file:../../../ps-journal/20260330::*The Enforcer Stream - Day 1495][The Enforcer Stream - Day 1495:1]]
+- file: 20260330
+  day: 1495
+  broadcast: Sun 29 Mar 22:00 EDT 2026
+  duration: {}
+  title: |
+    US FORCES BOMBARD TEHRAN, US THREATENS KHARG ISLAND INVASION! Breaking War
+    News W/ The Enforcer 1495
+  morse: |
+    WHAT DO YOU SAY WHEN YOU SEE SOMETHING THAT YOU DONT LIKE? I-RAN! LLTLSA!
+  description: |
+    -S forces have bombared Tehran heavily today, resulting in more central government buildings being hit, along with IRGC facilities and also major blackouts being caused in the areas of Karaj and also the city of Tehran itself. The US President has also begun to threaten an armed invasion of Kharg Island, in an attempt to put pressure on the Iranian government. US officials have stated that Kharg Island could be taken as soon as next weekend as enough forces will be in the area by that time. The price of oil continues to rise, with some financial experts now forecasting $200 per barrel of oil prices. Ukraine has conducted more major attacks in Russia, and have also inflcited heavy losses onto the Russian armed forces along the frontlines.
+
+  youtube:
+    url: https://www.youtube.com/watch?v=CH9bTXhsiRQ
+    id: CH9bTXhsiRQ
+
+  map: https://www.google.com/maps/d/u/0/viewer?mid=13UoeHOokxTs5rwKSRUJW93osHIackwU
+
+  orb-word-of-the-day:
+    word: exorbidant
+    meaning: going far beyond what is fair, reasonable, or expected : too high, expensive, etc.
+      
+  fundraiser:
+    charity: Razom for Ukraine
+    target: $2500
+    
+  losses:
+    troops:             1295830(+1360)
+    tanks:                11820(+8)
+    apc:                  24313(+16)
+    artillery:            39001(+65)
+    mlrs:                  1707
+    anti-aircraft:         1337
+    planes:                 435
+    helicopters:            350
+    uav:                 204060(+1948)
+    cruise_missiles:       4491
+    warships:                33
+    submarines:               2
+    vehicles:             85977(+181)
+    bobcats:               4105
+
+  loss_summary: |
+    -
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1495:1 ends here
