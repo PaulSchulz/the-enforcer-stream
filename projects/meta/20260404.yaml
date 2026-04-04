@@ -1,0 +1,42 @@
+# [[file:../../../ps-journal/20260404::*The Enforcer Stream - Day 1500][The Enforcer Stream - Day 1500:1]]
+- file: 20260404
+  day: 1500
+  broadcast: Fri 03 Apr 22:00 EDT 2026
+  duration: {}
+  title: |
+    HEAVY US AIR FORCE LOSSES OVER IRAN, IRAN FIRES AT US SPECIAL FORCES! Breaking
+    War News The Enforcer
+  morse: |
+    IRAN SEEMS TO HAVE FOUND SOME AIR DEFENSES, WELP... THERE GOES AIR SUPREMACY
+    FOR SURE. LLTLSA
+  description: |
+    Heavy US air losses have been seen inside of the Islamic Republic of Iran, with an F-15E being shot down over southwestern Iran. The pilots ejected, and combat search and rescue were able to recover one of the pilots, but the the other is still missing. US special forces came under fire significantly during the search efforts, with both helicopters taking moderate fire. The US also lost an A-10 during the search which was supposed to provide air cover. A US army chinook also took heavy damage in Kuwait overnight. US forces have been heavily bombarding Iran once again today, with the attempt to still be cutting the Iranian military down to size. US intelligence now also claims that the Iranians will not open the strait any time soon. Major strikes were conducted in Tabriz which hit major industrial sites. Sweden has seized a Russian tanker today, citing sanctions evasion for the reason of seizure. Ukraine has inflicted massive losses on the Russian armed forces today, and have pushed them back significantly.
+
+  youtube:
+    url: https://www.youtube.com/watch?v=8UXtvsiQTe0
+    id: 8UXtvsiQTe0
+
+  map: https://www.google.com/maps/d/u/0/viewer?mid=150dsoX59gsRsZE-PgmsWIWU-9CuHoHI
+    
+  losses:
+    troops:          1301260(+1230)
+    tanks:           11833(+3)
+    apc:             24340(+6)
+    artillery:       39293(+65)
+    mlrs:            1713
+    anti-aircraft:   1338
+    planes:          435
+    helicopters:     350
+    uav:             214629(+1236)
+    cruise_missiles: 4491
+    warships:        33
+    submarines:      2
+    vehicles:        86950(+177)
+    bobcats:         4109(+2)
+
+  loss_summary: |
+    -
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1500:1 ends here
