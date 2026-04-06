@@ -24,7 +24,14 @@
     id: MgHm1NPJBmI
 
   map: https://www.google.com/maps/d/u/0/viewer?mid=150dsoX59gsRsZE-PgmsWIWU-9CuHoHI
-    
+
+  fundraiser:
+    charity: USO
+    target: $2500
+    commnent: |
+      Today's fundraiser is for United Services Organisation(USO)! Make sure to
+      support and help soldiers currently serving overseas.
+  
   losses:
     troops:             1303550(+1180)
     tanks:                11839(+4)
