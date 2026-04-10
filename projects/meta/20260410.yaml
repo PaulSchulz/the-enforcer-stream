@@ -1,0 +1,53 @@
+# [[file:../../../ps-journal/20260410::*The Enforcer Stream - Day 1506][The Enforcer Stream - Day 1506:1]]
+- file: 20260410
+  day: 1506
+  broadcast: Thu 09 Apr 22:00 EDT 2026
+  duration: {}
+  title: |
+    IRANIAN FORCES LAUNCH MASSIVE ATTACKS, RUSSIAN SUBS BREACH UK WATERS! Breaking
+    War News The Enforcer
+  morse: |
+    YOU KNOW SOMETHING? I'M TELLING YA! WHO DO YOU THINK YOU ARE, I AM! LLTLSA!
+  description: |
+    Iranian forces have launched massive attacks on a wide variety of gulf state
+    allies and Israel over the past 24 hours, severely damaging sites in Kuwait and
+    Saudi Arabia. Meanwhile Israeli forces have continued attacks on Hezbollah over
+    the course of the day, causing major damage to their forces and killing a top
+    commander inside the country. Iran has kept the Strait of Hormuz closed, only
+    allowing one LNG ship through during the entire day. 3 Russian attack submarines
+    were found in the UK's waters earlier today, with Britian issuing a stark
+    warning about further provocations. and armed standoff also occure din the
+    English channel as Russian warships escorted shadow tankers through while under
+    heavy pressure from Royal Navy forces. Ukrainian armed forces have conducted
+    more heavy attacks on the Russian armed forces and the Russian Federation over
+    the day, causing heavy damage to key industrial and infrastructure sites.
+
+  youtube:
+    url: https://www.youtube.com/watch?v=5f_OHf4zJZ0
+    id: 5f_OHf4zJZ0
+    
+  map: https://www.google.com/maps/d/u/0/viewer?mid=1uMCPwcfBguXAEQwGAc9dbwnspYaWF2M
+    
+  losses:
+    troops:             1307540(+1040)
+    tanks:                11847(+1)
+    apc:                  24370(+2)
+    artillery:            39689(+64)
+    mlrs:                  1724(+1)
+    anti-aircraft:         1341
+    planes:                 435
+    helicopters:            350
+    uav:                 227539(+2238)
+    cruise_missiles:       4517
+    warships:                33
+    submarines:               2
+    vehicles:             88332(+229)
+    bobcats:               4119(+2)
+
+  loss_summary: |
+    +2238 UAVs is the 8th highest daily loss
+    +229 Auto/Fuel Tanks is the 13th highest
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1506:1 ends here
