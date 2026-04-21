@@ -1,0 +1,27 @@
+# [[file:../../../ps-journal/20260421::*The Enforcer Stream - Day 1517][The Enforcer Stream - Day 1517:1]]
+- file: 20260421
+  day: 1517
+  broadcast: Mon 20 Apr 22:00 EDT 2026
+
+  losses:
+    troops:             1319270(+1050)
+    tanks:                11884(+2)
+    apc:                  24422(+2)
+    artillery:            40396(+72)
+    mlrs:                  1748
+    anti-aircraft:         1350(+1)
+    planes:                 435
+    helicopters:            350
+    uav:                 248558(+1427)
+    cruise_missiles:       4549
+    warships:                33
+    submarines:               2
+    vehicles:             90571(+174)
+    bobcats:               4132(+1)
+
+  loss_summary: |
+    -
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1517:1 ends here
