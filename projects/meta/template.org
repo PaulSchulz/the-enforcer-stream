@@ -22,6 +22,11 @@ https://index.minfin.com.ua/en/russian-invading/casualties/
       id: ""
 
     map: ""
+    
+    orb-word-of-the-day:
+      word: -
+      definition: -
+      comment: -
       
     losses:
       troops:          {}
