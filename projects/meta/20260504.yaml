@@ -34,21 +34,21 @@
     comment: -
     
   losses:
-    troops:          1334030(+1080)
-    tanks:           11908(+2)
-    apc:             24503(+3)
-    artillery:       41193(+76)
-    mlrs:            1765(+2)
-    anti-aircraft:   1357
-    planes:          435
-    helicopters:     352
-    uav:             269813(+2224)
-    cruise_missiles: 1306(+12)
-    warships:        33
-    submarines:      2
-    vehicles:        93556(+282)
-    bobcats:         4151
-    cruise_missles:  4579
+    troops:                    1334030(+1080)
+    tanks:                       11908(+2)
+    apc:                         24503(+3)
+    artillery:                   41193(+76)
+    mlrs:                         1765(+2)
+    anti-aircraft:                1357
+    planes:                        435
+    helicopters:                   352
+    uav:                        269813(+2224)
+    ground_robotic_complex:       1306(+12)
+    warships:                       33
+    submarines:                      2
+    vehicles:                    93556(+282)
+    bobcats:                      4151
+    cruise_missles:               4579
 
   loss_summary: |
     +76 Artillery Systems tied as 15th highest loss
