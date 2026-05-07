@@ -29,20 +29,21 @@ https://index.minfin.com.ua/en/russian-invading/casualties/
       comment: -
       
     losses:
-      troops:          {}
-      tanks:           {}
-      apc:             {}
-      artillery:       {}
-      mlrs:            {}
-      anti-aircraft:   {}
-      planes:          {}
-      helicopters:     {}
-      uav:             {}
-      cruise_missiles: {}
-      warships:        {}
-      submarines:      {}
-      vehicles:        {}
-      bobcats:         {}
+      troops:                 {}
+      tanks:                  {}
+      apc:                    {}
+      artillery:              {}
+      mlrs:                   {}
+      anti-aircraft:          {}
+      planes:                 {}
+      helicopters:            {}
+      uav:                    {}
+      ground-robotic-complex: {}
+      warships:               {}
+      submarines:             {}
+      vehicles:               {}
+      bobcats:                {}
+      cruise_missiles:        {}
 
     loss_summary: |
       -
