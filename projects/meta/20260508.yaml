@@ -47,8 +47,8 @@
     cruise_missiles:              4585
 
 
-    loss_summary: |
-    -
+  loss_summary: |
+      -
     
   notes: |
     -
