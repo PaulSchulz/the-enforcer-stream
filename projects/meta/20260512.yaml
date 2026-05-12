@@ -1,0 +1,27 @@
+# [[file:../../../ps-journal/20260512::*The Enforcer Stream - Day 1538][The Enforcer Stream - Day 1538:1]]
+- file: 20260512
+  day: 1538
+    
+  losses:
+    troops:                    1342030(+920)
+    tanks:                       11924(+4)
+    apc:                         24551(+7)
+    artillery:                   41863(+76)
+    mlrs:                         1783(+1)
+    anti-aircraft:                1373
+    planes:                        435
+    helicopters:                   352
+    uav:                        284254(+1557)
+    ground-robotic-complex:       1371(+9)
+    warships:                       33
+    submarines:                      2
+    vehicles:                    95710(+231)
+    bobcats:                      4178(+2)
+    cruise_missiles:              4585
+
+  loss_summary: |
+    +9 Ground Robotic Complex is the 3rd highest
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1538:1 ends here
