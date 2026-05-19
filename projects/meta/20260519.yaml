@@ -1,0 +1,30 @@
+# [[file:../../../ps-journal/20260519::*The Enforcer Stream - Day 1545][The Enforcer Stream - Day 1545:1]]
+- file: 20260519
+  day: 1545
+
+  losses:
+    troops:                    1351150(+1140)
+    tanks:                       11940(+1)
+    apc:                         24584(+1)
+    artillery:                   42340(+78)
+    mlrs:                         1792
+    anti-aircraft:                1386
+    planes:                        436
+    helicopters:                   353
+    uav:                        299199(+2142)
+    ground-robotic-complex:       1426(+11)
+    warships:                       33
+    submarines:                      2
+    vehicles:                    97600(+262)
+    bobcats:                      4202(+2)
+    cruise_missiles:              4632(+4)
+
+  loss_summary: |
+    +78 Artillery tied for 18th highest
+    +2142 UAVs ranks 20th 
+    +11 GRC tied for 3rd
+    +262 Auto & Fuel Tanks is 14th
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1545:1 ends here
