@@ -1,0 +1,58 @@
+# [[file:../../../ps-journal/20260526::*The Enforcer Stream - Day 1552 :the_enforcer:morse][The Enforcer Stream - Day 1552                        :the_enforcer:morse:1]]
+- file: 20260526
+  day: 1552
+  broadcast: Mon 25 May 19:30 EDT 2026
+  duration: {}
+  title: |
+    US FORCES STRIKE IRANIAN COASTLINE, EXPLOSIONS IN BANDAR ABBAS! Breaking War
+    News With The Enforcer
+  morse: |
+    AS LONG AS UKRAINE'S FLAG FLIES THEY WILL CONTINUE ON THEIR STRUGGLE FOR
+    FREEDOM. LLTLSA!
+  description: |
+    CENTCOM has stated that there have been strikes by US forces onto the IRGC
+    along the coastline within the Strait of Hormuz, and that 4 IRGC members have
+    been killed after strikes were also conducted on Iranian fast attack boats.
+    Although this is a significant exchange of fire in the whole gulf, CENTCOM has
+    clarified that this does not in fact end the ceasefire, and these strikes were
+    merely defensive in nature. However, the Iranians are beginning to shift into a
+    warlike stance, suggesting this may be the beginning of a resumed armed conflict
+    between the US and Iran. We will be covering these devleopments live as they
+    unfold.
+
+  youtube:
+    url: https://www.youtube.com/watch?v=iOaFt4fTXa8
+    id: iOaFt4fTXa8
+
+  map: https://www.google.com/maps/d/u/0/viewer?mid=1RZsK9Oa0Vc3mTKh2X80L90qUXnVzASc
+  
+  orb-word-of-the-day:
+    word: -
+    definition: -
+    comment: -
+    
+  losses:
+    troops:                    1356940(+1040)
+    tanks:                       11953(+3)
+    apc:                         24608(+5)
+    artillery:                   42687(+47)
+    mlrs:                         1802(+2)
+    anti-aircraft:                1396
+    planes:                        436
+    helicopters:                   353
+    uav:                        310245(+1924)
+    ground-robotic-complex:       1465(+14)
+    warships:                       33
+    submarines:                      2
+    vehicles:                    99000(+302)
+    bobcats:                      4218(+2)
+    cruise_missiles:              4687(+55)
+
+  loss_summary: |
+    +14 GRC is the new highest daily loss
+    +302 Auto & Fuel Tanks is the 7th highest and the month of May has the
+    highest monthly total of the war
+    
+  notes: |
+    Stream went early by 2.5 hours..
+# The Enforcer Stream - Day 1552                        :the_enforcer:morse:1 ends here
