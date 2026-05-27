@@ -56,3 +56,64 @@
   notes: |
     Stream went early by 2.5 hours..
 # The Enforcer Stream - Day 1552                        :the_enforcer:morse:1 ends here
+
+# [[file:../../../ps-journal/20260526::*The Enforcer Stream - Day 1553][The Enforcer Stream - Day 1553:1]]
+- file: 20260526
+  day: 1553
+  broadcast: Tue 26 May 22:00 EDT 2026
+  duration: {}
+  title: |
+    MASSIVE ATTACK SLAMS KEY CRIMEAN PORT, UKRAINE THREATENS BELARUS ! Breaking War
+    News W/ The Enforcer
+  morse: |
+    RUSSIA IS OUT HERE GETTING ALL OF THIS WONDERFUL JUICE, AND YET THEY AIN'T
+    GETTING STRONGER! LLTLSA!
+  description: |
+    Ukraine has conducted massive strikes on the Russian Federation's forces in
+    the Crimean Peninsula, with large strikes being reported around the entire area.
+    Ukrainian attacks have targeted fuel depots, airfields, critical bases and
+    command centers, and others. Belrus appears to be creating a war justification
+    to enter the conflict against Ukraine, making the claim that nearly 200
+    Ukrainian drones entered their airspace over the last week, with Ukraine denying
+    these claims and also adding that they already have 5000 targets planned to be
+    hit if Belarus enters the war. Russia has also been taking heavy hits on Tuapse
+    port and Novorossiysk over the past day, with Ukraine also inflciting heavy
+    losse son the front, and gaining some ground in Zaporizhzhia. Meanwhile Iran has
+    vowed that they have the right to respond, and talks are now stalling once more
+    between the US and Iran.
+
+  youtube:
+    url: https://www.youtube.com/watch?v=wnrohTxvYUc
+    id: wnrohTxvYUc
+
+  map: https://www.google.com/maps/d/u/0/viewer?mid=1RZsK9Oa0Vc3mTKh2X80L90qUXnVzASc
+  
+  orb-word-of-the-day:
+    word: -
+    definition: -
+    comment: -
+    
+  losses:
+    troops:                    1357950(+1010)
+    tanks:                       11954(+1)
+    apc:                         24615(+7)
+    artillery:                   42751(+64)
+    mlrs:                         1804(+2)
+    anti-aircraft:                1397(+1)
+    planes:                        436
+    helicopters:                   353
+    uav:                        312035(+1790)
+    ground-robotic-complex:       1475(+10)
+    warships:                       33
+    submarines:                      2
+    vehicles:                    99374(+374)
+    bobcats:                      4221(+3)
+    cruise_missiles:              4687
+
+  loss_summary: |
+    +10 Ground Robotic Complex is 5th highest
+    +374 Auto & Fuel Tanks is 3rd highest
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1553:1 ends here
