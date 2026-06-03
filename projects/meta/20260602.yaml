@@ -1,0 +1,28 @@
+# [[file:../../../ps-journal/20260602::*The Enforcer Stream - Day 1559][The Enforcer Stream - Day 1559:1]]
+- file: 20260602
+  day: 1559
+  broadcast: Mon 01 Jun 22:00 EDT 2026
+    
+  losses:
+    troops:                    1365470(+1410)
+    tanks:                       11966(+4)
+    apc:                         24659(+2)
+    artillery:                   43037(+50)
+    mlrs:                         1820(+1)
+    anti-aircraft:                1399
+    planes:                        436
+    helicopters:                   353
+    uav:                        322179(+1852)
+    ground-robotic-complex:       1528(+9)
+    warships:                       33
+    submarines:                      2
+    vehicles:                   101621(+384)
+    bobcats:                      4239(+5)
+    cruise_missiles:              4693
+
+  loss_summary: |
+    +384 Auto & Fuel Tanks is 4th largest daily loss
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1559:1 ends here
