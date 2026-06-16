@@ -1,0 +1,30 @@
+# [[file:../../../ps-journal/20260616::*The Enforcer Stream - Day 1573][The Enforcer Stream - Day 1573:1]]
+- file: 20260616
+  day: 1573
+  broadcast: Mon 15 Jun 22:00 EDT 2026
+    
+  losses:
+    troops:                    1384190(+1320)
+    tanks:                       12025(+5)
+    apc:                         24763(+10)
+    artillery:                   44082(+72)
+    mlrs:                         1870(+2)
+    anti-aircraft:                1420(+1)
+    planes:                        436
+    helicopters:                   353
+    uav:                        351479(+2314)
+    ground-robotic-complex:       1664(+3)
+    warships:                       33
+    submarines:                      2
+    vehicles:                   107091(+416)
+    bobcats:                      4296(+8)
+    cruise_missiles:              4733
+
+  loss_summary: |
+    +416 Auto & Fuel Tanks is 6th highest loss
+    +2314 UAVs is the 9th highest 
+    +72 Artillery tied at 23rd
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1573:1 ends here
