@@ -1,0 +1,29 @@
+# [[file:../../../ps-journal/20260623::*The Enforcer Stream - Day 1580][The Enforcer Stream - Day 1580:1]]
+- file: 20260623
+  day: 1580
+
+  losses:
+    troops:                    1393140(+1190)
+    tanks:                       12050(+1)
+    apc:                         24805(+8)
+    artillery:                   44530(+51)
+    mlrs:                         1886(+1)
+    anti-aircraft:                1437(+2)
+    planes:                        436
+    helicopters:                   353
+    uav:                        366164(+2015)
+    ground-robotic-complex:       1712(+9)
+    warships:                       33
+    submarines:                      2
+    vehicles:                   110201(+384)
+    bobcats:                      4321(+5)
+    cruise_missiles:              4787
+
+  loss_summary: |
+    - June total of 8964 Auto & Fuel Tanks passes May 2026 as highest monthly total.
+    - June total of 87 Special Equipment passes May 2026 as highest monthly
+      total since 132 in Nov 2024
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1580:1 ends here
