@@ -1,0 +1,28 @@
+# [[file:../../../ps-journal/20260701::*The Enforcer Stream - Day 1588][The Enforcer Stream - Day 1588:1]]
+- file: 20260701
+  day: 1588
+    
+  losses:
+    troops:                    1403550(+1350)
+    tanks:                       12067(+1)
+    apc:                         24851(+6)
+    artillery:                   45040(+71)
+    mlrs:                         1901
+    anti-aircraft:                1455(+1)
+    planes:                        436
+    helicopters:                   353
+    uav:                        381176(+1952)
+    ground-robotic-complex:       1777(+13)
+    warships:                       33
+    submarines:                      2
+    vehicles:                   114104(+492)
+    bobcats:                      4368(+2)
+    cruise_missiles:              4797
+
+  loss_summary: |
+    +492 Auto & Fuel Tanks is 5th highest loss
+    +13 GRC tied for 3rd highest
+    
+  notes: |
+    No live stream today.
+# The Enforcer Stream - Day 1588:1 ends here
