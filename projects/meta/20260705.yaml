@@ -1,0 +1,29 @@
+# [[file:../../../ps-journal/20260705::*The Enforcer Stream - Day 1592][The Enforcer Stream - Day 1592:1]]
+- file: 20260705
+  day: 1592
+  broadcast: Sat 04 Jul 22:00 EDT 2026
+    
+  losses:
+    troops:                    1408340(+1190)
+    tanks:                       12074(+!)
+    apc:                         24869(+6)
+    artillery:                   45325(+100)
+    mlrs:                         1913(+1)
+    anti-aircraft:                1469(+6)
+    planes:                        536
+    helicopters:                   353
+    uav:                        389110(+1768)
+    ground-robotic-complex:       1815(+6)
+    warships:                       33
+    submarines:                      2
+    vehicles:                   115644(+407)
+    bobcats:                      4385(+5)
+    cruise_missiles:              4847(+1)
+
+  loss_summary: |
+    +100 Artillery is tied for 7th highest loss
+    +6 Air Defense Systems is tied for 4th
+    
+  notes: |
+    No live stream today due to US 4th July holiday.
+# The Enforcer Stream - Day 1592:1 ends here
