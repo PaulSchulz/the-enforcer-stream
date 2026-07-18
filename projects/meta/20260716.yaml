@@ -60,3 +60,57 @@
   notes: |
     -
 # The Enforcer Stream - Day 1603:1 ends here
+
+# [[file:../../../ps-journal/20260716::*The Enforcer Stream - Day 1605][The Enforcer Stream - Day 1605:1]]
+- file: 20260716
+  day: 1605
+  broadcast: Fri 17 Jul 22:00 EDT 2026
+  duration: {}
+  title: |
+    IRAN PREPARES INVASIONS OF GULF STATES, RUSSIAN ECONOMY IN FREEFALL! Breaking
+    War News The Enforcer
+  morse: |
+    IF THE US KEEPS THIS UP THERE MIGHT NOT BE MUCH LEFT ON THE IRANIAN COAST
+    HONESTLY. LLTLSA
+  description: |
+    -
+
+  youtube:
+    url: https://www.youtube.com/watch?v=zhW3e4gEN8E
+    id: zhW3e4gEN8E
+
+  map: https://www.google.com/maps/d/u/0/viewer?mid=1usIG9PvtpLHdefrPOwVGiAjqpTxSnGI
+  
+  orb-word-of-the-day:
+    word: -
+    definition: -
+    comment: -
+    
+  losses:
+    troops:                    1425990(+1370)
+    tanks:                       12148(+4)
+    apc:                         24946(+6)
+    artillery:                   46084(+65)
+    mlrs:                         1943(+7)
+    anti-aircraft:                1496(+4)
+    planes:                        437
+    helicopters:                   354(+1)
+    uav:                        412884(+1879)
+    ground-robotic-complex:       1932(+13)
+    warships:                       34
+    submarines:                      2
+    vehicles:                   121216(+489)
+    bobcats:                      4424(+4)
+    cruise_missiles:              4909(+3)
+
+  loss_summary: |
+    Helicopter is Russian Mi-28N shot down by a Shrike 10 FPV
+    drone manufactured by SkyFall in Belgorod region.
+    +7 MLRS tied as 5th highest
+    +4 Air Defense Systems tied for 6th
+    +13 GRC tied as 5th
+    +489 Auto & Fuel Tanks ranks 8th
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1605:1 ends here
