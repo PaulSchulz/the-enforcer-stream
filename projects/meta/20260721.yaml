@@ -1,0 +1,30 @@
+# [[file:../../../ps-journal/20260721::*The Enforcer Stream - Day 1608][The Enforcer Stream - Day 1608:1]]
+- file: 20260721
+  day: 1608
+    
+  losses:
+    troops:                    1430530(+1600)
+    tanks:                       12158(+2)
+    apc:                         24971(+8)
+    artillery:                   46343(+82)
+    mlrs:                         1953(+3)
+    anti-aircraft:                1511(+6)
+    planes:                        438
+    helicopters:                   354
+    uav:                        418425(+1769)
+    ground-robotic-complex:       1965(+9)
+    warships:                       34
+    submarines:                      2
+    vehicles:                   122894(+605)
+    bobcats:                      4433(+3)
+    cruise_missiles:              4933(+18)
+
+  loss_summary: |
+    +605 Auto & Fuel Tanks is 2nd highest daily loss
+    +82 Artillery tied for 16th
+    +6 Air Defense tied for 4th
+    +9 Ground Robotic tied for 9th
+    
+  notes: |
+    No live stream on Monday
+# The Enforcer Stream - Day 1608:1 ends here
