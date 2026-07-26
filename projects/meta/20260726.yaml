@@ -35,21 +35,21 @@
     comment: -
     
   losses:
-    troops:                 1437550(+1450)
-    tanks:                  12208(+7)
-    apc:                    25011(+11)
-    artillery:              46724(+78)
-    mlrs:                   1968
-    anti-aircraft:          1518(+2)
-    planes:                 439
-    helicopters:            354
-    uav:                    426836(+1596)
-    ground-robotic-complex: 2023(+17)
-    warships:               34
-    submarines:             2
-    vehicles:               125358(+571)
-    bobcats:                4462(+8)
-    cruise_missiles:        4943(+5)
+    troops:                    1437550(+1450)
+    tanks:                       12208(+7)
+    apc:                         25011(+11)
+    artillery:                   46724(+78)
+    mlrs:                         1968
+    anti-aircraft:                1518(+2)
+    planes:                        439
+    helicopters:                   354
+    uav:                        426836(+1596)
+    ground-robotic-complex:       2023(+17)
+    warships:                       34
+    submarines:                      2
+    vehicles:                   125358(+571)
+    bobcats:                      4462(+8)
+    cruise_missiles:              4943(+5)
 
   loss_summary: |
     +17 Ground Robotics is 3rd highest
