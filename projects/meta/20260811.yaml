@@ -1,0 +1,27 @@
+# [[file:../../../ps-journal/20260811::*The Enforcer Stream - Day 1629][The Enforcer Stream - Day 1629:1]]
+- file: 20260811
+  day: 1629
+    
+  losses:
+    troops:                    1459210(+1470)
+    tanks:                       12255(+2)
+    apc:                         25116(+13)
+    artillery:                   47669(+48)
+    mlrs:                         2019(+6)
+    anti-aircraft:                1558(+2)
+    planes:                        439
+    helicopters:                   354
+    uav:                        452994(+1746)
+    ground-robotic-complex:       2181(+10)
+    warships:                       35
+    submarines:                      2
+    vehicles:               {132236(+461)
+    bobcats:                      4511(+6)
+    cruise_missiles:              5007
+
+  loss_summary: |
+    -
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1629:1 ends here
