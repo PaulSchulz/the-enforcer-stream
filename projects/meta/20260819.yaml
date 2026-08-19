@@ -1,0 +1,64 @@
+# [[file:../../../ps-journal/20260819::*The Enforcer Stream - Day 1637][The Enforcer Stream - Day 1637:1]]
+- file: 20260819
+  day: 1637
+  broadcast: Tue 18 Aug 22:00 EDT 2026
+  duration: {}
+  title: |
+    NATO FORCES DEPLOY TO POLAND, INTIMIDATE RUSSIA; IRAN RESTARTS ATTACKS! Breaking
+    News The Enforcer
+  morse: |
+    NATO HAS FINALLY DONE SOMETHING TO RESPOND TO THE RUSSIANS, DON'T STOP HERE.
+    LLTLSA
+
+  description: |
+    NATO forces have deployed to the eastern and northern borders of Poland,
+    conducting major air operations over the day directed at the Russian Kaliningrad
+    region. tankers, and AWACS aircraft were seen on ADSB transponders indicating
+    that a fighter jet presence was also in the air at the same time. This appears
+    to be a direct threat to the Russian Kaliningrad region that NATO air forces
+    will have the upper hand if war comes to the region soon. Meanwhile Moscow is
+    under more massive attacks by the Ukrainian armed forces, which fired one of
+    their largest attacks in the history of the war. explosions and heavy air
+    defense fire were reported in the southern area of the city. Meanwhile Iran has
+    resumed attacks against the UAE, firing several ballistic missiles at Dubai and
+    Jebel Ali. Iranian forces are still controlling the Strait as the president now
+    begins considering the withdrawal of forces from the region. Russia has
+    threatened the UK once again over it's continued support to the State of
+    Ukraine, while Russia heavily supports the Iranians. Ukrainian armed forces have
+    held the line over the course of the day, and have inflicted heavy losses onto
+    the Russian armed forces.
+
+    youtube:
+    url: https://www.youtube.com/watch?v=_7oCixl3EBA
+    id: _7oCixl3EBA
+
+  map: https://www.google.com/maps/d/u/0/viewer?mid=1U-MhhONm9mqe80byfqsuxjP2lXXvtXs3
+        
+  orb-word-of-the-day:
+    word: -
+    definition: -
+    comment: -
+    
+  losses:
+    troops:                    1469970(+1210)
+    tanks:                       12274(+2)
+    apc:                         25162(+7)
+    artillery:                   48155(+56)
+    mlrs:                         2040(+3)
+    anti-aircraft:                1577(+5)
+    planes:                        439
+    helicopters:                   354
+    uav:                        467459(+1962)
+    ground-robotic-complex:       2292(+19)
+    warships:                       35
+    submarines:                      2
+    vehicles:                   135891(+443)
+    bobcats:                      4547(+7)
+    cruise_missiles:              5010
+
+  loss_summary: |
+    +19 Ground Robotic Complex is tied as the highest daily loss
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1637:1 ends here
