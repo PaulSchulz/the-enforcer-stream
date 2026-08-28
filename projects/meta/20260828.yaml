@@ -1,0 +1,50 @@
+# [[file:../../../ps-journal/20260828::*The Enforcer Stream - Day 1646][The Enforcer Stream - Day 1646:1]]
+- file: 20260828
+  day: 1646
+  broadcast: Thu 27 Aug 22:00 EDT 2026
+  duration: {}
+  title: |
+    PUTIN PREPARES NEW OFFENSIVE ON KYIV, RUSSIA DESCENDS INTO CHAOS! Breaking War
+    News The Enforcer
+  morse: |
+    WHERE DOES IT SEEM THAT RUSSIA IS WINNING THE WAR? DOES ANYONE SEE THAT
+    ANYWHERE? LLTLSA
+  description: |
+    -Putin prepares new offensive on the city of Kyiv as Russian armed forces are now moving into the border region of Belarus' Gomel City. it is believed that the Russians will be opening a new front within this area to attempt another offensive aimed at the Ukrainian capital city of Kyiv, aiming on taking it under their control and trying a desperate attempt to end the war. Meanwhile Russia has descended into chaos- or a lack thereof- as fuel has run out so badly that entire cities have come to a standstill as no one can find the gas to keep the country moving. more Ukrainian drone attacks were conducted today against many targets inside of Russia, with the Moscow area also coming under attack. Putin called an emergency meeting with Lukashenko, and is discussing the ongoing tensions with him. Ukrainian forces have inflicted heavy casualties onto the Russian armed forces, and stopped almost all advances on the active front.
+
+  youtube:
+    url: https://www.youtube.com/watch?v=_iydKGEOJFg
+    id: _iydKGEOJFg
+
+  map: https://www.google.com/maps/d/u/0/viewer?mid=1LCWz0ynlXTMgdJYgKS89O_T5u_yh2QY
+
+  orb-word-of-the-day:
+    word: -
+    definition: -
+    comment: -
+    
+  losses:
+    troops:                    1482150(+1400)
+    tanks:                       12304(+4)
+    apc:                         25237(+7)
+    artillery:                   48694(+53)
+    mlrs:                         2065(+3)
+    anti-aircraft:                1590(+2)
+    planes:                        440
+    helicopters:                   354
+    uav:                        483367(+1762)
+    ground-robotic-complex:       2404(+17)
+    warships:                       35
+    submarines:                      2
+    vehicles:                   140248(+494)
+    bobcats:                      4602(+10)
+    cruise_missiles:              5052
+
+  loss_summary: |
+    -+17 Ground Robotics tied as 3rd highest
+    +494 Auto & Fuel Tanks tied at 19th
+    +10 Bobcats again tied at 16th
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1646:1 ends here
