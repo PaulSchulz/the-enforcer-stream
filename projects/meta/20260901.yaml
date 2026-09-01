@@ -1,0 +1,37 @@
+# [[file:../../../ps-journal/20260901::*The Enforcer Stream - Day 1650][The Enforcer Stream - Day 1650:1]]
+- file: 20260901
+  day: 1650
+    
+  losses:
+    troops:                    1488200(+1600)
+    tanks:                       12316(+5)
+    apc:                         25255(+7)
+    artillery:                   48883(+50)
+    mlrs:                         2079(+7)
+    anti-aircraft:                1597(+3)
+    planes:                        440
+    helicopters:                   354
+    uav:                        490402(+2055)
+    ground-robotic-complex:       2442(+7)
+    warships:                       35
+    submarines:                      2
+    vehicles:                   141920(+467)
+    bobcats:                      4621(+7)
+    cruise_missiles:              5060
+
+  loss_summary: |
+    August Totals
+    - 42050 Personnel below July & 2nd highest since January 2025,
+    - 85 Tanks lower losses as expected,
+    - 199 ACVs comparable to recent months,
+    - 1838 Artillery below past 3 months,
+    - 103 MLRS & 72 Air Defense & 361 Ground Robotics are highest months of the war,
+    - 54737 UAVs below highest month,
+    - 13886 Auto & Fuel Tanks 2nd highest month,
+    - 138 Special Equip highest since October 2025,
+    - 55 Cruise Missiles lowest month since March 2025,
+    - 1 Aircraft & 1 Ship
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1650:1 ends here
