@@ -40,21 +40,21 @@
     comment: -
     
   losses:
-    troops:						1491030(+1390)
-    tanks:						  12324(+4)
-    apc:						  25263(+6)
-    artillery:					  49016(+62)
-    mlrs:						   2081(+2)
-    anti-aircraft:					   1598(+1)
-    planes:						    440
-    helicopters:					    354
-    uav:						 494146(+1969)
-    ground-robotic-complex:				   2464(+12)
-    warships:						     35
-    submarines:					      2
-    vehicles:						 142715(+383)
-    bobcats:						   4625(+2)
-    cruise_missiles:					   5070(+10)
+    troops:			 1491030(+1390)
+    tanks:			   12324(+4)
+    apc:			   25263(+6)
+    artillery:		   49016(+62)
+    mlrs:			    2081(+2)
+    anti-aircraft:		    1598(+1)
+    planes:			     440
+    helicopters:		     354
+    uav:			  494146(+1969)
+    ground-robotic-complex:	    2464(+12)
+    warships:			      35
+    submarines:		       2
+    vehicles:			  142715(+383)
+    bobcats:			    4625(+2)
+    cruise_missiles:		    5070(+10)
 
   loss_summary: |
     -
