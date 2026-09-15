@@ -1,0 +1,30 @@
+# [[file:../../../ps-journal/20260915::*The Enforcer Stream - Day 1664][The Enforcer Stream - Day 1664:1]]
+- file: 20260915
+  day: 1664
+    
+  losses:
+    troops:                    1508600(+1700)
+    tanks:                       12345(+1)
+    apc:                         25331(+1)
+    artillery:                   49752(+74)
+    mlrs:                         2127(+7)
+    anti-aircraft:                1637(+2)
+    planes:                        442
+    helicopters:                   356
+    uav:                        516441(+2124)
+    ground-robotic-complex:       2615(+12)
+    warships:                       35
+    submarines:                      2
+    vehicles:                   148807(+548)
+    bobcats:                      4683(+2)
+    cruise_missiles:              5111
+
+  loss_summary: |
+    +1700 Personnel is 18th highest loss
+    +7 MLRS tied at 7th highest
+    +548 Auto & Fuel Tanks tied at 12th highest
+    +12 Ground Robotic tied at 9th
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1664:1 ends here
