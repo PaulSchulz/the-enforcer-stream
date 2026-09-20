@@ -1,0 +1,27 @@
+# [[file:../../../ps-journal/20260917::*The Enforcer Stream - Day 1666][The Enforcer Stream - Day 1666:1]]
+- file: 20260917
+  day: 1666
+
+  losses:
+    troops:                    1511530(+1530)
+    tanks:                       12345
+    apc:                         25339(+5)
+    artillery:                   49820(27)
+    mlrs:                         2132(+1)
+    anti-aircraft:                1642(+4)
+    planes:                        442
+    helicopters:                   356
+    uav:                        519069(+789)
+    ground-robotic-complex:       2630(+4)
+    warships:                       35
+    submarines:                      2
+    vehicles:                   149557(+374)
+    bobcats:                      4692(+2)
+    cruise_missiles:              5111
+
+  loss_summary: |
+    -
+    
+  notes: |
+    No stream, not sufficient news to provide.
+# The Enforcer Stream - Day 1666:1 ends here
