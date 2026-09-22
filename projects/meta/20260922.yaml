@@ -1,0 +1,27 @@
+# [[file:../../../ps-journal/20260922::*The Enforcer Stream - Day 1671][The Enforcer Stream - Day 1671:1]]
+- file: 20260922
+  day: 1671
+    
+  losses:
+    troops:                    1519650(+1660)
+    tanks:                       12361(+5)
+    apc:                         25365(+4)
+    artillery:                   50142(+75)
+    mlrs:                         2149(+3)
+    anti-aircraft:                1662(+3)
+    planes:                        442
+    helicopters:                   356
+    uav:                        527693(+1728)
+    ground-robotic-complex:       2712(+17)
+    warships:                       35
+    submarines:                      2
+    vehicles:                   151861(+516)
+    bobcats:                      4729(+13)
+    cruise_missiles:              5111
+
+  loss_summary: |
+    +17 Ground Robotic Complex tied at 4th
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1671:1 ends here
