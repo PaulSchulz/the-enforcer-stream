@@ -1,0 +1,101 @@
+# [[file:../../../ps-journal/20261005::+begin_src yaml :comments link :tangle "../the-enforcer-stream/projects/meta/20261005.yaml"
+#  - file: 20261005
+#  day: 1684
+#  broadcast: Sun 04 Oct 22:00 EDT 2026
+#  duration: {}
+#  title: |
+#  PUTIN PANICS AMID DEADLY PLAGUE BREAKOUT, US B1 BOMBERS EVACUATE FROM UK! Breaking News The Enforcer
+#  morse: |
+#  SEEMS LIKE THIS LITTLE PLAGUE IS PLAGUING THE SIBERIANS A LOT
+#  MORE, WELL THATS NOT BUENO. LLTLSA 
+#  description: |
+#  Putin is panicking over a plague outbreak in Irkutsk as hospitals in the ciy
+#  have now undergone quarantine procedures, universities are shutting down, and
+#  citizens are beung urged not to travel on public transport due to the threat of
+#  the contegion spreading. Russian authorities are now engaging in open
+#  disinformation and downplaying of the incident, ordering media outlets to erase
+#  stories already published on the incident and denying the actual outbreak of
+#  what was originally called a pneumonic plague. Meanwhile Russian forces are
+#  still taking massive losses olong the frontlines in Ukraine, and the supply
+#  lines are once again entering another extreme collapse in the southern occupied
+#  territories. B1 Bombers are now evacuating from RAF Fairford as cedible
+#  intelligence indicates that the IRGC actually plans on launching further attacks
+#  against the bomber wings at the airbase in the coming days and weeks. In the
+#  Middle East the Islamic republic of Iran has continued attacking tankers, and
+#  the Houthis have now been confirmed once again to have completely surrounded the
+#  Yemeni government's forces in Taizz, creating conditions of a siege. Houthi
+#  forces have also hit the east-west pipeline once again over the course of the
+#  night.
+
+#  youtube:
+#  url: https:/www.youtube.com/watch?v=6AWVe6JjI6E
+#  id: 6AWVe6JjI6E
+
+#  map: https:/www.google.com/maps/d/viewer?mid=182oGUQbNQ3Bxu89CuWSH2b8v-jMV2CM
+ 
+#  losses:
+#  troops: 14540700(+1750)
+#  tanks: 12391
+#  apc: 25483(+6)
+#  artillery: 50686(+49)
+#  mlrs: 2179(+1)
+#  anti-aircraft: 1686(+3)][The Enforcer Stream - Day 1684:1]]
+- file: 20261005
+  day: 1684
+  broadcast: Sun 04 Oct 22:00 EDT 2026
+  duration: {}
+  title: |
+    PUTIN PANICS AMID DEADLY PLAGUE BREAKOUT, US B1 BOMBERS EVACUATE FROM UK! Breaking News The Enforcer
+  morse: |
+    SEEMS LIKE THIS LITTLE PLAGUE IS PLAGUING THE SIBERIANS A LOT
+    MORE, WELL THATS NOT BUENO. LLTLSA 
+  description: |
+    Putin is panicking over a plague outbreak in Irkutsk as hospitals in the ciy
+    have now undergone quarantine procedures, universities are shutting down, and
+    citizens are beung urged not to travel on public transport due to the threat of
+    the contegion spreading. Russian authorities are now engaging in open
+    disinformation and downplaying of the incident, ordering media outlets to erase
+    stories already published on the incident and denying the actual outbreak of
+    what was originally called a pneumonic plague. Meanwhile Russian forces are
+    still taking massive losses olong the frontlines in Ukraine, and the supply
+    lines are once again entering another extreme collapse in the southern occupied
+    territories. B1 Bombers are now evacuating from RAF Fairford as cedible
+    intelligence indicates that the IRGC actually plans on launching further attacks
+    against the bomber wings at the airbase in the coming days and weeks. In the
+    Middle East the Islamic republic of Iran has continued attacking tankers, and
+    the Houthis have now been confirmed once again to have completely surrounded the
+    Yemeni government's forces in Taizz, creating conditions of a siege. Houthi
+    forces have also hit the east-west pipeline once again over the course of the
+    night.
+
+  youtube:
+    url: https://www.youtube.com/watch?v=6AWVe6JjI6E
+    id: 6AWVe6JjI6E
+
+  map: https://www.google.com/maps/d/viewer?mid=182oGUQbNQ3Bxu89CuWSH2b8v-jMV2CM
+  
+  losses:
+    troops:                    14540700(+1750)
+    tanks:                        12391
+    apc:                          25483(+6)
+    artillery:                    50686(+49)
+    mlrs:                          2179(+1)
+    anti-aircraft:                 1686(+3)
+    planes:                         443
+    helicopters:                    356
+    uav:                         546240(+1742)
+    ground-robotic-complex:        2837(+13)
+    warships:                        35
+    submarines:                       2
+    vehicles:                    157258(+527)
+    bobcats:                       4788(+5)
+    cruise_missiles:               5126
+
+  loss_summary: |
+    +1750 Personnel tied at 16th highest
+    +527 Auto & Fuel Tanks ranks 19th
+    +13 GRC tied at 8th highest
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1684:1 ends here
