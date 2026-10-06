@@ -1,0 +1,59 @@
+# [[file:../../../ps-journal/20261006::+begin_src yaml :comments link :tangle "../the-enforcer-stream/projects/meta/20261006.yaml"
+#  - file: 20261006
+#  day: 1685
+ 
+#  losses:
+#  troops: 1542720(+2020)
+#  tanks: 12393(+2)
+#  apc: 25487(+7)
+#  artillery: 50733(+47)
+#  mlrs: 2182(+3)
+#  anti-aircraft: 1688(+2)
+#  planes: 443
+#  helicopters: 356
+#  uav: 548095(+1855)
+#  ground-robotic-complex: 2859(+22)
+#  warships: 35
+#  submarines: 2
+#  vehicles: 157985(+727)
+#  bobcats: 4793(+5)
+#  cruise_missiles: 5126
+
+#  loss_summary: |
+#  +2020 Personnel is the 4th highest loss
+#  +22 Ground Robotic Complex is the 2nd highest 
+#  +727 Auto & Fuel Tanks is the new highest daily loss
+#  Also 812 is the new highest daily land vehicle loss
+ 
+#  notes: |
+#  -
+# #+end_src][The Enforcer Stream - Day 1685:1]]
+- file: 20261006
+  day: 1685
+    
+  losses:
+    troops:                    1542720(+2020)
+    tanks:                       12393(+2)
+    apc:                         25487(+7)
+    artillery:                   50733(+47)
+    mlrs:                         2182(+3)
+    anti-aircraft:                1688(+2)
+    planes:                        443
+    helicopters:                   356
+    uav:                        548095(+1855)
+    ground-robotic-complex:       2859(+22)
+    warships:                       35
+    submarines:                      2
+    vehicles:                   157985(+727)
+    bobcats:                      4793(+5)
+    cruise_missiles:              5126
+
+  loss_summary: |
+    +2020 Personnel is the 4th highest loss
+    +22 Ground Robotic Complex is the 2nd highest 
+    +727 Auto & Fuel Tanks is the new highest daily loss
+    Also 812 is the new highest daily land vehicle loss
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1685:1 ends here
