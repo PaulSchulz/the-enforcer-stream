@@ -1,0 +1,27 @@
+# [[file:../../../ps-journal/20261019::*The Enforcer Stream - Day 1698][The Enforcer Stream - Day 1698:1]]
+- file: 20261019
+  day: 1698
+
+  losses:
+    troops:                    1565060(+2090)
+    tanks:                       12416(+1)
+    apc:                         25561(+7)
+    artillery:                   51293(+27)
+    mlrs:                         2224(+3)
+    anti-aircraft:                1711(+1)
+    planes:                        449
+    helicopters:                   356
+    uav:                        568358(+1372)
+    ground-robotic-complex:       2968(+6)
+    warships:                       35
+    submarines:                      2
+    vehicles:                   164246(+363)
+    bobcats:                      4835
+    cruise_missiles:              5134(+4)
+
+  loss_summary: |
+    +2090 Personnel tied as 2nd highest loss
+    
+  notes: |
+    No Enforcer stream today due to lack of new news.
+# The Enforcer Stream - Day 1698:1 ends here
