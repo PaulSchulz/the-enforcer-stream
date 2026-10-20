@@ -1,0 +1,27 @@
+# [[file:../../../ps-journal/20261020::*The Enforcer Stream - Day 1699][The Enforcer Stream - Day 1699:1]]
+- file: 20261020
+  day: 1699
+    
+  losses:
+    troops:                    1567160(+2100)
+    tanks:                        1416
+    apc:                         25565(+4)
+    artillery:                   51317(+24)
+    mlrs:                         2224
+    anti-aircraft:                1714(+3)
+    planes:                        449
+    helicopters:                   356
+    uav:                        569994(+1636)
+    ground-robotic-complex:       2974(+6)
+    warships:                       35
+    submarines:                      2
+    vehicles:                   164578(+332)
+    bobcats:                      4838(+3)
+    cruise_missiles:              5134
+
+  loss_summary: |
+    +2100 Personnel is the 2nd highest daily loss
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1699:1 ends here
