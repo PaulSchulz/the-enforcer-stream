@@ -1,0 +1,27 @@
+# [[file:../../../ps-journal/20261026::*The Enforcer Stream - Day 1705][The Enforcer Stream - Day 1705:1]]
+- file: 20261026
+  day: 1705
+
+  losses:
+    troops:                    1578450(+1850)
+    tanks:                       12447(+3)
+    apc:                         25605(+5)
+    artillery:                   51614(+49)
+    mlrs:                   {2237(+5)
+    anti-aircraft:                1725(+3)
+    planes:                        449
+    helicopters:                   356
+    uav:                        580802(+1738)
+    ground-robotic-complex:       3017(+6)
+    warships:                       35
+    submarines:                      2
+    vehicles:                   166918(+417)
+    bobcats:                      4856(+4)
+    cruise_missiles:              5138
+
+  loss_summary: |
+    +1850 Personnel ranks as 17th highest
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1705:1 ends here
