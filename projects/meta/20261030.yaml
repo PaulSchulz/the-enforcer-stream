@@ -1,0 +1,53 @@
+# [[file:../../../ps-journal/20261030::*The Enforcer Stream - Day 1709][The Enforcer Stream - Day 1709:1]]
+- file: 20261030
+  day: 1709
+  broadcast: Thu 29 Oct 22:00 EDT 2026
+  duration: {}
+  title: |
+    US STRIKES IRAN COASTAL BASES, EXPLOSIONS & PANIC ERUPT IN TEHRAN! Breaking War
+    News The Enforcer
+  morse: |
+    THE US IS GETTING A COUPLE OF EXTRA HITS ON THE IRANIANS
+    BEFORE THE REAL FIGHTING STARTS. LLTLSA
+  description: |
+    The US has struck coastal bases inside of the Strait of Hormuz today, with
+    strikes being conducted against IRGC facilities on Qeshm and Bandar-E-Jask,
+    smoke was seen rising from both facilities in the aftermath of the strike.
+    Explosions have also occured at major Iranian industries that have sparked a
+    great deal of panic on the city of Tehran that seem to have been caused by
+    sabotage by external forces. Meanwhile the UKMTO has announced that several
+    vessels have been hit in the Strait of Hormuz, and the US is still preparing
+    battle plans. In the Korean peninsula, the North Koreans have conducted further
+    missile launches towards Japan, ad tensions continue to rise. In the meantime,
+    Ukrainian armed forces have held the line and inflicted large losses onto the
+    Russian armed forces and have held the lines today.
+
+  youtube:
+    url: https://www.youtube.com/watch?v=QBgbFHVkmAE
+    id: QBgbFHVkmAE
+
+  map: https://www.google.com/maps/d/viewer?mid=13jY1AcQJqMoXM1auU5pBgdpJ4MfrtIw
+  
+  losses:
+    troops:                    1584910(+1560)
+    tanks:                       12449(+1)
+    apc:                         25614(+5)
+    artillery:                   51699(+25)
+    mlrs:                         2245(+4)
+    anti-aircraft:                1727
+    planes:                        450(+1)
+    helicopters:                   356
+    uav:                        587409(+1614)
+    ground-robotic-complex:       3036(+4)
+    warships:                       35
+    submarines:                      2
+    vehicles:                   168010(+272)
+    bobcats:                      4860(+1)
+    cruise_missiles:              5140
+
+  loss_summary: |
+    -
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1709:1 ends here
