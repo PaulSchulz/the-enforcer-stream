@@ -1,0 +1,27 @@
+# [[file:../../../ps-journal/20261103::*The Enforcer Stream - Day 1713][The Enforcer Stream - Day 1713:1]]
+- file: 20261103
+  day: 1713
+
+  losses:
+    troops:                    1592770(+2500)
+    tanks:                       12452(+1)
+    apc:                         25629(+7)
+    artillery:                   51801(+46)
+    mlrs:                         2251(+2)
+    anti-aircraft:                1731(+1)
+    planes:                        452
+    helicopters:                   356
+    uav:                        592541(+936)
+    ground-robotic-complex:       3063(+9)
+    warships:                       35
+    submarines:                      2
+    vehicles:                   169110(+371)
+    bobcats:                      4863(+2)
+    cruise_missiles:              5140
+
+  loss_summary: |
+    +2500 Personnel is new high loss (prior was 2250 on 22 Oct 2026)
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1713:1 ends here
