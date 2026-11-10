@@ -1,0 +1,29 @@
+# [[file:../../../ps-journal/20261110::*The Enforcer Stream - Day 1720][The Enforcer Stream - Day 1720:1]]
+- file: 20261110
+  day: 1720
+  broadcast: Mon 09 Nov 22:00 EST 2026
+    
+  losses:
+    troops:                    1609380(+2980)
+    tanks:                       12462(+4)
+    apc:                         25683(+15)
+    artillery:                   52112(+68)
+    mlrs:                         2263(+6)
+    anti-aircraft:                1753(+2)
+    planes:                        452
+    helicopters:                   356
+    uav:                        602020(+1843)
+    ground-robotic-complex:       3109(+10)
+    warships:                       35
+    submarines:                      2
+    vehicles:                   172488(+638)
+    bobcats:                      4889(+1)
+    cruise_missiles:              5196
+
+  loss_summary: |
+    +2980 Personnel is new highest daily loss
+    +638 Auto & Fuel Tanks is tied as 4th highest
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1720:1 ends here
