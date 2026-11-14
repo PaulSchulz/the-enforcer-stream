@@ -1,0 +1,51 @@
+# [[file:../../../ps-journal/20261114::*The Enforcer Stream - Day 1724][The Enforcer Stream - Day 1724:1]]
+- file: 20261114
+  day: 1724
+  broadcast: Fri 13 Nov 18:00 EST 2026
+  duration: {}
+  title: |
+    UK AIRBASES SOUND ATTACK SIRENS AMID IRAN THREAT; US AIRSPACE SHUTDOWN! Breaking
+    News The Enforcer
+  morse: |
+    RUSSIA LOOKS TO BE HAVING A PRETTY SEVERE FUEL CRISIS ALREADY
+    WITH THESE NEW STRIKES. LLTLSA 
+  description: |
+    UK airbases have sounded air raid sirens at the same time the US just declared a national ground
+    stop that has effectively shut down US airspace for any further take-offs. In the UK Force
+    Protection Condition Delta was announced for several airbases and facilities around RAF Lakenheath,
+    with locals stating that a possibly armed drone has flown into the airbase it's self. Meanwhile the
+    US has declared a complete ground stop, amid the entire national communications system for ATC
+    controllers have gone offline. The exact cause for the national outage is unknown, but many
+    speculate it is either a new system that was being brough online that took the entire system down,
+    or it may be a cyberattack from a state actor (likely Iran). We will be covering this and all other
+    breaking news developments as the show progresses.
+
+  youtube:
+    url: https://www.youtube.com/watch?v=W2sYTNF5E1o
+    id: W2sYTNF5E1o
+
+  map: https://www.google.com/maps/d/viewer?mid=1--gxEFKflaVVtjtDjKdHq2aF0Fy5mVY
+  
+  losses:
+    troops:                    118920(+2590)
+    tanks:                      12472(+1)
+    apc:                        25731(+11)
+    artillery:                  52322(+44)
+    mlrs:                        2271(+2)
+    anti-aircraft:               1756
+    planes:                       452
+    helicopters:                  356
+    uav:                       607083(+1160)
+    ground-robotic-complex:      3136(+6)
+    warships:                      35
+    submarines:                     2
+    vehicles:                  174307(+469)
+    bobcats:                     4905(+6)
+    cruise_missiles:             5196
+
+  loss_summary: |
+    +2590 Personnel ranks 2nd
+    
+  notes: |
+    Stream started 4 hours early, due to breaking news.
+# The Enforcer Stream - Day 1724:1 ends here
