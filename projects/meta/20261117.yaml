@@ -1,0 +1,55 @@
+# [[file:../../../ps-journal/20261117::*The Enforcer Stream - Day 1727][The Enforcer Stream - Day 1727:1]]
+- file: 20261117
+  day: 1727
+  broadcast: Mon 16 Nov 22:00 EST 2026
+  duration: {}
+  title: |
+    PUTIN PANICS AS CRIMEA BRIDGE COLLAPSES; IRAN ATTACK THREAT ON US! Breaking News
+    The Enforcer
+  morse: |
+    ARE WE GOING ALLOW THESE ATTACKS AGAINST NATO VESSELS TO CONTINUE OR WILL WE
+    STOP THEM? LLTLSA
+  description: |
+    A second and third wave of attacks has been conducted against the Kerch Bridge which has buckled
+    and is in the latter stages of collapse after a large number of Ukrainian cruise missiles have
+    directly impacted the arches holding up the spans of the bridges. Earlier in the day Russia was
+    already attempting to cover up the damage of the second wave of strikes which had already seriously
+    damaged the bridge and had closed it down to any forms of road traffic. Right now the bridge is
+    udner a third wave of attacks, which will be covered live. In Washington DC, there are now reports
+    of some form of attempted attack that may conducted by Iran using a dirty bomb or chemical weapon
+    according to authorities which have leaked the information to the press. We will be covering these
+    events and many others as the situation ounfolds live on air.
+
+  youtube:
+    url: https://www.youtube.com/watch?v=0gpcS3aei7s
+    id: 0gpcS3aei7s
+
+  map: https://www.google.com/maps/d/viewer?entry=yt&mid=1--gxEFKflaVVtjtDjKdHq2aF0Fy5mVY
+  
+  losses:
+    troops:                 1625420(+2560)
+    tanks:                  12480(+2)
+    apc:                    25807(+23)
+    artillery:              52464(+63)
+    mlrs:                   2278(+4)
+    anti-aircraft:          1762(+6)
+    planes:                 452
+    helicopters:            356
+    uav:                    610376(+1573)
+    ground-robotic-complex: 31166(+16)
+    warships:               35
+    submarines:             2
+    vehicles:               175930(+772)
+    bobcats:                4909(+3)
+    cruise_missiles:        5196
+
+  loss_summary: |
+    +2560 Personnel ranks 4th
+    +6 AA tied at 5th 
+    +16 Ground Robotic tied for 5th 
+    +772 Auto & Fuel Tanks is the new highest loss
+    New highest land vehicle loss total = 889
+    
+  notes: |
+    Stream went 2 hours early.
+# The Enforcer Stream - Day 1727:1 ends here
