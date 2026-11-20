@@ -23,7 +23,7 @@
     url: https://www.youtube.com/watch?v=oWlxRpKwLU0
     id: oWlxRpKwLU0
 
-  map: https://www.google.com/maps/d/viewer?mid=1--gxEFKflaVVtjtDjKdHq2aF0Fy5mVY
+  map: https://www.google.com/maps/d/viewer?mid=1UejPLwxf_wI4zsKsvNDv2wZoJVbDpEo
   
   losses:
     troops:                    1630980(+1970)
@@ -46,5 +46,5 @@
     -
     
   notes: |
-    -
+    The previous days map link was initally put int he description. Chnaged to correct map link during the stream - around 1h10m
 # The Enforcer Stream - Day 1730:1 ends here
