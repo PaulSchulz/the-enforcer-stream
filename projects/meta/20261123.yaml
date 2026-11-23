@@ -1,0 +1,58 @@
+# [[file:../../../ps-journal/20261123::*The Enforcer Stream - Day 1733][The Enforcer Stream - Day 1733:1]]
+- file: 20261123
+  day: 1733
+  broadcast: Sun 22 Nov 22:00 EST 2026
+  duration: {}
+  title: |
+    PUTIN FURIOUS AS RUSSIA NAVY SUFFERS HUGE LOSS; KALININGRAD UNDER THREAT!
+    Breaking News The Enforcer
+  morse: |
+    RUSSIA IS GOING TO BE NEEDING TO FIND OUT HOW TO PAY THE
+    INSTALLMENTS AFTER THAT LOSS. LLTLSA
+  description: |
+    Putin is furious after Ukrainian strike drones have launched an impercievable from Libya's coast
+    on one of Russia's largest and newest warships The Merkury in the port of Benghazi in the early
+    morning hours. A thunderous clap and roar of an explosion rang out across this isolated port city.
+    as people began to gather where they had heard the thunderous roar there in the port the warship was
+    burning. The Merkury had only been commisioned in 2023 in the Russian Navy, making it one of the
+    newest vessels in the Russian Navy. It had been escorting a convoy from Kaliningrad when it met it's
+    end, and Ukrainian forces went on to attack the merchant ships it had also been escorting.
+    Kaliningrad is now under a major threat now that Ukraine has proven it can strike the exclave, and
+    the Russians now appear to be in a panic. Meanwhile Iran has continued to conduct attacks on the
+    Merchant ships in the strait of Hormuz, and a tanker appears to have been fired upon by the US
+    blockade.
+
+  youtube:
+    url: https://www.youtube.com/watch?v=mie9B7desyk
+    id: mie9B7desyk
+
+  map: https://www.google.com/maps/d/viewer?mid=1UejPLwxf_wI4zsKsvNDv2wZoJVbDpEo@lor
+
+  fundraser:
+    charity: Nova Ukraine
+    target: $2000
+    
+  losses:
+    troops:                    1637170(+2310)
+    tanks:                       12487(+2)
+    apc:                         25923(+39)
+    artillery:                   52661(+66)
+    mlrs:                         2295(+6)
+    anti-aircraft:                1767
+    planes:                        452
+    helicopters:                   356
+    uav:                        616803(+1392)
+    ground-robotic-complex:       3209(+6)
+    warships:                       35
+    submarines:                      2
+    vehicles:                   178062(+243)
+    bobcats:                      4925(+4)
+    cruise_missiles:              5278
+
+  loss_summary: |
+    +2310 Personnel is 8th highest
+    +6 MLRS tied as 6th highest
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1733:1 ends here
