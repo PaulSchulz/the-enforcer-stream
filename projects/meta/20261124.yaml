@@ -1,0 +1,30 @@
+# [[file:../../../ps-journal/20261124::*The Enforcer Stream - Day 1734][The Enforcer Stream - Day 1734:1]]
+- file: 20261124
+  day: 1734
+    
+  losses:
+    troops:                    1639641(+2471)
+    tanks:                       12492(+5)
+    apc:                         25941(+18)
+    artillery:                   52731(+70)
+    mlrs:                         2298(+3)
+    anti-aircraft:                1768(+1)
+    planes:                        452
+    helicopters:                   356
+    uav:                        618262(+1459)
+    ground-robotic-complex:       3213(+4)
+    warships:                       35
+    submarines:                      2
+    vehicles:                   178713(+651)
+    bobcats:                      4932(+7)
+    cruise_missiles:              5278
+
+  loss_summary: |
+    +2471 Personnel is 6th highest loss
+    Nov to date is the 2nd highest month
+    +651 Auto & Fuel Tanks is 5th highest 
+    759 is 4th highest land vehicle total
+    
+  notes: |
+    No stream on Mondays (Tuesday, local time)
+# The Enforcer Stream - Day 1734:1 ends here
