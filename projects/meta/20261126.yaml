@@ -1,0 +1,50 @@
+# [[file:../../../ps-journal/20261126::*The Enforcer Stream - Day 1736][The Enforcer Stream - Day 1736:1]]
+- file: 20261126
+  day: 1736
+  broadcast: Wed 25 Nov 22:00 EST 2026
+  duration: {}
+  title: |
+    PUTIN DEPLOYS NUKES IN BALTIC SEA; IRAN LAUNCHES HUGE MISSILE ATTACK! Breaking
+    News The Enforcer
+  morse: |
+    RUSSIA IS TRULY LOSING IT'S MIND OVER THE LOSS OF THE WAR, THEY
+    NEED PROFESSIONAL HELP. LLTLSA  
+  description: |
+    Putin has deployed nuclear weapons onboard ships of the Baltic fleet after fears that NATO may
+    possibly begin a blockade against the Russian Federation in the immediate future, which led to the
+    President of Finland and others to cll to dissuade any beliefs that this was the case. Russia also
+    appears to have taken far higher losses than prior believed as it now stands at around 700,000
+    killed in the war so far- higher than all US losses in every war combined since World War 1.
+    Meanwhile Iran has launched a massive missile attack against the United States and merchant vessels
+    around the Strait over the course of the day. Meanwhile Ukrainian armed forces have held the line
+    and stopped any advances of the Russian armed forces over the course of the day.
+    
+  youtube:
+    url: https://www.youtube.com/watch?v=YqJFK4U0yB4
+    id: YqJFK4U0yB4
+
+  map: https://www.google.com/maps/d/viewer?mid=1UejPLwxf_wI4zsKsvNDv2wZoJVbDpEo
+        
+  losses:
+    troops:                    1643580(+2091)
+    tanks:                       12507(+14)
+    apc:                         25974(+22)
+    artillery:                   52801(+15)
+    mlrs:                         2301
+    anti-aircraft:                1769
+    planes:                        452
+    helicopters:                   356
+    uav:                        620013(+597)
+    ground-robotic-complex:       3220(+3)
+    warships:                       36
+    submarines:                      2
+    vehicles:                   179599(+515)
+    bobcats:                      4937(+5)
+    cruise_missiles:              5278
+
+  loss_summary: |
+    +2091 Personnel is the 19th highest loss
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1736:1 ends here
