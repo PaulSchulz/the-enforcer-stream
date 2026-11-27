@@ -1,0 +1,28 @@
+# [[file:../../../ps-journal/20261127::*The Enforcer Stream - Day 1737][The Enforcer Stream - Day 1737:1]]
+- file: 20261127
+  day: 1737
+
+  losses:
+    troops:                    1645899(+2319)
+    tanks:                       12512(+5)
+    apc:                         25992(+18)
+    artillery:                   52825(+24)
+    mlrs:                         2304(+3)
+    anti-aircraft:                1771(+2)
+    planes:                        456(+4)
+    helicopters:                   356
+    uav:                        621002(+989)
+    ground-robotic-complex:       3229(+9)
+    warships:                       36
+    submarines:                      2
+    vehicles:                   180094(+495)
+    bobcats:                      4943(+6)
+    cruise_missiles:              5278
+
+  loss_summary: |
+    +2319 Personnel is 9th highest loss 
+    +4 Aircraft are most of the 3 MiG-31K and 2 Su-34 fighter jets hit at Savasleyka airfield
+    
+  notes: |
+    No scheduled live stream due to Thanksgiving Festival in the USA.
+# The Enforcer Stream - Day 1737:1 ends here
