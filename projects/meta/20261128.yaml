@@ -1,0 +1,58 @@
+# [[file:../../../ps-journal/20261128::*The Enforcer Stream - Day 1738][The Enforcer Stream - Day 1738:1]]
+- file: 20261128
+  day: 1738
+  broadcast: Fri 27 Nov 22:00 EST 2026
+  duration: {}
+  title: |
+    UK ORDERS SOLDIERS TO PREPARE FOR WAR; RUSSIA EXPLODES AMID HUGE ATTACK!
+    Breaking News The Enforcer
+  morse: |
+    RUSSIA IS TRULY LOSING IT'S MIND OVER THE LOSS OF THE WAR, THEY
+    NEED PROFESSIONAL HELP. LLTLSA
+  description: |
+    The British Government has begin to call reservists to be able to prepare to mobilize them in
+    the need of more manpower at the immediate start of a war with Russia. In the midst of these
+    developments Russia has directly threatened imminent actions against Latvia after alledging that the
+    nation is involved and actively supports Ukrainian drone attacks on Russian soil. In the meantime
+    Ukrainian attacks have continued to wither away what is left of the weakened Russian nation, with
+    fuel availability plummeting to 55% nationwide in a matter of a week with Ukraine still hammering
+    away at the refineries that are left standing. The United States suffered another major cyberattack
+    today, which hackers were able to breach the USAF "cloud one" datatbase, it is unknown whether they
+    were able to get away with a huge amount of classified intel. Iran has continued attacks on merchant
+    ships inside of the Strait of Hormuz, while threatening to break the US blockade once and for all.
+    China is conducting naval landing drills in the Eastern Theatre Command, and also finding even more
+    ways to bridge the shallow coasts of Taiwan to bring troops and equipment ashore. Ukrainian forces
+    were able to regain ground today, and retook the town of Komar.
+
+  youtube:
+    url: https://www.youtube.com/watch?v=rMQXAgwEGvs
+    id: rMQXAgwEGvs
+
+  map: https://www.google.com/maps/d/viewer?mid=1vWMQgQcw51SEZX7RG_M4ZLJOT8QaI8g
+  
+  losses:
+    troops:                    1648161(+2262)
+    tanks:                       12514(+2)
+    apc:                         26003(+11)
+    artillery:                   52858(+33)
+    mlrs:                         2306(+2)
+    anti-aircraft:                1772(+1)
+    planes:                        456
+    helicopters:                   356
+    uav:                        622317(+1315)
+    ground-robotic-complex:       3243(+14)
+    warships:                       36
+    submarines:                      2
+    vehicles:                   180752(+658)
+    bobcats:                      4951(+8)
+    cruise_missiles:              5278
+
+  loss_summary: |
+    +2262 Personnel ranks 13th highest, total Personnel almost 60K
+    +14 Ground Robotic Complex tied for 8th
+    +658 Auto & Fuel Tanks is 5th highest
+    729 is 8th highest land vehicle total
+    
+  notes: |
+    -
+# The Enforcer Stream - Day 1738:1 ends here
